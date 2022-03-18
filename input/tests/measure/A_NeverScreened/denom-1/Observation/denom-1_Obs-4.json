@@ -1,0 +1,32 @@
+{
+    "resourceType": "Observation",
+    "id": "denom-1_Obs-4",
+    "meta": {
+        "profile": [
+            "http://hl7.org/fhir/observation"
+        ]
+      },
+    "status": "final",
+    "code": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "code": "10524-7",
+                "display": "Microscopic observation [Identifier] in Cervix by Cyto stain"
+            }
+        ]
+    },
+    "subject": {
+        "reference": "Patient/denom-1"
+    },
+    "valueCodeableConcept": {
+        "coding": [
+            {
+                "system": "",
+                "code": "",
+                "display": ""
+            }
+        ]
+    },
+    "effectiveDateTime": "2014-11-01T00:00:00"
+}

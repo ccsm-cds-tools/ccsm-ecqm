@@ -1,0 +1,23 @@
+{
+    "resourceType": "Observation",
+    "id": "numer-1_Obs-4",
+    "meta": {
+        "profile": [
+            "http://hl7.org/fhir/observation"
+        ]
+      },
+    "status": "final",
+    "code": {
+        "coding": [
+            {
+                "system": "http://loinc.org",
+                "code": "10524-7",
+                "display": "Microscopic observation [Identifier] in Cervix by Cyto stain"
+            }
+        ]
+    },
+    "subject": {
+        "reference": "Patient/numer-1"
+    },
+    "effectiveDateTime": "2014-11-01T00:00:00"
+}
