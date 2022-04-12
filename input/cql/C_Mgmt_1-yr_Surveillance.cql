@@ -1,4 +1,4 @@
-library C_Mgmt_TimeToColposcopy version '0.0.1'
+library C_Mgmt_TimeToColpoOrTreatment version '0.0.1'
 
 using FHIR version '4.0.1'
 
@@ -24,6 +24,7 @@ valueset "Pap Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.4
 valueset "Preventive Care Services - Established Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1025'
 valueset "Preventive Care Services-Initial Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1023'
 valueset "Telephone Visits": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1080'
+valueset "HSIL": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.256'
 
 valueset "HPV Positive": 'http://cts.nlm.nih.gov/fhir/ValueSet/test' //placeholder for HPV positive codes "Positive", "hrHPV 16 positive", "hrHPV 18 positive"
 valueset "Abnormal Cytology": 'http://cts.nlm.nih.gov/fhir/ValueSet/test' //placeholder for abnormal cytology codes "ASCUS", "LSIL", "NILM"
@@ -45,46 +46,14 @@ define "SDE Sex":
   SDE."SDE Sex"*/
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[25, 65)
+  AgeInYearsAt(date from start of "Measurement Period")in Interval[25, 65)
     and Patient.gender = 'female'
     //and Patient.genderIdentity = 'transgenderMale' //extension http://hl7.org/fhir/StructureDefinition/patient-genderIdentity; needs valueSet
-    //and exists "Qualifying Encounters"
     and
       (exists "Abnormal Cervical Cancer Screening Cotest"
-      or exists "Abnormal Cervical Cancer Screening Cytology Alone"
-      or exists "Abnormal Cervical Cancer Screening Primary HrHPV")
+      or exists "Abnormal Cervical Cancer Screening Cytology Alone")
 
-define "Abnormal Cervical Cancer Screening Cotest":
-  "Cotests" Cotests //A definition for all cotests isn't in ManagmenetLibrary. Should that be created, as below?
-    let screeningPeriod: Interval[start of "Measurement Period" - 6 months, end of "Measurement Period" - 6 months),
-        CytologyCotest: Cotests.CytologyCotest,
-        HrHPVCotest: Cotests.HrHPVCotest
-    where Cotests.CytologyCotest.date in screeningPeriod
-    //and HPVTest.date in screeningPeriod
-    and (
-          (CytologyCotest.riskTableInput in {'ASC-US','LSIL'} and HrHPVCotest.riskTableInput in {'HPV-positive','HPV16-, HPV18+', 'HPV16+'})
-          or
-          (CytologyCotest.riskTableInput ='NILM' and HrHPVCotest.riskTableInput in {'HPV16-, HPV18+', 'HPV16+'})
-          or
-          (CytologyCotest.riskTableInput in {'ASC-H','AGC'} and HrHPVCotest.riskTableInput in {'HPV-negative'})
-        )
-    sort by CytologyCotest.date
-
-define "Cotests":
-  from ManagementLibrary.SortedHpvReports HrHPVCotest, ManagementLibrary.SortedCytologyReports CytologyCotest
-  where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
-
-define "Abnormal Cervical Cancer Screening Primary HrHPV":
-  (ManagementLibrary.SortedHpvReports except Cotests.HrHPVCotest) PrimaryHrHPV
-  where PrimaryHrHPV.date in Interval[start of "Measurement Period" - 6 months, end of "Measurement Period" - 6 months)
-  and PrimaryHrHPV.riskTableInput in {'HPV16-, HPV18+', 'HPV16+'}
-
-define "Abnormal Cervical Cancer Screening Cytology Alone":
-  (ManagementLibrary.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
-  where CytologyAlone.date in Interval[start of "Measurement Period" - 6 months, end of "Measurement Period" - 6 months)
-  and CytologyAlone.riskTableInput in {'LSIL','ASC-H','AGC','HSIL+'}
-
-define "Qualifying Encounters":
+/*define "Qualifying Encounters":
   ( [Encounter: "Office Visit"]
     union [Encounter: "Preventive Care Services - Established Office Visit, 18 and Up"]
     union [Encounter: "Preventive Care Services-Initial Office Visit, 18 and Up"]
@@ -92,7 +61,7 @@ define "Qualifying Encounters":
     union [Encounter: "Telephone Visits"]
     union [Encounter: "Online Assessments"] ) ValidEncounter
     where ValidEncounter.status = 'finished'
-      and ValidEncounter.period during "Measurement Period"
+      and ValidEncounter.period during "Measurement Period"*/
 
 define "Denominator":
   "Initial Population"
@@ -100,6 +69,7 @@ define "Denominator":
 define "Denominator Exclusions":
   Hospice."Has Hospice"
   //or PalliativeCare."Palliative Care in the Measurement Period"
+  or exists "Surveillance Tests" C where C.date before "First Abnormal Cervical Cancer Screening Result Date"
   or (exists "Absence of Cervix"
     and not
       (
@@ -110,11 +80,18 @@ define "Denominator Exclusions":
     )
 
 define "Numerator":
-  Common.ProcedureDate(First(Dash.ColposcopyProcedures C return C sort by (performed as dateTime))) 6 months or less after "First Abnormal Cervical Cancer Screening Result Date"
+  ("Most Recent Surveillance Test Date" in "Cotest Numerator Interval"
+    or
+  "Most Recent Surveillance Test Date" in "Cytology Alone Numerator Interval"
+  )
+  and
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[30, 65)
 
-define "First Abnormal Cervical Cancer Screening Result Date":
-  First(("Abnormal Cervical Cancer Screening Cytology Alone" union "Abnormal Cervical Cancer Screening Primary HrHPV" union "Abnormal Cervical Cancer Screening Cotest") tests
-  return tests sort by date).date
+define "Cotest Numerator Interval":
+  Interval[First("Abnormal Cervical Cancer Screening Cotest").CytologyCotest.date - 18 months, First("Abnormal Cervical Cancer Screening Cotest").CytologyCotest.date - 12 months]
+
+define "Cytology Alone Numerator Interval":
+  Interval[First("Abnormal Cervical Cancer Screening Cytology Alone").date - 12 months, First("Abnormal Cervical Cancer Screening Cytology Alone").date - 6 months]
 
 define "Absence of Cervix":
   (
@@ -135,3 +112,40 @@ define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
 define "Exclusionary Cervical Histology Result":
   QICore.Condition Histology
 //    where Histology.code ~ PlaceHolderCode
+
+define "Abnormal Cervical Cancer Screening Cotest":
+"Cotests" Cotests //A definition for all cotests isn't in ManagmenetLibrary. Should that be created, as below?
+  let screeningPeriod: Interval[start of "Measurement Period" - 18 months, start of "Measurement Period" - 6 months),
+      CytologyCotest: Cotests.CytologyCotest,
+      HrHPVCotest: Cotests.HrHPVCotest
+  where Cotests.CytologyCotest.date in screeningPeriod
+  //and HPVTest.date in screeningPeriod
+  and (
+        (CytologyCotest.riskTableInput ='NILM' and HrHPVCotest.riskTableInput = 'HPV-positive')
+        or
+        (CytologyCotest.riskTableInput ='LSIL' and HrHPVCotest.riskTableInput = 'HPV-negative')
+      )
+  sort by CytologyCotest.date
+
+define "Abnormal Cervical Cancer Screening Cytology Alone":
+  (ManagementLibrary.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
+  where CytologyAlone.date in Interval[start of "Measurement Period" - 18 months, start of "Measurement Period" - 6 months)
+  and CytologyAlone.riskTableInput = 'ASC-US'
+  sort by date
+
+define "First Abnormal Cervical Cancer Screening Result Date":
+  First(("Abnormal Cervical Cancer Screening Cytology Alone" union "Abnormal Cervical Cancer Screening Cotest") tests
+  return tests sort by date).date
+
+define "Cotests":
+from ManagementLibrary.SortedHpvReports HrHPVCotest, ManagementLibrary.SortedCytologyReports CytologyCotest
+where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
+
+define "Primary HrHPV":
+  ManagementLibrary.SortedHpvReports except Cotests.HrHPVCotest
+
+define "Surveillance Tests":
+  "Cotests" union "Primary HrHPV"
+
+define "Most Recent Surveillance Test Date":
+  First("Surveillance Tests" ST return ST sort by date).date
