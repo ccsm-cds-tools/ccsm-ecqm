@@ -44,7 +44,7 @@ define "SDE Sex":
 define "Initial Population":
   AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65) //Start of measurement period for age calculation?
     and TLSL.FemaleorTransgenderMale
-    //and exists "Qualifying Encounters" //Do we need a qualifing encounter during the measurement period?
+    and exists "Qualifying Encounters" //Do we need a qualifing encounter during the measurement period?
 
 define "Qualifying Encounters":
   ( [Encounter: "Office Visit"]

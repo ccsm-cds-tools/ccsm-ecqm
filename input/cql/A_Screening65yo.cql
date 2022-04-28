@@ -58,7 +58,7 @@ define "Adequate Screening Start Date":
 define "Initial Population":
   AgeInYearsAt(date from start of "Measurement Period") >= 65 //Start of measurement period for age calculation?
     and TLSL.FemaleorTransgenderMale
-    //and exists "Qualifying Encounters" //Do we need a qualifing encounter during the measurement period?
+    and exists "Qualifying Encounters"
 
 define "Qualifying Encounters":
   ( [Encounter: "Office Visit"]
@@ -85,55 +85,25 @@ define "Denominator Exclusions":
       )
     )
 
-define "Numerator":
-  ManagementLibrary.MostRecentCytologyReportWasWithinPastFiveYearsFrom(start of "Measurement Period")
-  //"Three Negative Cervical Cytology Within Last 10 Years"
+define "Numerator": //Need to align more tightly with eCQM spreadsheet
+  (ManagementLibrary.MostRecentCytologyReportWasWithinPastFiveYearsFrom(start of "Measurement Period") //Modified CDS library definition
+  and Count("Negative Cervical Cytology Every 3 Years") >= 3)
+    or
+  (exists ManagementLibrary."NegativePrimaryHrHpvTests" X where X.date in Interval[start of "Measurement Period" - 5 years, end of "Measurement Period")
+  and Count(ManagementLibrary."NegativeSurveillanceTests" X where X.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")) >= 2)
 
-define "Adequate Prior Screening":
-  "Negative Cervical Cytology Every 3 Years x 3"
-  and Count(ManagementLibrary."NegativeSurveillanceTests") >= 2
+define "Normal Cervical Cancer Screening Cytology Alone Within 10 Years":
+  (ManagementLibrary.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
+    where CytologyAlone.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")//should the end of this interval be the date of the last encounter of the measurement period?
+    and CytologyAlone.riskTableInput = 'NILM'
 
-//All PrimaryHPV, Cotest, and CervicalCytologyAlone tests
-/*define "Identified Tests":
-  true
-
-define "Primary HrHPV not Cotest":
-  ManagementLibrary.SortedHpvReports H
-  where not (H in Cotests.HrHPV)
-
-define "Cytology Reports not Cotest":
-  ManagementLibrary.SortedCytologyReports C
-  where not (C in Cotests.Cytology)
+define "Negative Cervical Cytology Every 3 Years":
+  "Normal Cervical Cancer Screening Cytology Alone Within 10 Years" CytologyAlone
+  where CytologyAlone.date in Interval[CytologyAlone.date - 3.5 years, CytologyAlone.date - 3 years]
 
 define "Cotests":
-  from ManagementLibrary.SortedHpvReports HrHPV, ManagementLibrary.SortedCytologyReports Cytology
-  where HrHPV.date in Interval[Cytology.date - 1 day, Cytology.date + 1 day]
-
-define "Negative Cervical Cytology":
-  "Cytology Reports not Cotest" C
-  where C.riskTableInput = 'NILM'
-
-define "Negative Primary HrHPV":
-  "Primary HrHPV not Cotest" P
-  where P.riskTableInput = 'HPV-Negative'
-
-define "Negative Cotests":
-  ManagementLibrary.NegativeCotests*/
-
-define "Negative Cervical Cytology Every 3 Years x 3":
-  true
-
-/*Negagtive Cervical Cytology AND Cervical Cytology Alone*/
-define "Three Negative Cervical Cytology Within Last 10 Years":
-//  from QICore.Observation NormalCytology,
-  Count(QICore.Observation NormalCytology
-    where NormalCytology.code ~ "NILM"
-    and NormalCytology.effective.latest() in Interval[start of "Measurement Period" - 10 years, Today()]) >= 3
-
-define "Consecutive Cytologies Within 36 To 42 Months":
-    QICore.Observation Cytology
-      where Cytology.code ~ "NILM"
-    //let PriorCytology: Last(QICore.Observation)
+  from ManagementLibrary.SortedHpvReports HrHPVCotest, ManagementLibrary.SortedCytologyReports CytologyCotest
+  where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
 
 define "Absence of Cervix":
   (
@@ -146,19 +116,6 @@ define "Absence of Cervix":
         where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
           and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
     )
-
-define "Cervical Cytology Within 3 Years":
-  QICore.Observation CervicalCytology
-    where CervicalCytology.code in "Pap Test"
-      and CervicalCytology.effective.latest() 3 years or less on or before end of "Measurement Period"
-      and CervicalCytology.value is not null
-
-define "HPV Test Within 5 Years for Women Age 30 and Older":
-  QICore.Observation HPVTest
-    where HPVTest.code in "HPV Test"
-      and AgeInYearsAt(date from start of HPVTest.effective.toInterval()) >= 30
-      and HPVTest.effective.latest() 5 years or less on or before end of "Measurement Period"
-      and HPVTest.value is not null
 
 define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
   QICore.Condition Lesion

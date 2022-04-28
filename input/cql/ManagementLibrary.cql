@@ -79,6 +79,7 @@ parameter BiopsyLookbackPeriod default 25 years
 parameter BiopsyReferralPeriod default 1 month
 parameter ExcludeSymptomatic default true
 parameter HpvTestingGracePeriod default 6 months
+parameter CytologyReportLookbackStart DateTime
 
 /***** BEGIN CDS LOGIC ********************************************************/
 
@@ -561,8 +562,11 @@ define MostRecentCytologyReport:
   else
     null
 
-define MostRecentCytologyReportWasWithinPastFiveYears:
-  MostRecentCytologyReport.date >= Now() - 5 years
+define function MostRecentCytologyReportWasWithinPastFiveYearsFrom(LookBackStart System.DateTime):
+  if MostRecentCytologyReport is not null then
+    MostRecentCytologyReport.date >= LookBackStart - 5 years
+  else
+    false
 
 define CytologyInterpretedAsAgc:
   AnyTrue(
@@ -774,7 +778,7 @@ define RecommendationForRareCytology:
     // G.1 Evaluation of Cytology Interpreted as AGC or AIS
     when (
       AgeInYears() < 35 and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsAgcOrAis and
       not CytologyInterpretedAsAtypicalEndometrialCells and
       not Pregnant
@@ -785,7 +789,7 @@ define RecommendationForRareCytology:
       }
     when (
       AgeInYears() >= 35 and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsAgcOrAis and
       not CytologyInterpretedAsAtypicalEndometrialCells and
       not Pregnant
@@ -795,7 +799,7 @@ define RecommendationForRareCytology:
         text: 'For nonpregnant patients of all ages with all subcategories of AGC and AIS, except when atypical endometrial cells are specified, colposcopy is recommended regardless of HPV test result; endocervical sampling is recommended at initial colposcopy except in pregnancy (for management in pregnancy, see Section K.2) (AII). Accordingly, triage by reflex HPV testing is not recommended, and triage by repeat cytology is unacceptable (DII). Endometrial sampling is recommended in conjunction with colposcopy and endocervical sampling in nonpregnant patients 35 years or older with all categories of AGC and AIS (AII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsAgcOrAis and
       CytologyInterpretedAsAtypicalEndometrialCells and
       not Pregnant
@@ -806,7 +810,7 @@ define RecommendationForRareCytology:
       }
     // Subsequent Management
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       (
         CytologyInterpretedAsAgc or
         CytologyInterpretedAsAtypicalEndocervicalCells
@@ -819,7 +823,7 @@ define RecommendationForRareCytology:
         text: 'For patients with cytology showing AGC not otherwise specified or atypical endocervical cells not otherwise specified in whom histologic HSIL (CIN 2+) or AIS/cancer is not identified, cotesting at one and two years is recommended. If both cotests are negative, repeat cotesting at 3 years is recommended. If any test is abnormal, then colposcopy is recommended (BII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       (
         CytologyInterpretedAsAgcFavorNeoplasia or
         CytologyInterpretedAsEndocervicalCellsFavorNeoplasia or
@@ -839,7 +843,7 @@ define RecommendationForRareCytology:
       }
     // G.2 Unsatisfactory Cytology
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyUnsatisfactory and
       (
         not AnyHpvSinceMostRecentCytology or
@@ -851,7 +855,7 @@ define RecommendationForRareCytology:
         text: 'For patients with an unsatisfactory cytology result and no, unknown, or a negative HPV test result, repeat age-based screening (cytology, cotest, or primary HPV test) in 2 to 4 months is recommended (BIII). Triage using HPV testing is not recommended (DIII). Before repeat cytology, treatment to resolve atrophy or obscuring inflammation when a specific infection is present is acceptable (CIII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyUnsatisfactory and
       PositiveHpvCotest and
       AgeInYears() >= 25
@@ -861,7 +865,7 @@ define RecommendationForRareCytology:
         text: 'For patients 25 years and older who are cotested and have unsatisfactory cytology and a positive HPV test without genotyping, repeat cytology in 2 to 4 months or colposcopy is acceptable (BII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyUnsatisfactory and
       PositiveHpv16or18Cotest and
       AgeInYears() >= 25
@@ -873,7 +877,7 @@ define RecommendationForRareCytology:
     // G.3 Absent Transformation Zone on Screening Cytology
     when (
       AgeInYears() in Interval[21,30) and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyAbsentTransformationZone and
       CytologyInterpretedAsNilm
     ) then
@@ -883,7 +887,7 @@ define RecommendationForRareCytology:
       }
     when (
       AgeInYears() >= 30 and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyAbsentTransformationZone and
       CytologyInterpretedAsNilm and
       (
@@ -899,7 +903,7 @@ define RecommendationForRareCytology:
     when (
       HasPremenopausalObservation and
       not Symptomatic.IsSymptomatic and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       (
         CytologyInterpretedAsBenignEndometrialCells or
         CytologyInterpretedAsEndometrialStromalCells or
@@ -912,7 +916,7 @@ define RecommendationForRareCytology:
       }
     when (
       HasPostmenopausalObservation and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsBenignEndometrialCells
     ) then
       {
@@ -921,7 +925,7 @@ define RecommendationForRareCytology:
       }
     when (
       AbsenceOrRemovalOfCervix and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsBenignGlandularCells
     ) then
       {
@@ -959,7 +963,7 @@ define SecondMostRecentCytologyUnsatisfactory:
 define RecommendationForExceptionsToColposcopyThreshold:
   case
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyInterpretedAsAscH
     ) then
       {
@@ -967,7 +971,7 @@ define RecommendationForExceptionsToColposcopyThreshold:
         text: 'For patients with ASC-H cytology, colposcopy is recommended regardless of hrHPV result (AII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       PositiveHpv16or18Cotest and
       CytologyInterpretedAsNilm
     ) then
@@ -976,7 +980,7 @@ define RecommendationForExceptionsToColposcopyThreshold:
         text: 'For patients with hrHPV 18–positive NILM or hrHPV 16-positive NILM, colposcopy is recommended (AII).'
       }
     when (
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       CytologyUnsatisfactory and
       TwoMostRecentCytologyReportsWithin5yearsApart and
       SecondMostRecentCytologyUnsatisfactory
@@ -1957,7 +1961,7 @@ define RecommendationForPatientsYoungerThan25:
       }
     when ( // 2
       AgeInYears() < 25 and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       (
         CytologyInterpretedAsHsil or
         CytologyInterpretedAsAscH or
@@ -1982,7 +1986,7 @@ define RecommendationForPatientsYoungerThan25:
       }
     when ( // 4
       AgeInYears() < 25 and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       MostRecentCytologyCotestResult = 'ASC-US' and
       MostRecentHpvResult = 'HPV-negative'
     ) then
@@ -2198,10 +2202,10 @@ define RecommendationForImmunosuppressedPatients:
         (
           MostRecentHpvResult = 'HPV-positive' and
           MostRecentCytologyCotestResult = 'ASC-US' and
-          MostRecentCytologyReportWasWithinPastFiveYears
+          MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now())
         ) or
         (
-          MostRecentCytologyReportWasWithinPastFiveYears and
+          MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
           (
             MostRecentCytologyReport.riskTableInput in {'LSIL','ASC-H','AGC','HSIL+'} or
             CytologyInterpretedAsAis
@@ -2219,7 +2223,7 @@ define RecommendationForImmunosuppressedPatients:
       }
     when ( // 2
       Immunocompromised and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       MostRecentCytologyReport.riskTableInput = 'ASC-US'
     ) then
       {
@@ -2228,7 +2232,7 @@ define RecommendationForImmunosuppressedPatients:
       }
     when ( // 3
       Immunocompromised and
-      MostRecentCytologyReportWasWithinPastFiveYears and
+      MostRecentCytologyReportWasWithinPastFiveYearsFrom(Now()) and
       (
         CytologyInterpretedAsAscusOrAbove or
         CytologyInterpretedAsAis

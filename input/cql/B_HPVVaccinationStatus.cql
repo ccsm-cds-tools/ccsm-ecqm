@@ -45,48 +45,49 @@ define "SDE Sex":
   SDE."SDE Sex"*/
 
 define "Initial Population":
-  (ManagementLibrary.SortedHpvReports union ManagementLibrary.SortedCytologyReports) ScreeningTests
-  where ScreeningTests.date in "Measurement Period"
-  and AgeInYearsAt(date from start of "Measurement Period") in Interval[21, 45)
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[21, 45 + year from start of "Measurement Period" - 2019) //year from today() instead?
   and Entry.FemaleorTransgenderMale
-  //and exists "Qualifying Encounters"
+  and exists "Qualifying Encounters"
 
 define "Denominator 1":
-  if
-    (Count("Two Vaccine Regimen") = 2 and "Two Vaccine Regimen"[1].occurrence >= "Two Vaccine Regimen"[0].occurrence + 146 days)
-    or
-    (Count("Three Vaccine Regimen") = 3
-      and "Dates Not Equal"("Three Vaccine Regimen"))
-  then true
-  else false
+  (Count("Two Vaccine Regimen") = 2
+    and "Two Vaccine Regimen"[1].occurrence >= "Two Vaccine Regimen"[0].occurrence + 146 days)
+  or
+  (Count("Three Vaccine Regimen") = 3
+    and "Dates Not Equal"("Three Vaccine Regimen"))
 
-define function "Dates Not Equal"(immunizations List<FHIR.Immunization>): //Possibly use the aggregate CQL expression
+define function "Dates Not Equal"(immunizations List<FHIR.Immunization>): //Possibly could upgrade to use the aggregate CQL expression; this assumes 3 immunizations
   immunizations[0].occurrence as dateTime != immunizations[1].occurrence as dateTime
   and immunizations[1].occurrence as dateTime != immunizations[2].occurrence as dateTime
   and immunizations[2].occurrence as dateTime != immunizations[0].occurrence as dateTime
 
 define "Two Vaccine Regimen":
   [Immunization: "HPV Vaccines"] Vaccines
-  where Vaccines.occurrence in Interval[Patient.birthDate + 9 years, Patient.birthDate + 15 years] //in base FHIR, occurrence[x] is datetime or string. Need to ensure it is a dateTime
+  where Vaccines.occurrence.value in Interval[Patient.birthDate + 9 years, Patient.birthDate + 15 years + 146 days] //in base FHIR, occurrence[x] is datetime or string. Need to ensure it is a dateTime. For some reason adding ".value" here keeps 5 other errors away
   sort by (occurrence as dateTime)
 
 define "Three Vaccine Regimen":
   [Immunization: "HPV Vaccines"] Vaccines
   where Vaccines.occurrence in Interval[Patient.birthDate + 15 years, Patient.birthDate + 45 years] //in base FHIR, occurrence[x] is datetime or string. Need to ensure it is a dateTime
-  //and Vaccines.occurrence as dateTime != Vaccines.occurrence as dateTime
 
 define "Denominator 2":
-  Count([Immunization: "HPV Vaccines"]) = 0
+  exists "Screening Tests in Last 10 Years"
+  and not exists [Immunization: "HPV Vaccines"]
+
+define "Screening Tests in Last 10 Years":
+  (ManagementLibrary.SortedHpvReports union ManagementLibrary.SortedCytologyReports) ScreeningTests
+    where ScreeningTests.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period"]
 
 define "Numerator 1":
-  (ManagementLibrary.HighGradePreCancerCervicalLesionDate is not null //Change to Dash.CervicalPrecancerDisorders, because as is it is only the most recent
-  or ManagementLibrary.CervicalCancerDiagnosisDate is not null
-  or ManagementLibrary.HasRecentAbnormalScreening) //This calls Dash.HasRecentAbnormalScreening, which is "HasRecentPositiveHpv or HasRecentAbnormalCytologyResults"
-  and
+  //(ManagementLibrary.HighGradePreCancerCervicalLesionDate is not null //Change to Dash.CervicalPrecancerDisorders, because as is it is only the most recent
+  //or ManagementLibrary.CervicalCancerDiagnosisDate is not null
+  //or ManagementLibrary.HasRecentAbnormalScreening) //This calls Dash.HasRecentAbnormalScreening, which is "HasRecentPositiveHpv or HasRecentAbnormalCytologyResults"
+  //and
   (ManagementLibrary.HighGradePreCancerCervicalLesionDate.date > "Last HrHPV Immunization Date"
   or ManagementLibrary.CervicalCancerDiagnosisDate.date > "Last HrHPV Immunization Date"
-  or AnyTrue((Dash.RecentPositiveHpv).effective > "Last HrHPV Immunization Date") // This is not correct; it RecentPositiveHpv isn't sorted; or should it be any after some cutoff
-  or Last(Dash.RecentAbnormalCytologyResults).effective > "Last HrHPV Immunization Date")// This is not correct; it RecentAbnormalCytologyResults isn't sorted; or should it be any after some cutoff
+  or AnyTrue((ManagementLibrary.SortedBiopsyReports D where D.riskTableInput in {'CIN1','CIN2','CIN3','AIS','Cancer'} return D sort by date) X return X.date > "Last HrHPV Immunization Date")
+  or AnyTrue((ManagementLibrary.SortedHpvReports D where D.riskTableInput in {'HPV-positive','HPV16-, HPV18+','HPV16+'} return D sort by date) X return X.date > "Last HrHPV Immunization Date") // HpvDiagnosticReports isn't sorted, so here it uses a quick and dirty sort; it also is limited by a cutoff date, currently 10 years; should it be any after some cutoff
+  or Last(Dash.RecentAbnormalCytologyResults D return D sort by effective).effective > "Last HrHPV Immunization Date")// RecentAbnormalCytologyResults isn't sorted, so here it uses a quick and dirty sort; it also is limited by a cutoff date, currently 8 years; or should it be any after some cutoff
 
 define "Sorted HrHPV Immunizations":
   [Immunization: "HPV Vaccines"] Vaccines
@@ -94,12 +95,14 @@ define "Sorted HrHPV Immunizations":
   return Vaccines sort by (occurrence as dateTime)
 
 define "Last HrHPV Immunization Date":
-  Last("Sorted HrHPV Immunizations").occurrence
+  Last("Sorted HrHPV Immunizations").occurrence//.value as DateTime
 
 define "Numerator 2":
   ManagementLibrary.HighGradePreCancerCervicalLesionDate is not null //Change to Dash.CervicalPrecancerDisorders, because as is it is only the most recent
   or ManagementLibrary.CervicalCancerDiagnosisDate is not null //Same
-  or ManagementLibrary.HasRecentAbnormalScreening //Investigate if same
+  or exists Dash.RecentAbnormalCytologyResults
+  or exists ManagementLibrary.SortedBiopsyReports D where D.riskTableInput in {'CIN1','CIN2','CIN3','AIS','Cancer'}//can combine with Numerator 1 clause in separate definition
+  or exists ManagementLibrary.SortedHpvReports D where D.riskTableInput in {'HPV-positive','HPV16-, HPV18+','HPV16+'} //can combine with Numerator 1 clause in separate definition
 
 define "Stratification 1":
   "Sorted HrHPV Immunizations"[0].occurrence in Interval[Patient.birthDate + 9 years, Patient.birthDate + 13 years)
@@ -108,13 +111,10 @@ define "Stratification 2":
   "Sorted HrHPV Immunizations"[0].occurrence in Interval[Patient.birthDate + 13 years, Patient.birthDate + 27 years)
 
 define "Stratification 3":
-  "Sorted HrHPV Immunizations"[0].occurrence in Interval[Patient.birthDate + 27 years, Patient.birthDate + 46 years]
+  "Sorted HrHPV Immunizations"[0].occurrence in Interval[Patient.birthDate + 27 years, Patient.birthDate + 45 years]
 
-define "Denominator Exclusions":
-  Hospice."Has Hospice"
-  //or PalliativeCare."Palliative Care in the Measurement Period"
-  or exists "Absence of Cervix"
-  //or "Anaphylactic Reaction Due to Vaccination" //Value set not created; spreadsheet says "except patients with pregnancy and acute illness"; review column D for more thoughts
+//define "Denominator Exclusions": This is commented out becuase the single clause below isn't ready to be un-commented, and this can't be an otherwise empty definition
+  //"Anaphylactic Reaction Due to Vaccination" //Value set not created; spreadsheet says "except patients with pregnancy and acute illness"; review column D for more thoughts
 
 define "Absence of Cervix":
   (
@@ -127,3 +127,13 @@ define "Absence of Cervix":
         where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
           and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
     )
+
+define "Qualifying Encounters":
+  ( [Encounter: "Office Visit"]
+    union [Encounter: "Preventive Care Services - Established Office Visit, 18 and Up"]
+    union [Encounter: "Preventive Care Services-Initial Office Visit, 18 and Up"]
+    union [Encounter: "Home Healthcare Services"]
+    union [Encounter: "Telephone Visits"]
+    union [Encounter: "Online Assessments"] ) ValidEncounter
+    where ValidEncounter.status = 'finished'
+      and ValidEncounter.period during "Measurement Period"
