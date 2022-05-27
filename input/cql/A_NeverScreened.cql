@@ -9,6 +9,7 @@ include QICoreElements version '4.1.0' called QICore
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include HospiceQICore4 version '2.0.000' called Hospice
 //include PalliativeCareFHIR version '0.6.000' called PalliativeCare //The dependencies are all wonky -- from QI Core versions 2020/2021, and R4 versions 2020/21.
+include ManagementLibrary version '1.0.0' called ManagementLibrary
 
 codesystem "PlaceHolderCodeSystem": 'http://terminology.hl7.org/CodeSystem/PlaceHolderCodeSystem'
 
@@ -65,10 +66,8 @@ define "Denominator Exclusions":
   or (exists "Absence of Cervix"
     and not
       (exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
-      or
-      exists "Diagnosis of Cervical Cancer"
-      or
-      exists "Exclusionary Cervical Histology Result")
+      or ManagementLibrary."HasCervicalCancerDiagnoses"
+      or exists "Exclusionary Cervical Histology Result")
     )
 
 define "Numerator":

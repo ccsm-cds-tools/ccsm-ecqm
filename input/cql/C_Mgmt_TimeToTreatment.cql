@@ -10,6 +10,7 @@ include HospiceQICore4 version '2.0.000' called Hospice
 //include PalliativeCareFHIR version '0.6.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CCSMCommonFunctions version '1.0.0' called Common
+include TopLevelScreeningLibrary version '1.0.0' called TLSL
 
 codesystem "ObservationCategoryCodes": 'http://terminology.hl7.org/CodeSystem/observation-category'
 
@@ -45,30 +46,15 @@ define "SDE Sex":
   SDE."SDE Sex"*/
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period")in Interval[25, 65)
-    and Patient.gender = 'female'
-    //and Patient.genderIdentity = 'transgenderMale' //extension http://hl7.org/fhir/StructureDefinition/patient-genderIdentity; needs valueSet
-    and exists "Abnormal Cervical Cancer Screening Cotest"
+  AgeInYearsAt(date from start of "Measurement Period")in Interval[21, 65)
+    and TLSL.FemaleorTransgenderMale
+    and exists "CIN3 Cervical Cancer Histology"
 
-define "Abnormal Cervical Cancer Screening Cotest":
-  from ManagementLibrary.SortedCytologyReports HSILCervicalCytology, ManagementLibrary.SortedHpvReports HPVTest //A definition for all cotests isn't in ManagmenetLibrary. Should that be created?
-    let screeningPeriod: Interval[start of "Measurement Period" - 3 months, end of "Measurement Period" - 3 months]
-    where HSILCervicalCytology.date in screeningPeriod
-    and HPVTest.date in screeningPeriod
-    and HSILCervicalCytology.riskTableInput = 'HSIL+'
-    and HPVTest.riskTableInput = 'HPV16+' //just 16+, not also 18? And, Antigen or DNA positive, or both (as is is set now)? (See HPV interpretation table)
-    //and HPVTest.date within 1 day of HSILCervicalCytology.date //this makes it a cotest, is this needed?
-    sort by HSILCervicalCytology.date
-
-/*define "Qualifying Encounters":
-  ( [Encounter: "Office Visit"]
-    union [Encounter: "Preventive Care Services - Established Office Visit, 18 and Up"]
-    union [Encounter: "Preventive Care Services-Initial Office Visit, 18 and Up"]
-    union [Encounter: "Home Healthcare Services"]
-    union [Encounter: "Telephone Visits"]
-    union [Encounter: "Online Assessments"] ) ValidEncounter
-    where ValidEncounter.status = 'finished'
-      and ValidEncounter.period during "Measurement Period"*/
+define "CIN3 Cervical Cancer Histology":
+  ManagementLibrary.SortedBiopsyReports Biopsy
+    where Biopsy.date in Interval[start of "Measurement Period" - 3 months, end of "Measurement Period" - 3 months]
+    and Biopsy.riskTableInput = 'CIN3'
+    sort by date
 
 define "Denominator":
   "Initial Population"
@@ -76,18 +62,18 @@ define "Denominator":
 define "Denominator Exclusions":
   Hospice."Has Hospice"
   //or PalliativeCare."Palliative Care in the Measurement Period"
-  or (exists "Absence of Cervix"
-    and not
-      (
-      exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
-      //or exists "Diagnosis of Cervical Cancer"
-      //or exists "Exclusionary Cervical Histology Result"
-      )
-    )
+  //////TODO: Look at ManagementLibrary.AbsenceOrRemovalOfCervix
+  or ManagementLibrary."HasCervicalCancerDiagnoses"
+  or exists "Absence of Cervix"
+  or ManagementLibrary."Pregnant"
 
 define "Numerator":
-  Common.ProcedureDate(First(ManagementLibrary.CervicalPrecancerTreatments C return C sort by (performed as dateTime))) 3 months or less after First("Abnormal Cervical Cancer Screening Cotest").HSILCervicalCytology.date
-  and AgeInYearsAt(date from start of "Measurement Period") in Interval[30, 65)
+  (exists ManagementLibrary.CervicalPrecancerTreatments AblationOrExcision
+  where Common.ProcedureDate(AblationOrExcision) 3 months or less after First("CIN3 Cervical Cancer Histology").date)
+  or
+  (exists QICore."ServiceRequest" SR
+    where SR.code ~ null //  TODO: codes for "treatment", meaning Ablation or Excision; possibly look in Management Library for value sets/codes
+    and SR.authoredOn 30 days or less after First("CIN3 Cervical Cancer Histology").date)
 
 define "Absence of Cervix":
   (
@@ -100,11 +86,3 @@ define "Absence of Cervix":
         where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
           and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
     )
-
-define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
-  QICore.Condition Lesion
-//    where Lesion.code in "PlaceHolderValueSet"
-
-define "Exclusionary Cervical Histology Result":
-  QICore.Condition Histology
-//    where Histology.code ~ PlaceHolderCode

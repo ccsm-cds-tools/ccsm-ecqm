@@ -46,22 +46,12 @@ define "SDE Sex":
   SDE."SDE Sex"*/
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period")in Interval[25, 65)
-    and Patient.gender = 'female'
-    //and Patient.genderIdentity = 'transgenderMale' //extension http://hl7.org/fhir/StructureDefinition/patient-genderIdentity; needs valueSet
+  AgeInYearsAt(date from start of "Measurement Period")in Interval[25, 65]
+    and TLSL.FemaleorTransgenderMale
     and
-      (exists "Abnormal Cervical Cancer Screening Cotest"
-      or exists "Abnormal Cervical Cancer Screening Cytology Alone")
-
-/*define "Qualifying Encounters":
-  ( [Encounter: "Office Visit"]
-    union [Encounter: "Preventive Care Services - Established Office Visit, 18 and Up"]
-    union [Encounter: "Preventive Care Services-Initial Office Visit, 18 and Up"]
-    union [Encounter: "Home Healthcare Services"]
-    union [Encounter: "Telephone Visits"]
-    union [Encounter: "Online Assessments"] ) ValidEncounter
-    where ValidEncounter.status = 'finished'
-      and ValidEncounter.period during "Measurement Period"*/
+      (exists "Abnormal Cervical Cancer Screening Cotest" //NILM and Positive, or LSIL and Negative, within MP shifted back 18 months
+      or
+      exists "Abnormal Cervical Cancer Screening Cytology Alone") //ASCUS, within MP shifted back 18 months
 
 define "Denominator":
   "Initial Population"
@@ -70,22 +60,17 @@ define "Denominator Exclusions":
   Hospice."Has Hospice"
   //or PalliativeCare."Palliative Care in the Measurement Period"
   or exists "Surveillance Tests" C where C.date before "First Abnormal Cervical Cancer Screening Result Date"
-  or (exists "Absence of Cervix"
-    and not
-      (
-      exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
-      //or exists "Diagnosis of Cervical Cancer"
-      //or exists "Exclusionary Cervical Histology Result"
-      )
-    )
+  or exists "Absence of Cervix"
+  or ManagementLibrary."HasCervicalCancerDiagnoses"
+  // or exists "a prior HPV screening test result before the initial abnormal result" // this is probably the same as line above
 
 define "Numerator":
-  ("Most Recent Surveillance Test Date" in "Cotest Numerator Interval"
+//  (
+  "Most Recent Surveillance Test Date" in "Cotest Numerator Interval"
     or
   "Most Recent Surveillance Test Date" in "Cytology Alone Numerator Interval"
-  )
-  and
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[30, 65)
+//  )
+//  and AgeInYearsAt(date from start of "Measurement Period") in Interval[25, 65)
 
 define "Cotest Numerator Interval":
   Interval[First("Abnormal Cervical Cancer Screening Cotest").CytologyCotest.date - 18 months, First("Abnormal Cervical Cancer Screening Cotest").CytologyCotest.date - 12 months]

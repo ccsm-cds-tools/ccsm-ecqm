@@ -56,7 +56,7 @@ define "Adequate Screening Start Date":
   Date(year from Today() - (AgeInYears() - 65 ) - GradeDAdequatePriorScreeningLookback, month from Today(), day from Today()) //this calculated date ends up tied to Today(). Should it be from start/end of MP?
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") >= 65 //Start of measurement period for age calculation?
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[65,85]
     and TLSL.FemaleorTransgenderMale
     and exists "Qualifying Encounters"
 
@@ -80,17 +80,17 @@ define "Denominator Exclusions":
     and not
       (
       exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
-      or exists "Diagnosis of Cervical Cancer"
+      or ManagementLibrary."HasCervicalCancerDiagnoses"
       or exists "Exclusionary Cervical Histology Result"
       )
     )
 
-define "Numerator": //Need to align more tightly with eCQM spreadsheet
+define "Numerator":
   (ManagementLibrary.MostRecentCytologyReportWasWithinPastFiveYearsFrom(start of "Measurement Period") //Modified CDS library definition
   and Count("Negative Cervical Cytology Every 3 Years") >= 3)
-    or
-  (exists ManagementLibrary."NegativePrimaryHrHpvTests" X where X.date in Interval[start of "Measurement Period" - 5 years, end of "Measurement Period")
-  and Count(ManagementLibrary."NegativeSurveillanceTests" X where X.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")) >= 2)
+  or
+    (exists ManagementLibrary."NegativePrimaryHrHpvTests" X where X.date in Interval[start of "Measurement Period" - 5 years, end of "Measurement Period")
+    and Count(ManagementLibrary."NegativeSurveillanceTests" X where X.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")) >= 2)
 
 define "Normal Cervical Cancer Screening Cytology Alone Within 10 Years":
   (ManagementLibrary.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
@@ -120,10 +120,6 @@ define "Absence of Cervix":
 define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
   QICore.Condition Lesion
     where Lesion.code in "PlaceHolderValueSet"
-
-define "Diagnosis of Cervical Cancer":
-  QICore.Condition Cancer
-    where Cancer.code in "PlaceHolderValueSet"
 
 define "Exclusionary Cervical Histology Result":
   QICore.Condition Histology
