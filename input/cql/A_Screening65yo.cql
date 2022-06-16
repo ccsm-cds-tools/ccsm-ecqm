@@ -7,8 +7,8 @@ include SupplementalDataElementsFHIR4 version '2.0.000' called SDE
 include CQMCommon version '0.1.0' called Global
 include QICoreElements version '4.1.0' called QICore
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
-include HospiceQICore4 version '2.0.000' called Hospice
-//include PalliativeCareFHIR version '0.6.000' called PalliativeCare
+include HospiceFHIR4_2022 version '4.0.000' called Hospice
+include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 
 codesystem "ObservationCategoryCodes": 'http://terminology.hl7.org/CodeSystem/observation-category'
@@ -74,8 +74,8 @@ define "Denominator":
   "Initial Population"
 
 define "Denominator Exclusions":
-  Hospice."Has Hospice"
-  //or PalliativeCare."Palliative Care in the Measurement Period"
+  Hospice."Has Hospice Services"
+  or PalliativeCare."Palliative Care in the Measurement Period"
   or (exists "Absence of Cervix"
     and not
       (

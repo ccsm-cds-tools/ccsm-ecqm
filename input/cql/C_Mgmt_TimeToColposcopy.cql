@@ -6,8 +6,8 @@ include FHIRHelpers version '4.0.1' called FHIRHelpers
 include SupplementalDataElementsFHIR4 version '2.0.000' called SDE
 include CQMCommon version '0.1.0' called Global
 include QICoreElements version '4.1.0' called QICore
-include HospiceQICore4 version '2.0.000' called Hospice
-//include PalliativeCareFHIR version '0.6.000' called PalliativeCare
+include HospiceFHIR4_2022 version '4.0.000' called Hospice
+include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CCSMCommonFunctions version '1.0.0' called Common
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
@@ -77,10 +77,10 @@ define "Denominator":
   "Initial Population"
 
 define "Denominator Exclusions":
-  Hospice."Has Hospice"
+  Hospice."Has Hospice Services"
   or Last("Normal Cytology").date > Last("Abnormal Cytology").date
   or Last("Normal HrHPV").date > Last("Abnormal HrHPV").date
-  //or PalliativeCare."Palliative Care in the Measurement Period"
+  or PalliativeCare."Palliative Care in the Measurement Period"
   or ManagementLibrary."HasCervicalCancerDiagnoses"
   or exists "Absence of Cervix"
 
