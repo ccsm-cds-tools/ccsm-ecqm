@@ -4,7 +4,6 @@ using FHIR version '4.0.1'
 
 include FHIRHelpers version '4.0.1' called FHIRHelpers
 include SupplementalDataElementsFHIR4 version '2.0.000' called SDE
-include CQMCommon version '0.1.0' called Global
 include QICoreElements version '4.1.0' called QICore
 include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
@@ -81,7 +80,7 @@ define "Denominator Exclusions":
   or Last("Normal HrHPV").date > Last("Abnormal HrHPV").date
   or PalliativeCare."Palliative Care in the Measurement Period"
   or ManagementLibrary."HasCervicalCancerDiagnoses"
-  or exists "Absence of Cervix"
+  or "Absence of Cervix"
 
 define "Numerator":
   (exists Dash.ColposcopyProcedures C

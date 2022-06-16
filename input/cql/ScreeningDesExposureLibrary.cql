@@ -1,14 +1,14 @@
-/*  
+/*
   Library: Cervical Cancer Screening for Individuals Exposed to DES In Utero
   Author: CMS Alliance to Modernize Healthcare, operated by THE MITRE Corporation.
 
-  (C) 2021 The MITRE Corporation. All Rights Reserved. 
-  Approved for Public Release: 21-1556. 
+  (C) 2021 The MITRE Corporation. All Rights Reserved.
+  Approved for Public Release: 21-1556.
   Distribution Unlimited.
 
-  Unless otherwise noted, this work is available under an Apache 2.0 license. 
-  It was produced by the MITRE Corporation for the Division of Cancer Prevention 
-  and Control, Centers for Disease Control and Prevention in accordance with the 
+  Unless otherwise noted, this work is available under an Apache 2.0 license.
+  It was produced by the MITRE Corporation for the Division of Cancer Prevention
+  and Control, Centers for Disease Control and Prevention in accordance with the
   Statement of Work, contract number 75FCMC18D0047, task order number 75D30120F09743.
 */
 
@@ -43,8 +43,8 @@ context Patient
 // INCLUSIONS
 //------------------------------------------------------------------------------
 // Sex at birth = Female
-//    OR Gender identity = Transgender Male 
-// AND 
+//    OR Gender identity = Transgender Male
+// AND
 // Date of Birth AFTER 01/01/1980
 // AND
 // Diagnosis of DES Exposure In Utero (accept all clinicalStatus values)
@@ -67,7 +67,7 @@ define RecentlyRespondedYesToDesExposureQuestion:
   )
 
 define WasExposedToDesInUtero:
-  HasDesExposureDiagnoses or 
+  HasDesExposureDiagnoses or
   HasDesExposureObservations or
   RecentlyRespondedYesToDesExposureQuestion
 
@@ -80,8 +80,8 @@ define IsIncluded:
 //------------------------------------------------------------------------------
 // EXCLUSIONS
 //------------------------------------------------------------------------------
-// Diagnosis of High grade pre-cancerous cervical lesion 
-// OR Diagnosis of Cervical cancer 
+// Diagnosis of High grade pre-cancerous cervical lesion
+// OR Diagnosis of Cervical cancer
 // OR Cervical histology result = "histologic HSIL (CIN2)" or "histologic HSIL (CIN3)" or “histologic AIS” or “histologic cancer”
 // OR Abnormal screening result <= 7 years ago (7 years is a parameter in Dash)
 // OR Abnormal histology result <= 7 years ago (7 years is a parameter in Dash)

@@ -4,7 +4,6 @@ using FHIR version '4.0.1'
 
 include FHIRHelpers version '4.0.1' called FHIRHelpers
 include SupplementalDataElementsFHIR4 version '2.0.000' called SDE
-include CQMCommon version '0.1.0' called Global
 include QICoreElements version '4.1.0' called QICore
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include HospiceFHIR4_2022 version '4.0.000' called Hospice
@@ -52,11 +51,11 @@ define "SDE Race":
 define "SDE Sex":
   SDE."SDE Sex"*/
 
-define "Adequate Screening Start Date":
-  Date(year from Today() - (AgeInYears() - 65 ) - GradeDAdequatePriorScreeningLookback, month from Today(), day from Today()) //this calculated date ends up tied to Today(). Should it be from start/end of MP?
+//define "Adequate Screening Start Date":
+//  Date(year from Today() - (AgeInYears() - 65 ) - GradeDAdequatePriorScreeningLookback, month from Today(), day from Today()) //this calculated date ends up tied to Today(). Should it be from start/end of MP?
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[65,85]
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[65,75]
     and TLSL.FemaleorTransgenderMale
     and exists "Qualifying Encounters"
 
@@ -76,7 +75,7 @@ define "Denominator":
 define "Denominator Exclusions":
   Hospice."Has Hospice Services"
   or PalliativeCare."Palliative Care in the Measurement Period"
-  or (exists "Absence of Cervix"
+  or ("Absence of Cervix"
     and not
       (
       exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
