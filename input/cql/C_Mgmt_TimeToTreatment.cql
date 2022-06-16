@@ -76,7 +76,6 @@ define "Numerator":
 
 define "Absence of Cervix":
   ManagementLibrary.AbsenceOrRemovalOfCervix
-//or Hysterectomy with No Residual Cervix 2.16.840.1.113883.3.464.1003.198.11.1026 from VS spreadsheet
   or exists C3F.Completed(
     [Procedure: "Removal of Cervix Procedures CPT"]
   )

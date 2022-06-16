@@ -10,6 +10,7 @@ include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
+include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 
 codesystem "PlaceHolderCodeSystem": 'http://terminology.hl7.org/CodeSystem/PlaceHolderCodeSystem'
 
@@ -23,6 +24,7 @@ valueset "Pap Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.4
 valueset "Preventive Care Services - Established Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1025'
 valueset "Preventive Care Services-Initial Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1023'
 valueset "Telephone Visits": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1080'
+valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
 valueset "PlaceHolderValueSet": 'http://cts.nlm.nih.gov/fhir/ValueSet/PlaceHolder'
 
@@ -45,7 +47,7 @@ define "SDE Sex":
 define "Initial Population":
   AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65) //Start of measurement period for age calculation?
     and TLSL.FemaleorTransgenderMale
-    and exists "Qualifying Encounters" //Do we need a qualifing encounter during the measurement period?
+    and exists "Qualifying Encounters"
 
 define "Qualifying Encounters":
   ( [Encounter: "Office Visit"]
@@ -63,7 +65,7 @@ define "Denominator":
 define "Denominator Exclusions":
   Hospice."Has Hospice Services"
   or PalliativeCare."Palliative Care in the Measurement Period"
-  or (exists "Absence of Cervix"
+  or ("Absence of Cervix"
     and not
       (exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
       or ManagementLibrary."HasCervicalCancerDiagnoses"
@@ -75,15 +77,9 @@ define "Numerator":
   and Count("HPV Test Within 10 Years") = 0
 
 define "Absence of Cervix":
-  (
-    QICore.ProcedureCompleted NoCervixProcedure
-      where NoCervixProcedure.code in "Hysterectomy with No Residual Cervix"
-        and NoCervixProcedure.performed.toInterval() ends on or before end of "Measurement Period"
-  )
-    union (
-      QICore.Condition NoCervixDiagnosis
-        where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
-          and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
+  ManagementLibrary.AbsenceOrRemovalOfCervix
+  or exists C3F.Completed(
+    [Procedure: "Removal of Cervix Procedures CPT"]
   )
 
 define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":

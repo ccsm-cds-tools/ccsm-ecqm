@@ -12,6 +12,7 @@ include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CCSMCommonFunctions version '1.0.0' called Common
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
+include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 
 codesystem "ObservationCategoryCodes": 'http://terminology.hl7.org/CodeSystem/observation-category'
 
@@ -25,9 +26,7 @@ valueset "Pap Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.4
 valueset "Preventive Care Services - Established Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1025'
 valueset "Preventive Care Services-Initial Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1023'
 valueset "Telephone Visits": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1080'
-
-valueset "HPV Positive": 'http://cts.nlm.nih.gov/fhir/ValueSet/test' //placeholder for HPV positive codes "Positive", "hrHPV 16 positive", "hrHPV 18 positive"
-valueset "Abnormal Cytology Value Set": 'http://cts.nlm.nih.gov/fhir/ValueSet/test' //placeholder for abnormal cytology codes "ASCUS", "LSIL", "NILM"
+valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
 code "laboratory": 'laboratory' from "ObservationCategoryCodes" display 'Laboratory'
 
@@ -97,13 +96,7 @@ define "Last Abnormal Cervical Cancer Screening Result Date":
   return tests sort by date).date
 
 define "Absence of Cervix":
-  (
-    QICore.ProcedureCompleted NoCervixProcedure
-      where NoCervixProcedure.code in "Hysterectomy with No Residual Cervix"
-        and NoCervixProcedure.performed.toInterval() ends on or before end of "Measurement Period"
+  ManagementLibrary.AbsenceOrRemovalOfCervix
+  or exists C3F.Completed(
+    [Procedure: "Removal of Cervix Procedures CPT"]
   )
-    union (
-      QICore.Condition NoCervixDiagnosis
-        where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
-          and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
-    )

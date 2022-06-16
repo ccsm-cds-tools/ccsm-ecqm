@@ -10,6 +10,7 @@ include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
+include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 
 codesystem "ObservationCategoryCodes": 'http://terminology.hl7.org/CodeSystem/observation-category'
 codesystem "PlaceHolderCodeSystem": 'http://terminology.hl7.org/CodeSystem/PlaceHolderCodeSystem'
@@ -25,8 +26,7 @@ valueset "Pap Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.4
 valueset "Preventive Care Services - Established Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1025'
 valueset "Preventive Care Services-Initial Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1023'
 valueset "Telephone Visits": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1080'
-
-//valueset "HPV Positive": 'http://cts.nlm.nih.gov/fhir/ValueSet/HPV.positive'
+valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
 valueset "PlaceHolderValueSet": 'http://cts.nlm.nih.gov/fhir/ValueSet/PlaceHolder'
 
@@ -106,16 +106,10 @@ define "Cotests":
   where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
 
 define "Absence of Cervix":
-  (
-    QICore.ProcedureCompleted NoCervixProcedure
-      where NoCervixProcedure.code in "Hysterectomy with No Residual Cervix"
-        and NoCervixProcedure.performed.toInterval() ends on or before end of "Measurement Period"
+  ManagementLibrary.AbsenceOrRemovalOfCervix
+  or exists C3F.Completed(
+    [Procedure: "Removal of Cervix Procedures CPT"]
   )
-    union (
-      QICore.Condition NoCervixDiagnosis
-        where NoCervixDiagnosis.code in "Congenital or Acquired Absence of Cervix"
-          and NoCervixDiagnosis.prevalenceInterval() starts on or before end of "Measurement Period"
-    )
 
 define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
   QICore.Condition Lesion
