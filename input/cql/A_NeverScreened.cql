@@ -10,6 +10,7 @@ include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
+include AdultOutpatientEncountersFHIR4_2022 version '3.0.000' called AdultOutpatient
 
 codesystem "PlaceHolderCodeSystem": 'http://terminology.hl7.org/CodeSystem/PlaceHolderCodeSystem'
 
@@ -46,17 +47,7 @@ define "SDE Sex":
 define "Initial Population":
   AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65) //Start of measurement period for age calculation?
     and TLSL.FemaleorTransgenderMale
-    and exists "Qualifying Encounters"
-
-define "Qualifying Encounters":
-  ( [Encounter: "Office Visit"]
-    union [Encounter: "Preventive Care Services - Established Office Visit, 18 and Up"]
-    union [Encounter: "Preventive Care Services-Initial Office Visit, 18 and Up"]
-    union [Encounter: "Home Healthcare Services"]
-    union [Encounter: "Telephone Visits"]
-    union [Encounter: "Online Assessments"] ) ValidEncounter
-    where ValidEncounter.status = 'finished'
-      and ValidEncounter.period during "Measurement Period"
+    and exists AdultOutpatient."Qualifying Encounters"
 
 define "Denominator":
   "Initial Population"
