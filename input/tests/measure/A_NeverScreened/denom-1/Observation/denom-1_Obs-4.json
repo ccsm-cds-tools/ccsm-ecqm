@@ -19,14 +19,5 @@
     "subject": {
         "reference": "Patient/denom-1"
     },
-    "valueCodeableConcept": {
-        "coding": [
-            {
-                "system": "",
-                "code": "",
-                "display": ""
-            }
-        ]
-    },
     "effectiveDateTime": "2014-11-01T00:00:00"
 }

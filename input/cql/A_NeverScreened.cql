@@ -3,49 +3,22 @@ library A_NeverScreened version '0.0.1'
 using FHIR version '4.0.1'
 
 include FHIRHelpers version '4.0.1' called FHIRHelpers
-include SupplementalDataElementsFHIR4 version '2.0.000' called SDE
-include QICoreElements version '4.1.0' called QICore
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 include AdultOutpatientEncountersFHIR4_2022 version '3.0.000' called AdultOutpatient
+include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
 
-codesystem "PlaceHolderCodeSystem": 'http://terminology.hl7.org/CodeSystem/PlaceHolderCodeSystem'
-
-valueset "Congenital or Acquired Absence of Cervix": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.111.12.1016'
-valueset "Home Healthcare Services": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1016'
-valueset "HPV Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1059'
-valueset "Hysterectomy with No Residual Cervix": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1014'
-valueset "Office Visit": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1001'
-valueset "Online Assessments": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1089'
-valueset "Pap Test": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.108.12.1017'
-valueset "Preventive Care Services - Established Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1025'
-valueset "Preventive Care Services-Initial Office Visit, 18 and Up": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1023'
-valueset "Telephone Visits": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1080'
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
-valueset "PlaceHolderValueSet": 'http://cts.nlm.nih.gov/fhir/ValueSet/PlaceHolder'
-
-code "PlaceHolderCode": 'laboratory' from "PlaceHolderCodeSystem" display 'PlaceHolderCode'
-
-parameter "Measurement Period" Interval<DateTime>
-  default Interval[@2020-01-01T00:00:00.0, @2021-01-01T00:00:00.0)
+parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T00:00:00.0, @2021-01-01T00:00:00.0)
 
 context Patient
 
-/*define "SDE Ethnicity":
-  SDE."SDE Ethnicity"
-define "SDE Payer":
-  SDE."SDE Payer"
-define "SDE Race":
-  SDE."SDE Race"
-define "SDE Sex":
-  SDE."SDE Sex"*/
-
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65) //Start of measurement period for age calculation?
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65)
     and TLSL.FemaleorTransgenderMale
     and exists AdultOutpatient."Qualifying Encounters"
 
@@ -57,14 +30,14 @@ define "Denominator Exclusions":
   or PalliativeCare."Palliative Care in the Measurement Period"
   or ("Absence of Cervix"
     and not
-      (exists "Diagnosis of High Grade Pre-cancerous Cervical Lesion"
+      (ManagementLibrary."HasHighGradePreCancerCervicalLesion"
       or ManagementLibrary."HasCervicalCancerDiagnoses"
-      or exists "Exclusionary Cervical Histology Result")
+      or exists Dash."HighGradeOrCancerHistologyResults")
     )
 
 define "Numerator":
-  Count("Cervical Cytology Within 10 Years") = 0
-  and Count("HPV Test Within 10 Years") = 0
+  Count("Cervical Cytology Within 10 Years" union Dash.CervicalCytologyReports) = 0
+  and Count("HPV Test Within 10 Years" union Dash.HpvDiagnosticReports) = 0
 
 define "Absence of Cervix":
   ManagementLibrary.AbsenceOrRemovalOfCervix
@@ -72,26 +45,14 @@ define "Absence of Cervix":
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
 
-define "Diagnosis of High Grade Pre-cancerous Cervical Lesion":
-  QICore.Condition Lesion
-    where Lesion.code in "PlaceHolderValueSet"
-
-define "Diagnosis of Cervical Cancer":
-  QICore.Condition Cancer
-    where Cancer.code in "PlaceHolderValueSet"
-
-define "Exclusionary Cervical Histology Result":
-  QICore.Condition Histology
-    where Histology.code ~ PlaceHolderCode
-
 define "Cervical Cytology Within 10 Years":
-  QICore.Observation CervicalCytology
-    where CervicalCytology.code in "Pap Test"
-      and CervicalCytology.effective.latest() 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
+  [Observation: Dash."Pap Test"] CervicalCytology
+    where CervicalCytology.status in {'final', 'amended', 'corrected'}
+      and CervicalCytology.effective 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
       //and CervicalCytology.value is not null
 
 define "HPV Test Within 10 Years":
-  QICore.Observation HPVTest
-    where HPVTest.code in "HPV Test"
-      and HPVTest.effective.latest() 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
+  [Observation: Dash."HPV Test"] HPVTest
+    where HPVTest.status in {'final', 'amended', 'corrected'}
+      and HPVTest.effective 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
       //and HPVTest.value is not null
