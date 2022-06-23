@@ -10,6 +10,7 @@ include CCSMCommonFunctions version '1.0.0' called Common
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
+include HPVVaccination_SDE version '0.0.1' called HPVVaccination_SDE
 
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 valueset "Referral to Gynecology": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.277'
@@ -19,7 +20,7 @@ parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T0
 context Patient
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period")in Interval[21, 65)
+  AgeInYearsAt(date from start of "Measurement Period")in Interval[20, 65)
     and TLSL.FemaleorTransgenderMale
     and exists "CIN3 Cervical Cancer Histology"
 
@@ -56,3 +57,6 @@ define "Absence of Cervix":
   or exists C3F.Completed(
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
+
+define "SDE HPV Vaccination Status":
+  HPVVaccination_SDE."HPV Vaccinated"

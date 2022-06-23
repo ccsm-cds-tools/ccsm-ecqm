@@ -10,6 +10,7 @@ include CCSMCommonFunctions version '1.0.0' called Common
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
+include HPVVaccination_SDE version '0.0.1' called HPVVaccination_SDE
 
 codesystem "SNOMED-CT": 'http://snomed.info/sct'
 
@@ -24,7 +25,7 @@ parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T0
 context Patient
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[25, 65]
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65]
     and TLSL.FemaleorTransgenderMale
     and
       (exists "Abnormal Cytology"
@@ -96,3 +97,6 @@ define "Absence of Cervix":
   or exists C3F.Completed(
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
+
+define "SDE HPV Vaccination Status":
+  HPVVaccination_SDE."HPV Vaccinated"

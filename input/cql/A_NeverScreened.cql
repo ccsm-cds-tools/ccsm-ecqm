@@ -18,7 +18,7 @@ parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T0
 context Patient
 
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[24, 65)
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[23, 65)
     and TLSL.FemaleorTransgenderMale
     and exists AdultOutpatient."Qualifying Encounters"
 
@@ -36,23 +36,11 @@ define "Denominator Exclusions":
     )
 
 define "Numerator":
-  Count("Cervical Cytology Within 10 Years" union Dash.CervicalCytologyReports) = 0
-  and Count("HPV Test Within 10 Years" union Dash.HpvDiagnosticReports) = 0
+  Count(Dash.CervicalCytologyReports) = 0
+  and Count(Dash.HpvDiagnosticReports) = 0
 
 define "Absence of Cervix":
   ManagementLibrary.AbsenceOrRemovalOfCervix
   or exists C3F.Completed(
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
-
-define "Cervical Cytology Within 10 Years":
-  [Observation: Dash."Pap Test"] CervicalCytology
-    where CervicalCytology.status in {'final', 'amended', 'corrected'}
-      and CervicalCytology.effective 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
-      //and CervicalCytology.value is not null
-
-define "HPV Test Within 10 Years":
-  [Observation: Dash."HPV Test"] HPVTest
-    where HPVTest.status in {'final', 'amended', 'corrected'}
-      and HPVTest.effective 10 years or less on or before end of "Measurement Period" //would screening during measurement period be included if this was changed to "...start of measurement period"
-      //and HPVTest.value is not null

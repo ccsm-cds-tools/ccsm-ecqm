@@ -18,11 +18,8 @@ parameter GradeDAdequatePriorScreeningLookback default 11 //years
 
 context Patient
 
-//define "Adequate Screening Start Date":
-//  Date(year from Today() - (AgeInYears() - 65 ) - GradeDAdequatePriorScreeningLookback, month from Today(), day from Today()) //this calculated date ends up tied to Today(). Should it be from start/end of MP?
-
 define "Initial Population":
-  AgeInYearsAt(date from start of "Measurement Period") in Interval[65,75)
+  AgeInYearsAt(date from start of "Measurement Period") in Interval[64,75)
     and TLSL.FemaleorTransgenderMale
     and exists AdultOutpatient."Qualifying Encounters"
 
@@ -40,19 +37,17 @@ define "Denominator Exclusions":
     )
 
 define "Numerator":
-  (ManagementLibrary.MostRecentCytologyReport.date > start of "Measurement Period" - 5 years
-  and Count("Negative Cervical Cytology Every 3 Years") >= 3)
+  (Count("Negative Cervical Cytology Every 3 Years") >= 3)
   or
-    (exists ManagementLibrary."NegativePrimaryHrHpvTests" X where X.date in Interval[start of "Measurement Period" - 5 years, end of "Measurement Period")
-    and Count(ManagementLibrary."NegativeSurveillanceTests" X where X.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")) >= 2)
+  (Count(ManagementLibrary."NegativeSurveillanceTests" X where X.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")) >= 2)
 
-define "Normal Cervical Cancer Screening Cytology Alone Within 10 Years":
+define "Negative Cervical Cancer Screening Cytology Alone Within 10 Years":
   (ManagementLibrary.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
     where CytologyAlone.date in Interval[start of "Measurement Period" - 10 years, end of "Measurement Period")//should the end of this interval be the date of the last encounter of the measurement period?
     and CytologyAlone.riskTableInput = 'NILM'
 
 define "Negative Cervical Cytology Every 3 Years":
-  "Normal Cervical Cancer Screening Cytology Alone Within 10 Years" CytologyAlone
+  "Negative Cervical Cancer Screening Cytology Alone Within 10 Years" CytologyAlone
   where CytologyAlone.date in Interval[CytologyAlone.date - 42 months, CytologyAlone.date - 3 years]
 
 define "Cotests":
@@ -64,3 +59,6 @@ define "Absence of Cervix":
   or exists C3F.Completed(
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
+
+define "Adequate Screening Start Date":
+  Patient.birthDate + 55 years
