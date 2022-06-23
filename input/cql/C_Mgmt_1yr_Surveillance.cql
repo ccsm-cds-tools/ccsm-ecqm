@@ -39,7 +39,7 @@ define "Denominator Exclusions":
 define "Exclusionary hrHPV Test":
  exists ManagementLibrary.SortedHpvReports HpvReport
   where HpvReport.date before "First Abnormal Cervical Cancer Screening Result Date"
-    and HpvReport.date > start of "Measurement Period" + 7 years
+    and HpvReport.date > start of "Measurement Period" - 7 years
 
 define "Numerator":
   "Most Recent Surveillance Test Date" in "Cotest Numerator Interval"
