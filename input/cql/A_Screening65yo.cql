@@ -66,6 +66,7 @@ define "Negative Surveillance in 10-Year Interval":
 define "Negative Cytology Every 3 Years":
   from "Negative Cytology in 10-Year Interval" CytologyAlone, "Cytology Testing Intervals" TestingIntervals
   where CytologyAlone.date in TestingIntervals
+  return TestingIntervals
 
 define "Cytology Testing Intervals":
   "Negative Cytology in 10-Year Interval" input
