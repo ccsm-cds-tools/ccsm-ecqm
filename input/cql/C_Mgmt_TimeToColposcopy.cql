@@ -40,6 +40,7 @@ define "Abnormal Cytology":
   (ManagementLibrary.SortedCytologyReports Cytology
     where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
       and Cytology.riskTableInput in {'ASC-H','AGC','HSIL+'})
+  //The CQL code below will be removed once the SCC code is integrated into the CQL libraries.
   union
   ([DiagnosticReport: "SCC"] DR
     where DR.effective overlaps Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
