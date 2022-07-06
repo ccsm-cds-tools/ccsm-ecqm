@@ -1,25 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113883.3.117.1.7.1.309",
+  "meta": {
+    "versionId": "35",
+    "lastUpdated": "2021-06-11T01:01:24.000-04:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.309",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113883.3.117.1.7.1.309"
-  } ],
-  "version": "20210220",
-  "name": "PatientExpired",
-  "title": "Patient Expired",
+  "version": "20210611",
+  "name": "Patient Expired",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:06-06:00",
-    "contains": [ {
-      "system": "http://snomed.info/sct",
-      "version": "2020-09",
-      "code": "371828006",
-      "display": "Patient deceased during stay (discharge status = dead) (finding)"
-    } ]
-  }
+  "date": "2021-06-11T01:01:24-04:00",
+  "publisher": "TJC EH Steward",
+  "expansion": {}
 }

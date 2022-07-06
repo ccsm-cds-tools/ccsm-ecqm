@@ -1,25 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113883.3.117.1.7.1.308",
+  "meta": {
+    "versionId": "26",
+    "lastUpdated": "2021-03-17T14:56:13.000-04:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.308",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113883.3.117.1.7.1.308"
-  } ],
   "version": "20210220",
-  "name": "LeftAgainstMedicalAdvice",
-  "title": "Left Against Medical Advice",
+  "name": "Left Against Medical Advice",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:06-06:00",
-    "contains": [ {
-      "system": "http://snomed.info/sct",
-      "version": "2020-09",
-      "code": "445060000",
-      "display": "Left against medical advice (finding)"
-    } ]
-  }
+  "date": "2021-02-20T01:02:00-05:00",
+  "publisher": "TJC EH Steward",
+  "expansion": {}
 }

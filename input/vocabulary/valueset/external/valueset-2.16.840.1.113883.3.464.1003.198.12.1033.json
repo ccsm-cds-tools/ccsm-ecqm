@@ -1,35 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113883.3.464.1003.198.12.1033",
+  "meta": {
+    "versionId": "21",
+    "lastUpdated": "2022-03-02T18:04:32.000-05:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1033",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113883.3.464.1003.198.12.1033"
-  } ],
   "version": "20170504",
-  "name": "AntiHepatitisAIgGAntigenTest",
-  "title": "Anti Hepatitis A IgG Antigen Test",
+  "name": "Anti Hepatitis A IgG Antigen Test",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:05-06:00",
-    "contains": [ {
-      "system": "http://loinc.org",
-      "version": "2.69",
-      "code": "32018-4",
-      "display": "Hepatitis A virus IgG Ab [Presence] in Serum"
-    }, {
-      "system": "http://loinc.org",
-      "version": "2.69",
-      "code": "40724-7",
-      "display": "Hepatitis A virus IgG Ab [Presence] in Serum by Immunoassay"
-    }, {
-      "system": "http://loinc.org",
-      "version": "2.69",
-      "code": "51913-2",
-      "display": "Hepatitis A virus IgG+IgM Ab [Presence] in Serum"
-    } ]
-  }
+  "date": "2022-03-03T18:46:01-05:00",
+  "publisher": "NCQA PHEMUR",
+  "expansion": {}
 }

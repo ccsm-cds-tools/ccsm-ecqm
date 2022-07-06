@@ -1,25 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113883.3.464.1003.196.12.1519",
+  "meta": {
+    "versionId": "6",
+    "lastUpdated": "2021-02-01T14:43:07.000-05:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1519",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113883.3.464.1003.196.12.1519"
-  } ],
   "version": "20200310",
   "name": "Propantheline",
-  "title": "Propantheline",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:06-06:00",
-    "contains": [ {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "198165",
-      "display": "propantheline 15 MG Oral Tablet"
-    } ]
-  }
+  "date": "2020-03-10T01:00:21-04:00",
+  "publisher": "NCQA PHEMUR",
+  "expansion": {}
 }
