@@ -1,30 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113762.1.4.1108.15",
+  "meta": {
+    "versionId": "25",
+    "lastUpdated": "2022-02-09T01:02:17.000-05:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1108.15",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113762.1.4.1108.15"
-  } ],
-  "version": "20170504",
-  "name": "Hospicecareambulatory",
-  "title": "Hospice care ambulatory",
+  "version": "20220209",
+  "name": "Hospice Care Ambulatory",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:06-06:00",
-    "contains": [ {
-      "system": "http://snomed.info/sct",
-      "version": "2020-09",
-      "code": "385763009",
-      "display": "Hospice care (regime/therapy)"
-    }, {
-      "system": "http://snomed.info/sct",
-      "version": "2020-09",
-      "code": "385765002",
-      "display": "Hospice care management (procedure)"
-    } ]
-  }
+  "date": "2022-02-09T01:02:18-05:00",
+  "publisher": "NCQA PHEMUR",
+  "expansion": {}
 }

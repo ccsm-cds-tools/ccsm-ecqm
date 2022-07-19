@@ -1,45 +1,16 @@
 {
   "resourceType": "ValueSet",
   "id": "2.16.840.1.113762.1.4.1110.50",
+  "meta": {
+    "versionId": "20",
+    "lastUpdated": "2022-02-19T01:06:51.000-05:00"
+  },
+  "text": {},
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1110.50",
-  "identifier": [ {
-    "system": "urn:ietf:rfc:3986",
-    "value": "2.16.840.1.113762.1.4.1110.50"
-  } ],
-  "version": "20210220",
-  "name": "RivaroxabanforVTEProphylaxis",
-  "title": "Rivaroxaban for VTE Prophylaxis",
+  "version": "20220219",
+  "name": "Rivaroxaban for VTE Prophylaxis",
   "status": "active",
-  "experimental": false,
-  "publisher": "NLM",
-  "expansion": {
-    "identifier": "20210506",
-    "timestamp": "2021-07-19T17:22:06-06:00",
-    "contains": [ {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "1114198",
-      "display": "rivaroxaban 10 MG Oral Tablet"
-    }, {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "1232082",
-      "display": "rivaroxaban 15 MG Oral Tablet"
-    }, {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "1232086",
-      "display": "rivaroxaban 20 MG Oral Tablet"
-    }, {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "1549682",
-      "display": "{42 (rivaroxaban 15 MG Oral Tablet) / 9 (rivaroxaban 20 MG Oral Tablet) } Pack"
-    }, {
-      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
-      "version": "2021-01",
-      "code": "2059015",
-      "display": "rivaroxaban 2.5 MG Oral Tablet"
-    } ]
-  }
+  "date": "2022-02-19T01:06:51-05:00",
+  "publisher": "TJC EH Steward",
+  "expansion": {}
 }
