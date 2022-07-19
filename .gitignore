@@ -5,3 +5,8 @@ temp/
 template/
 input/cql/scratch.cql
 input/vocabulary
+package-lock.json
+input/tests/*-bundle.json
+input/tests/*/*-bundle.json
+input/tests/*/*/*-bundle.json
+bundles
