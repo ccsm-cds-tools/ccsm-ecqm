@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113883.3.3616.200.110.102.6008",
+  "meta": {
+    "versionId": "18",
+    "lastUpdated": "2022-07-15T01:02:56.000-04:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.6008",
+  "version": "20220715",
+  "name": "COVID19 SNOMED Value Set for Adult Rheumatoid Arthritis",
+  "status": "active",
+  "date": "2022-07-15T01:02:56-04:00",
+  "publisher": "Clinical Architecture",
+  "expansion": {}
+}

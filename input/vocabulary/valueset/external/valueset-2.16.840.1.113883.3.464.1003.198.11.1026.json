@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113883.3.464.1003.198.11.1026",
+  "meta": {
+    "versionId": "38",
+    "lastUpdated": "2021-02-20T01:00:45.000-05:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026",
+  "version": "20210220",
+  "name": "Hysterectomy with No Residual Cervix",
+  "status": "active",
+  "date": "2021-02-20T01:00:45-05:00",
+  "publisher": "NCQA PHEMUR",
+  "expansion": {}
+}

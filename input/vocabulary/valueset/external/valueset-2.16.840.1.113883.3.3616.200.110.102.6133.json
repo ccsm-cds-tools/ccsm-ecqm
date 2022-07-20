@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113883.3.3616.200.110.102.6133",
+  "meta": {
+    "versionId": "10",
+    "lastUpdated": "2020-12-22T01:00:33.000-05:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.6133",
+  "version": "20201222",
+  "name": "COVID19 SNOMED Value Set for Hemopoietic Stem Cell Transplantation",
+  "status": "active",
+  "date": "2020-12-22T01:00:34-05:00",
+  "publisher": "Clinical Architecture",
+  "expansion": {}
+}

@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113762.1.4.1110.38",
+  "meta": {
+    "versionId": "8",
+    "lastUpdated": "2019-04-26T01:01:00.000-04:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1110.38",
+  "version": "20190426",
+  "name": "Outpatient Surgery Service",
+  "status": "active",
+  "date": "2019-04-26T01:01:00-04:00",
+  "publisher": "TJC EH Steward",
+  "expansion": {}
+}

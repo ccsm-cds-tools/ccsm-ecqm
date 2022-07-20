@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113883.3.464.1003.109.11.1025",
+  "meta": {
+    "versionId": "38",
+    "lastUpdated": "2021-02-20T01:02:00.000-05:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.11.1025",
+  "version": "20210220",
+  "name": "Kidney Transplant",
+  "status": "active",
+  "date": "2021-02-20T01:02:00-05:00",
+  "publisher": "NCQA PHEMUR",
+  "expansion": {}
+}

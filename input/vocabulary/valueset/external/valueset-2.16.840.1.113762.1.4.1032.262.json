@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113762.1.4.1032.262",
+  "meta": {
+    "versionId": "5",
+    "lastUpdated": "2022-03-29T01:02:20.000-04:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.262",
+  "version": "20220329",
+  "name": "Normal Histology Finding",
+  "status": "active",
+  "date": "2022-03-29T01:02:20-04:00",
+  "publisher": "MITRE Steward",
+  "expansion": {}
+}

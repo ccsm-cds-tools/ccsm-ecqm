@@ -1,0 +1,16 @@
+{
+  "resourceType": "ValueSet",
+  "id": "2.16.840.1.113762.1.4.1032.198",
+  "meta": {
+    "versionId": "5",
+    "lastUpdated": "2021-09-28T11:49:32.000-04:00"
+  },
+  "text": {},
+  "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.198",
+  "version": "20210805",
+  "name": "Diethylstilbestrol (DES) exposure in utero",
+  "status": "active",
+  "date": "2021-08-05T01:00:36-04:00",
+  "publisher": "MITRE Steward",
+  "expansion": {}
+}
