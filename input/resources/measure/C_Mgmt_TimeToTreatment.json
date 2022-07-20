@@ -1,0 +1,1272 @@
+{
+  "resourceType": "Measure",
+  "id": "C_Mgmt_TimeToTreatment",
+  "meta": {
+    "profile": [ "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/computable-measure-cqfm" ]
+  },
+  "language": "en",
+  "contained": [ {
+    "resourceType": "Library",
+    "id": "effective-data-requirements",
+    "extension": [ {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://loinc.org",
+        "code": "65753-6",
+        "display": "Cervix Pathology biopsy report"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "285836003",
+        "display": "Cervical intraepithelial neoplasia grade 1 (disorder)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "285838002",
+        "display": "Cervical intraepithelial neoplasia grade 2 (disorder)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://hl7.org/fhir/gender-identity",
+        "code": "transgender-male",
+        "display": "transgender male"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "428361000124107",
+        "display": "Discharge to home for hospice care (procedure)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "428371000124100",
+        "display": "Discharge to healthcare facility for hospice care (procedure)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://loinc.org",
+        "code": "45755-6",
+        "display": "Hospice care [Minimum Data Set]"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "373066001",
+        "display": "Yes (qualifier value)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://loinc.org",
+        "code": "71007-9",
+        "display": "Functional Assessment of Chronic Illness Therapy - Palliative Care Questionnaire (FACIT-Pal)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+        "code": "survey",
+        "display": "Survey"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://hl7.org/fhir/sid/icd-10-cm",
+        "code": "Z51.5",
+        "display": "Encounter for palliative care"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+        "code": "confirmed",
+        "display": "Confirmed"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+        "code": "active",
+        "display": "Active"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+        "code": "recurrence",
+        "display": "Recurrence"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+        "code": "relapse",
+        "display": "Relapse"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://loinc.org",
+        "code": "82810-3",
+        "display": "Pregnancy status"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-directReferenceCode",
+      "valueCoding": {
+        "system": "http://snomed.info/sct",
+        "code": "77386006",
+        "display": "Patient currently pregnant (finding)"
+      }
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "HPVVaccination_SDE"
+      }, {
+        "url": "name",
+        "valueString": "Two Vaccine Regimen"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Two Vaccine Regimen\":\n  [Immunization: Dash.\"HPV Immunization\"] Vaccines\n  where Vaccines.occurrence.value in Interval[Patient.birthDate + 9 years, Patient.birthDate + 15 years + 146 days]"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 0
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "HPVVaccination_SDE"
+      }, {
+        "url": "name",
+        "valueString": "Three Vaccine Regimen"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Three Vaccine Regimen\":\n  [Immunization: Dash.\"HPV Immunization\"] Vaccines\n  where Vaccines.occurrence.value in Interval[Patient.birthDate + 15 years, Patient.birthDate + 45 years]"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 1
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "HPVVaccination_SDE"
+      }, {
+        "url": "name",
+        "valueString": "HPV Vaccinated"
+      }, {
+        "url": "statement",
+        "valueString": "define \"HPV Vaccinated\":\n  (Count(\"Two Vaccine Regimen\") = 2 and \"Two Vaccine Regimen\"[1].occurrence >= \"Two Vaccine Regimen\"[0].occurrence + 146 days)\n    or\n  (Count(\"Three Vaccine Regimen\") = 3 and \"Dates Not Equal\"(\"Three Vaccine Regimen\"))"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 2
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "SDE HPV Vaccination Status"
+      }, {
+        "url": "statement",
+        "valueString": "define \"SDE HPV Vaccination Status\":\n  HPVVaccination_SDE.\"HPV Vaccinated\""
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 3
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "CervicalExcisionProcedures"
+      }, {
+        "url": "statement",
+        "valueString": "define CervicalExcisionProcedures:\n  C3F.Completed(\n    [Procedure: \"Cervical Excision Procedures\"]\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 4
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "CervicalAblationProcedures"
+      }, {
+        "url": "statement",
+        "valueString": "define CervicalAblationProcedures:\n  C3F.Completed(\n    [Procedure: \"Cervical Ablation Procedures\"]\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 5
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "CervicalPrecancerTreatments"
+      }, {
+        "url": "statement",
+        "valueString": "// Look for treatments after this CIN2/CIN3 biopsy\ndefine CervicalPrecancerTreatments:\n  Dash.CervicalExcisionProcedures union\n    Dash.CervicalAblationProcedures"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 6
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "HistologyDiagnosticReports"
+      }, {
+        "url": "statement",
+        "valueString": "define HistologyDiagnosticReports:\n  Common.CompletedDiagnosticReport([DiagnosticReport: \"Biopsy Report\"])"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 7
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "BiopsyReports"
+      }, {
+        "url": "statement",
+        "valueString": "/*~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~*/\n// BIOPSIES / HISTOLOGYdefine BiopsyReports:\n  Common.LookBack(\n    Dash.HistologyDiagnosticReports,\n    BiopsyLookbackPeriod\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 8
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "SortedBiopsyReports"
+      }, {
+        "url": "statement",
+        "valueString": "define SortedBiopsyReports:\n  (BiopsyReports) B\n  return {\n    riskTableInput: HighestRankedInterpretation(\n      BiopsyInterpretation(\n        B.conclusionCode\n      )\n    ),\n    allConclusions: B.conclusionCode,\n    date: Common.DiagnosticReportDate(B)\n  }\n  sort by date desc"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 9
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "CIN3 Cervical Cancer Histology"
+      }, {
+        "url": "statement",
+        "valueString": "define \"CIN3 Cervical Cancer Histology\":\n  ManagementLibrary.SortedBiopsyReports Biopsy\n    where Biopsy.date in Interval[start of \"Measurement Period\" - 3 months, end of \"Measurement Period\" - 3 months]\n    and Biopsy.riskTableInput = 'CIN3'\n    sort by date"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 10
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Precancer Treatment Referral"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Precancer Treatment Referral\":\n  [ServiceRequest: \"Referral to Gynecology\"] Referral\n    where Referral.status in { 'draft', 'active', 'on-hold', 'completed' }\n    and Referral.doNotPerform is not true"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 11
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Numerator"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Numerator\":\n  (exists ManagementLibrary.\"CervicalPrecancerTreatments\" AblationOrExcision\n    where Common.ProcedureDate(AblationOrExcision) 3 months or less after First(\"CIN3 Cervical Cancer Histology\").date)\n  or\n  (exists \"Precancer Treatment Referral\" R\n    where R.authoredOn 30 days or less after First(\"CIN3 Cervical Cancer Histology\").date)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 12
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "FemaleGender"
+      }, {
+        "url": "statement",
+        "valueString": "// # Target population\n\n// INCLUSIONS\n/* Sex at birth = Female\nOR Gender identity = Transgender Male */\n\n// Patient Gender\ndefine FemaleGender:\n  Patient.gender.value = 'female'"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 13
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "FemaleBirthSex"
+      }, {
+        "url": "statement",
+        "valueString": "// Sex assigned at birth\ndefine FemaleBirthSex:\n  exists(\n    Patient.extension E\n      where E.url = 'http://hl7.org/fhir/us/core/StructureDefinition/us-core-birthsex'\n      and E.value = 'F'\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 14
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "Female"
+      }, {
+        "url": "statement",
+        "valueString": "define Female:\n  FemaleGender or FemaleBirthSex"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 15
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "GenderIdentity"
+      }, {
+        "url": "statement",
+        "valueString": "define GenderIdentity:\n  Patient.extension E\n    where E.url = 'http://hl7.org/fhir/StructureDefinition/patient-genderIdentity'"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 16
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "TransgenderMale"
+      }, {
+        "url": "statement",
+        "valueString": "define TransgenderMale:\n  exists(\n    GenderIdentity E\n      where E.value as FHIR.CodeableConcept ~ \"Transgender Male Code\"\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 17
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "TopLevelScreeningLibrary"
+      }, {
+        "url": "name",
+        "valueString": "FemaleorTransgenderMale"
+      }, {
+        "url": "statement",
+        "valueString": "define FemaleorTransgenderMale:\n  Female or TransgenderMale"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 18
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Initial Population"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Initial Population\":\n  AgeInYearsAt(date from start of \"Measurement Period\")in Interval[20, 65)\n    and TLSL.FemaleorTransgenderMale\n    and exists \"CIN3 Cervical Cancer Histology\""
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 19
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Denominator"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Denominator\":\n  \"Initial Population\""
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 20
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "HospiceFHIR4_2022"
+      }, {
+        "url": "name",
+        "valueString": "Has Hospice Services"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Has Hospice Services\":\n  exists (\n    [Encounter: \"Encounter Inpatient\"] InpatientEncounter\n\t\t\twhere InpatientEncounter.status = 'finished'\n\t\t    and (\n\t        InpatientEncounter.hospitalization.dischargeDisposition ~ \"Discharge to home for hospice care (procedure)\"\n\t\t\t\t    or InpatientEncounter.hospitalization.dischargeDisposition ~ \"Discharge to healthcare facility for hospice care (procedure)\"\n\t    \t)\n\t\t\t\tand InpatientEncounter.period ends during day of \"Measurement Period\"\n\t)\n    or exists (\n      [Encounter: \"Hospice Encounter\"] HospiceEncounter\n        where HospiceEncounter.status = 'finished'\n          and HospiceEncounter.period overlaps \"Measurement Period\"\n    )\n    or exists (\n      [\"Observation\": \"Hospice care [Minimum Data Set]\"] HospiceAssessment\n        where HospiceAssessment.value ~ \"Yes (qualifier value)\"\n          and Global.\"Normalize Interval\"(HospiceAssessment.effective) overlaps \"Measurement Period\"\n    )\n    or exists (\n      [ServiceRequest: \"Hospice Care Ambulatory\"] HospiceOrder\n        where HospiceOrder.status in {'active', 'completed'}\n          and HospiceOrder.intent = 'order'\n          and Global.\"Normalize Interval\"(HospiceOrder.authoredOn) during day of \"Measurement Period\"\n    )\n    or exists (\n      [Procedure: \"Hospice Care Ambulatory\"] HospicePerformed\n        where HospicePerformed.status = 'completed'\n          and Global.\"Normalize Interval\"(HospicePerformed.performed) overlaps \"Measurement Period\"\n    )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 21
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "PalliativeCareExclusionFHIR4_2022"
+      }, {
+        "url": "name",
+        "valueString": "Palliative Care in the Measurement Period"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Palliative Care in the Measurement Period\":\n  exists (\n    [Observation: \"Functional Assessment of Chronic Illness Therapy - Palliative Care Questionnaire (FACIT-Pal)\"] PalliativeAssessment\n      where PalliativeAssessment.status in { 'final', 'amended', 'corrected' }\n        and exists ( PalliativeAssessment.category PalliativeAssessmentCategory\n            where PalliativeAssessmentCategory ~ FHIRCommon.survey\n        )\n        and Global.\"Normalize Interval\"(PalliativeAssessment.effective) overlaps \"Measurement Period\"\n  )\n    or exists (\n      [Condition: \"Encounter for palliative care\"] PalliativeCondition\n        where Global.\"Prevalence Period\"(PalliativeCondition) overlaps \"Measurement Period\"\n    )\n    or exists (\n      [Encounter: \"Palliative Care Encounter\"] PalliativeEncounter\n        where PalliativeEncounter.status = 'finished'\n          and Global.\"Normalize Interval\"(PalliativeEncounter.period) overlaps \"Measurement Period\"\n    )\n    or exists (\n      [Procedure: \"Palliative Care Intervention\"] PalliativeIntervention\n        where PalliativeIntervention.status in { 'completed', 'in-progress' }\n          and Global.\"Normalize Interval\"(PalliativeIntervention.performed) overlaps \"Measurement Period\"\n    )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 22
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "CervicalCancerDiagnoses"
+      }, {
+        "url": "statement",
+        "valueString": "//------------------------------------------------------------------------------\n// PERTINENT CONDITIONS\n//------------------------------------------------------------------------------\n// Conditions relevant to cervical cancer\n//    Allow all clinical statues and no lookback restriction\ndefine CervicalCancerDiagnoses:\n  [Condition: \"Diagnosis of Cervical cancer\"]"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 23
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "HasCervicalCancerDiagnoses"
+      }, {
+        "url": "statement",
+        "valueString": "define HasCervicalCancerDiagnoses:\n  Exists(Dash.CervicalCancerDiagnoses)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 24
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "RemovalOfCervixProcedures"
+      }, {
+        "url": "statement",
+        "valueString": "define RemovalOfCervixProcedures:\n  C3F.Completed(\n    [Procedure: \"Removal of Cervix Procedures\"]\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 25
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "HasRemovalOfCervixProcedures"
+      }, {
+        "url": "statement",
+        "valueString": "define HasRemovalOfCervixProcedures:\n  Exists(Dash.RemovalOfCervixProcedures)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 26
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "AbsenceOfCervixDiagnoses"
+      }, {
+        "url": "statement",
+        "valueString": "define AbsenceOfCervixDiagnoses:\n  [Condition: \"Diagnosis of Absence of cervix\"]"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 27
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "HasAbsenceOfCervixDiagnoses"
+      }, {
+        "url": "statement",
+        "valueString": "define HasAbsenceOfCervixDiagnoses:\n  Exists(Dash.AbsenceOfCervixDiagnoses)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 28
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "AbsenceOfCervixObservations"
+      }, {
+        "url": "statement",
+        "valueString": "define AbsenceOfCervixObservations:\n    C3F.Verified(\n      [Observation: \"Absence of cervix observation\"]\n    )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 29
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "HasAbsenceOfCervixObservations"
+      }, {
+        "url": "statement",
+        "valueString": "define HasAbsenceOfCervixObservations:\n  Exists(Dash.AbsenceOfCervixObservations)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 30
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "AbsenceOrRemovalOfCervix"
+      }, {
+        "url": "statement",
+        "valueString": "define AbsenceOrRemovalOfCervix:\n  HasRemovalOfCervixProcedures or\n  HasAbsenceOfCervixDiagnoses or\n  HasAbsenceOfCervixObservations"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 31
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Absence of Cervix"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Absence of Cervix\":\n  ManagementLibrary.AbsenceOrRemovalOfCervix\n  or exists C3F.Completed(\n    [Procedure: \"Removal of Cervix Procedures CPT\"]\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 32
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "PregnancyDiagnoses"
+      }, {
+        "url": "statement",
+        "valueString": "define PregnancyDiagnoses:\n  C3F.Confirmed(\n    C3F.ActiveOrRecurring(\n      C3F.ConditionLookBack(\n        [Condition: \"Pregnancy\"] union [Condition: \"Pregnancy (New ICD10 codes published in 2018 and 2020)\"],\n        42 weeks\n      )\n    )\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 33
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "DisplayCervicalCancerMedicalHistory"
+      }, {
+        "url": "name",
+        "valueString": "PregnancyObservations"
+      }, {
+        "url": "statement",
+        "valueString": "define PregnancyObservations:\n  C3F.ObservationLookBack(\n    C3F.Verified(\n      [Observation: \"Pregnancy Status\"] P\n        where P.value ~ \"Patient currently pregnant\"\n    ),\n    42 weeks\n  )"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 34
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "ManagementLibrary"
+      }, {
+        "url": "name",
+        "valueString": "Pregnant"
+      }, {
+        "url": "statement",
+        "valueString": "define Pregnant:\n  Exists(Dash.PregnancyDiagnoses) or\n  Exists(Dash.PregnancyObservations)"
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 35
+      } ]
+    }, {
+      "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
+      "extension": [ {
+        "url": "libraryName",
+        "valueString": "C_Mgmt_TimeToTreatment"
+      }, {
+        "url": "name",
+        "valueString": "Denominator Exclusions"
+      }, {
+        "url": "statement",
+        "valueString": "define \"Denominator Exclusions\":\n  Hospice.\"Has Hospice Services\"\n  or PalliativeCare.\"Palliative Care in the Measurement Period\"\n  or ManagementLibrary.\"HasCervicalCancerDiagnoses\"\n  or \"Absence of Cervix\"\n  or ManagementLibrary.\"Pregnant\""
+      }, {
+        "url": "displaySequence",
+        "valueInteger": 36
+      } ]
+    } ],
+    "status": "active",
+    "type": {
+      "coding": [ {
+        "system": "http://terminology.hl7.org/CodeSystem/library-type",
+        "code": "module-definition"
+      } ]
+    },
+    "relatedArtifact": [ {
+      "type": "depends-on",
+      "display": "Library HPVVaccination_SDE",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HPVVaccination_SDE|0.0.1"
+    }, {
+      "type": "depends-on",
+      "display": "Library Dash",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/DisplayCervicalCancerMedicalHistory|1.0.0"
+    }, {
+      "type": "depends-on",
+      "display": "Library FHIRHelpers",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.0.1"
+    }, {
+      "type": "depends-on",
+      "display": "Library ManagementLibrary",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/ManagementLibrary|1.0.0"
+    }, {
+      "type": "depends-on",
+      "display": "Library C3F",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/CDSConnectCommonsforFHIRv401|1.0.0"
+    }, {
+      "type": "depends-on",
+      "display": "Library Common",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/CCSMCommonFunctions|1.0.0"
+    }, {
+      "type": "depends-on",
+      "display": "Library TLSL",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.0"
+    }, {
+      "type": "depends-on",
+      "display": "Library Hospice",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4_2022|4.0.000"
+    }, {
+      "type": "depends-on",
+      "display": "Library FHIRHelpers",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers_2022|4.0.002"
+    }, {
+      "type": "depends-on",
+      "display": "Library FHIRCommon",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon_2022|4.0.002"
+    }, {
+      "type": "depends-on",
+      "display": "Library Global",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4_2022|7.0.000"
+    }, {
+      "type": "depends-on",
+      "display": "Library PalliativeCare",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4_2022|2.0.000"
+    }, {
+      "type": "depends-on",
+      "display": "Code system LOINC",
+      "resource": "http://loinc.org"
+    }, {
+      "type": "depends-on",
+      "display": "Code system SNOMED-CT",
+      "resource": "http://snomed.info/sct"
+    }, {
+      "type": "depends-on",
+      "display": "Code system GENDER-IDENTITY",
+      "resource": "http://hl7.org/fhir/gender-identity"
+    }, {
+      "type": "depends-on",
+      "display": "Code system ObservationCategoryCodes",
+      "resource": "http://terminology.hl7.org/CodeSystem/observation-category"
+    }, {
+      "type": "depends-on",
+      "display": "Code system ICD10CM",
+      "resource": "http://hl7.org/fhir/sid/icd-10-cm"
+    }, {
+      "type": "depends-on",
+      "display": "Code system CONDVERSTATUS",
+      "resource": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+    }, {
+      "type": "depends-on",
+      "display": "Code system CONDCLINSTATUS",
+      "resource": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+    }, {
+      "type": "depends-on",
+      "display": "Value set HPV Immunization",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.191"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Cervical Excision Procedures",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.182"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Cervical Ablation Procedures",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.241"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Normal Histology Finding",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.262"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Histologic CIN3",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.269"
+    }, {
+      "type": "depends-on",
+      "display": "Value set AIS",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.259"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Histologic cancer",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.244"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Referral to Gynecology",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.277"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Encounter Inpatient",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.307"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Hospice Encounter",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.1003"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Hospice Care Ambulatory",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1584"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Palliative Care Encounter",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1090"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Palliative Care Intervention",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1135"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Diagnosis of Cervical cancer",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.246"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Removal of Cervix Procedures",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1027"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Diagnosis of Absence of cervix",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.201"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Absence of cervix observation",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.202"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Removal of Cervix Procedures CPT",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Pregnancy",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.378"
+    }, {
+      "type": "depends-on",
+      "display": "Value set Pregnancy (New ICD10 codes published in 2018 and 2020)",
+      "resource": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.80"
+    } ],
+    "parameter": [ {
+      "name": "BiopsyLookbackPeriod",
+      "use": "in",
+      "min": 0,
+      "max": "1",
+      "type": "Quantity"
+    }, {
+      "name": "Measurement Period",
+      "use": "in",
+      "min": 0,
+      "max": "1",
+      "type": "Period"
+    }, {
+      "name": "SDE HPV Vaccination Status",
+      "use": "out",
+      "min": 0,
+      "max": "1",
+      "type": "boolean"
+    }, {
+      "name": "Numerator",
+      "use": "out",
+      "min": 0,
+      "max": "1",
+      "type": "boolean"
+    }, {
+      "name": "Denominator",
+      "use": "out",
+      "min": 0,
+      "max": "1",
+      "type": "boolean"
+    }, {
+      "name": "Initial Population",
+      "use": "out",
+      "min": 0,
+      "max": "1",
+      "type": "boolean"
+    }, {
+      "name": "Denominator Exclusions",
+      "use": "out",
+      "min": 0,
+      "max": "1",
+      "type": "boolean"
+    } ],
+    "dataRequirement": [ {
+      "type": "date",
+      "profile": [ "http://hl7.org/fhir/date" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "Patient",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Patient" ],
+      "mustSupport": [ "url", "value" ]
+    }, {
+      "type": "Immunization",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Immunization" ],
+      "mustSupport": [ "vaccineCode", "occurrence", "occurrence.value" ],
+      "codeFilter": [ {
+        "path": "vaccineCode",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.191"
+      } ]
+    }, {
+      "type": "Patient",
+      "profile": [ "http://hl7.org/fhir/Patient" ],
+      "mustSupport": [ "birthDate", "gender", "gender.value" ]
+    }, {
+      "type": "dateTime",
+      "profile": [ "http://hl7.org/fhir/dateTime" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "Immunization",
+      "profile": [ "http://hl7.org/fhir/Immunization" ],
+      "mustSupport": [ "occurrence" ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code", "status", "performed" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1584"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code", "status", "performed" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1135"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.182"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.241"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Procedure" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1027"
+      } ]
+    }, {
+      "type": "Procedure",
+      "profile": [ "http://hl7.org/fhir/Procedure" ],
+      "mustSupport": [ "performed" ]
+    }, {
+      "type": "Period",
+      "profile": [ "http://hl7.org/fhir/Period" ],
+      "mustSupport": [ "end", "end.value", "start", "start.value" ]
+    }, {
+      "type": "DiagnosticReport",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/DiagnosticReport" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "code": [ {
+          "system": "http://loinc.org",
+          "code": "65753-6",
+          "display": "Cervix Pathology biopsy report"
+        } ]
+      } ]
+    }, {
+      "type": "DiagnosticReport",
+      "profile": [ "http://hl7.org/fhir/DiagnosticReport" ],
+      "mustSupport": [ "effective" ]
+    }, {
+      "profile": [ "http://hl7.org/fhir/ServiceRequestStatus" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "boolean",
+      "profile": [ "http://hl7.org/fhir/boolean" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "ServiceRequest",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/ServiceRequest" ],
+      "mustSupport": [ "code", "status", "doNotPerform", "authoredOn" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.277"
+      } ]
+    }, {
+      "type": "ServiceRequest",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/ServiceRequest" ],
+      "mustSupport": [ "code", "status", "intent", "authoredOn" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1584"
+      } ]
+    }, {
+      "type": "uri",
+      "profile": [ "http://hl7.org/fhir/uri" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "base64Binary",
+      "profile": [ "http://hl7.org/fhir/base64Binary" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "string",
+      "profile": [ "http://hl7.org/fhir/string" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "profile": [ "http://hl7.org/fhir/EncounterStatus" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "profile": [ "http://hl7.org/fhir/ServiceRequestIntent" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "instant",
+      "profile": [ "http://hl7.org/fhir/instant" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "Quantity",
+      "profile": [ "http://hl7.org/fhir/Quantity" ],
+      "mustSupport": [ "value", "comparator", "system", "system.value", "value.value", "code", "code.value", "unit", "unit.value" ]
+    }, {
+      "type": "Range",
+      "profile": [ "http://hl7.org/fhir/Range" ],
+      "mustSupport": [ "low", "high" ]
+    }, {
+      "profile": [ "http://hl7.org/fhir/ProcedureStatus" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "Encounter",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Encounter" ],
+      "mustSupport": [ "type", "status", "hospitalization", "hospitalization.dischargeDisposition", "period" ],
+      "codeFilter": [ {
+        "path": "type",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.307"
+      } ]
+    }, {
+      "type": "Encounter",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Encounter" ],
+      "mustSupport": [ "type", "status", "period" ],
+      "codeFilter": [ {
+        "path": "type",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.1003"
+      } ]
+    }, {
+      "type": "Encounter",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Encounter" ],
+      "mustSupport": [ "type", "status", "period" ],
+      "codeFilter": [ {
+        "path": "type",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1090"
+      } ]
+    }, {
+      "type": "Observation",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Observation" ],
+      "mustSupport": [ "code", "value", "effective" ],
+      "codeFilter": [ {
+        "path": "code",
+        "code": [ {
+          "system": "http://loinc.org",
+          "code": "45755-6",
+          "display": "Hospice care [Minimum Data Set]"
+        } ]
+      } ]
+    }, {
+      "type": "Observation",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Observation" ],
+      "mustSupport": [ "code", "status", "category", "effective" ],
+      "codeFilter": [ {
+        "path": "code",
+        "code": [ {
+          "system": "http://loinc.org",
+          "code": "71007-9",
+          "display": "Functional Assessment of Chronic Illness Therapy - Palliative Care Questionnaire (FACIT-Pal)"
+        } ]
+      } ]
+    }, {
+      "type": "Observation",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Observation" ],
+      "mustSupport": [ "code", "value" ],
+      "codeFilter": [ {
+        "path": "code",
+        "code": [ {
+          "system": "http://loinc.org",
+          "code": "82810-3",
+          "display": "Pregnancy status"
+        } ]
+      } ]
+    }, {
+      "type": "Observation",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Observation" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.202"
+      } ]
+    }, {
+      "profile": [ "http://hl7.org/fhir/ObservationStatus" ],
+      "mustSupport": [ "value" ]
+    }, {
+      "type": "Condition",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Condition" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "code": [ {
+          "system": "http://hl7.org/fhir/sid/icd-10-cm",
+          "code": "Z51.5",
+          "display": "Encounter for palliative care"
+        } ]
+      } ]
+    }, {
+      "type": "Condition",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Condition" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.378"
+      } ]
+    }, {
+      "type": "Condition",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Condition" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.80"
+      } ]
+    }, {
+      "type": "Condition",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Condition" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.246"
+      } ]
+    }, {
+      "type": "Condition",
+      "profile": [ "http://hl7.org/fhir/StructureDefinition/Condition" ],
+      "mustSupport": [ "code" ],
+      "codeFilter": [ {
+        "path": "code",
+        "valueSet": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.201"
+      } ]
+    } ]
+  } ],
+  "extension": [ {
+    "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-softwaresystem",
+    "valueReference": {
+      "reference": "Device/cqf-tooling"
+    }
+  }, {
+    "id": "effective-data-requirements",
+    "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-effectiveDataRequirements",
+    "valueReference": {
+      "reference": "#effective-data-requirements"
+    }
+  } ],
+  "version": "0.0.1",
+  "name": "C_Mgmt_TimeToTreatment",
+  "title": "CCSM Management Time To Treatment",
+  "status": "draft",
+  "experimental": false,
+  "date": "2022-07-20T10:50:05-04:00",
+  "publisher": "MITRE",
+  "description": ".",
+  "purpose": "Unknown",
+  "copyright": ".",
+  "library": [ "http://ecqi.healthit.gov/ecqms/Library/C_Mgmt_TimeToTreatment" ],
+  "disclaimer": "The performance Measure is not a clinical guideline and does not establish a standard of medical care, and has not been tested for all potential applications. THE MEASURE AND SPECIFICATIONS ARE PROVIDED \"AS IS\" WITHOUT WARRANTY OF ANY KIND. \n\nDue to technical limitations, registered trademarks are indicated by (R) or [R] and unregistered trademarks are indicated by (TM) or [TM].",
+  "scoring": {
+    "coding": [ {
+      "system": "http://terminology.hl7.org/CodeSystem/measure-scoring",
+      "code": "proportion",
+      "display": "Proportion"
+    } ]
+  },
+  "type": [ {
+    "coding": [ {
+      "system": "http://terminology.hl7.org/CodeSystem/measure-type",
+      "code": "outcome"
+    } ]
+  } ],
+  "group": [ {
+    "id": "group-1",
+    "population": [ {
+      "id": "8751E429-AC6B-4663-8FA8-99463D079359",
+      "code": {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/measure-population",
+          "code": "initial-population",
+          "display": "Initial Population"
+        } ]
+      },
+      "criteria": {
+        "language": "text/cql.identifier",
+        "expression": "Initial Population"
+      }
+    }, {
+      "id": "344D2AC5-1248-471D-88F4-9A3817A0A04B",
+      "code": {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/measure-population",
+          "code": "denominator",
+          "display": "Denominator"
+        } ]
+      },
+      "criteria": {
+        "language": "text/cql.identifier",
+        "expression": "Denominator"
+      }
+    }, {
+      "id": "9087E085-7262-4BF2-B5D5-0E14858C1367",
+      "code": {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/measure-population",
+          "code": "denominator-exclusion",
+          "display": "Denominator Exclusion"
+        } ]
+      },
+      "criteria": {
+        "language": "text/cql.identifier",
+        "expression": "Denominator Exclusions"
+      }
+    }, {
+      "id": "8500BE03-048E-4A35-B059-89C816D88282",
+      "code": {
+        "coding": [ {
+          "system": "http://terminology.hl7.org/CodeSystem/measure-population",
+          "code": "numerator",
+          "display": "Numerator"
+        } ]
+      },
+      "criteria": {
+        "language": "text/cql.identifier",
+        "expression": "Numerator"
+      }
+    } ]
+  } ],
+  "supplementalData": [ {
+    "id": "8E1BB067-48E0-4861-BE38-65B6395256E2",
+    "usage": [ {
+      "coding": [ {
+        "system": "http://terminology.hl7.org/CodeSystem/measure-data-usage",
+        "code": "supplemental-data"
+      } ]
+    } ],
+    "criteria": {
+      "language": "text/cql.identifier",
+      "expression": "SDE HPV Vaccination Status"
+    }
+  } ]
+}
