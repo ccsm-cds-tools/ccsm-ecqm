@@ -5,12 +5,83 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:02:37.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183326003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183326003\">183326003</a></td><td>http://snomed.info/sct</td><td>Combined physical therapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33849009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33849009\">33849009</a></td><td>http://snomed.info/sct</td><td>Diagnostic physical therapy procedure (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410158009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410158009\">410158009</a></td><td>http://snomed.info/sct</td><td>Physical therapy assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410159001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410159001\">410159001</a></td><td>http://snomed.info/sct</td><td>Physical therapy education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410160006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410160006\">410160006</a></td><td>http://snomed.info/sct</td><td>Physical therapy management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424203006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424203006\">424203006</a></td><td>http://snomed.info/sct</td><td>Physical therapy education, guidance and counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424291000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424291000\">424291000</a></td><td>http://snomed.info/sct</td><td>Physical therapy surveillance (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-97161\"> </a>97161</td><td>http://www.ama-assn.org/go/cpt</td><td>Physical therapy evaluation: low complexity, requiring these components: A history with no personal factors and/or comorbidities that impact the plan of care; An examination of body system(s) using standardized tests and measures addressing 1-2 elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; A clinical presentation with stable and/or uncomplicated characteristics; and Clinical decision making of low complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 20 minutes are spent face-to-face with the patient and/or family.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-97162\"> </a>97162</td><td>http://www.ama-assn.org/go/cpt</td><td>Physical therapy evaluation: moderate complexity, requiring these components: A history of present problem with 1-2 personal factors and/or comorbidities that impact the plan of care; An examination of body systems using standardized tests and measures in addressing a total of 3 or more elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; An evolving clinical presentation with changing characteristics; and Clinical decision making of moderate complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 30 minutes are spent face-to-face with the patient and/or family.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-97163\"> </a>97163</td><td>http://www.ama-assn.org/go/cpt</td><td>Physical therapy evaluation: high complexity, requiring these components: A history of present problem with 3 or more personal factors and/or comorbidities that impact the plan of care; An examination of body systems using standardized tests and measures addressing a total of 4 or more elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; A clinical presentation with unstable and unpredictable characteristics; and Clinical decision making of high complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 45 minutes are spent face-to-face with the patient and/or family.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-97164\"> </a>97164</td><td>http://www.ama-assn.org/go/cpt</td><td>Re-evaluation of physical therapy established plan of care, requiring these components: An examination including a review of history and use of standardized tests and measures is required; and Revised plan of care using a standardized patient assessment instrument and/or measurable assessment of functional outcome Typically, 20 minutes are spent face-to-face with the patient and/or family.</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1022",
   "version": "20200306",
   "name": "Physical Therapy Evaluation",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:dfa176bc-d9f8-49ae-bfa5-34416a888cf2",
+    "timestamp": "2022-07-19T15:11:10-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183326003",
+      "display": "Combined physical therapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33849009",
+      "display": "Diagnostic physical therapy procedure (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410158009",
+      "display": "Physical therapy assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410159001",
+      "display": "Physical therapy education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410160006",
+      "display": "Physical therapy management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424203006",
+      "display": "Physical therapy education, guidance and counseling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424291000",
+      "display": "Physical therapy surveillance (regime/therapy)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "97161",
+      "display": "Physical therapy evaluation: low complexity, requiring these components: A history with no personal factors and/or comorbidities that impact the plan of care; An examination of body system(s) using standardized tests and measures addressing 1-2 elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; A clinical presentation with stable and/or uncomplicated characteristics; and Clinical decision making of low complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 20 minutes are spent face-to-face with the patient and/or family."
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "97162",
+      "display": "Physical therapy evaluation: moderate complexity, requiring these components: A history of present problem with 1-2 personal factors and/or comorbidities that impact the plan of care; An examination of body systems using standardized tests and measures in addressing a total of 3 or more elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; An evolving clinical presentation with changing characteristics; and Clinical decision making of moderate complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 30 minutes are spent face-to-face with the patient and/or family."
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "97163",
+      "display": "Physical therapy evaluation: high complexity, requiring these components: A history of present problem with 3 or more personal factors and/or comorbidities that impact the plan of care; An examination of body systems using standardized tests and measures addressing a total of 4 or more elements from any of the following: body structures and functions, activity limitations, and/or participation restrictions; A clinical presentation with unstable and unpredictable characteristics; and Clinical decision making of high complexity using standardized patient assessment instrument and/or measurable assessment of functional outcome. Typically, 45 minutes are spent face-to-face with the patient and/or family."
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "97164",
+      "display": "Re-evaluation of physical therapy established plan of care, requiring these components: An examination including a review of history and use of standardized tests and measures is required; and Revised plan of care using a standardized patient assessment instrument and/or measurable assessment of functional outcome Typically, 20 minutes are spent face-to-face with the patient and/or family."
+    } ]
+  }
 }

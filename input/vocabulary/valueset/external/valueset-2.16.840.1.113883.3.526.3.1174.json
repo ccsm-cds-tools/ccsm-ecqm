@@ -5,12 +5,458 @@
     "versionId": "29",
     "lastUpdated": "2021-03-03T01:00:56.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 86 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1234256\"> </a>1234256</td><td>4 ML labetalol hydrochloride 5 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1297753\"> </a>1297753</td><td>betaxolol hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1297757\"> </a>1297757</td><td>betaxolol hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1495058\"> </a>1495058</td><td>propranolol hydrochloride 4.28 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1593725\"> </a>1593725</td><td>sotalol hydrochloride 5 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1606347\"> </a>1606347</td><td>metoprolol tartrate 37.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1606349\"> </a>1606349</td><td>metoprolol tartrate 75 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1798281\"> </a>1798281</td><td>nebivolol 5 MG / valsartan 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1923422\"> </a>1923422</td><td>sotalol hydrochloride 120 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1923424\"> </a>1923424</td><td>sotalol hydrochloride 160 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1923426\"> </a>1923426</td><td>sotalol hydrochloride 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197379\"> </a>197379</td><td>atenolol 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197380\"> </a>197380</td><td>atenolol 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197381\"> </a>197381</td><td>atenolol 50 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197382\"> </a>197382</td><td>atenolol 100 MG / chlorthalidone 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197383\"> </a>197383</td><td>atenolol 50 MG / chlorthalidone 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198000\"> </a>198000</td><td>bendroflumethiazide 5 MG / nadolol 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198001\"> </a>198001</td><td>bendroflumethiazide 5 MG / nadolol 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198006\"> </a>198006</td><td>nadolol 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198007\"> </a>198007</td><td>nadolol 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198008\"> </a>198008</td><td>nadolol 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198104\"> </a>198104</td><td>pindolol 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198105\"> </a>198105</td><td>pindolol 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198284\"> </a>198284</td><td>timolol 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198285\"> </a>198285</td><td>timolol 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-198286\"> </a>198286</td><td>timolol 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1999031\"> </a>1999031</td><td>24 HR metoprolol succinate 100 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1999033\"> </a>1999033</td><td>24 HR metoprolol succinate 200 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1999035\"> </a>1999035</td><td>24 HR metoprolol succinate 25 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1999037\"> </a>1999037</td><td>24 HR metoprolol succinate 50 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-200031\"> </a>200031</td><td>carvedilol 6.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-200032\"> </a>200032</td><td>carvedilol 12.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-200033\"> </a>200033</td><td>carvedilol 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2477889\"> </a>2477889</td><td>4 ML labetalol hydrochloride 5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2479564\"> </a>2479564</td><td>200 ML labetalol hydrochloride 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2479566\"> </a>2479566</td><td>100 ML labetalol hydrochloride 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2479567\"> </a>2479567</td><td>300 ML labetalol hydrochloride 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-387013\"> </a>387013</td><td>nebivolol 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-686924\"> </a>686924</td><td>carvedilol 3.125 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-751612\"> </a>751612</td><td>nebivolol 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-751618\"> </a>751618</td><td>nebivolol 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-827073\"> </a>827073</td><td>nebivolol 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-854901\"> </a>854901</td><td>bisoprolol fumarate 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-854905\"> </a>854905</td><td>bisoprolol fumarate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-854908\"> </a>854908</td><td>bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-854916\"> </a>854916</td><td>bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-854919\"> </a>854919</td><td>bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856422\"> </a>856422</td><td>hydrochlorothiazide 25 MG / propranolol hydrochloride 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856429\"> </a>856429</td><td>hydrochlorothiazide 25 MG / propranolol hydrochloride 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856443\"> </a>856443</td><td>1 ML propranolol hydrochloride 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856448\"> </a>856448</td><td>propranolol hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856457\"> </a>856457</td><td>propranolol hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856460\"> </a>856460</td><td>24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856481\"> </a>856481</td><td>24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856519\"> </a>856519</td><td>propranolol hydrochloride 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856535\"> </a>856535</td><td>24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856556\"> </a>856556</td><td>propranolol hydrochloride 60 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856569\"> </a>856569</td><td>24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856578\"> </a>856578</td><td>propranolol hydrochloride 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856724\"> </a>856724</td><td>propranolol hydrochloride 4 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856733\"> </a>856733</td><td>propranolol hydrochloride 8 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860510\"> </a>860510</td><td>24 HR carvedilol phosphate 10 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860516\"> </a>860516</td><td>24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860522\"> </a>860522</td><td>24 HR carvedilol phosphate 40 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860532\"> </a>860532</td><td>24 HR carvedilol phosphate 80 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866412\"> </a>866412</td><td>24 HR metoprolol succinate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866419\"> </a>866419</td><td>24 HR metoprolol succinate 200 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866427\"> </a>866427</td><td>24 HR metoprolol succinate 25 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866436\"> </a>866436</td><td>24 HR metoprolol succinate 50 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866452\"> </a>866452</td><td>24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866461\"> </a>866461</td><td>24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 25 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866472\"> </a>866472</td><td>24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 50 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866479\"> </a>866479</td><td>hydrochlorothiazide 25 MG / metoprolol tartrate 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866482\"> </a>866482</td><td>hydrochlorothiazide 25 MG / metoprolol tartrate 50 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866491\"> </a>866491</td><td>hydrochlorothiazide 50 MG / metoprolol tartrate 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866511\"> </a>866511</td><td>metoprolol tartrate 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866514\"> </a>866514</td><td>metoprolol tartrate 50 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-866924\"> </a>866924</td><td>metoprolol tartrate 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-896758\"> </a>896758</td><td>labetalol hydrochloride 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-896762\"> </a>896762</td><td>labetalol hydrochloride 200 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-896766\"> </a>896766</td><td>labetalol hydrochloride 300 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-896771\"> </a>896771</td><td>labetalol hydrochloride 5 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-904589\"> </a>904589</td><td>sotalol hydrochloride 240 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-904630\"> </a>904630</td><td>10 ML sotalol hydrochloride 15 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-998685\"> </a>998685</td><td>acebutolol 400 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-998689\"> </a>998689</td><td>acebutolol 200 MG Oral Capsule</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1174",
   "version": "20210303",
   "name": "Beta Blocker Therapy",
   "status": "active",
   "date": "2021-03-03T01:00:56-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5ed7a7ca-a89a-4e41-b6e4-2644b4b1fa9c",
+    "timestamp": "2022-07-19T15:11:26-04:00",
+    "total": 86,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1234256",
+      "display": "4 ML labetalol hydrochloride 5 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1297753",
+      "display": "betaxolol hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1297757",
+      "display": "betaxolol hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1495058",
+      "display": "propranolol hydrochloride 4.28 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1593725",
+      "display": "sotalol hydrochloride 5 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1606347",
+      "display": "metoprolol tartrate 37.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1606349",
+      "display": "metoprolol tartrate 75 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1798281",
+      "display": "nebivolol 5 MG / valsartan 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1923422",
+      "display": "sotalol hydrochloride 120 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1923424",
+      "display": "sotalol hydrochloride 160 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1923426",
+      "display": "sotalol hydrochloride 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197379",
+      "display": "atenolol 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197380",
+      "display": "atenolol 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197381",
+      "display": "atenolol 50 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197382",
+      "display": "atenolol 100 MG / chlorthalidone 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197383",
+      "display": "atenolol 50 MG / chlorthalidone 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198000",
+      "display": "bendroflumethiazide 5 MG / nadolol 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198001",
+      "display": "bendroflumethiazide 5 MG / nadolol 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198006",
+      "display": "nadolol 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198007",
+      "display": "nadolol 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198008",
+      "display": "nadolol 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198104",
+      "display": "pindolol 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198105",
+      "display": "pindolol 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198284",
+      "display": "timolol 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198285",
+      "display": "timolol 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "198286",
+      "display": "timolol 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1999031",
+      "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1999033",
+      "display": "24 HR metoprolol succinate 200 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1999035",
+      "display": "24 HR metoprolol succinate 25 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1999037",
+      "display": "24 HR metoprolol succinate 50 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "200031",
+      "display": "carvedilol 6.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "200032",
+      "display": "carvedilol 12.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "200033",
+      "display": "carvedilol 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2477889",
+      "display": "4 ML labetalol hydrochloride 5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2479564",
+      "display": "200 ML labetalol hydrochloride 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2479566",
+      "display": "100 ML labetalol hydrochloride 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2479567",
+      "display": "300 ML labetalol hydrochloride 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "387013",
+      "display": "nebivolol 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "686924",
+      "display": "carvedilol 3.125 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "751612",
+      "display": "nebivolol 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "751618",
+      "display": "nebivolol 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "827073",
+      "display": "nebivolol 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "854901",
+      "display": "bisoprolol fumarate 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "854905",
+      "display": "bisoprolol fumarate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "854908",
+      "display": "bisoprolol fumarate 10 MG / hydrochlorothiazide 6.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "854916",
+      "display": "bisoprolol fumarate 2.5 MG / hydrochlorothiazide 6.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "854919",
+      "display": "bisoprolol fumarate 5 MG / hydrochlorothiazide 6.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856422",
+      "display": "hydrochlorothiazide 25 MG / propranolol hydrochloride 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856429",
+      "display": "hydrochlorothiazide 25 MG / propranolol hydrochloride 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856443",
+      "display": "1 ML propranolol hydrochloride 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856448",
+      "display": "propranolol hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856457",
+      "display": "propranolol hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856460",
+      "display": "24 HR propranolol hydrochloride 120 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856481",
+      "display": "24 HR propranolol hydrochloride 160 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856519",
+      "display": "propranolol hydrochloride 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856535",
+      "display": "24 HR propranolol hydrochloride 60 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856556",
+      "display": "propranolol hydrochloride 60 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856569",
+      "display": "24 HR propranolol hydrochloride 80 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856578",
+      "display": "propranolol hydrochloride 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856724",
+      "display": "propranolol hydrochloride 4 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856733",
+      "display": "propranolol hydrochloride 8 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860510",
+      "display": "24 HR carvedilol phosphate 10 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860516",
+      "display": "24 HR carvedilol phosphate 20 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860522",
+      "display": "24 HR carvedilol phosphate 40 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860532",
+      "display": "24 HR carvedilol phosphate 80 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866412",
+      "display": "24 HR metoprolol succinate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866419",
+      "display": "24 HR metoprolol succinate 200 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866427",
+      "display": "24 HR metoprolol succinate 25 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866436",
+      "display": "24 HR metoprolol succinate 50 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866452",
+      "display": "24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866461",
+      "display": "24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 25 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866472",
+      "display": "24 HR hydrochlorothiazide 12.5 MG / metoprolol succinate 50 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866479",
+      "display": "hydrochlorothiazide 25 MG / metoprolol tartrate 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866482",
+      "display": "hydrochlorothiazide 25 MG / metoprolol tartrate 50 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866491",
+      "display": "hydrochlorothiazide 50 MG / metoprolol tartrate 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866511",
+      "display": "metoprolol tartrate 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866514",
+      "display": "metoprolol tartrate 50 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "866924",
+      "display": "metoprolol tartrate 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "896758",
+      "display": "labetalol hydrochloride 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "896762",
+      "display": "labetalol hydrochloride 200 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "896766",
+      "display": "labetalol hydrochloride 300 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "896771",
+      "display": "labetalol hydrochloride 5 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "904589",
+      "display": "sotalol hydrochloride 240 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "904630",
+      "display": "10 ML sotalol hydrochloride 15 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "998685",
+      "display": "acebutolol 400 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "998689",
+      "display": "acebutolol 200 MG Oral Capsule"
+    } ]
+  }
 }

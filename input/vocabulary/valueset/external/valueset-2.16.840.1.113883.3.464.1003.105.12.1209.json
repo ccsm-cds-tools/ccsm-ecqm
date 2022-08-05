@@ -5,12 +5,83 @@
     "versionId": "7",
     "lastUpdated": "2021-03-24T14:23:45.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191476005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191476005\">191476005</a></td><td>http://snomed.info/sct</td><td>Alcohol withdrawal hallucinosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191480000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191480000\">191480000</a></td><td>http://snomed.info/sct</td><td>Alcohol withdrawal syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-288041000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=288041000119101\">288041000119101</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbance due to alcohol withdrawal (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308742005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308742005\">308742005</a></td><td>http://snomed.info/sct</td><td>Alcohol withdrawal-induced convulsion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-723926008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=723926008\">723926008</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85561006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85561006\">85561006</a></td><td>http://snomed.info/sct</td><td>Uncomplicated alcohol withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8635005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8635005\">8635005</a></td><td>http://snomed.info/sct</td><td>Alcohol withdrawal delirium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F10.230\"> </a>F10.230</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcohol dependence with withdrawal, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F10.231\"> </a>F10.231</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcohol dependence with withdrawal delirium</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F10.232\"> </a>F10.232</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcohol dependence with withdrawal with perceptual disturbance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F10.239\"> </a>F10.239</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcohol dependence with withdrawal, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.105.12.1209",
   "version": "20210224",
   "name": "Alcohol Withdrawal",
   "status": "active",
   "date": "2021-02-24T01:00:28-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:fc9c2c9a-8f79-45ca-8228-f68ad6ff8690",
+    "timestamp": "2022-07-19T15:07:16-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191476005",
+      "display": "Alcohol withdrawal hallucinosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191480000",
+      "display": "Alcohol withdrawal syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "288041000119101",
+      "display": "Perceptual disturbance due to alcohol withdrawal (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308742005",
+      "display": "Alcohol withdrawal-induced convulsion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "723926008",
+      "display": "Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85561006",
+      "display": "Uncomplicated alcohol withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8635005",
+      "display": "Alcohol withdrawal delirium (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F10.230",
+      "display": "Alcohol dependence with withdrawal, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F10.231",
+      "display": "Alcohol dependence with withdrawal delirium"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F10.232",
+      "display": "Alcohol dependence with withdrawal with perceptual disturbance"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F10.239",
+      "display": "Alcohol dependence with withdrawal, unspecified"
+    } ]
+  }
 }

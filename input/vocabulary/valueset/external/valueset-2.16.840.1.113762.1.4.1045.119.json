@@ -5,12 +5,58 @@
     "versionId": "34",
     "lastUpdated": "2022-02-18T01:02:25.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2947-0\"> </a><a href=\"http://details.loinc.org/LOINC/2947-0.html\">2947-0</a></td><td>Sodium [Moles/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2951-2\"> </a><a href=\"http://details.loinc.org/LOINC/2951-2.html\">2951-2</a></td><td>Sodium [Moles/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32717-1\"> </a><a href=\"http://details.loinc.org/LOINC/32717-1.html\">32717-1</a></td><td>Sodium [Moles/volume] in Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-39791-9\"> </a><a href=\"http://details.loinc.org/LOINC/39791-9.html\">39791-9</a></td><td>Sodium [Moles/volume] in Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41657-8\"> </a><a href=\"http://details.loinc.org/LOINC/41657-8.html\">41657-8</a></td><td>Sodium [Moles/volume] in Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-77139-4\"> </a><a href=\"http://details.loinc.org/LOINC/77139-4.html\">77139-4</a></td><td>Sodium [Moles/volume] in Serum, Plasma or Blood</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.119",
   "version": "20220218",
   "name": "Sodium lab test",
   "status": "active",
   "date": "2022-02-18T01:02:25-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0b3274db-1c38-4cf2-adfb-28c646c19a8c",
+    "timestamp": "2022-07-19T15:04:22-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2947-0",
+      "display": "Sodium [Moles/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2951-2",
+      "display": "Sodium [Moles/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32717-1",
+      "display": "Sodium [Moles/volume] in Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "39791-9",
+      "display": "Sodium [Moles/volume] in Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41657-8",
+      "display": "Sodium [Moles/volume] in Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "77139-4",
+      "display": "Sodium [Moles/volume] in Serum, Plasma or Blood"
+    } ]
+  }
 }

@@ -5,12 +5,88 @@
     "versionId": "23",
     "lastUpdated": "2022-03-02T18:06:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 12 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233591003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233591003\">233591003</a></td><td>Hemoperfusion (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3257008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3257008\">3257008</a></td><td>Empty and measure peritoneal dialysis fluid (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385970002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385970002\">385970002</a></td><td>Dialysis care assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385971003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385971003\">385971003</a></td><td>Dialysis care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385973000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385973000\">385973000</a></td><td>Dialysis care management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406168002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406168002\">406168002</a></td><td>Dialysis access maintenance (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717738008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717738008\">717738008</a></td><td>Peritoneal dialysis care assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718019005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718019005\">718019005</a></td><td>Hemodialysis care management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718308002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718308002\">718308002</a></td><td>Peritoneal dialysis care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718330001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718330001\">718330001</a></td><td>Hemodialysis care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718331002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718331002\">718331002</a></td><td>Hemodialysis care assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73257006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73257006\">73257006</a></td><td>Peritoneal dialysis catheter maintenance (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.12.1015",
   "version": "20170504",
   "name": "Other Services Related to Dialysis",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c7dd2e18-ee25-4313-a4f4-870c7ef7331d",
+    "timestamp": "2022-07-19T15:07:34-04:00",
+    "total": 12,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233591003",
+      "display": "Hemoperfusion (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3257008",
+      "display": "Empty and measure peritoneal dialysis fluid (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385970002",
+      "display": "Dialysis care assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385971003",
+      "display": "Dialysis care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385973000",
+      "display": "Dialysis care management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406168002",
+      "display": "Dialysis access maintenance (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717738008",
+      "display": "Peritoneal dialysis care assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718019005",
+      "display": "Hemodialysis care management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718308002",
+      "display": "Peritoneal dialysis care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718330001",
+      "display": "Hemodialysis care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718331002",
+      "display": "Hemodialysis care assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73257006",
+      "display": "Peritoneal dialysis catheter maintenance (procedure)"
+    } ]
+  }
 }

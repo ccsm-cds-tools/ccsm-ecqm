@@ -5,12 +5,43 @@
     "versionId": "26",
     "lastUpdated": "2021-03-17T16:07:48.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418114005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418114005\">418114005</a></td><td>Intravenous central route (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419993007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419993007\">419993007</a></td><td>Intravenous peripheral route (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47625008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47625008\">47625008</a></td><td>Intravenous route (qualifier value)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.222",
   "version": "20210220",
   "name": "Intravenous route",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9cd6d321-38c5-4f06-8f92-68233fbc6a7e",
+    "timestamp": "2022-07-19T15:05:40-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418114005",
+      "display": "Intravenous central route (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419993007",
+      "display": "Intravenous peripheral route (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47625008",
+      "display": "Intravenous route (qualifier value)"
+    } ]
+  }
 }

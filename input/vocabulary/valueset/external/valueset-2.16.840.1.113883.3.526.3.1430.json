@@ -5,12 +5,268 @@
     "versionId": "35",
     "lastUpdated": "2021-04-06T01:00:33.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 48 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10942751000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10942751000119100\">10942751000119100</a></td><td>http://snomed.info/sct</td><td>Commotio retinae of right retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10942791000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10942791000119105\">10942791000119105</a></td><td>http://snomed.info/sct</td><td>Commotio retinae of left retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-110262009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=110262009\">110262009</a></td><td>http://snomed.info/sct</td><td>Contusion of periorbital region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12193006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12193006\">12193006</a></td><td>http://snomed.info/sct</td><td>Avulsion of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12403101000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12403101000119108\">12403101000119108</a></td><td>http://snomed.info/sct</td><td>Penetrating wound of right eye caused by foreign body (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-125687005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=125687005\">125687005</a></td><td>http://snomed.info/sct</td><td>Contusion of ocular adnexa (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1869002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1869002\">1869002</a></td><td>http://snomed.info/sct</td><td>Rupture of sphincter of pupil (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-210285009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=210285009\">210285009</a></td><td>http://snomed.info/sct</td><td>Ocular laceration with intraocular prolapse (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-211483007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=211483007\">211483007</a></td><td>http://snomed.info/sct</td><td>Contusion of globe of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21549001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21549001\">21549001</a></td><td>http://snomed.info/sct</td><td>Superficial laceration of cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231791008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231791008\">231791008</a></td><td>http://snomed.info/sct</td><td>Rupture of globe (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231795004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231795004\">231795004</a></td><td>http://snomed.info/sct</td><td>Laceration of globe of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231952009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231952009\">231952009</a></td><td>http://snomed.info/sct</td><td>Tears of iris stroma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23293006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23293006\">23293006</a></td><td>http://snomed.info/sct</td><td>Rupture of eye with partial loss of intraocular tissue (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2532009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2532009\">2532009</a></td><td>http://snomed.info/sct</td><td>Choroidal rupture (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3018008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3018008\">3018008</a></td><td>http://snomed.info/sct</td><td>Penetration of eyeball with magnetic foreign body (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315296002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315296002\">315296002</a></td><td>http://snomed.info/sct</td><td>Penetrating wound of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-367423000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=367423000\">367423000</a></td><td>http://snomed.info/sct</td><td>Contusion of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37911007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37911007\">37911007</a></td><td>http://snomed.info/sct</td><td>Ocular laceration with prolapse AND/OR exposure of intraocular tissue (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416179002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416179002\">416179002</a></td><td>http://snomed.info/sct</td><td>Contusion of eye AND ocular adnexa (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41658006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41658006\">41658006</a></td><td>http://snomed.info/sct</td><td>Traumatic enucleation of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416786002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416786002\">416786002</a></td><td>http://snomed.info/sct</td><td>Penetrating injury of lens (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416931008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416931008\">416931008</a></td><td>http://snomed.info/sct</td><td>Corneoscleral laceration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417654008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417654008\">417654008</a></td><td>http://snomed.info/sct</td><td>Contusion of ocular adnexa and periocular tissues (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419743001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419743001\">419743001</a></td><td>http://snomed.info/sct</td><td>Ruptured Descemet membrane due to birth trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42312000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42312000\">42312000</a></td><td>http://snomed.info/sct</td><td>Rupture in Descemet's membrane (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42697001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42697001\">42697001</a></td><td>http://snomed.info/sct</td><td>Contusion of orbital tissues (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44199000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44199000\">44199000</a></td><td>http://snomed.info/sct</td><td>Penetration of eyeball with nonmagnetic foreign body (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722613000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722613000\">722613000</a></td><td>http://snomed.info/sct</td><td>Penetrating wound of eyeball without foreign body (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735657000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735657000\">735657000</a></td><td>http://snomed.info/sct</td><td>Penetrating injury of both eyeballs (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85100000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85100000\">85100000</a></td><td>http://snomed.info/sct</td><td>Open wound of eyeball (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870312007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870312007\">870312007</a></td><td>http://snomed.info/sct</td><td>Penetrating wound of eyeball with foreign body (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95718009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95718009\">95718009</a></td><td>http://snomed.info/sct</td><td>Rupture of lens (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95725002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95725002\">95725002</a></td><td>http://snomed.info/sct</td><td>Corneal laceration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.11XA\"> </a>S05.11XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Contusion of eyeball and orbital tissues, right eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.12XA\"> </a>S05.12XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Contusion of eyeball and orbital tissues, left eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.21XA\"> </a>S05.21XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ocular laceration and rupture with prolapse or loss of intraocular tissue, right eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.22XA\"> </a>S05.22XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ocular laceration and rupture with prolapse or loss of intraocular tissue, left eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.31XA\"> </a>S05.31XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ocular laceration without prolapse or loss of intraocular tissue, right eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.32XA\"> </a>S05.32XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ocular laceration without prolapse or loss of intraocular tissue, left eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.51XA\"> </a>S05.51XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Penetrating wound with foreign body of right eyeball, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.52XA\"> </a>S05.52XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Penetrating wound with foreign body of left eyeball, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.61XA\"> </a>S05.61XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Penetrating wound without foreign body of right eyeball, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.62XA\"> </a>S05.62XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Penetrating wound without foreign body of left eyeball, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.71XA\"> </a>S05.71XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Avulsion of right eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.72XA\"> </a>S05.72XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Avulsion of left eye, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.8X1A\"> </a>S05.8X1A</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other injuries of right eye and orbit, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-S05.8X2A\"> </a>S05.8X2A</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other injuries of left eye and orbit, initial encounter</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1430",
   "version": "20210406",
   "name": "Open Wound of Eyeball",
   "status": "active",
   "date": "2021-04-06T01:00:33-04:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:230c3af3-73e7-4d1a-8955-49bd2fd40925",
+    "timestamp": "2022-07-19T15:12:11-04:00",
+    "total": 48,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10942751000119100",
+      "display": "Commotio retinae of right retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10942791000119105",
+      "display": "Commotio retinae of left retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "110262009",
+      "display": "Contusion of periorbital region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12193006",
+      "display": "Avulsion of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12403101000119108",
+      "display": "Penetrating wound of right eye caused by foreign body (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "125687005",
+      "display": "Contusion of ocular adnexa (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1869002",
+      "display": "Rupture of sphincter of pupil (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "210285009",
+      "display": "Ocular laceration with intraocular prolapse (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "211483007",
+      "display": "Contusion of globe of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21549001",
+      "display": "Superficial laceration of cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231791008",
+      "display": "Rupture of globe (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231795004",
+      "display": "Laceration of globe of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231952009",
+      "display": "Tears of iris stroma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23293006",
+      "display": "Rupture of eye with partial loss of intraocular tissue (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2532009",
+      "display": "Choroidal rupture (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3018008",
+      "display": "Penetration of eyeball with magnetic foreign body (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315296002",
+      "display": "Penetrating wound of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "367423000",
+      "display": "Contusion of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37911007",
+      "display": "Ocular laceration with prolapse AND/OR exposure of intraocular tissue (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416179002",
+      "display": "Contusion of eye AND ocular adnexa (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41658006",
+      "display": "Traumatic enucleation of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416786002",
+      "display": "Penetrating injury of lens (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416931008",
+      "display": "Corneoscleral laceration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417654008",
+      "display": "Contusion of ocular adnexa and periocular tissues (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419743001",
+      "display": "Ruptured Descemet membrane due to birth trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42312000",
+      "display": "Rupture in Descemet's membrane (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42697001",
+      "display": "Contusion of orbital tissues (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44199000",
+      "display": "Penetration of eyeball with nonmagnetic foreign body (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722613000",
+      "display": "Penetrating wound of eyeball without foreign body (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735657000",
+      "display": "Penetrating injury of both eyeballs (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85100000",
+      "display": "Open wound of eyeball (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870312007",
+      "display": "Penetrating wound of eyeball with foreign body (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95718009",
+      "display": "Rupture of lens (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95725002",
+      "display": "Corneal laceration (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.11XA",
+      "display": "Contusion of eyeball and orbital tissues, right eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.12XA",
+      "display": "Contusion of eyeball and orbital tissues, left eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.21XA",
+      "display": "Ocular laceration and rupture with prolapse or loss of intraocular tissue, right eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.22XA",
+      "display": "Ocular laceration and rupture with prolapse or loss of intraocular tissue, left eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.31XA",
+      "display": "Ocular laceration without prolapse or loss of intraocular tissue, right eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.32XA",
+      "display": "Ocular laceration without prolapse or loss of intraocular tissue, left eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.51XA",
+      "display": "Penetrating wound with foreign body of right eyeball, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.52XA",
+      "display": "Penetrating wound with foreign body of left eyeball, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.61XA",
+      "display": "Penetrating wound without foreign body of right eyeball, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.62XA",
+      "display": "Penetrating wound without foreign body of left eyeball, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.71XA",
+      "display": "Avulsion of right eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.72XA",
+      "display": "Avulsion of left eye, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.8X1A",
+      "display": "Other injuries of right eye and orbit, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "S05.8X2A",
+      "display": "Other injuries of left eye and orbit, initial encounter"
+    } ]
+  }
 }

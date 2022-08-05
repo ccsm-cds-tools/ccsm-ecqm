@@ -5,12 +5,73 @@
     "versionId": "36",
     "lastUpdated": "2021-03-17T17:47:32.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-124354006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=124354006\">124354006</a></td><td>http://snomed.info/sct</td><td>Deficiency of uridine diphosphate-glucose-hexose-1-phosphate uridylyltransferase (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-190745006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=190745006\">190745006</a></td><td>http://snomed.info/sct</td><td>Galactosemia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237963003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237963003\">237963003</a></td><td>http://snomed.info/sct</td><td>Disorder of galactose metabolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-297237003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=297237003\">297237003</a></td><td>http://snomed.info/sct</td><td>Generalized uridine diphosphate galactose-4-epimerase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-297238008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=297238008\">297238008</a></td><td>http://snomed.info/sct</td><td>Erythrocyte uridine diphosphate galactose-4-epimerase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8849004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8849004\">8849004</a></td><td>http://snomed.info/sct</td><td>Uridine diphosphate glucose-4-epimerase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E74.20\"> </a>E74.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of galactose metabolism, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E74.21\"> </a>E74.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Galactosemia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E74.29\"> </a>E74.29</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other disorders of galactose metabolism</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.35",
   "version": "20210220",
   "name": "Galactosemia",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9d39925b-0be1-4ea3-8b92-b45bc00a50c0",
+    "timestamp": "2022-07-19T15:06:05-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "124354006",
+      "display": "Deficiency of uridine diphosphate-glucose-hexose-1-phosphate uridylyltransferase (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "190745006",
+      "display": "Galactosemia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237963003",
+      "display": "Disorder of galactose metabolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "297237003",
+      "display": "Generalized uridine diphosphate galactose-4-epimerase deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "297238008",
+      "display": "Erythrocyte uridine diphosphate galactose-4-epimerase deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8849004",
+      "display": "Uridine diphosphate glucose-4-epimerase deficiency (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E74.20",
+      "display": "Disorders of galactose metabolism, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E74.21",
+      "display": "Galactosemia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E74.29",
+      "display": "Other disorders of galactose metabolism"
+    } ]
+  }
 }

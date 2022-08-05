@@ -5,12 +5,48 @@
     "versionId": "17",
     "lastUpdated": "2021-02-14T01:00:31.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-264443002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=264443002\">264443002</a></td><td>http://snomed.info/sct</td><td>Morgagnian cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.21\"> </a>H25.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related cataract, morgagnian type, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.22\"> </a>H25.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related cataract, morgagnian type, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.23\"> </a>H25.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related cataract, morgagnian type, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1558",
   "version": "20210214",
   "name": "Morgagnian Cataract",
   "status": "active",
   "date": "2021-02-14T01:00:31-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f1d65ded-d9fd-4b04-ab3f-35679f6d5b6e",
+    "timestamp": "2022-07-19T15:12:54-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "264443002",
+      "display": "Morgagnian cataract (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.21",
+      "display": "Age-related cataract, morgagnian type, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.22",
+      "display": "Age-related cataract, morgagnian type, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.23",
+      "display": "Age-related cataract, morgagnian type, bilateral"
+    } ]
+  }
 }

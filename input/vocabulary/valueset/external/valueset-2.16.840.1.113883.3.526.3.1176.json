@@ -5,12 +5,48 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:03:46.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-68999-2\"> </a><a href=\"http://details.loinc.org/LOINC/68999-2.html\">68999-2</a></td><td>Heart rate --supine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-69000-8\"> </a><a href=\"http://details.loinc.org/LOINC/69000-8.html\">69000-8</a></td><td>Heart rate --sitting</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-69001-6\"> </a><a href=\"http://details.loinc.org/LOINC/69001-6.html\">69001-6</a></td><td>Heart rate --standing</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8867-4\"> </a><a href=\"http://details.loinc.org/LOINC/8867-4.html\">8867-4</a></td><td>Heart rate</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1176",
   "version": "20170504",
   "name": "Heart Rate",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:78dd2241-308f-46ff-82a2-66707f0eb072",
+    "timestamp": "2022-07-19T15:11:26-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "68999-2",
+      "display": "Heart rate --supine"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "69000-8",
+      "display": "Heart rate --sitting"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "69001-6",
+      "display": "Heart rate --standing"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8867-4",
+      "display": "Heart rate"
+    } ]
+  }
 }

@@ -5,12 +5,113 @@
     "versionId": "29",
     "lastUpdated": "2022-02-18T01:02:19.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 17 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-14627-4\"> </a><a href=\"http://details.loinc.org/LOINC/14627-4.html\">14627-4</a></td><td>Bicarbonate [Moles/volume] in Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19223-7\"> </a><a href=\"http://details.loinc.org/LOINC/19223-7.html\">19223-7</a></td><td>Carbon dioxide, total [Moles/volume] in Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19229-4\"> </a><a href=\"http://details.loinc.org/LOINC/19229-4.html\">19229-4</a></td><td>Bicarbonate [Moles/volume] in Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19230-2\"> </a><a href=\"http://details.loinc.org/LOINC/19230-2.html\">19230-2</a></td><td>Bicarbonate [Moles/volume] standard in Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19232-8\"> </a><a href=\"http://details.loinc.org/LOINC/19232-8.html\">19232-8</a></td><td>Bicarbonate [Moles/volume] standard in Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19233-6\"> </a><a href=\"http://details.loinc.org/LOINC/19233-6.html\">19233-6</a></td><td>Bicarbonate [Moles/volume] standard in Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-1959-6\"> </a><a href=\"http://details.loinc.org/LOINC/1959-6.html\">1959-6</a></td><td>Bicarbonate [Moles/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-1960-4\"> </a><a href=\"http://details.loinc.org/LOINC/1960-4.html\">1960-4</a></td><td>Bicarbonate [Moles/volume] in Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-1963-8\"> </a><a href=\"http://details.loinc.org/LOINC/1963-8.html\">1963-8</a></td><td>Bicarbonate [Moles/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2026-3\"> </a><a href=\"http://details.loinc.org/LOINC/2026-3.html\">2026-3</a></td><td>Carbon dioxide, total [Moles/volume] in Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2027-1\"> </a><a href=\"http://details.loinc.org/LOINC/2027-1.html\">2027-1</a></td><td>Carbon dioxide, total [Moles/volume] in Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2028-9\"> </a><a href=\"http://details.loinc.org/LOINC/2028-9.html\">2028-9</a></td><td>Carbon dioxide, total [Moles/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-20565-8\"> </a><a href=\"http://details.loinc.org/LOINC/20565-8.html\">20565-8</a></td><td>Carbon dioxide, total [Moles/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-69964-5\"> </a><a href=\"http://details.loinc.org/LOINC/69964-5.html\">69964-5</a></td><td>Bicarbonate [Moles/volume] standard in Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-77143-6\"> </a><a href=\"http://details.loinc.org/LOINC/77143-6.html\">77143-6</a></td><td>Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-97543-3\"> </a><a href=\"http://details.loinc.org/LOINC/97543-3.html\">97543-3</a></td><td>Bicarbonate [Moles/volume] in Central venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-97544-1\"> </a><a href=\"http://details.loinc.org/LOINC/97544-1.html\">97544-1</a></td><td>Bicarbonate [Moles/volume] standard in Central venous blood</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.139",
   "version": "20220218",
   "name": "Bicarbonate lab test",
   "status": "active",
   "date": "2022-02-18T01:02:19-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c8567d8e-0ddb-45a7-9f3b-4ad6b08628de",
+    "timestamp": "2022-07-19T15:04:26-04:00",
+    "total": 17,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "14627-4",
+      "display": "Bicarbonate [Moles/volume] in Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19223-7",
+      "display": "Carbon dioxide, total [Moles/volume] in Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19229-4",
+      "display": "Bicarbonate [Moles/volume] in Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19230-2",
+      "display": "Bicarbonate [Moles/volume] standard in Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19232-8",
+      "display": "Bicarbonate [Moles/volume] standard in Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19233-6",
+      "display": "Bicarbonate [Moles/volume] standard in Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "1959-6",
+      "display": "Bicarbonate [Moles/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "1960-4",
+      "display": "Bicarbonate [Moles/volume] in Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "1963-8",
+      "display": "Bicarbonate [Moles/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2026-3",
+      "display": "Carbon dioxide, total [Moles/volume] in Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2027-1",
+      "display": "Carbon dioxide, total [Moles/volume] in Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2028-9",
+      "display": "Carbon dioxide, total [Moles/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "20565-8",
+      "display": "Carbon dioxide, total [Moles/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "69964-5",
+      "display": "Bicarbonate [Moles/volume] standard in Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "77143-6",
+      "display": "Carbon dioxide, total [Moles/volume] in Serum, Plasma or Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "97543-3",
+      "display": "Bicarbonate [Moles/volume] in Central venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "97544-1",
+      "display": "Bicarbonate [Moles/volume] standard in Central venous blood"
+    } ]
+  }
 }

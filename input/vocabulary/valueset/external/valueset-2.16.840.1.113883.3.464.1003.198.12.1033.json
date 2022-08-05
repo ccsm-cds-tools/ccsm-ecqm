@@ -5,12 +5,43 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:04:32.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32018-4\"> </a><a href=\"http://details.loinc.org/LOINC/32018-4.html\">32018-4</a></td><td>Hepatitis A virus IgG Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-40724-7\"> </a><a href=\"http://details.loinc.org/LOINC/40724-7.html\">40724-7</a></td><td>Hepatitis A virus IgG Ab [Presence] in Serum by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-51913-2\"> </a><a href=\"http://details.loinc.org/LOINC/51913-2.html\">51913-2</a></td><td>Hepatitis A virus IgG+IgM Ab [Presence] in Serum</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1033",
   "version": "20170504",
   "name": "Anti Hepatitis A IgG Antigen Test",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:93f93e21-a6d7-40eb-95e0-19da24bab6a7",
+    "timestamp": "2022-07-19T15:10:32-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32018-4",
+      "display": "Hepatitis A virus IgG Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "40724-7",
+      "display": "Hepatitis A virus IgG Ab [Presence] in Serum by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "51913-2",
+      "display": "Hepatitis A virus IgG+IgM Ab [Presence] in Serum"
+    } ]
+  }
 }

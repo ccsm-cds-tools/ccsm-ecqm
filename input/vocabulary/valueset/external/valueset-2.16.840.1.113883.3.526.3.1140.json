@@ -5,12 +5,38 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:03:44.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-134397009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=134397009\">134397009</a></td><td>Angiotensin converting enzyme inhibitor declined (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401084003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401084003\">401084003</a></td><td>Angiotensin II receptor antagonist declined (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1140",
   "version": "20170504",
   "name": "Patient Reason for ACE Inhibitor or ARB Decline",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:32c67999-7aca-4626-9c09-48d403453a75",
+    "timestamp": "2022-07-19T15:11:21-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "134397009",
+      "display": "Angiotensin converting enzyme inhibitor declined (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401084003",
+      "display": "Angiotensin II receptor antagonist declined (situation)"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "13",
     "lastUpdated": "2021-09-29T01:00:30.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-121131000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=121131000119109\">121131000119109</a></td><td>Chronic graft versus host disease after transplantation of bone marrow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-402356004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402356004\">402356004</a></td><td>Chronic graft-versus-host disease (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.216",
   "version": "20210929",
   "name": "Chronic Graft versus Host Disease",
   "status": "active",
   "date": "2021-09-29T01:00:31-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:a38d3000-3e34-45a0-a16e-c7990cfc4eca",
+    "timestamp": "2022-07-15T19:33:57-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "121131000119109",
+      "display": "Chronic graft versus host disease after transplantation of bone marrow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "402356004",
+      "display": "Chronic graft-versus-host disease (disorder)"
+    } ]
+  }
 }

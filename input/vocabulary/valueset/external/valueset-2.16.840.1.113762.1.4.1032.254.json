@@ -5,12 +5,48 @@
     "versionId": "13",
     "lastUpdated": "2022-05-26T01:02:20.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22636003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22636003\">22636003</a></td><td>Premenopausal state (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32590007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32590007\">32590007</a></td><td>Premenopausal amenorrhea (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735613004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735613004\">735613004</a></td><td>Premenopausal idiopathic osteopenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735617003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735617003\">735617003</a></td><td>Premenopausal idiopathic osteoporosis (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.254",
   "version": "20220526",
   "name": "Premenopausal",
   "status": "active",
   "date": "2022-05-26T01:02:20-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:71581e02-3e09-4104-a040-91a925aba3b1",
+    "timestamp": "2022-07-15T19:50:35-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22636003",
+      "display": "Premenopausal state (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32590007",
+      "display": "Premenopausal amenorrhea (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735613004",
+      "display": "Premenopausal idiopathic osteopenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735617003",
+      "display": "Premenopausal idiopathic osteoporosis (disorder)"
+    } ]
+  }
 }

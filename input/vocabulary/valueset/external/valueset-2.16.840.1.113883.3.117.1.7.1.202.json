@@ -5,12 +5,178 @@
     "versionId": "28",
     "lastUpdated": "2021-03-17T17:35:20.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 30 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-120041000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=120041000119109\">120041000119109</a></td><td>http://snomed.info/sct</td><td>Atrial fibrillation with rapid ventricular response (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15964901000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15964901000119107\">15964901000119107</a></td><td>http://snomed.info/sct</td><td>Atypical atrial flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195080001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195080001\">195080001</a></td><td>http://snomed.info/sct</td><td>Atrial fibrillation and flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233910005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233910005\">233910005</a></td><td>http://snomed.info/sct</td><td>Lone atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233911009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233911009\">233911009</a></td><td>http://snomed.info/sct</td><td>Non-rheumatic atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-282825002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=282825002\">282825002</a></td><td>http://snomed.info/sct</td><td>Paroxysmal atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-300996004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=300996004\">300996004</a></td><td>http://snomed.info/sct</td><td>Controlled atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314208002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314208002\">314208002</a></td><td>http://snomed.info/sct</td><td>Rapid atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425615007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425615007\">425615007</a></td><td>http://snomed.info/sct</td><td>Chronic atrial flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426749004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426749004\">426749004</a></td><td>http://snomed.info/sct</td><td>Chronic atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426814001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426814001\">426814001</a></td><td>http://snomed.info/sct</td><td>Transient cerebral ischemia due to atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-427.31\"> </a>427.31</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-427.32\"> </a>427.32</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atrial flutter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427665004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427665004\">427665004</a></td><td>http://snomed.info/sct</td><td>Paroxysmal atrial flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440028005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440028005\">440028005</a></td><td>http://snomed.info/sct</td><td>Permanent atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440059007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440059007\">440059007</a></td><td>http://snomed.info/sct</td><td>Persistent atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49436004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49436004\">49436004</a></td><td>http://snomed.info/sct</td><td>Atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5370000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5370000\">5370000</a></td><td>http://snomed.info/sct</td><td>Atrial flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-706923002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=706923002\">706923002</a></td><td>http://snomed.info/sct</td><td>Longstanding persistent atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-715395008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=715395008\">715395008</a></td><td>http://snomed.info/sct</td><td>Familial atrial fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720448006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720448006\">720448006</a></td><td>http://snomed.info/sct</td><td>Typical atrial flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.0\"> </a>I48.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Paroxysmal atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.11\"> </a>I48.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Longstanding persistent atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.19\"> </a>I48.19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other persistent atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.20\"> </a>I48.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic atrial fibrillation, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.21\"> </a>I48.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Permanent atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.3\"> </a>I48.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Typical atrial flutter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.4\"> </a>I48.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atypical atrial flutter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.91\"> </a>I48.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atrial fibrillation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I48.92\"> </a>I48.92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atrial flutter</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.202",
   "version": "20210220",
   "name": "Atrial Fibrillation/Flutter",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1773c8af-2c72-4a92-9391-52ee75f22111",
+    "timestamp": "2022-07-19T15:05:27-04:00",
+    "total": 30,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "120041000119109",
+      "display": "Atrial fibrillation with rapid ventricular response (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15964901000119107",
+      "display": "Atypical atrial flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195080001",
+      "display": "Atrial fibrillation and flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233910005",
+      "display": "Lone atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233911009",
+      "display": "Non-rheumatic atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "282825002",
+      "display": "Paroxysmal atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "300996004",
+      "display": "Controlled atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314208002",
+      "display": "Rapid atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425615007",
+      "display": "Chronic atrial flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426749004",
+      "display": "Chronic atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426814001",
+      "display": "Transient cerebral ischemia due to atrial fibrillation (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "427.31",
+      "display": "Atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "427.32",
+      "display": "Atrial flutter"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427665004",
+      "display": "Paroxysmal atrial flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440028005",
+      "display": "Permanent atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440059007",
+      "display": "Persistent atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49436004",
+      "display": "Atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5370000",
+      "display": "Atrial flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "706923002",
+      "display": "Longstanding persistent atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "715395008",
+      "display": "Familial atrial fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720448006",
+      "display": "Typical atrial flutter (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.0",
+      "display": "Paroxysmal atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.11",
+      "display": "Longstanding persistent atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.19",
+      "display": "Other persistent atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.20",
+      "display": "Chronic atrial fibrillation, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.21",
+      "display": "Permanent atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.3",
+      "display": "Typical atrial flutter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.4",
+      "display": "Atypical atrial flutter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.91",
+      "display": "Unspecified atrial fibrillation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I48.92",
+      "display": "Unspecified atrial flutter"
+    } ]
+  }
 }

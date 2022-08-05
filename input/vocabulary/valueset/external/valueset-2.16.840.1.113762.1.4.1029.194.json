@@ -5,12 +5,48 @@
     "versionId": "26",
     "lastUpdated": "2021-06-11T01:01:24.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-56056-5\"> </a><a href=\"http://details.loinc.org/LOINC/56056-5.html\">56056-5</a></td><td>Birth weight - Reported</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-56092-0\"> </a><a href=\"http://details.loinc.org/LOINC/56092-0.html\">56092-0</a></td><td>Birth weight GNWCH</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-56093-8\"> </a><a href=\"http://details.loinc.org/LOINC/56093-8.html\">56093-8</a></td><td>Birth weight NVSS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8339-4\"> </a><a href=\"http://details.loinc.org/LOINC/8339-4.html\">8339-4</a></td><td>Birth weight Measured</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1029.194",
   "version": "20210611",
   "name": "Birth Weight",
   "status": "active",
   "date": "2021-06-11T01:01:24-04:00",
   "publisher": "Joint Commission",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:a025ad10-6652-4b99-be70-d74c12012b62",
+    "timestamp": "2022-07-19T15:03:43-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "56056-5",
+      "display": "Birth weight - Reported"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "56092-0",
+      "display": "Birth weight GNWCH"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "56093-8",
+      "display": "Birth weight NVSS"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8339-4",
+      "display": "Birth weight Measured"
+    } ]
+  }
 }

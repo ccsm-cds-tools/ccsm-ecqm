@@ -5,12 +5,83 @@
     "versionId": "34",
     "lastUpdated": "2021-02-13T01:00:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-20570-8\"> </a><a href=\"http://details.loinc.org/LOINC/20570-8.html\">20570-8</a></td><td>Hematocrit [Volume Fraction] of Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-31100-1\"> </a><a href=\"http://details.loinc.org/LOINC/31100-1.html\">31100-1</a></td><td>Hematocrit [Volume Fraction] of Blood by Impedance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32354-3\"> </a><a href=\"http://details.loinc.org/LOINC/32354-3.html\">32354-3</a></td><td>Hematocrit [Volume Fraction] of Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41654-5\"> </a><a href=\"http://details.loinc.org/LOINC/41654-5.html\">41654-5</a></td><td>Hematocrit [Volume Fraction] of Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41655-2\"> </a><a href=\"http://details.loinc.org/LOINC/41655-2.html\">41655-2</a></td><td>Hematocrit [Volume Fraction] of Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-4544-3\"> </a><a href=\"http://details.loinc.org/LOINC/4544-3.html\">4544-3</a></td><td>Hematocrit [Volume Fraction] of Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-4545-0\"> </a><a href=\"http://details.loinc.org/LOINC/4545-0.html\">4545-0</a></td><td>Hematocrit [Volume Fraction] of Blood by Centrifugation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71829-6\"> </a><a href=\"http://details.loinc.org/LOINC/71829-6.html\">71829-6</a></td><td>Hematocrit [Pure volume fraction] of Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71830-4\"> </a><a href=\"http://details.loinc.org/LOINC/71830-4.html\">71830-4</a></td><td>Hematocrit [Pure volume fraction] of Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71832-0\"> </a><a href=\"http://details.loinc.org/LOINC/71832-0.html\">71832-0</a></td><td>Hematocrit [Pure volume fraction] of Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71833-8\"> </a><a href=\"http://details.loinc.org/LOINC/71833-8.html\">71833-8</a></td><td>Hematocrit [Pure volume fraction] of Blood by Automated count</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.114",
   "version": "20210213",
   "name": "Hematocrit lab test",
   "status": "active",
   "date": "2021-02-13T01:00:26-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0b7d990d-a8b4-4a33-8970-6aac60b9ea25",
+    "timestamp": "2022-07-19T15:04:20-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "20570-8",
+      "display": "Hematocrit [Volume Fraction] of Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "31100-1",
+      "display": "Hematocrit [Volume Fraction] of Blood by Impedance"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32354-3",
+      "display": "Hematocrit [Volume Fraction] of Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41654-5",
+      "display": "Hematocrit [Volume Fraction] of Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41655-2",
+      "display": "Hematocrit [Volume Fraction] of Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "4544-3",
+      "display": "Hematocrit [Volume Fraction] of Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "4545-0",
+      "display": "Hematocrit [Volume Fraction] of Blood by Centrifugation"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71829-6",
+      "display": "Hematocrit [Pure volume fraction] of Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71830-4",
+      "display": "Hematocrit [Pure volume fraction] of Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71832-0",
+      "display": "Hematocrit [Pure volume fraction] of Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71833-8",
+      "display": "Hematocrit [Pure volume fraction] of Blood by Automated count"
+    } ]
+  }
 }

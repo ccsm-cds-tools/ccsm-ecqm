@@ -5,12 +5,183 @@
     "versionId": "29",
     "lastUpdated": "2021-02-10T01:03:00.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 31 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10698009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10698009\">10698009</a></td><td>http://snomed.info/sct</td><td>Herpes zoster iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11226001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11226001\">11226001</a></td><td>http://snomed.info/sct</td><td>Fuchs' heterochromic cyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12630008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12630008\">12630008</a></td><td>http://snomed.info/sct</td><td>Primary iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13608004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13608004\">13608004</a></td><td>http://snomed.info/sct</td><td>Herpes simplex iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15678641000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15678641000119101\">15678641000119101</a></td><td>http://snomed.info/sct</td><td>Iridocyclitis of right eye caused by human herpes simplex virus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15678681000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15678681000119106\">15678681000119106</a></td><td>http://snomed.info/sct</td><td>Iridocyclitis of left eye caused by human herpes simplex virus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15678761000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15678761000119105\">15678761000119105</a></td><td>http://snomed.info/sct</td><td>Iridocyclitis of right eye due to herpes zoster (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15678801000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15678801000119102\">15678801000119102</a></td><td>http://snomed.info/sct</td><td>Iridocyclitis of left eye due to herpes zoster (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193487008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193487008\">193487008</a></td><td>http://snomed.info/sct</td><td>Secondary infected iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193488003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193488003\">193488003</a></td><td>http://snomed.info/sct</td><td>Secondary non-infected iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23798003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23798003\">23798003</a></td><td>http://snomed.info/sct</td><td>Translucency of iris (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267619000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267619000\">267619000</a></td><td>http://snomed.info/sct</td><td>Non-infectious anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29538005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29538005\">29538005</a></td><td>http://snomed.info/sct</td><td>Glaucomatocyclitic crisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30080002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30080002\">30080002</a></td><td>http://snomed.info/sct</td><td>Secondary syphilitic iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420485005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420485005\">420485005</a></td><td>http://snomed.info/sct</td><td>Herpetic iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46916006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46916006\">46916006</a></td><td>http://snomed.info/sct</td><td>Noninfectious secondary iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6869001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6869001\">6869001</a></td><td>http://snomed.info/sct</td><td>Recurrent iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70461003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70461003\">70461003</a></td><td>http://snomed.info/sct</td><td>Lens-induced iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77971008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77971008\">77971008</a></td><td>http://snomed.info/sct</td><td>Iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89114005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89114005\">89114005</a></td><td>http://snomed.info/sct</td><td>Infectious secondary iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9091006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9091006\">9091006</a></td><td>http://snomed.info/sct</td><td>Gonococcal iridocyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.21\"> </a>H20.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lens-induced iridocyclitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.22\"> </a>H20.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lens-induced iridocyclitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.23\"> </a>H20.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lens-induced iridocyclitis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.811\"> </a>H20.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Fuchs' heterochromic cyclitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.812\"> </a>H20.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Fuchs' heterochromic cyclitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.813\"> </a>H20.813</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Fuchs' heterochromic cyclitis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.821\"> </a>H20.821</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Vogt-Koyanagi syndrome, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.822\"> </a>H20.822</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Vogt-Koyanagi syndrome, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.823\"> </a>H20.823</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Vogt-Koyanagi syndrome, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H20.9\"> </a>H20.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified iridocyclitis</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1415",
   "version": "20210210",
   "name": "Certain Types of Iridocyclitis",
   "status": "active",
   "date": "2021-02-10T01:03:00-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:acca011c-23cc-438a-bb61-c633b9412f70",
+    "timestamp": "2022-07-19T15:12:00-04:00",
+    "total": 31,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10698009",
+      "display": "Herpes zoster iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11226001",
+      "display": "Fuchs' heterochromic cyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12630008",
+      "display": "Primary iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13608004",
+      "display": "Herpes simplex iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15678641000119101",
+      "display": "Iridocyclitis of right eye caused by human herpes simplex virus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15678681000119106",
+      "display": "Iridocyclitis of left eye caused by human herpes simplex virus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15678761000119105",
+      "display": "Iridocyclitis of right eye due to herpes zoster (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15678801000119102",
+      "display": "Iridocyclitis of left eye due to herpes zoster (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193487008",
+      "display": "Secondary infected iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193488003",
+      "display": "Secondary non-infected iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23798003",
+      "display": "Translucency of iris (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267619000",
+      "display": "Non-infectious anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29538005",
+      "display": "Glaucomatocyclitic crisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30080002",
+      "display": "Secondary syphilitic iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420485005",
+      "display": "Herpetic iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46916006",
+      "display": "Noninfectious secondary iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6869001",
+      "display": "Recurrent iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70461003",
+      "display": "Lens-induced iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77971008",
+      "display": "Iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89114005",
+      "display": "Infectious secondary iridocyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9091006",
+      "display": "Gonococcal iridocyclitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.21",
+      "display": "Lens-induced iridocyclitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.22",
+      "display": "Lens-induced iridocyclitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.23",
+      "display": "Lens-induced iridocyclitis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.811",
+      "display": "Fuchs' heterochromic cyclitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.812",
+      "display": "Fuchs' heterochromic cyclitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.813",
+      "display": "Fuchs' heterochromic cyclitis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.821",
+      "display": "Vogt-Koyanagi syndrome, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.822",
+      "display": "Vogt-Koyanagi syndrome, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.823",
+      "display": "Vogt-Koyanagi syndrome, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H20.9",
+      "display": "Unspecified iridocyclitis"
+    } ]
+  }
 }

@@ -5,12 +5,128 @@
     "versionId": "8",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 20 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10033001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10033001\">10033001</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, non hydroxylysine deficient ocular type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17025000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17025000\">17025000</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 4 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20766005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20766005\">20766005</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 2 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25606004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25606004\">25606004</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, hydroxylysine-deficient (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30652003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30652003\">30652003</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 3 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398114001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398114001\">398114001</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4170004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4170004\">4170004</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, procollagen proteinase resistant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50869007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50869007\">50869007</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 8 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55711009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55711009\">55711009</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, procollagen proteinase deficient (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59399004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59399004\">59399004</a></td><td>http://snomed.info/sct</td><td>Cutis laxa, x-linked (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67202007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67202007\">67202007</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 5 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71322004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71322004\">71322004</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, familial joint laxity type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-756.83\"> </a>756.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Ehlers-Danlos syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83470009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83470009\">83470009</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, type 1 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83586000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83586000\">83586000</a></td><td>http://snomed.info/sct</td><td>Ehlers-Danlos syndrome, dysfibronectinemic (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q79.60\"> </a>Q79.60</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ehlers-Danlos syndrome, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q79.61\"> </a>Q79.61</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Classical Ehlers-Danlos syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q79.62\"> </a>Q79.62</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypermobile Ehlers-Danlos syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q79.63\"> </a>Q79.63</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Vascular Ehlers-Danlos syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q79.69\"> </a>Q79.69</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other Ehlers-Danlos syndromes</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1047",
   "version": "20180310",
   "name": "Ehlers Danlos Syndrome",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8979dec8-d246-4b3f-a78e-cf785e3c1019",
+    "timestamp": "2022-07-19T15:08:22-04:00",
+    "total": 20,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10033001",
+      "display": "Ehlers-Danlos syndrome, non hydroxylysine deficient ocular type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17025000",
+      "display": "Ehlers-Danlos syndrome, type 4 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20766005",
+      "display": "Ehlers-Danlos syndrome, type 2 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25606004",
+      "display": "Ehlers-Danlos syndrome, hydroxylysine-deficient (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30652003",
+      "display": "Ehlers-Danlos syndrome, type 3 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398114001",
+      "display": "Ehlers-Danlos syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4170004",
+      "display": "Ehlers-Danlos syndrome, procollagen proteinase resistant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50869007",
+      "display": "Ehlers-Danlos syndrome, type 8 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55711009",
+      "display": "Ehlers-Danlos syndrome, procollagen proteinase deficient (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59399004",
+      "display": "Cutis laxa, x-linked (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67202007",
+      "display": "Ehlers-Danlos syndrome, type 5 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71322004",
+      "display": "Ehlers-Danlos syndrome, familial joint laxity type (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "756.83",
+      "display": "Ehlers-Danlos syndrome"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83470009",
+      "display": "Ehlers-Danlos syndrome, type 1 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83586000",
+      "display": "Ehlers-Danlos syndrome, dysfibronectinemic (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q79.60",
+      "display": "Ehlers-Danlos syndrome, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q79.61",
+      "display": "Classical Ehlers-Danlos syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q79.62",
+      "display": "Hypermobile Ehlers-Danlos syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q79.63",
+      "display": "Vascular Ehlers-Danlos syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q79.69",
+      "display": "Other Ehlers-Danlos syndromes"
+    } ]
+  }
 }

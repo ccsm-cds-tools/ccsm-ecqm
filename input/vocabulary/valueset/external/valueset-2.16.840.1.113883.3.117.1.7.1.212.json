@@ -5,12 +5,348 @@
     "versionId": "31",
     "lastUpdated": "2021-03-17T18:24:45.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 64 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195155004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195155004\">195155004</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from carotid siphon and bifurcation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195160000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195160000\">195160000</a></td><td>http://snomed.info/sct</td><td>Intracranial subarachnoid hemorrhage from vertebral artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195165005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195165005\">195165005</a></td><td>http://snomed.info/sct</td><td>Basal ganglia hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195167002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195167002\">195167002</a></td><td>http://snomed.info/sct</td><td>External capsule hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195168007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195168007\">195168007</a></td><td>http://snomed.info/sct</td><td>Intracerebral hemorrhage with intraventricular hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195169004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195169004\">195169004</a></td><td>http://snomed.info/sct</td><td>Intracerebral hemorrhage, multiple localized (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20908003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20908003\">20908003</a></td><td>http://snomed.info/sct</td><td>Subcortical cerebral hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230706003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230706003\">230706003</a></td><td>http://snomed.info/sct</td><td>Hemorrhagic cerebral infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230707007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230707007\">230707007</a></td><td>http://snomed.info/sct</td><td>Anterior cerebral circulation hemorrhagic infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230708002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230708002\">230708002</a></td><td>http://snomed.info/sct</td><td>Posterior cerebral circulation hemorrhagic infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230709005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230709005\">230709005</a></td><td>http://snomed.info/sct</td><td>Massive supratentorial cerebral hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230710000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230710000\">230710000</a></td><td>http://snomed.info/sct</td><td>Lobar cerebral hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230711001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230711001\">230711001</a></td><td>http://snomed.info/sct</td><td>Thalamic hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230712008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230712008\">230712008</a></td><td>http://snomed.info/sct</td><td>Lacunar hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23276006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23276006\">23276006</a></td><td>http://snomed.info/sct</td><td>Ventricular hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270907008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270907008\">270907008</a></td><td>http://snomed.info/sct</td><td>Spontaneous intracranial subarachnoid hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-274100004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=274100004\">274100004</a></td><td>http://snomed.info/sct</td><td>Cerebral hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276277008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276277008\">276277008</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from multiple aneurysms (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276278003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276278003\">276278003</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from anterior cerebral artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276280009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276280009\">276280009</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from middle cerebral artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276281008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276281008\">276281008</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from posterior cerebral artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276282001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276282001\">276282001</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from anterior communicating artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276283006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276283006\">276283006</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from posterior communicating artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276284000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276284000\">276284000</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from basilar artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276285004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276285004\">276285004</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276286003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276286003\">276286003</a></td><td>http://snomed.info/sct</td><td>Subarachnoid hemorrhage from carotid artery aneurysm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276722003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276722003\">276722003</a></td><td>http://snomed.info/sct</td><td>Intracerebellar and posterior fossa hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28318001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28318001\">28318001</a></td><td>http://snomed.info/sct</td><td>Basilar hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42429001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42429001\">42429001</a></td><td>http://snomed.info/sct</td><td>Cerebromeningeal hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425957003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425957003\">425957003</a></td><td>http://snomed.info/sct</td><td>Non-traumatic intracerebral ventricular hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449020009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449020009\">449020009</a></td><td>http://snomed.info/sct</td><td>Intraparenchymal hemorrhage of brain (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49422009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49422009\">49422009</a></td><td>http://snomed.info/sct</td><td>Cortical hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52201006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52201006\">52201006</a></td><td>http://snomed.info/sct</td><td>Internal capsule hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73020009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73020009\">73020009</a></td><td>http://snomed.info/sct</td><td>Cerebral hemisphere hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75038005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75038005\">75038005</a></td><td>http://snomed.info/sct</td><td>Cerebellar hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7713009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7713009\">7713009</a></td><td>http://snomed.info/sct</td><td>Intrapontine hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95454007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95454007\">95454007</a></td><td>http://snomed.info/sct</td><td>Brain stem hemorrhage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.00\"> </a>I60.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.01\"> </a>I60.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.02\"> </a>I60.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.10\"> </a>I60.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.11\"> </a>I60.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from right middle cerebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.12\"> </a>I60.12</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from left middle cerebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.2\"> </a>I60.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from anterior communicating artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.30\"> </a>I60.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.31\"> </a>I60.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from right posterior communicating artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.32\"> </a>I60.32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from left posterior communicating artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.4\"> </a>I60.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from basilar artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.50\"> </a>I60.50</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.51\"> </a>I60.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from right vertebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.52\"> </a>I60.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from left vertebral artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.6\"> </a>I60.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from other intracranial arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.7\"> </a>I60.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.8\"> </a>I60.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other nontraumatic subarachnoid hemorrhage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I60.9\"> </a>I60.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic subarachnoid hemorrhage, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.0\"> </a>I61.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage in hemisphere, subcortical</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.1\"> </a>I61.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage in hemisphere, cortical</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.2\"> </a>I61.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage in hemisphere, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.3\"> </a>I61.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage in brain stem</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.4\"> </a>I61.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage in cerebellum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.5\"> </a>I61.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage, intraventricular</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.6\"> </a>I61.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage, multiple localized</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.8\"> </a>I61.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other nontraumatic intracerebral hemorrhage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I61.9\"> </a>I61.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nontraumatic intracerebral hemorrhage, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.212",
   "version": "20210220",
   "name": "Hemorrhagic Stroke",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ce3e3591-03cf-47ab-8183-5f0bcbf7822e",
+    "timestamp": "2022-07-19T15:05:34-04:00",
+    "total": 64,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195155004",
+      "display": "Subarachnoid hemorrhage from carotid siphon and bifurcation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195160000",
+      "display": "Intracranial subarachnoid hemorrhage from vertebral artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195165005",
+      "display": "Basal ganglia hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195167002",
+      "display": "External capsule hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195168007",
+      "display": "Intracerebral hemorrhage with intraventricular hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195169004",
+      "display": "Intracerebral hemorrhage, multiple localized (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20908003",
+      "display": "Subcortical cerebral hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230706003",
+      "display": "Hemorrhagic cerebral infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230707007",
+      "display": "Anterior cerebral circulation hemorrhagic infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230708002",
+      "display": "Posterior cerebral circulation hemorrhagic infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230709005",
+      "display": "Massive supratentorial cerebral hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230710000",
+      "display": "Lobar cerebral hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230711001",
+      "display": "Thalamic hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230712008",
+      "display": "Lacunar hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23276006",
+      "display": "Ventricular hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270907008",
+      "display": "Spontaneous intracranial subarachnoid hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "274100004",
+      "display": "Cerebral hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276277008",
+      "display": "Subarachnoid hemorrhage from multiple aneurysms (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276278003",
+      "display": "Subarachnoid hemorrhage from anterior cerebral artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276280009",
+      "display": "Subarachnoid hemorrhage from middle cerebral artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276281008",
+      "display": "Subarachnoid hemorrhage from posterior cerebral artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276282001",
+      "display": "Subarachnoid hemorrhage from anterior communicating artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276283006",
+      "display": "Subarachnoid hemorrhage from posterior communicating artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276284000",
+      "display": "Subarachnoid hemorrhage from basilar artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276285004",
+      "display": "Subarachnoid hemorrhage from posterior inferior cerebellar artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276286003",
+      "display": "Subarachnoid hemorrhage from carotid artery aneurysm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276722003",
+      "display": "Intracerebellar and posterior fossa hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28318001",
+      "display": "Basilar hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42429001",
+      "display": "Cerebromeningeal hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425957003",
+      "display": "Non-traumatic intracerebral ventricular hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449020009",
+      "display": "Intraparenchymal hemorrhage of brain (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49422009",
+      "display": "Cortical hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52201006",
+      "display": "Internal capsule hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73020009",
+      "display": "Cerebral hemisphere hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75038005",
+      "display": "Cerebellar hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7713009",
+      "display": "Intrapontine hemorrhage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95454007",
+      "display": "Brain stem hemorrhage (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.00",
+      "display": "Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.01",
+      "display": "Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.02",
+      "display": "Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.10",
+      "display": "Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.11",
+      "display": "Nontraumatic subarachnoid hemorrhage from right middle cerebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.12",
+      "display": "Nontraumatic subarachnoid hemorrhage from left middle cerebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.2",
+      "display": "Nontraumatic subarachnoid hemorrhage from anterior communicating artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.30",
+      "display": "Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.31",
+      "display": "Nontraumatic subarachnoid hemorrhage from right posterior communicating artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.32",
+      "display": "Nontraumatic subarachnoid hemorrhage from left posterior communicating artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.4",
+      "display": "Nontraumatic subarachnoid hemorrhage from basilar artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.50",
+      "display": "Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.51",
+      "display": "Nontraumatic subarachnoid hemorrhage from right vertebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.52",
+      "display": "Nontraumatic subarachnoid hemorrhage from left vertebral artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.6",
+      "display": "Nontraumatic subarachnoid hemorrhage from other intracranial arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.7",
+      "display": "Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.8",
+      "display": "Other nontraumatic subarachnoid hemorrhage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I60.9",
+      "display": "Nontraumatic subarachnoid hemorrhage, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.0",
+      "display": "Nontraumatic intracerebral hemorrhage in hemisphere, subcortical"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.1",
+      "display": "Nontraumatic intracerebral hemorrhage in hemisphere, cortical"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.2",
+      "display": "Nontraumatic intracerebral hemorrhage in hemisphere, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.3",
+      "display": "Nontraumatic intracerebral hemorrhage in brain stem"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.4",
+      "display": "Nontraumatic intracerebral hemorrhage in cerebellum"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.5",
+      "display": "Nontraumatic intracerebral hemorrhage, intraventricular"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.6",
+      "display": "Nontraumatic intracerebral hemorrhage, multiple localized"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.8",
+      "display": "Other nontraumatic intracerebral hemorrhage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I61.9",
+      "display": "Nontraumatic intracerebral hemorrhage, unspecified"
+    } ]
+  }
 }

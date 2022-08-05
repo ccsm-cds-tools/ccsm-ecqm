@@ -5,12 +5,58 @@
     "versionId": "5",
     "lastUpdated": "2021-02-02T15:11:49.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197666\"> </a>197666</td><td>estrogens, esterified (USP) 0.3 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197667\"> </a>197667</td><td>estrogens, esterified (USP) 0.625 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197668\"> </a>197668</td><td>estrogens, esterified (USP) 1.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197669\"> </a>197669</td><td>estrogens, esterified (USP) 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197670\"> </a>197670</td><td>estrogens, esterified (USP) 1.25 MG / methyltestosterone 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-238006\"> </a>238006</td><td>estrogens, esterified (USP) 0.625 MG / methyltestosterone 1.25 MG Oral Tablet</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1419",
   "version": "20170504",
   "name": "Esterified Estrogens",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:414f10a7-85e9-461f-90a0-42a6175266d9",
+    "timestamp": "2022-07-19T15:09:59-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197666",
+      "display": "estrogens, esterified (USP) 0.3 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197667",
+      "display": "estrogens, esterified (USP) 0.625 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197668",
+      "display": "estrogens, esterified (USP) 1.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197669",
+      "display": "estrogens, esterified (USP) 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197670",
+      "display": "estrogens, esterified (USP) 1.25 MG / methyltestosterone 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "238006",
+      "display": "estrogens, esterified (USP) 0.625 MG / methyltestosterone 1.25 MG Oral Tablet"
+    } ]
+  }
 }

@@ -5,12 +5,73 @@
     "versionId": "2",
     "lastUpdated": "2021-02-11T10:12:20.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197737\"> </a>197737</td><td>glyburide 1.25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310534\"> </a>310534</td><td>glyburide 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310536\"> </a>310536</td><td>glyburide 3 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310537\"> </a>310537</td><td>glyburide 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310539\"> </a>310539</td><td>glyburide 6 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-314000\"> </a>314000</td><td>glyburide 1.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861743\"> </a>861743</td><td>glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861748\"> </a>861748</td><td>glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861753\"> </a>861753</td><td>glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1368",
   "version": "20170504",
   "name": "Glyburide",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6aaacbbb-c241-4496-b6b6-11594183bd31",
+    "timestamp": "2022-07-19T15:09:49-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197737",
+      "display": "glyburide 1.25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310534",
+      "display": "glyburide 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310536",
+      "display": "glyburide 3 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310537",
+      "display": "glyburide 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310539",
+      "display": "glyburide 6 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "314000",
+      "display": "glyburide 1.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861743",
+      "display": "glyburide 1.25 MG / metformin hydrochloride 250 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861748",
+      "display": "glyburide 2.5 MG / metformin hydrochloride 500 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861753",
+      "display": "glyburide 5 MG / metformin hydrochloride 500 MG Oral Tablet"
+    } ]
+  }
 }

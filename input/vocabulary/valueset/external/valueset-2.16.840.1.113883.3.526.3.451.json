@@ -5,12 +5,213 @@
     "versionId": "22",
     "lastUpdated": "2021-03-16T18:38:37.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 37 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12584003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12584003\">12584003</a></td><td>http://snomed.info/sct</td><td>Bone pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-161977000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=161977000\">161977000</a></td><td>http://snomed.info/sct</td><td>Costal margin chest pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203508001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203508001\">203508001</a></td><td>http://snomed.info/sct</td><td>Bony pelvic pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203509009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203509009\">203509009</a></td><td>http://snomed.info/sct</td><td>Clavicle pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20793008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20793008\">20793008</a></td><td>http://snomed.info/sct</td><td>Scapulalgia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267981009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267981009\">267981009</a></td><td>http://snomed.info/sct</td><td>Pain in thoracic spine (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-282743009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=282743009\">282743009</a></td><td>http://snomed.info/sct</td><td>Malignant bone pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-297217002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=297217002\">297217002</a></td><td>http://snomed.info/sct</td><td>Rib pain (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-298731003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=298731003\">298731003</a></td><td>http://snomed.info/sct</td><td>Pain of sternum (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-298740004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=298740004\">298740004</a></td><td>http://snomed.info/sct</td><td>Rib tender (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-301773003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=301773003\">301773003</a></td><td>http://snomed.info/sct</td><td>Pain in femur (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3200003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3200003\">3200003</a></td><td>http://snomed.info/sct</td><td>Sacrocoxalgia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34789001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34789001\">34789001</a></td><td>http://snomed.info/sct</td><td>Pain in coccyx (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36729000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36729000\">36729000</a></td><td>http://snomed.info/sct</td><td>Pain of prostate (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426135001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426135001\">426135001</a></td><td>http://snomed.info/sct</td><td>Chronic prostatitis - chronic pelvic pain syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48926009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48926009\">48926009</a></td><td>http://snomed.info/sct</td><td>Pain in spine (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89638008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89638008\">89638008</a></td><td>http://snomed.info/sct</td><td>Xiphodynia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G89.3\"> </a>G89.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Neoplasm related pain (acute) (chronic)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M43.27\"> </a>M43.27</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Fusion of spine, lumbosacral region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M43.28\"> </a>M43.28</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Fusion of spine, sacral and sacrococcygeal region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.2X7\"> </a>M53.2X7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Spinal instabilities, lumbosacral region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.2X8\"> </a>M53.2X8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Spinal instabilities, sacral and sacrococcygeal region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.3\"> </a>M53.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sacrococcygeal disorders, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.86\"> </a>M53.86</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified dorsopathies, lumbar region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.87\"> </a>M53.87</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified dorsopathies, lumbosacral region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M53.88\"> </a>M53.88</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified dorsopathies, sacral and sacrococcygeal region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M54.6\"> </a>M54.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Pain in thoracic spine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M54.89\"> </a>M54.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other dorsalgia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M54.9\"> </a>M54.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Dorsalgia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.9\"> </a>M85.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorder of bone density and structure, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.9\"> </a>M89.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorder of bone, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M94.9\"> </a>M94.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorder of cartilage, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R07.82\"> </a>R07.82</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Intercostal pain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R07.89\"> </a>R07.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chest pain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R07.9\"> </a>R07.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chest pain, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R10.0\"> </a>R10.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute abdomen</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R10.9\"> </a>R10.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified abdominal pain</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.451",
   "version": "20200306",
   "name": "Pain Related to Prostate Cancer",
   "status": "active",
   "date": "2020-03-06T01:00:20-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7b6ff13b-09dc-4838-9d98-60360d96f4a7",
+    "timestamp": "2022-07-19T15:13:37-04:00",
+    "total": 37,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12584003",
+      "display": "Bone pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "161977000",
+      "display": "Costal margin chest pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203508001",
+      "display": "Bony pelvic pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203509009",
+      "display": "Clavicle pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20793008",
+      "display": "Scapulalgia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267981009",
+      "display": "Pain in thoracic spine (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "282743009",
+      "display": "Malignant bone pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "297217002",
+      "display": "Rib pain (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "298731003",
+      "display": "Pain of sternum (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "298740004",
+      "display": "Rib tender (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "301773003",
+      "display": "Pain in femur (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3200003",
+      "display": "Sacrocoxalgia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34789001",
+      "display": "Pain in coccyx (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36729000",
+      "display": "Pain of prostate (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426135001",
+      "display": "Chronic prostatitis - chronic pelvic pain syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48926009",
+      "display": "Pain in spine (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89638008",
+      "display": "Xiphodynia (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G89.3",
+      "display": "Neoplasm related pain (acute) (chronic)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M43.27",
+      "display": "Fusion of spine, lumbosacral region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M43.28",
+      "display": "Fusion of spine, sacral and sacrococcygeal region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.2X7",
+      "display": "Spinal instabilities, lumbosacral region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.2X8",
+      "display": "Spinal instabilities, sacral and sacrococcygeal region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.3",
+      "display": "Sacrococcygeal disorders, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.86",
+      "display": "Other specified dorsopathies, lumbar region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.87",
+      "display": "Other specified dorsopathies, lumbosacral region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M53.88",
+      "display": "Other specified dorsopathies, sacral and sacrococcygeal region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M54.6",
+      "display": "Pain in thoracic spine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M54.89",
+      "display": "Other dorsalgia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M54.9",
+      "display": "Dorsalgia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.9",
+      "display": "Disorder of bone density and structure, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.9",
+      "display": "Disorder of bone, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M94.9",
+      "display": "Disorder of cartilage, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R07.82",
+      "display": "Intercostal pain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R07.89",
+      "display": "Other chest pain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R07.9",
+      "display": "Chest pain, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R10.0",
+      "display": "Acute abdomen"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R10.9",
+      "display": "Unspecified abdominal pain"
+    } ]
+  }
 }

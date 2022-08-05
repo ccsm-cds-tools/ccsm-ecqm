@@ -5,12 +5,98 @@
     "versionId": "8",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1003407000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1003407000\">1003407000</a></td><td>http://snomed.info/sct</td><td>Marfan syndrome type 1 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15960021000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15960021000119107\">15960021000119107</a></td><td>http://snomed.info/sct</td><td>Dilatation of aortic root due to Marfan's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15993551000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15993551000119100\">15993551000119100</a></td><td>http://snomed.info/sct</td><td>Disorder of eye co-occurrent and due to Marfan syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16055631000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16055631000119106\">16055631000119106</a></td><td>http://snomed.info/sct</td><td>Disorder of cardiovascular system co-occurrent and due to Marfan syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19346006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19346006\">19346006</a></td><td>http://snomed.info/sct</td><td>Marfan's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234035006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234035006\">234035006</a></td><td>http://snomed.info/sct</td><td>Marfan's syndrome affecting skin (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57201002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57201002\">57201002</a></td><td>http://snomed.info/sct</td><td>Marfanoid joint hypermobility syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-759.82\"> </a>759.82</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Marfan syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763839005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763839005\">763839005</a></td><td>http://snomed.info/sct</td><td>Neonatal Marfan syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q87.40\"> </a>Q87.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Marfan's syndrome, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q87.410\"> </a>Q87.410</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Marfan's syndrome with aortic dilation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q87.418\"> </a>Q87.418</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Marfan's syndrome with other cardiovascular manifestations</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q87.42\"> </a>Q87.42</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Marfan's syndrome with ocular manifestations</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q87.43\"> </a>Q87.43</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Marfan's syndrome with skeletal manifestation</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1048",
   "version": "20180310",
   "name": "Marfan's Syndrome",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:83f1afed-256b-486f-8ed4-2c93b0ad1d75",
+    "timestamp": "2022-07-19T15:08:23-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1003407000",
+      "display": "Marfan syndrome type 1 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15960021000119107",
+      "display": "Dilatation of aortic root due to Marfan's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15993551000119100",
+      "display": "Disorder of eye co-occurrent and due to Marfan syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16055631000119106",
+      "display": "Disorder of cardiovascular system co-occurrent and due to Marfan syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19346006",
+      "display": "Marfan's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234035006",
+      "display": "Marfan's syndrome affecting skin (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57201002",
+      "display": "Marfanoid joint hypermobility syndrome (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "759.82",
+      "display": "Marfan syndrome"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763839005",
+      "display": "Neonatal Marfan syndrome (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q87.40",
+      "display": "Marfan's syndrome, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q87.410",
+      "display": "Marfan's syndrome with aortic dilation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q87.418",
+      "display": "Marfan's syndrome with other cardiovascular manifestations"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q87.42",
+      "display": "Marfan's syndrome with ocular manifestations"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q87.43",
+      "display": "Marfan's syndrome with skeletal manifestation"
+    } ]
+  }
 }

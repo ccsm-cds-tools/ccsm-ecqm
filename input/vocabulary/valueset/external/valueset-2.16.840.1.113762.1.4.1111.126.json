@@ -5,12 +5,63 @@
     "versionId": "17",
     "lastUpdated": "2021-01-19T09:35:47.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22232009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22232009\">22232009</a></td><td>Hospital (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225728007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225728007\">225728007</a></td><td>Accident and Emergency department (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284548004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284548004\">284548004</a></td><td>Hospital department (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33022008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33022008\">33022008</a></td><td>Hospital-based outpatient department (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440654001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440654001\">440654001</a></td><td>Inpatient environment (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69362002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69362002\">69362002</a></td><td>Hospital-based ambulatory surgery facility (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73770003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73770003\">73770003</a></td><td>Hospital-based outpatient emergency care center (environment)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1111.126",
   "version": "20200305",
   "name": "Hospital Settings",
   "status": "active",
   "date": "2020-03-05T01:00:20-05:00",
   "publisher": "Lantana EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:387ce08f-f4f6-4d17-ba56-d015a9683e4d",
+    "timestamp": "2022-07-19T15:05:00-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22232009",
+      "display": "Hospital (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225728007",
+      "display": "Accident and Emergency department (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284548004",
+      "display": "Hospital department (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33022008",
+      "display": "Hospital-based outpatient department (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440654001",
+      "display": "Inpatient environment (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69362002",
+      "display": "Hospital-based ambulatory surgery facility (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73770003",
+      "display": "Hospital-based outpatient emergency care center (environment)"
+    } ]
+  }
 }

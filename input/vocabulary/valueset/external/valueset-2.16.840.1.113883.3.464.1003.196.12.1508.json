@@ -5,12 +5,93 @@
     "versionId": "5",
     "lastUpdated": "2021-02-02T11:28:22.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 13 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1430122\"> </a>1430122</td><td>paroxetine mesylate 7.5 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738483\"> </a>1738483</td><td>paroxetine hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738495\"> </a>1738495</td><td>paroxetine hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738503\"> </a>1738503</td><td>paroxetine hydrochloride 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738511\"> </a>1738511</td><td>paroxetine hydrochloride 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738515\"> </a>1738515</td><td>paroxetine mesylate 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738519\"> </a>1738519</td><td>paroxetine mesylate 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738523\"> </a>1738523</td><td>paroxetine mesylate 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738527\"> </a>1738527</td><td>paroxetine mesylate 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738803\"> </a>1738803</td><td>24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738805\"> </a>1738805</td><td>24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1738807\"> </a>1738807</td><td>24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-312242\"> </a>312242</td><td>paroxetine hydrochloride 2 MG/ML Oral Suspension</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1508",
   "version": "20180310",
   "name": "Paroxetine",
   "status": "active",
   "date": "2018-03-10T01:00:08-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6c1d958e-42f8-4286-a361-2c081f2ab401",
+    "timestamp": "2022-07-19T15:10:11-04:00",
+    "total": 13,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1430122",
+      "display": "paroxetine mesylate 7.5 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738483",
+      "display": "paroxetine hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738495",
+      "display": "paroxetine hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738503",
+      "display": "paroxetine hydrochloride 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738511",
+      "display": "paroxetine hydrochloride 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738515",
+      "display": "paroxetine mesylate 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738519",
+      "display": "paroxetine mesylate 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738523",
+      "display": "paroxetine mesylate 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738527",
+      "display": "paroxetine mesylate 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738803",
+      "display": "24 HR paroxetine hydrochloride 12.5 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738805",
+      "display": "24 HR paroxetine hydrochloride 25 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1738807",
+      "display": "24 HR paroxetine hydrochloride 37.5 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "312242",
+      "display": "paroxetine hydrochloride 2 MG/ML Oral Suspension"
+    } ]
+  }
 }

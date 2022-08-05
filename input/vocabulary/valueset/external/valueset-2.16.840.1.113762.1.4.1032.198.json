@@ -5,12 +5,38 @@
     "versionId": "5",
     "lastUpdated": "2021-09-28T11:49:32.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698582007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698582007\">698582007</a></td><td>Fetal or neonatal effect of diethylstilbestrol transmitted via placenta (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-716005004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=716005004\">716005004</a></td><td>Fetal diethylstilbestrol syndrome (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.198",
   "version": "20210805",
   "name": "Diethylstilbestrol (DES) exposure in utero",
   "status": "active",
   "date": "2021-08-05T01:00:36-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8bfb581d-4daf-4cb1-b154-769b882f7095",
+    "timestamp": "2022-07-15T19:32:27-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698582007",
+      "display": "Fetal or neonatal effect of diethylstilbestrol transmitted via placenta (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "716005004",
+      "display": "Fetal diethylstilbestrol syndrome (disorder)"
+    } ]
+  }
 }

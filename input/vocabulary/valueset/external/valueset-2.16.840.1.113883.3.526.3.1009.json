@@ -5,12 +5,98 @@
     "versionId": "27",
     "lastUpdated": "2022-03-02T18:05:07.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-107724000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=107724000\">107724000</a></td><td>Patient transfer (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182856006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182856006\">182856006</a></td><td>Drug not available - out of stock (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182857002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182857002\">182857002</a></td><td>Drug not available-off market (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185335007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185335007\">185335007</a></td><td>Appointment canceled by hospital (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224194003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224194003\">224194003</a></td><td>Not entitled to benefits (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224198000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224198000\">224198000</a></td><td>Delay in receiving benefits (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224199008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224199008\">224199008</a></td><td>Loss of benefits (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-242990004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=242990004\">242990004</a></td><td>Drug not available for administration (event)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266756008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266756008\">266756008</a></td><td>Medical care unavailable (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270459005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270459005\">270459005</a></td><td>Patient on waiting list (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309017000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309017000\">309017000</a></td><td>Referred to doctor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309846006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309846006\">309846006</a></td><td>Treatment not available (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419808006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419808006\">419808006</a></td><td>Finding related to health insurance issues (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424553001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424553001\">424553001</a></td><td>Uninsured medical expenses (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1009",
   "version": "20170504",
   "name": "System Reason",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:91223aab-8936-4c9b-8903-6f8d42b7ccc3",
+    "timestamp": "2022-07-19T15:11:05-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "107724000",
+      "display": "Patient transfer (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182856006",
+      "display": "Drug not available - out of stock (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182857002",
+      "display": "Drug not available-off market (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185335007",
+      "display": "Appointment canceled by hospital (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224194003",
+      "display": "Not entitled to benefits (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224198000",
+      "display": "Delay in receiving benefits (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224199008",
+      "display": "Loss of benefits (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "242990004",
+      "display": "Drug not available for administration (event)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266756008",
+      "display": "Medical care unavailable (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270459005",
+      "display": "Patient on waiting list (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309017000",
+      "display": "Referred to doctor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309846006",
+      "display": "Treatment not available (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419808006",
+      "display": "Finding related to health insurance issues (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424553001",
+      "display": "Uninsured medical expenses (finding)"
+    } ]
+  }
 }

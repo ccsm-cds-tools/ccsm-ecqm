@@ -5,12 +5,113 @@
     "versionId": "8",
     "lastUpdated": "2022-03-01T01:02:09.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 17 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-233.1\"> </a>233.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Carcinoma in situ of cervix uteri</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-252991009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=252991009\">252991009</a></td><td>http://snomed.info/sct</td><td>Cervical intraepithelial neoplasia grade III with severe dysplasia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254890008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254890008\">254890008</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma in situ of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285838002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285838002\">285838002</a></td><td>http://snomed.info/sct</td><td>Cervical intraepithelial neoplasia grade 2 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447760009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447760009\">447760009</a></td><td>http://snomed.info/sct</td><td>Endocervical adenocarcinoma in situ (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-622.12\"> </a>622.12</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Moderate dysplasia of cervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-769169008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=769169008\">769169008</a></td><td>http://snomed.info/sct</td><td>High grade cervical glandular intraepithelial neoplasia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-795.02\"> </a>795.02</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Papanicolaou smear of cervix with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-795.04\"> </a>795.04</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Papanicolaou smear of cervix with high grade squamous intraepithelial lesion (HGSIL)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-D06\"> </a>D06</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Carcinoma in situ of cervix uteri</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-D06.0\"> </a>D06.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Carcinoma in situ of endocervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-D06.1\"> </a>D06.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Carcinoma in situ of exocervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-D06.7\"> </a>D06.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Carcinoma in situ of other parts of cervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-D06.9\"> </a>D06.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Carcinoma in situ of cervix, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N87.1\"> </a>N87.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Moderate cervical dysplasia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R87.611\"> </a>R87.611</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R87.613\"> </a>R87.613</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.228",
   "version": "20210803",
   "name": "Cervical Precancer Disorders",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ebbf5242-31ab-48a3-9a95-147523221323",
+    "timestamp": "2022-07-15T19:04:30-04:00",
+    "total": 17,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "233.1",
+      "display": "Carcinoma in situ of cervix uteri"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "252991009",
+      "display": "Cervical intraepithelial neoplasia grade III with severe dysplasia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254890008",
+      "display": "Adenocarcinoma in situ of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285838002",
+      "display": "Cervical intraepithelial neoplasia grade 2 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447760009",
+      "display": "Endocervical adenocarcinoma in situ (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "622.12",
+      "display": "Moderate dysplasia of cervix"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "769169008",
+      "display": "High grade cervical glandular intraepithelial neoplasia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "795.02",
+      "display": "Papanicolaou smear of cervix with atypical squamous cells cannot exclude high grade squamous intraepithelial lesion (ASC-H)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "795.04",
+      "display": "Papanicolaou smear of cervix with high grade squamous intraepithelial lesion (HGSIL)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "D06",
+      "display": "Carcinoma in situ of cervix uteri"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "D06.0",
+      "display": "Carcinoma in situ of endocervix"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "D06.1",
+      "display": "Carcinoma in situ of exocervix"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "D06.7",
+      "display": "Carcinoma in situ of other parts of cervix"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "D06.9",
+      "display": "Carcinoma in situ of cervix, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N87.1",
+      "display": "Moderate cervical dysplasia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R87.611",
+      "display": "Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R87.613",
+      "display": "High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL)"
+    } ]
+  }
 }

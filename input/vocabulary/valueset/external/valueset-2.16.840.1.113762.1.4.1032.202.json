@@ -5,12 +5,53 @@
     "versionId": "5",
     "lastUpdated": "2021-08-05T01:00:36.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10738891000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10738891000119107\">10738891000119107</a></td><td>History of total hysterectomy without abnormal cervical Papanicolaou smear (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248911005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248911005\">248911005</a></td><td>Uterine cervix absent (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428078001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428078001\">428078001</a></td><td>History of total hysterectomy (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429290001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429290001\">429290001</a></td><td>History of radical hysterectomy (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429763009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429763009\">429763009</a></td><td>History of total hysterectomy with bilateral salpingo-oophorectomy (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.202",
   "version": "20210805",
   "name": "Absence of cervix observation",
   "status": "active",
   "date": "2021-08-05T01:00:36-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6008d7f9-72f2-4b46-818b-1856bad59bab",
+    "timestamp": "2022-06-20T13:35:43-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10738891000119107",
+      "display": "History of total hysterectomy without abnormal cervical Papanicolaou smear (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248911005",
+      "display": "Uterine cervix absent (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428078001",
+      "display": "History of total hysterectomy (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429290001",
+      "display": "History of radical hysterectomy (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429763009",
+      "display": "History of total hysterectomy with bilateral salpingo-oophorectomy (situation)"
+    } ]
+  }
 }

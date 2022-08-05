@@ -5,12 +5,153 @@
     "versionId": "19",
     "lastUpdated": "2021-01-18T10:05:11.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 25 concepts</p><p>All codes from system <code>http://www.ama-assn.org/go/cpt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90951\"> </a>90951</td><td>End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90952\"> </a>90952</td><td>End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90953\"> </a>90953</td><td>End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90954\"> </a>90954</td><td>End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90955\"> </a>90955</td><td>End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90956\"> </a>90956</td><td>End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90957\"> </a>90957</td><td>End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90958\"> </a>90958</td><td>End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90959\"> </a>90959</td><td>End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90960\"> </a>90960</td><td>End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 4 or more face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90961\"> </a>90961</td><td>End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 2-3 face-to-face visits by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90962\"> </a>90962</td><td>End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 1 face-to-face visit by a physician or other qualified health care professional per month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90963\"> </a>90963</td><td>End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90964\"> </a>90964</td><td>End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90965\"> </a>90965</td><td>End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90966\"> </a>90966</td><td>End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90967\"> </a>90967</td><td>End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90968\"> </a>90968</td><td>End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90969\"> </a>90969</td><td>End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90970\"> </a>90970</td><td>End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90989\"> </a>90989</td><td>Dialysis training, patient, including helper where applicable, any mode, completed course</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90993\"> </a>90993</td><td>Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90997\"> </a>90997</td><td>Hemoperfusion (eg, with activated charcoal or resin)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90999\"> </a>90999</td><td>Unlisted dialysis procedure, inpatient or outpatient</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99512\"> </a>99512</td><td>Home visit for hemodialysis</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.12.1014",
   "version": "20170504",
   "name": "ESRD Monthly Outpatient Services",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e25c0c9e-58b2-4bd1-9339-3e15dd63ec85",
+    "timestamp": "2022-07-19T15:07:33-04:00",
+    "total": 25,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90951",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90952",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90953",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90954",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90955",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90956",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90957",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 4 or more face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90958",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 2-3 face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90959",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents; with 1 face-to-face visit by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90960",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 4 or more face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90961",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 2-3 face-to-face visits by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90962",
+      "display": "End-stage renal disease (ESRD) related services monthly, for patients 20 years of age and older; with 1 face-to-face visit by a physician or other qualified health care professional per month"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90963",
+      "display": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients younger than 2 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90964",
+      "display": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 2-11 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90965",
+      "display": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 12-19 years of age to include monitoring for the adequacy of nutrition, assessment of growth and development, and counseling of parents"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90966",
+      "display": "End-stage renal disease (ESRD) related services for home dialysis per full month, for patients 20 years of age and older"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90967",
+      "display": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients younger than 2 years of age"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90968",
+      "display": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 2-11 years of age"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90969",
+      "display": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 12-19 years of age"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90970",
+      "display": "End-stage renal disease (ESRD) related services for dialysis less than a full month of service, per day; for patients 20 years of age and older"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90989",
+      "display": "Dialysis training, patient, including helper where applicable, any mode, completed course"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90993",
+      "display": "Dialysis training, patient, including helper where applicable, any mode, course not completed, per training session"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90997",
+      "display": "Hemoperfusion (eg, with activated charcoal or resin)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90999",
+      "display": "Unlisted dialysis procedure, inpatient or outpatient"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99512",
+      "display": "Home visit for hemodialysis"
+    } ]
+  }
 }

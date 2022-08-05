@@ -5,12 +5,293 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:04:11.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 53 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108241001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108241001\">108241001</a></td><td>http://snomed.info/sct</td><td>Dialysis procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10848006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10848006\">10848006</a></td><td>http://snomed.info/sct</td><td>Removal of peritoneal dialysis catheter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11932001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11932001\">11932001</a></td><td>http://snomed.info/sct</td><td>Stabilizing hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14684005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14684005\">14684005</a></td><td>http://snomed.info/sct</td><td>Peritoneal dialysis excluding cannulation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-180273006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=180273006\">180273006</a></td><td>http://snomed.info/sct</td><td>Removal of chronic ambulatory peritoneal dialysis catheter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225230008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225230008\">225230008</a></td><td>http://snomed.info/sct</td><td>Chronic peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225231007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225231007\">225231007</a></td><td>http://snomed.info/sct</td><td>Stab peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233575001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233575001\">233575001</a></td><td>http://snomed.info/sct</td><td>Intermittent hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233576000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233576000\">233576000</a></td><td>http://snomed.info/sct</td><td>Intermittent hemodialysis with sequential ultrafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233577009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233577009\">233577009</a></td><td>http://snomed.info/sct</td><td>Intermittent hemodialysis with continuous ultrafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233578004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233578004\">233578004</a></td><td>http://snomed.info/sct</td><td>Continuous hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233579007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233579007\">233579007</a></td><td>http://snomed.info/sct</td><td>Continuous arteriovenous hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233580005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233580005\">233580005</a></td><td>http://snomed.info/sct</td><td>Continuous venovenous hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233581009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233581009\">233581009</a></td><td>http://snomed.info/sct</td><td>Hemofiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233582002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233582002\">233582002</a></td><td>http://snomed.info/sct</td><td>Intermittent hemofiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233583007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233583007\">233583007</a></td><td>http://snomed.info/sct</td><td>Continuous hemofiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233584001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233584001\">233584001</a></td><td>http://snomed.info/sct</td><td>Continuous arteriovenous hemofiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233585000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233585000\">233585000</a></td><td>http://snomed.info/sct</td><td>Continuous venovenous hemofiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233586004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233586004\">233586004</a></td><td>http://snomed.info/sct</td><td>Hemodiafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233587008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233587008\">233587008</a></td><td>http://snomed.info/sct</td><td>Intermittent hemodiafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233588003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233588003\">233588003</a></td><td>http://snomed.info/sct</td><td>Continuous hemodiafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233589006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233589006\">233589006</a></td><td>http://snomed.info/sct</td><td>Continuous arteriovenous hemodiafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233590002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233590002\">233590002</a></td><td>http://snomed.info/sct</td><td>Continuous venovenous hemodiafiltration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238316008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238316008\">238316008</a></td><td>http://snomed.info/sct</td><td>Aspiration of chronic ambulatory peritoneal dialysis catheter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238317004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238317004\">238317004</a></td><td>http://snomed.info/sct</td><td>Flushing of chronic ambulatory peritoneal dialysis catheter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238318009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238318009\">238318009</a></td><td>http://snomed.info/sct</td><td>Continuous ambulatory peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238319001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238319001\">238319001</a></td><td>http://snomed.info/sct</td><td>Continuous cycling peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238321006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238321006\">238321006</a></td><td>http://snomed.info/sct</td><td>Intermittent peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238322004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238322004\">238322004</a></td><td>http://snomed.info/sct</td><td>Tidal peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238323009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238323009\">238323009</a></td><td>http://snomed.info/sct</td><td>Night-time intermittent peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265764009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265764009\">265764009</a></td><td>http://snomed.info/sct</td><td>Renal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-288182009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=288182009\">288182009</a></td><td>http://snomed.info/sct</td><td>Extracorporeal kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302497006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302497006\">302497006</a></td><td>http://snomed.info/sct</td><td>Hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34897002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34897002\">34897002</a></td><td>http://snomed.info/sct</td><td>Hemodialysis, maintenance in hospital (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427053002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427053002\">427053002</a></td><td>http://snomed.info/sct</td><td>Extracorporeal albumin hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428648006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428648006\">428648006</a></td><td>http://snomed.info/sct</td><td>Automated peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-439278006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=439278006\">439278006</a></td><td>http://snomed.info/sct</td><td>Measurement of static venous pressure in hemodialysis vascular access (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-439976001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=439976001\">439976001</a></td><td>http://snomed.info/sct</td><td>Measurement of recirculation in hemodialysis vascular access (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57274006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57274006\">57274006</a></td><td>http://snomed.info/sct</td><td>Initial hemodialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-676002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=676002\">676002</a></td><td>http://snomed.info/sct</td><td>Peritoneal dialysis including cannulation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67970008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67970008\">67970008</a></td><td>http://snomed.info/sct</td><td>Hemodialysis, maintenance at home (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68341005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68341005\">68341005</a></td><td>http://snomed.info/sct</td><td>Hemodialysis, supervision at home (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71192002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71192002\">71192002</a></td><td>http://snomed.info/sct</td><td>Peritoneal dialysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-714749008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=714749008\">714749008</a></td><td>http://snomed.info/sct</td><td>Continuous renal replacement therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90935\"> </a>90935</td><td>http://www.ama-assn.org/go/cpt</td><td>Hemodialysis procedure with single evaluation by a physician or other qualified health care professional</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90937\"> </a>90937</td><td>http://www.ama-assn.org/go/cpt</td><td>Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90945\"> </a>90945</td><td>http://www.ama-assn.org/go/cpt</td><td>Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90947\"> </a>90947</td><td>http://www.ama-assn.org/go/cpt</td><td>Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial revision of dialysis prescription</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90997\"> </a>90997</td><td>http://www.ama-assn.org/go/cpt</td><td>Hemoperfusion (eg, with activated charcoal or resin)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90999\"> </a>90999</td><td>http://www.ama-assn.org/go/cpt</td><td>Unlisted dialysis procedure, inpatient or outpatient</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99512\"> </a>99512</td><td>http://www.ama-assn.org/go/cpt</td><td>Home visit for hemodialysis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0257\"> </a>G0257</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9339\"> </a>S9339</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.12.1013",
   "version": "20170504",
   "name": "Dialysis Services",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:10791a42-307b-4dea-8dc2-5c4a9eb1a965",
+    "timestamp": "2022-07-19T15:07:32-04:00",
+    "total": 53,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108241001",
+      "display": "Dialysis procedure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10848006",
+      "display": "Removal of peritoneal dialysis catheter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11932001",
+      "display": "Stabilizing hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14684005",
+      "display": "Peritoneal dialysis excluding cannulation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "180273006",
+      "display": "Removal of chronic ambulatory peritoneal dialysis catheter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225230008",
+      "display": "Chronic peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225231007",
+      "display": "Stab peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233575001",
+      "display": "Intermittent hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233576000",
+      "display": "Intermittent hemodialysis with sequential ultrafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233577009",
+      "display": "Intermittent hemodialysis with continuous ultrafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233578004",
+      "display": "Continuous hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233579007",
+      "display": "Continuous arteriovenous hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233580005",
+      "display": "Continuous venovenous hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233581009",
+      "display": "Hemofiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233582002",
+      "display": "Intermittent hemofiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233583007",
+      "display": "Continuous hemofiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233584001",
+      "display": "Continuous arteriovenous hemofiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233585000",
+      "display": "Continuous venovenous hemofiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233586004",
+      "display": "Hemodiafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233587008",
+      "display": "Intermittent hemodiafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233588003",
+      "display": "Continuous hemodiafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233589006",
+      "display": "Continuous arteriovenous hemodiafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233590002",
+      "display": "Continuous venovenous hemodiafiltration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238316008",
+      "display": "Aspiration of chronic ambulatory peritoneal dialysis catheter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238317004",
+      "display": "Flushing of chronic ambulatory peritoneal dialysis catheter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238318009",
+      "display": "Continuous ambulatory peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238319001",
+      "display": "Continuous cycling peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238321006",
+      "display": "Intermittent peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238322004",
+      "display": "Tidal peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238323009",
+      "display": "Night-time intermittent peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265764009",
+      "display": "Renal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "288182009",
+      "display": "Extracorporeal kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302497006",
+      "display": "Hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34897002",
+      "display": "Hemodialysis, maintenance in hospital (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427053002",
+      "display": "Extracorporeal albumin hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428648006",
+      "display": "Automated peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "439278006",
+      "display": "Measurement of static venous pressure in hemodialysis vascular access (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "439976001",
+      "display": "Measurement of recirculation in hemodialysis vascular access (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57274006",
+      "display": "Initial hemodialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "676002",
+      "display": "Peritoneal dialysis including cannulation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67970008",
+      "display": "Hemodialysis, maintenance at home (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68341005",
+      "display": "Hemodialysis, supervision at home (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71192002",
+      "display": "Peritoneal dialysis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "714749008",
+      "display": "Continuous renal replacement therapy (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90935",
+      "display": "Hemodialysis procedure with single evaluation by a physician or other qualified health care professional"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90937",
+      "display": "Hemodialysis procedure requiring repeated evaluation(s) with or without substantial revision of dialysis prescription"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90945",
+      "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies), with single evaluation by a physician or other qualified health care professional"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90947",
+      "display": "Dialysis procedure other than hemodialysis (eg, peritoneal dialysis, hemofiltration, or other continuous renal replacement therapies) requiring repeated evaluations by a physician or other qualified health care professional, with or without substantial revision of dialysis prescription"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90997",
+      "display": "Hemoperfusion (eg, with activated charcoal or resin)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90999",
+      "display": "Unlisted dialysis procedure, inpatient or outpatient"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99512",
+      "display": "Home visit for hemodialysis"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0257",
+      "display": "Unscheduled or emergency dialysis treatment for an esrd patient in a hospital outpatient department that is not certified as an esrd facility"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9339",
+      "display": "Home therapy; peritoneal dialysis, administrative services, professional pharmacy services, care coordination and all necessary supplies and equipment (drugs and nursing visits coded separately), per diem"
+    } ]
+  }
 }

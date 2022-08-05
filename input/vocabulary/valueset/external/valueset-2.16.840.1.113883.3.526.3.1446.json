@@ -5,12 +5,328 @@
     "versionId": "36",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 60 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1151008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1151008\">1151008</a></td><td>http://snomed.info/sct</td><td>Visual field constriction (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12184005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12184005\">12184005</a></td><td>http://snomed.info/sct</td><td>Visual field defect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-129625005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=129625005\">129625005</a></td><td>http://snomed.info/sct</td><td>Ring scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-129626006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=129626006\">129626006</a></td><td>http://snomed.info/sct</td><td>Quadrantic scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15462009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15462009\">15462009</a></td><td>http://snomed.info/sct</td><td>Arcuate scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16059151000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16059151000119108\">16059151000119108</a></td><td>http://snomed.info/sct</td><td>Scotoma of left eye (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16059191000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16059191000119103\">16059191000119103</a></td><td>http://snomed.info/sct</td><td>Scotoma of bilateral eyes (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193670002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193670002\">193670002</a></td><td>http://snomed.info/sct</td><td>Blind spot scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193671003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193671003\">193671003</a></td><td>http://snomed.info/sct</td><td>Paracecal scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193672005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193672005\">193672005</a></td><td>http://snomed.info/sct</td><td>Angioscotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19900004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19900004\">19900004</a></td><td>http://snomed.info/sct</td><td>Decreased peripheral vision (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21273008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21273008\">21273008</a></td><td>http://snomed.info/sct</td><td>Relative scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2228002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2228002\">2228002</a></td><td>http://snomed.info/sct</td><td>Scintillating scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23388006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23388006\">23388006</a></td><td>http://snomed.info/sct</td><td>Visual field scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24370009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24370009\">24370009</a></td><td>http://snomed.info/sct</td><td>Seidel scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246656009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246656009\">246656009</a></td><td>http://snomed.info/sct</td><td>Loss of part of visual field (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246658005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246658005\">246658005</a></td><td>http://snomed.info/sct</td><td>Seeing blob in vision (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246659002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246659002\">246659002</a></td><td>http://snomed.info/sct</td><td>Peripheral scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246660007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246660007\">246660007</a></td><td>http://snomed.info/sct</td><td>Peripheral ring scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246661006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246661006\">246661006</a></td><td>http://snomed.info/sct</td><td>Local peripheral scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246662004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246662004\">246662004</a></td><td>http://snomed.info/sct</td><td>Altitudinal scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267628004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267628004\">267628004</a></td><td>http://snomed.info/sct</td><td>Generalized visual field constriction (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33014001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33014001\">33014001</a></td><td>http://snomed.info/sct</td><td>Centrocecal scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33048000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33048000\">33048000</a></td><td>http://snomed.info/sct</td><td>Peripheral visual field defect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336171000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336171000119109\">336171000119109</a></td><td>http://snomed.info/sct</td><td>Central scotoma of right eye (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33970004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33970004\">33970004</a></td><td>http://snomed.info/sct</td><td>Enlarged blind spot (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341781000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341781000119100\">341781000119100</a></td><td>http://snomed.info/sct</td><td>Central scotoma of left eye (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-345121001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=345121001\">345121001</a></td><td>http://snomed.info/sct</td><td>Heteronymous bilateral visual field defects (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346991000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346991000119107\">346991000119107</a></td><td>http://snomed.info/sct</td><td>Central scotoma of bilateral eyes (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370961005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370961005\">370961005</a></td><td>http://snomed.info/sct</td><td>Glaucomatous visual field defect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38950008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38950008\">38950008</a></td><td>http://snomed.info/sct</td><td>Central scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404650002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404650002\">404650002</a></td><td>http://snomed.info/sct</td><td>Pericentral scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416626008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416626008\">416626008</a></td><td>http://snomed.info/sct</td><td>Functional visual field loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420990001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420990001\">420990001</a></td><td>http://snomed.info/sct</td><td>Tunnel visual field constriction (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421561005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421561005\">421561005</a></td><td>http://snomed.info/sct</td><td>Concentric visual field constriction (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445923001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445923001\">445923001</a></td><td>http://snomed.info/sct</td><td>Sector visual field defect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446020008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446020008\">446020008</a></td><td>http://snomed.info/sct</td><td>Arcuate visual field defect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4806007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4806007\">4806007</a></td><td>http://snomed.info/sct</td><td>Bjerrum scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49073008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49073008\">49073008</a></td><td>http://snomed.info/sct</td><td>Absolute scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59695000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59695000\">59695000</a></td><td>http://snomed.info/sct</td><td>Bilateral visual field constriction (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64418005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64418005\">64418005</a></td><td>http://snomed.info/sct</td><td>Paracentral scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65133002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65133002\">65133002</a></td><td>http://snomed.info/sct</td><td>Physiologic scotoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.411\"> </a>H53.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma involving central area, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.412\"> </a>H53.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma involving central area, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.413\"> </a>H53.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma involving central area, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.421\"> </a>H53.421</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma of blind spot area, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.422\"> </a>H53.422</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma of blind spot area, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.423\"> </a>H53.423</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scotoma of blind spot area, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.431\"> </a>H53.431</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sector or arcuate defects, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.432\"> </a>H53.432</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sector or arcuate defects, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.433\"> </a>H53.433</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sector or arcuate defects, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.451\"> </a>H53.451</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other localized visual field defect, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.452\"> </a>H53.452</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other localized visual field defect, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.453\"> </a>H53.453</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other localized visual field defect, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.461\"> </a>H53.461</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Homonymous bilateral field defects, right side</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.462\"> </a>H53.462</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Homonymous bilateral field defects, left side</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.47\"> </a>H53.47</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heteronymous bilateral field defects</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.481\"> </a>H53.481</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized contraction of visual field, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.482\"> </a>H53.482</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized contraction of visual field, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.483\"> </a>H53.483</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized contraction of visual field, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1446",
   "version": "20210220",
   "name": "Visual Field Defects",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:02eb92fd-95b3-4a24-b90c-db731a3d897d",
+    "timestamp": "2022-07-19T15:12:18-04:00",
+    "total": 60,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1151008",
+      "display": "Visual field constriction (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12184005",
+      "display": "Visual field defect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "129625005",
+      "display": "Ring scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "129626006",
+      "display": "Quadrantic scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15462009",
+      "display": "Arcuate scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16059151000119108",
+      "display": "Scotoma of left eye (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16059191000119103",
+      "display": "Scotoma of bilateral eyes (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193670002",
+      "display": "Blind spot scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193671003",
+      "display": "Paracecal scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193672005",
+      "display": "Angioscotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19900004",
+      "display": "Decreased peripheral vision (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21273008",
+      "display": "Relative scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2228002",
+      "display": "Scintillating scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23388006",
+      "display": "Visual field scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24370009",
+      "display": "Seidel scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246656009",
+      "display": "Loss of part of visual field (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246658005",
+      "display": "Seeing blob in vision (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246659002",
+      "display": "Peripheral scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246660007",
+      "display": "Peripheral ring scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246661006",
+      "display": "Local peripheral scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246662004",
+      "display": "Altitudinal scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267628004",
+      "display": "Generalized visual field constriction (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33014001",
+      "display": "Centrocecal scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33048000",
+      "display": "Peripheral visual field defect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336171000119109",
+      "display": "Central scotoma of right eye (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33970004",
+      "display": "Enlarged blind spot (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341781000119100",
+      "display": "Central scotoma of left eye (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "345121001",
+      "display": "Heteronymous bilateral visual field defects (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346991000119107",
+      "display": "Central scotoma of bilateral eyes (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370961005",
+      "display": "Glaucomatous visual field defect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38950008",
+      "display": "Central scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404650002",
+      "display": "Pericentral scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416626008",
+      "display": "Functional visual field loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420990001",
+      "display": "Tunnel visual field constriction (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421561005",
+      "display": "Concentric visual field constriction (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445923001",
+      "display": "Sector visual field defect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446020008",
+      "display": "Arcuate visual field defect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4806007",
+      "display": "Bjerrum scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49073008",
+      "display": "Absolute scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59695000",
+      "display": "Bilateral visual field constriction (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64418005",
+      "display": "Paracentral scotoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65133002",
+      "display": "Physiologic scotoma (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.411",
+      "display": "Scotoma involving central area, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.412",
+      "display": "Scotoma involving central area, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.413",
+      "display": "Scotoma involving central area, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.421",
+      "display": "Scotoma of blind spot area, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.422",
+      "display": "Scotoma of blind spot area, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.423",
+      "display": "Scotoma of blind spot area, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.431",
+      "display": "Sector or arcuate defects, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.432",
+      "display": "Sector or arcuate defects, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.433",
+      "display": "Sector or arcuate defects, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.451",
+      "display": "Other localized visual field defect, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.452",
+      "display": "Other localized visual field defect, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.453",
+      "display": "Other localized visual field defect, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.461",
+      "display": "Homonymous bilateral field defects, right side"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.462",
+      "display": "Homonymous bilateral field defects, left side"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.47",
+      "display": "Heteronymous bilateral field defects"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.481",
+      "display": "Generalized contraction of visual field, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.482",
+      "display": "Generalized contraction of visual field, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.483",
+      "display": "Generalized contraction of visual field, bilateral"
+    } ]
+  }
 }

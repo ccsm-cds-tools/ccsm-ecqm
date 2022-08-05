@@ -5,12 +5,48 @@
     "versionId": "6",
     "lastUpdated": "2021-01-19T08:16:11.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://www.ama-assn.org/go/cpt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99217\"> </a>99217</td><td>Observation care discharge day management (This code is to be utilized to report all services provided to a patient on discharge from outpatient hospital &quot;observation status&quot; if the discharge is on other than the initial date of &quot;observation status.&quot; To report services to a patient designated as &quot;observation status&quot; or &quot;inpatient status&quot; and discharged on the same date, use the codes for Observation or Inpatient Care Services [including Admission and Discharge Services, 99234-99236 as appropriate.])</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99218\"> </a>99218</td><td>Initial observation care, per day, for the evaluation and management of a patient which requires these 3 key components: A detailed or comprehensive history; A detailed or comprehensive examination; and Medical decision making that is straightforward or of low complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital &quot;observation status&quot; are of low severity. Typically, 30 minutes are spent at the bedside and on the patient's hospital floor or unit.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99219\"> </a>99219</td><td>Initial observation care, per day, for the evaluation and management of a patient, which requires these 3 key components: A comprehensive history; A comprehensive examination; and Medical decision making of moderate complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital &quot;observation status&quot; are of moderate severity. Typically, 50 minutes are spent at the bedside and on the patient's hospital floor or unit.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99220\"> </a>99220</td><td>Initial observation care, per day, for the evaluation and management of a patient, which requires these 3 key components: A comprehensive history; A comprehensive examination; and Medical decision making of high complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital &quot;observation status&quot; are of high severity. Typically, 70 minutes are spent at the bedside and on the patient's hospital floor or unit.</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1086",
   "version": "20190315",
   "name": "Observation",
   "status": "active",
   "date": "2019-03-15T01:00:14-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f49f566a-ec6f-4c79-8f7a-8e61747390e8",
+    "timestamp": "2022-07-19T15:06:52-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99217",
+      "display": "Observation care discharge day management (This code is to be utilized to report all services provided to a patient on discharge from outpatient hospital \"observation status\" if the discharge is on other than the initial date of \"observation status.\" To report services to a patient designated as \"observation status\" or \"inpatient status\" and discharged on the same date, use the codes for Observation or Inpatient Care Services [including Admission and Discharge Services, 99234-99236 as appropriate.])"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99218",
+      "display": "Initial observation care, per day, for the evaluation and management of a patient which requires these 3 key components: A detailed or comprehensive history; A detailed or comprehensive examination; and Medical decision making that is straightforward or of low complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital \"observation status\" are of low severity. Typically, 30 minutes are spent at the bedside and on the patient's hospital floor or unit."
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99219",
+      "display": "Initial observation care, per day, for the evaluation and management of a patient, which requires these 3 key components: A comprehensive history; A comprehensive examination; and Medical decision making of moderate complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital \"observation status\" are of moderate severity. Typically, 50 minutes are spent at the bedside and on the patient's hospital floor or unit."
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99220",
+      "display": "Initial observation care, per day, for the evaluation and management of a patient, which requires these 3 key components: A comprehensive history; A comprehensive examination; and Medical decision making of high complexity. Counseling and/or coordination of care with other physicians, other qualified health care professionals, or agencies are provided consistent with the nature of the problem(s) and the patient's and/or family's needs. Usually, the problem(s) requiring admission to outpatient hospital \"observation status\" are of high severity. Typically, 70 minutes are spent at the bedside and on the patient's hospital floor or unit."
+    } ]
+  }
 }

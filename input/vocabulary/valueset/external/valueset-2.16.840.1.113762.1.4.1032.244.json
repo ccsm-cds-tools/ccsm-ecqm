@@ -5,12 +5,353 @@
     "versionId": "8",
     "lastUpdated": "2021-08-03T01:00:51.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 65 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109880006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109880006\">109880006</a></td><td>Overlapping malignant neoplasm of uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156807006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156807006\">1156807006</a></td><td>Peripheral neuroectodermal neoplasm of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-123842006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=123842006\">123842006</a></td><td>Endocervical adenocarcinoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-184781000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=184781000119102\">184781000119102</a></td><td>Primary adenocarcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188176007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188176007\">188176007</a></td><td>Malignant neoplasm of endocervical canal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188177003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188177003\">188177003</a></td><td>Malignant neoplasm of endocervical gland (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188180002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188180002\">188180002</a></td><td>Primary malignant neoplasm of overlapping sites of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188183000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188183000\">188183000</a></td><td>Malignant neoplasm of cervical stump (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188184006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188184006\">188184006</a></td><td>Malignant neoplasm of squamocolumnar junction of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-188469005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=188469005\">188469005</a></td><td>Secondary malignant neoplasm of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-208041000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=208041000119100\">208041000119100</a></td><td>Primary adenocarcinoma of endocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254886006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254886006\">254886006</a></td><td>Squamous cell carcinoma of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254887002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254887002\">254887002</a></td><td>Adenocarcinoma of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254888007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254888007\">254888007</a></td><td>Adenosquamous carcinoma of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285432005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285432005\">285432005</a></td><td>Carcinoma of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314970000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314970000\">314970000</a></td><td>Local recurrence of malignant tumor of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314992001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314992001\">314992001</a></td><td>Metastasis from malignant tumor of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363354003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363354003\">363354003</a></td><td>Malignant tumor of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369452007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369452007\">369452007</a></td><td>Malignant tumor involving rectum by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369459003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369459003\">369459003</a></td><td>Malignant tumor involving rectum by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369473007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369473007\">369473007</a></td><td>Malignant tumor involving bladder by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369495006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369495006\">369495006</a></td><td>Malignant tumor involving uterine corpus by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369497003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369497003\">369497003</a></td><td>Malignant tumor involving uterine cervix by direct extension from fallopian tube (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369498008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369498008\">369498008</a></td><td>Malignant tumor involving uterine cervix by direct extension from ovary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369499000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369499000\">369499000</a></td><td>Malignant tumor involving uterine cervix by direct extension from vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369500009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369500009\">369500009</a></td><td>Malignant tumor involving uterine cervix by separate metastasis from fallopian tube (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369501008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369501008\">369501008</a></td><td>Malignant tumor involving uterine cervix by separate metastasis from ovary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369518007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369518007\">369518007</a></td><td>Malignant tumor involving left fallopian tube by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369527008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369527008\">369527008</a></td><td>Malignant tumor involving left ovary by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369556008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369556008\">369556008</a></td><td>Malignant tumor involving right fallopian tube by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369571007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369571007\">369571007</a></td><td>Malignant tumor involving right ovary by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369574004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369574004\">369574004</a></td><td>Malignant tumor involving uterine cervix by separate metastasis from vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369577006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369577006\">369577006</a></td><td>Malignant tumor involving uterine corpus by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369580007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369580007\">369580007</a></td><td>Malignant tumor involving vagina by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369585002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369585002\">369585002</a></td><td>Malignant tumor involving vagina by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369591000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369591000\">369591000</a></td><td>Malignant tumor involving vulva by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369599003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369599003\">369599003</a></td><td>Malignant tumor involving an organ by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369607002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369607002\">369607002</a></td><td>Malignant tumor involving an organ by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369610009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369610009\">369610009</a></td><td>Malignant tumor involving left fallopian tube by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372024009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372024009\">372024009</a></td><td>Primary malignant neoplasm of uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372097009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372097009\">372097009</a></td><td>Malignant neoplasm of endocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372098004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372098004\">372098004</a></td><td>Carcinoma of endocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372099007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372099007\">372099007</a></td><td>Malignant neoplasm of exocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372100004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372100004\">372100004</a></td><td>Carcinoma of exocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385478001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385478001\">385478001</a></td><td>Adenoma malignum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423973006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423973006\">423973006</a></td><td>Carcinoma of uterine cervix, invasive (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448607004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448607004\">448607004</a></td><td>Diffuse non-Hodgkin's lymphoma of uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448774004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448774004\">448774004</a></td><td>Non-Hodgkin's lymphoma of uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449059000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449059000\">449059000</a></td><td>Follicular non-Hodgkin's lymphoma of uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722683006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722683006\">722683006</a></td><td>Primary neuroendocrine carcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733834006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733834006\">733834006</a></td><td>Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763063001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763063001\">763063001</a></td><td>Adenoid basal carcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763064007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763064007\">763064007</a></td><td>Adenoid cystic carcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763408003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763408003\">763408003</a></td><td>Rhabdomyosarcoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763771009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763771009\">763771009</a></td><td>Leiomyosarcoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764847000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764847000\">764847000</a></td><td>Adenosarcoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764951002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764951002\">764951002</a></td><td>Carcinosarcoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766248004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766248004\">766248004</a></td><td>Primitive neuroectodermal tumor of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766930002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766930002\">766930002</a></td><td>Glassy cell carcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773283006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773283006\">773283006</a></td><td>Malignant germ cell neoplasm of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773775004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773775004\">773775004</a></td><td>High-grade neuroendocrine carcinoma of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93779009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93779009\">93779009</a></td><td>Primary malignant neoplasm of endocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93789008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93789008\">93789008</a></td><td>Primary malignant neoplasm of exocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94279001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94279001\">94279001</a></td><td>Secondary malignant neoplasm of endocervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94290006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94290006\">94290006</a></td><td>Secondary malignant neoplasm of exocervix (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.244",
   "version": "20210803",
   "name": "Cervical Cancer",
   "status": "active",
   "date": "2021-08-03T01:00:51-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ab12315f-762e-44be-b665-7747da264fba",
+    "timestamp": "2022-07-15T19:35:36-04:00",
+    "total": 65,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109880006",
+      "display": "Overlapping malignant neoplasm of uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156807006",
+      "display": "Peripheral neuroectodermal neoplasm of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "123842006",
+      "display": "Endocervical adenocarcinoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "184781000119102",
+      "display": "Primary adenocarcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188176007",
+      "display": "Malignant neoplasm of endocervical canal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188177003",
+      "display": "Malignant neoplasm of endocervical gland (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188180002",
+      "display": "Primary malignant neoplasm of overlapping sites of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188183000",
+      "display": "Malignant neoplasm of cervical stump (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188184006",
+      "display": "Malignant neoplasm of squamocolumnar junction of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "188469005",
+      "display": "Secondary malignant neoplasm of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "208041000119100",
+      "display": "Primary adenocarcinoma of endocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254886006",
+      "display": "Squamous cell carcinoma of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254887002",
+      "display": "Adenocarcinoma of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254888007",
+      "display": "Adenosquamous carcinoma of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285432005",
+      "display": "Carcinoma of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314970000",
+      "display": "Local recurrence of malignant tumor of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314992001",
+      "display": "Metastasis from malignant tumor of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363354003",
+      "display": "Malignant tumor of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369452007",
+      "display": "Malignant tumor involving rectum by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369459003",
+      "display": "Malignant tumor involving rectum by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369473007",
+      "display": "Malignant tumor involving bladder by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369495006",
+      "display": "Malignant tumor involving uterine corpus by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369497003",
+      "display": "Malignant tumor involving uterine cervix by direct extension from fallopian tube (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369498008",
+      "display": "Malignant tumor involving uterine cervix by direct extension from ovary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369499000",
+      "display": "Malignant tumor involving uterine cervix by direct extension from vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369500009",
+      "display": "Malignant tumor involving uterine cervix by separate metastasis from fallopian tube (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369501008",
+      "display": "Malignant tumor involving uterine cervix by separate metastasis from ovary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369518007",
+      "display": "Malignant tumor involving left fallopian tube by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369527008",
+      "display": "Malignant tumor involving left ovary by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369556008",
+      "display": "Malignant tumor involving right fallopian tube by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369571007",
+      "display": "Malignant tumor involving right ovary by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369574004",
+      "display": "Malignant tumor involving uterine cervix by separate metastasis from vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369577006",
+      "display": "Malignant tumor involving uterine corpus by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369580007",
+      "display": "Malignant tumor involving vagina by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369585002",
+      "display": "Malignant tumor involving vagina by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369591000",
+      "display": "Malignant tumor involving vulva by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369599003",
+      "display": "Malignant tumor involving an organ by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369607002",
+      "display": "Malignant tumor involving an organ by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369610009",
+      "display": "Malignant tumor involving left fallopian tube by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372024009",
+      "display": "Primary malignant neoplasm of uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372097009",
+      "display": "Malignant neoplasm of endocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372098004",
+      "display": "Carcinoma of endocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372099007",
+      "display": "Malignant neoplasm of exocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372100004",
+      "display": "Carcinoma of exocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385478001",
+      "display": "Adenoma malignum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423973006",
+      "display": "Carcinoma of uterine cervix, invasive (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448607004",
+      "display": "Diffuse non-Hodgkin's lymphoma of uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448774004",
+      "display": "Non-Hodgkin's lymphoma of uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449059000",
+      "display": "Follicular non-Hodgkin's lymphoma of uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722683006",
+      "display": "Primary neuroendocrine carcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733834006",
+      "display": "Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763063001",
+      "display": "Adenoid basal carcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763064007",
+      "display": "Adenoid cystic carcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763408003",
+      "display": "Rhabdomyosarcoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763771009",
+      "display": "Leiomyosarcoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764847000",
+      "display": "Adenosarcoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764951002",
+      "display": "Carcinosarcoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766248004",
+      "display": "Primitive neuroectodermal tumor of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766930002",
+      "display": "Glassy cell carcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773283006",
+      "display": "Malignant germ cell neoplasm of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773775004",
+      "display": "High-grade neuroendocrine carcinoma of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93779009",
+      "display": "Primary malignant neoplasm of endocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93789008",
+      "display": "Primary malignant neoplasm of exocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94279001",
+      "display": "Secondary malignant neoplasm of endocervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94290006",
+      "display": "Secondary malignant neoplasm of exocervix (disorder)"
+    } ]
+  }
 }

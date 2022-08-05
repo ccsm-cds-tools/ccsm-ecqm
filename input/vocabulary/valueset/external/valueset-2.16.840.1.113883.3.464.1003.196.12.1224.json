@@ -5,12 +5,38 @@
     "versionId": "17",
     "lastUpdated": "2021-02-02T16:03:43.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/cvx</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-03\"> </a>03</td><td>measles, mumps and rubella virus vaccine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-94\"> </a>94</td><td>measles, mumps, rubella, and varicella virus vaccine</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1224",
   "version": "20170504",
   "name": "Measles, Mumps and Rubella (MMR) Vaccine",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c7119c6b-8684-488c-86a7-ad17542b75f5",
+    "timestamp": "2022-07-19T15:09:10-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "03",
+      "display": "measles, mumps and rubella virus vaccine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "94",
+      "display": "measles, mumps, rubella, and varicella virus vaccine"
+    } ]
+  }
 }

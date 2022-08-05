@@ -5,12 +5,38 @@
     "versionId": "21",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428281000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428281000124107\">428281000124107</a></td><td>Anaphylaxis caused by diphtheria and tetanus vaccine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428291000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428291000124105\">428291000124105</a></td><td>Anaphylaxis caused by tetanus, diphtheria and acellular pertussis vaccine (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.199.12.1031",
   "version": "20170504",
   "name": "Anaphylactic Reaction to DTaP Vaccine",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f9d1ad41-0195-4ad9-b686-e703271a5da8",
+    "timestamp": "2022-07-19T15:10:52-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428281000124107",
+      "display": "Anaphylaxis caused by diphtheria and tetanus vaccine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428291000124105",
+      "display": "Anaphylaxis caused by tetanus, diphtheria and acellular pertussis vaccine (disorder)"
+    } ]
+  }
 }

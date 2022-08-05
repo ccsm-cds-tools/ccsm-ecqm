@@ -5,12 +5,38 @@
     "versionId": "32",
     "lastUpdated": "2022-02-19T01:07:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-44261-6\"> </a><a href=\"http://details.loinc.org/LOINC/44261-6.html\">44261-6</a></td><td>Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-89204-2\"> </a><a href=\"http://details.loinc.org/LOINC/89204-2.html\">89204-2</a></td><td>Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.67.1.101.1.263",
   "version": "20220219",
   "name": "PHQ 9 and PHQ 9M Tools",
   "status": "active",
   "date": "2022-02-19T01:07:29-05:00",
   "publisher": "MNCM Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:b0c372b1-71d4-40c9-ad11-9bae6ace1247",
+    "timestamp": "2022-07-19T15:14:09-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "44261-6",
+      "display": "Patient Health Questionnaire 9 item (PHQ-9) total score [Reported]"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "89204-2",
+      "display": "Patient Health Questionnaire-9: Modified for Teens total score [Reported.PHQ.Teen]"
+    } ]
+  }
 }

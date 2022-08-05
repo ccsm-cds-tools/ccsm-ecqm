@@ -5,12 +5,78 @@
     "versionId": "17",
     "lastUpdated": "2021-02-11T15:10:03.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/cvx</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-140\"> </a>140</td><td>Influenza, seasonal, injectable, preservative free</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-141\"> </a>141</td><td>Influenza, seasonal, injectable</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-150\"> </a>150</td><td>Influenza, injectable, quadrivalent, preservative free</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-153\"> </a>153</td><td>Influenza, injectable, Madin Darby Canine Kidney, preservative free</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-155\"> </a>155</td><td>Seasonal, trivalent, recombinant, injectable influenza vaccine, preservative free</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-158\"> </a>158</td><td>influenza, injectable, quadrivalent, contains preservative</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-161\"> </a>161</td><td>Influenza, injectable,quadrivalent, preservative free, pediatric</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-171\"> </a>171</td><td>Influenza, injectable, Madin Darby Canine Kidney, preservative free, quadrivalent</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-186\"> </a>186</td><td>Influenza, injectable, Madin Darby Canine Kidney,  quadrivalent with preservative</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-88\"> </a>88</td><td>influenza virus vaccine, unspecified formulation</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1218",
   "version": "20170504",
   "name": "Influenza Vaccine",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5918e9ba-5472-4eda-9968-faaa7a73c900",
+    "timestamp": "2022-07-19T15:09:07-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "140",
+      "display": "Influenza, seasonal, injectable, preservative free"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "141",
+      "display": "Influenza, seasonal, injectable"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "150",
+      "display": "Influenza, injectable, quadrivalent, preservative free"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "153",
+      "display": "Influenza, injectable, Madin Darby Canine Kidney, preservative free"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "155",
+      "display": "Seasonal, trivalent, recombinant, injectable influenza vaccine, preservative free"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "158",
+      "display": "influenza, injectable, quadrivalent, contains preservative"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "161",
+      "display": "Influenza, injectable,quadrivalent, preservative free, pediatric"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "171",
+      "display": "Influenza, injectable, Madin Darby Canine Kidney, preservative free, quadrivalent"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "186",
+      "display": "Influenza, injectable, Madin Darby Canine Kidney,  quadrivalent with preservative"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "88",
+      "display": "influenza virus vaccine, unspecified formulation"
+    } ]
+  }
 }

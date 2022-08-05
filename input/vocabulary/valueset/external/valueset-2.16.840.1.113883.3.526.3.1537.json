@@ -5,12 +5,73 @@
     "versionId": "7",
     "lastUpdated": "2022-03-02T18:05:07.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102263004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102263004\">102263004</a></td><td>Eggs (edible) (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-226881001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=226881001\">226881001</a></td><td>Dried egg (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-226885005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=226885005\">226885005</a></td><td>Raw egg (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-229955000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=229955000\">229955000</a></td><td>Dried egg white (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-256442007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=256442007\">256442007</a></td><td>Egg yolk (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-256443002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=256443002\">256443002</a></td><td>Egg white (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-286550009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=286550009\">286550009</a></td><td>Hen's egg (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-303300008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=303300008\">303300008</a></td><td>Egg protein (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414074006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414074006\">414074006</a></td><td>Egg product (substance)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1537",
   "version": "20170504",
   "name": "Egg Substance",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2f11c8ba-f47b-4d66-8ce2-90c6bc009123",
+    "timestamp": "2022-07-19T15:12:53-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102263004",
+      "display": "Eggs (edible) (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "226881001",
+      "display": "Dried egg (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "226885005",
+      "display": "Raw egg (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "229955000",
+      "display": "Dried egg white (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "256442007",
+      "display": "Egg yolk (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "256443002",
+      "display": "Egg white (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "286550009",
+      "display": "Hen's egg (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "303300008",
+      "display": "Egg protein (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414074006",
+      "display": "Egg product (substance)"
+    } ]
+  }
 }

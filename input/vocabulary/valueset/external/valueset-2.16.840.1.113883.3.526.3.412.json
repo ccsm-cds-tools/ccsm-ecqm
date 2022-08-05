@@ -5,12 +5,83 @@
     "versionId": "25",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142110005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142110005\">1142110005</a></td><td>http://snomed.info/sct</td><td>Sinus bradycardia caused by drug (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142111009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142111009\">1142111009</a></td><td>http://snomed.info/sct</td><td>Sinus bradycardia due to metabolic disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251162005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251162005\">251162005</a></td><td>http://snomed.info/sct</td><td>Atrio-ventricular-junctional (nodal) bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29894000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29894000\">29894000</a></td><td>http://snomed.info/sct</td><td>Vagal autonomic bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397841007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397841007\">397841007</a></td><td>http://snomed.info/sct</td><td>Drug-induced bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44602002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44602002\">44602002</a></td><td>http://snomed.info/sct</td><td>Persistent sinus bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49044005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49044005\">49044005</a></td><td>http://snomed.info/sct</td><td>Severe sinus bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49710005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49710005\">49710005</a></td><td>http://snomed.info/sct</td><td>Sinus bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I49.5\"> </a>I49.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sick sinus syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I49.8\"> </a>I49.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified cardiac arrhythmias</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R00.1\"> </a>R00.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Bradycardia, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.412",
   "version": "20200306",
   "name": "Bradycardia",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:07bfd5e1-58c9-4232-a315-c8060e351923",
+    "timestamp": "2022-07-19T15:13:36-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142110005",
+      "display": "Sinus bradycardia caused by drug (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142111009",
+      "display": "Sinus bradycardia due to metabolic disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251162005",
+      "display": "Atrio-ventricular-junctional (nodal) bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29894000",
+      "display": "Vagal autonomic bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397841007",
+      "display": "Drug-induced bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44602002",
+      "display": "Persistent sinus bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49044005",
+      "display": "Severe sinus bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49710005",
+      "display": "Sinus bradycardia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I49.5",
+      "display": "Sick sinus syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I49.8",
+      "display": "Other specified cardiac arrhythmias"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R00.1",
+      "display": "Bradycardia, unspecified"
+    } ]
+  }
 }

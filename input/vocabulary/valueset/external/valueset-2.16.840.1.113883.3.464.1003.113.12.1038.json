@@ -5,12 +5,438 @@
     "versionId": "11",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 82 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102447009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102447009\">102447009</a></td><td>http://snomed.info/sct</td><td>Postmenopausal osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109346000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109346000\">109346000</a></td><td>http://snomed.info/sct</td><td>Osteoporotic bone marrow defect (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311361000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311361000119103\">11311361000119103</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of thoracic vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311441000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311441000119109\">11311441000119109</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of lumbar vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311521000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311521000119104\">11311521000119104</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of cervical vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311601000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311601000119109\">11311601000119109</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311641000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311641000119106\">11311641000119106</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of sacral vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311801000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311801000119105\">11311801000119105</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11311841000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11311841000119107\">11311841000119107</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of sacral vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11314841000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11314841000119105\">11314841000119105</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11874341000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11874341000119106\">11874341000119106</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of left rib (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11874381000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11874381000119101\">11874381000119101</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of right rib (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14651005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14651005\">14651005</a></td><td>http://snomed.info/sct</td><td>Drug-induced osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1515008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1515008\">1515008</a></td><td>http://snomed.info/sct</td><td>Gorham's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18040001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18040001\">18040001</a></td><td>http://snomed.info/sct</td><td>Senile osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203429007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203429007\">203429007</a></td><td>http://snomed.info/sct</td><td>Idiopathic generalized osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203433000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203433000\">203433000</a></td><td>http://snomed.info/sct</td><td>Postoophorectomy osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203434006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203434006\">203434006</a></td><td>http://snomed.info/sct</td><td>Post-surgical malabsorption osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203435007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203435007\">203435007</a></td><td>http://snomed.info/sct</td><td>Localized osteoporosis - Lequesne (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203437004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203437004\">203437004</a></td><td>http://snomed.info/sct</td><td>Osteoporosis in endocrine disorders (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203438009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203438009\">203438009</a></td><td>http://snomed.info/sct</td><td>Vertebral osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203444008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203444008\">203444008</a></td><td>http://snomed.info/sct</td><td>Postoophorectomy osteoporosis with pathological fracture (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203446005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203446005\">203446005</a></td><td>http://snomed.info/sct</td><td>Pathological fracture co-occurrent and due to post-surgical malabsorption osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-203657009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=203657009\">203657009</a></td><td>http://snomed.info/sct</td><td>Osteoporotic kyphosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240155001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240155001\">240155001</a></td><td>http://snomed.info/sct</td><td>Adult idiopathic generalized osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240157009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240157009\">240157009</a></td><td>http://snomed.info/sct</td><td>Secondary generalized osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240158004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240158004\">240158004</a></td><td>http://snomed.info/sct</td><td>Regional migrating osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240159007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240159007\">240159007</a></td><td>http://snomed.info/sct</td><td>Transient osteoporosis of hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240161003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240161003\">240161003</a></td><td>http://snomed.info/sct</td><td>Disappearing bone disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240162005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240162005\">240162005</a></td><td>http://snomed.info/sct</td><td>Secondary localized osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240164006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240164006\">240164006</a></td><td>http://snomed.info/sct</td><td>Post-irradiation osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240198002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240198002\">240198002</a></td><td>http://snomed.info/sct</td><td>Osteoporotic vertebral collapse (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-268028001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=268028001\">268028001</a></td><td>http://snomed.info/sct</td><td>Localized disuse osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276661002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276661002\">276661002</a></td><td>http://snomed.info/sct</td><td>Primary osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281387004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281387004\">281387004</a></td><td>http://snomed.info/sct</td><td>Regional osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-311806008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=311806008\">311806008</a></td><td>http://snomed.info/sct</td><td>Osteoporotic collapse of cervical vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-311890007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=311890007\">311890007</a></td><td>http://snomed.info/sct</td><td>Osteoporotic collapse of lumbar vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-311891006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=311891006\">311891006</a></td><td>http://snomed.info/sct</td><td>Osteoporotic collapse of thoracic vertebra (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32369003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32369003\">32369003</a></td><td>http://snomed.info/sct</td><td>Menopausal osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3345002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3345002\">3345002</a></td><td>http://snomed.info/sct</td><td>Idiopathic osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390833005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390833005\">390833005</a></td><td>http://snomed.info/sct</td><td>Osteoporosis caused by corticosteroid (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431031001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431031001\">431031001</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of neck of femur (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443165006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443165006\">443165006</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of bone (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53174001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53174001\">53174001</a></td><td>http://snomed.info/sct</td><td>Disuse osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64859006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64859006\">64859006</a></td><td>http://snomed.info/sct</td><td>Osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-699528002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=699528002\">699528002</a></td><td>http://snomed.info/sct</td><td>Transient osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703264005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703264005\">703264005</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704282002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704282002\">704282002</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of ulna (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704283007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704283007\">704283007</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of tibia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704284001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704284001\">704284001</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of scapula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704285000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704285000\">704285000</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of radius (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704286004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704286004\">704286004</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of humerus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704287008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704287008\">704287008</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of proximal femur (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704288003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704288003\">704288003</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704289006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704289006\">704289006</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704290002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704290002\">704290002</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of fibula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704291003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704291003\">704291003</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of femur (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704292005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704292005\">704292005</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of clavicle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704293000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704293000\">704293000</a></td><td>http://snomed.info/sct</td><td>Secondary osteoporotic fracture of ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704328003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704328003\">704328003</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704329006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704329006\">704329006</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of clavicle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704330001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704330001\">704330001</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of femur (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704331002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704331002\">704331002</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of fibula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704332009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704332009\">704332009</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of bone of foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704333004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704333004\">704333004</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704334005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704334005\">704334005</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of proximal femur (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704335006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704335006\">704335006</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of humerus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704336007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704336007\">704336007</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of radius (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704337003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704337003\">704337003</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of scapula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704338008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704338008\">704338008</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of tibia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-704339000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=704339000\">704339000</a></td><td>http://snomed.info/sct</td><td>Osteoporotic fracture of ulna (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.01\"> </a>733.01</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Senile osteoporosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.02\"> </a>733.02</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Idiopathic osteoporosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.03\"> </a>733.03</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disuse osteoporosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.09\"> </a>733.09</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other osteoporosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735617003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735617003\">735617003</a></td><td>http://snomed.info/sct</td><td>Premenopausal idiopathic osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735618008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735618008\">735618008</a></td><td>http://snomed.info/sct</td><td>Osteoporosis due to malabsorption (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-739301006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=739301006\">739301006</a></td><td>http://snomed.info/sct</td><td>Osteoporosis co-occurrent and due to multiple myeloma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-897308007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=897308007\">897308007</a></td><td>http://snomed.info/sct</td><td>Chronic kidney disease with osteoporosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M81.0\"> </a>M81.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related osteoporosis without current pathological fracture</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M81.6\"> </a>M81.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localized osteoporosis [Lequesne]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M81.8\"> </a>M81.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other osteoporosis without current pathological fracture</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1038",
   "version": "20171219",
   "name": "Osteoporosis",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c802984b-2d3f-4dd4-b498-007915adad3f",
+    "timestamp": "2022-07-19T15:08:18-04:00",
+    "total": 82,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102447009",
+      "display": "Postmenopausal osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109346000",
+      "display": "Osteoporotic bone marrow defect (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311361000119103",
+      "display": "Secondary osteoporotic fracture of thoracic vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311441000119109",
+      "display": "Secondary osteoporotic fracture of lumbar vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311521000119104",
+      "display": "Secondary osteoporotic fracture of cervical vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311601000119109",
+      "display": "Osteoporotic fracture of vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311641000119106",
+      "display": "Osteoporotic fracture of sacral vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311801000119105",
+      "display": "Secondary osteoporotic fracture of vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11311841000119107",
+      "display": "Secondary osteoporotic fracture of sacral vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11314841000119105",
+      "display": "Secondary osteoporotic fracture (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11874341000119106",
+      "display": "Osteoporotic fracture of left rib (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11874381000119101",
+      "display": "Osteoporotic fracture of right rib (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14651005",
+      "display": "Drug-induced osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1515008",
+      "display": "Gorham's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18040001",
+      "display": "Senile osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203429007",
+      "display": "Idiopathic generalized osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203433000",
+      "display": "Postoophorectomy osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203434006",
+      "display": "Post-surgical malabsorption osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203435007",
+      "display": "Localized osteoporosis - Lequesne (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203437004",
+      "display": "Osteoporosis in endocrine disorders (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203438009",
+      "display": "Vertebral osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203444008",
+      "display": "Postoophorectomy osteoporosis with pathological fracture (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203446005",
+      "display": "Pathological fracture co-occurrent and due to post-surgical malabsorption osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "203657009",
+      "display": "Osteoporotic kyphosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240155001",
+      "display": "Adult idiopathic generalized osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240157009",
+      "display": "Secondary generalized osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240158004",
+      "display": "Regional migrating osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240159007",
+      "display": "Transient osteoporosis of hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240161003",
+      "display": "Disappearing bone disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240162005",
+      "display": "Secondary localized osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240164006",
+      "display": "Post-irradiation osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240198002",
+      "display": "Osteoporotic vertebral collapse (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "268028001",
+      "display": "Localized disuse osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276661002",
+      "display": "Primary osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281387004",
+      "display": "Regional osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "311806008",
+      "display": "Osteoporotic collapse of cervical vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "311890007",
+      "display": "Osteoporotic collapse of lumbar vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "311891006",
+      "display": "Osteoporotic collapse of thoracic vertebra (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32369003",
+      "display": "Menopausal osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3345002",
+      "display": "Idiopathic osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390833005",
+      "display": "Osteoporosis caused by corticosteroid (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431031001",
+      "display": "Osteoporotic fracture of neck of femur (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443165006",
+      "display": "Osteoporotic fracture of bone (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53174001",
+      "display": "Disuse osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64859006",
+      "display": "Osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "699528002",
+      "display": "Transient osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703264005",
+      "display": "Secondary osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704282002",
+      "display": "Secondary osteoporotic fracture of ulna (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704283007",
+      "display": "Secondary osteoporotic fracture of tibia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704284001",
+      "display": "Secondary osteoporotic fracture of scapula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704285000",
+      "display": "Secondary osteoporotic fracture of radius (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704286004",
+      "display": "Secondary osteoporotic fracture of humerus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704287008",
+      "display": "Secondary osteoporotic fracture of proximal femur (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704288003",
+      "display": "Secondary osteoporotic fracture of hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704289006",
+      "display": "Secondary osteoporotic fracture of foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704290002",
+      "display": "Secondary osteoporotic fracture of fibula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704291003",
+      "display": "Secondary osteoporotic fracture of femur (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704292005",
+      "display": "Secondary osteoporotic fracture of clavicle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704293000",
+      "display": "Secondary osteoporotic fracture of ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704328003",
+      "display": "Osteoporotic fracture of ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704329006",
+      "display": "Osteoporotic fracture of clavicle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704330001",
+      "display": "Osteoporotic fracture of femur (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704331002",
+      "display": "Osteoporotic fracture of fibula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704332009",
+      "display": "Osteoporotic fracture of bone of foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704333004",
+      "display": "Osteoporotic fracture of hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704334005",
+      "display": "Osteoporotic fracture of proximal femur (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704335006",
+      "display": "Osteoporotic fracture of humerus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704336007",
+      "display": "Osteoporotic fracture of radius (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704337003",
+      "display": "Osteoporotic fracture of scapula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704338008",
+      "display": "Osteoporotic fracture of tibia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "704339000",
+      "display": "Osteoporotic fracture of ulna (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.01",
+      "display": "Senile osteoporosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.02",
+      "display": "Idiopathic osteoporosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.03",
+      "display": "Disuse osteoporosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.09",
+      "display": "Other osteoporosis"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735617003",
+      "display": "Premenopausal idiopathic osteoporosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735618008",
+      "display": "Osteoporosis due to malabsorption (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "739301006",
+      "display": "Osteoporosis co-occurrent and due to multiple myeloma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "897308007",
+      "display": "Chronic kidney disease with osteoporosis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M81.0",
+      "display": "Age-related osteoporosis without current pathological fracture"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M81.6",
+      "display": "Localized osteoporosis [Lequesne]"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M81.8",
+      "display": "Other osteoporosis without current pathological fracture"
+    } ]
+  }
 }

@@ -5,12 +5,108 @@
     "versionId": "6",
     "lastUpdated": "2021-03-16T17:49:56.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-162863004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=162863004\">162863004</a></td><td>http://snomed.info/sct</td><td>Body mass index 25-29 - overweight (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-162864005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=162864005\">162864005</a></td><td>http://snomed.info/sct</td><td>Body mass index 30+ - obesity (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238131007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238131007\">238131007</a></td><td>http://snomed.info/sct</td><td>Overweight (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238136002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238136002\">238136002</a></td><td>http://snomed.info/sct</td><td>Morbid obesity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408512008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408512008\">408512008</a></td><td>http://snomed.info/sct</td><td>Body mass index 40+ - severely obese (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414915002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414915002\">414915002</a></td><td>http://snomed.info/sct</td><td>Obese (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414916001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414916001\">414916001</a></td><td>http://snomed.info/sct</td><td>Obesity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415530009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415530009\">415530009</a></td><td>http://snomed.info/sct</td><td>Simple obesity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83911000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83911000119104\">83911000119104</a></td><td>http://snomed.info/sct</td><td>Severe obesity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.01\"> </a>E66.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Morbid (severe) obesity due to excess calories</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.09\"> </a>E66.09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other obesity due to excess calories</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.1\"> </a>E66.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug-induced obesity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.2\"> </a>E66.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Morbid (severe) obesity with alveolar hypoventilation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.3\"> </a>E66.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Overweight</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.8\"> </a>E66.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other obesity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.9\"> </a>E66.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Obesity, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.502",
   "version": "20180309",
   "name": "Overweight or Obese",
   "status": "active",
   "date": "2018-03-09T01:00:05-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d30bfc23-2cb6-428c-a3a3-34885477b47f",
+    "timestamp": "2022-07-19T15:04:40-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "162863004",
+      "display": "Body mass index 25-29 - overweight (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "162864005",
+      "display": "Body mass index 30+ - obesity (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238131007",
+      "display": "Overweight (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238136002",
+      "display": "Morbid obesity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408512008",
+      "display": "Body mass index 40+ - severely obese (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414915002",
+      "display": "Obese (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414916001",
+      "display": "Obesity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415530009",
+      "display": "Simple obesity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83911000119104",
+      "display": "Severe obesity (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.01",
+      "display": "Morbid (severe) obesity due to excess calories"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.09",
+      "display": "Other obesity due to excess calories"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.1",
+      "display": "Drug-induced obesity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.2",
+      "display": "Morbid (severe) obesity with alveolar hypoventilation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.3",
+      "display": "Overweight"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.8",
+      "display": "Other obesity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.9",
+      "display": "Obesity, unspecified"
+    } ]
+  }
 }

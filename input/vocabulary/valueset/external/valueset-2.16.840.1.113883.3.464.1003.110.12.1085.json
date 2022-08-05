@@ -5,12 +5,48 @@
     "versionId": "6",
     "lastUpdated": "2021-02-02T15:31:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/cvx</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-120\"> </a>120</td><td>diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-146\"> </a>146</td><td>Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine.</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-148\"> </a>148</td><td>Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-48\"> </a>48</td><td>Haemophilus influenzae type b vaccine, PRP-T conjugate</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1085",
   "version": "20190315",
   "name": "Hib Vaccine (4 dose schedule)",
   "status": "active",
   "date": "2019-03-15T01:00:14-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:be6062b7-d17e-4d8f-9852-1d32f74ee6d9",
+    "timestamp": "2022-07-19T15:08:03-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "120",
+      "display": "diphtheria, tetanus toxoids and acellular pertussis vaccine, Haemophilus influenzae type b conjugate, and poliovirus vaccine, inactivated (DTaP-Hib-IPV)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "146",
+      "display": "Diphtheria and Tetanus Toxoids and Acellular Pertussis Adsorbed, Inactivated Poliovirus, Haemophilus b Conjugate (Meningococcal Protein Conjugate), and Hepatitis B (Recombinant) Vaccine."
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "148",
+      "display": "Meningococcal Groups C and Y and Haemophilus b Tetanus Toxoid Conjugate Vaccine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "48",
+      "display": "Haemophilus influenzae type b vaccine, PRP-T conjugate"
+    } ]
+  }
 }

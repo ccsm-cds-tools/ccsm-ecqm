@@ -5,12 +5,98 @@
     "versionId": "11",
     "lastUpdated": "2021-03-16T16:35:09.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2167565\"> </a>2167565</td><td>rosuvastatin 20 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2167569\"> </a>2167569</td><td>rosuvastatin 40 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2535745\"> </a>2535745</td><td>ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2535749\"> </a>2535749</td><td>ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-259255\"> </a>259255</td><td>atorvastatin 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-404011\"> </a>404011</td><td>amlodipine 5 MG / atorvastatin 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-404013\"> </a>404013</td><td>amlodipine 10 MG / atorvastatin 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-476351\"> </a>476351</td><td>ezetimibe 10 MG / simvastatin 80 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-597984\"> </a>597984</td><td>amlodipine 5 MG / atorvastatin 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-597990\"> </a>597990</td><td>amlodipine 10 MG / atorvastatin 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-597993\"> </a>597993</td><td>amlodipine 2.5 MG / atorvastatin 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-617311\"> </a>617311</td><td>atorvastatin 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-859419\"> </a>859419</td><td>rosuvastatin calcium 40 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-859751\"> </a>859751</td><td>rosuvastatin calcium 20 MG Oral Tablet</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1572",
   "version": "20210220",
   "name": "High Intensity Statin Therapy",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:74efb4cc-b8b7-4fbe-9a3d-7ca0a1abbbe0",
+    "timestamp": "2022-07-19T15:13:05-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2167565",
+      "display": "rosuvastatin 20 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2167569",
+      "display": "rosuvastatin 40 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2535745",
+      "display": "ezetimibe 10 MG / rosuvastatin 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2535749",
+      "display": "ezetimibe 10 MG / rosuvastatin 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "259255",
+      "display": "atorvastatin 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "404011",
+      "display": "amlodipine 5 MG / atorvastatin 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "404013",
+      "display": "amlodipine 10 MG / atorvastatin 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "476351",
+      "display": "ezetimibe 10 MG / simvastatin 80 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "597984",
+      "display": "amlodipine 5 MG / atorvastatin 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "597990",
+      "display": "amlodipine 10 MG / atorvastatin 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "597993",
+      "display": "amlodipine 2.5 MG / atorvastatin 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "617311",
+      "display": "atorvastatin 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "859419",
+      "display": "rosuvastatin calcium 40 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "859751",
+      "display": "rosuvastatin calcium 20 MG Oral Tablet"
+    } ]
+  }
 }

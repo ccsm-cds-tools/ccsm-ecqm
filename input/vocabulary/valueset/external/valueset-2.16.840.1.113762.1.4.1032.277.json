@@ -5,12 +5,53 @@
     "versionId": "5",
     "lastUpdated": "2022-06-02T01:04:20.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183549000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183549000\">183549000</a></td><td>Referral to gynecology service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183886008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183886008\">183886008</a></td><td>Private referral to gynecologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306133003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306133003\">306133003</a></td><td>Referral to obstetrics and gynecology service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306297007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306297007\">306297007</a></td><td>Referral to obstetrician and gynecologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308485000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308485000\">308485000</a></td><td>Referral to gynecologist (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.277",
   "version": "20220602",
   "name": "Referral to Gynecology",
   "status": "active",
   "date": "2022-06-02T01:04:20-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c19eaf57-6738-431d-9322-ba62ed1d41a9",
+    "timestamp": "2022-07-20T10:41:27-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183549000",
+      "display": "Referral to gynecology service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183886008",
+      "display": "Private referral to gynecologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306133003",
+      "display": "Referral to obstetrics and gynecology service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306297007",
+      "display": "Referral to obstetrician and gynecologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308485000",
+      "display": "Referral to gynecologist (procedure)"
+    } ]
+  }
 }

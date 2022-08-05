@@ -5,12 +5,83 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:03:48.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310306005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310306005\">310306005</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310307001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310307001\">310307001</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310308006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310308006\">310308006</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312870000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312870000\">312870000</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414001002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414001002\">414001002</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only five component acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414259000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414259000\">414259000</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415507003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415507003\">415507003</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415712004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415712004\">415712004</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90644\"> </a>90644</td><td>http://www.ama-assn.org/go/cpt</td><td>Meningococcal conjugate vaccine, serogroups C &amp; Y and Haemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule, when administered to children 6 weeks-18 months of age, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90648\"> </a>90648</td><td>http://www.ama-assn.org/go/cpt</td><td>Haemophilus influenzae type b vaccine (Hib), PRP-T conjugate, 4 dose schedule, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90698\"> </a>90698</td><td>http://www.ama-assn.org/go/cpt</td><td>Diphtheria, tetanus toxoids, acellular pertussis vaccine, Haemophilus influenzae type b, and inactivated poliovirus vaccine, (DTaP-IPV/Hib), for intramuscular use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1086",
   "version": "20190315",
   "name": "Hib Vaccine (4 dose schedule) Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:fa704546-170d-4861-a9bb-210e29cdef6e",
+    "timestamp": "2022-07-19T15:08:04-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310306005",
+      "display": "Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310307001",
+      "display": "Administration of second dose of Vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310308006",
+      "display": "Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312870000",
+      "display": "Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414001002",
+      "display": "Administration of vaccine product containing only five component acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414259000",
+      "display": "Administration of first dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415507003",
+      "display": "Administration of second dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415712004",
+      "display": "Administration of third dose of vaccine product containing only five component acellular Bordetella pertussis, Clostridium tetani, Corynebacterium diphtheriae, Haemophilus influenzae type B and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90644",
+      "display": "Meningococcal conjugate vaccine, serogroups C & Y and Haemophilus influenzae type b vaccine (Hib-MenCY), 4 dose schedule, when administered to children 6 weeks-18 months of age, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90648",
+      "display": "Haemophilus influenzae type b vaccine (Hib), PRP-T conjugate, 4 dose schedule, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90698",
+      "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, Haemophilus influenzae type b, and inactivated poliovirus vaccine, (DTaP-IPV/Hib), for intramuscular use"
+    } ]
+  }
 }

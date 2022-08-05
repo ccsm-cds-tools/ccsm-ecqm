@@ -5,12 +5,63 @@
     "versionId": "5",
     "lastUpdated": "2021-08-04T01:00:41.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169427007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169427007\">169427007</a></td><td>Laser cervix lesion therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176771009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176771009\">176771009</a></td><td>Colposcopic laser destruction of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176772002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176772002\">176772002</a></td><td>Cold coagulation of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-300595006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=300595006\">300595006</a></td><td>Laser destruction of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31197001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31197001\">31197001</a></td><td>Destruction of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74580009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74580009\">74580009</a></td><td>Cauterization of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78203001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78203001\">78203001</a></td><td>Cryosurgery of lesion of cervix (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.241",
   "version": "20210804",
   "name": "Cervical Ablation Procedures",
   "status": "active",
   "date": "2021-08-04T01:00:41-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6c0139e3-6e13-4c27-9807-cf8ebf4d665a",
+    "timestamp": "2022-07-15T19:34:52-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169427007",
+      "display": "Laser cervix lesion therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176771009",
+      "display": "Colposcopic laser destruction of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176772002",
+      "display": "Cold coagulation of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "300595006",
+      "display": "Laser destruction of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31197001",
+      "display": "Destruction of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74580009",
+      "display": "Cauterization of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78203001",
+      "display": "Cryosurgery of lesion of cervix (procedure)"
+    } ]
+  }
 }

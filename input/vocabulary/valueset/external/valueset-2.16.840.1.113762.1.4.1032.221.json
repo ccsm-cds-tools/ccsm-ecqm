@@ -5,12 +5,188 @@
     "versionId": "5",
     "lastUpdated": "2021-08-03T01:00:51.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 32 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-121121000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=121121000119106\">121121000119106</a></td><td>http://snomed.info/sct</td><td>Acute graft-versus-host reaction following bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-122491000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=122491000119108\">122491000119108</a></td><td>http://snomed.info/sct</td><td>Lymphoproliferative disorder after transplantation of bone marrow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234519006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234519006\">234519006</a></td><td>http://snomed.info/sct</td><td>Bone marrow transplant rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234520000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234520000\">234520000</a></td><td>http://snomed.info/sct</td><td>Bone marrow transplant failure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.0\"> </a>41.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Bone marrow or hematopoietic stem cell transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.00\"> </a>41.00</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Bone marrow transplant, not otherwise specified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.01\"> </a>41.01</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Autologous bone marrow transplant without purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.02\"> </a>41.02</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Allogeneic bone marrow transplant with purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.03\"> </a>41.03</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Allogeneic bone marrow transplant without purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.04\"> </a>41.04</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Autologous hematopoietic stem cell transplant without purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.05\"> </a>41.05</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Allogeneic hematopoietic stem cell transpant without purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.06\"> </a>41.06</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Cord blood stem cell transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.07\"> </a>41.07</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Autologous hematopoietic stem cell transplant with purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.08\"> </a>41.08</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Allogeneic hematopoietic stem cell transplant with purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-41.09\"> </a>41.09</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Autologous bone marrow transplant with purging</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428103008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428103008\">428103008</a></td><td>http://snomed.info/sct</td><td>Disorder of transplanted bone marrow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429362002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429362002\">429362002</a></td><td>http://snomed.info/sct</td><td>Short stature associated with bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429450002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429450002\">429450002</a></td><td>http://snomed.info/sct</td><td>Disorder related to bone marrow transplantation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429514007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429514007\">429514007</a></td><td>http://snomed.info/sct</td><td>Growth hormone deficiency after bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431456004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431456004\">431456004</a></td><td>http://snomed.info/sct</td><td>Accelerated rejection of bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431862001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431862001\">431862001</a></td><td>http://snomed.info/sct</td><td>Acute rejection of bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431953002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431953002\">431953002</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432782005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432782005\">432782005</a></td><td>http://snomed.info/sct</td><td>Hyperacute rejection of bone marrow transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.85\"> </a>996.85</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted bone marrow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.88\"> </a>996.88</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted organ, stem cell</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.0\"> </a>T86.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of bone marrow transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.00\"> </a>T86.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of bone marrow transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.01\"> </a>T86.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Bone marrow transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.02\"> </a>T86.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Bone marrow transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.03\"> </a>T86.03</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Bone marrow transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.09\"> </a>T86.09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of bone marrow transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.5\"> </a>T86.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of stem cell transplant</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.221",
   "version": "20210803",
   "name": "Hematopoietic stem cell transplant",
   "status": "active",
   "date": "2021-08-03T01:00:51-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4be3776b-9281-4bcf-a59f-2519afbb4f33",
+    "timestamp": "2022-07-15T19:35:25-04:00",
+    "total": 32,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "121121000119106",
+      "display": "Acute graft-versus-host reaction following bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "122491000119108",
+      "display": "Lymphoproliferative disorder after transplantation of bone marrow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234519006",
+      "display": "Bone marrow transplant rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234520000",
+      "display": "Bone marrow transplant failure (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.0",
+      "display": "Bone marrow or hematopoietic stem cell transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.00",
+      "display": "Bone marrow transplant, not otherwise specified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.01",
+      "display": "Autologous bone marrow transplant without purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.02",
+      "display": "Allogeneic bone marrow transplant with purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.03",
+      "display": "Allogeneic bone marrow transplant without purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.04",
+      "display": "Autologous hematopoietic stem cell transplant without purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.05",
+      "display": "Allogeneic hematopoietic stem cell transpant without purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.06",
+      "display": "Cord blood stem cell transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.07",
+      "display": "Autologous hematopoietic stem cell transplant with purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.08",
+      "display": "Allogeneic hematopoietic stem cell transplant with purging"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "41.09",
+      "display": "Autologous bone marrow transplant with purging"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428103008",
+      "display": "Disorder of transplanted bone marrow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429362002",
+      "display": "Short stature associated with bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429450002",
+      "display": "Disorder related to bone marrow transplantation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429514007",
+      "display": "Growth hormone deficiency after bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431456004",
+      "display": "Accelerated rejection of bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431862001",
+      "display": "Acute rejection of bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431953002",
+      "display": "Chronic rejection of bone marrow transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432782005",
+      "display": "Hyperacute rejection of bone marrow transplant (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.85",
+      "display": "Complications of transplanted bone marrow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.88",
+      "display": "Complications of transplanted organ, stem cell"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.0",
+      "display": "Complications of bone marrow transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.00",
+      "display": "Unspecified complication of bone marrow transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.01",
+      "display": "Bone marrow transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.02",
+      "display": "Bone marrow transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.03",
+      "display": "Bone marrow transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.09",
+      "display": "Other complications of bone marrow transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.5",
+      "display": "Complications of stem cell transplant"
+    } ]
+  }
 }

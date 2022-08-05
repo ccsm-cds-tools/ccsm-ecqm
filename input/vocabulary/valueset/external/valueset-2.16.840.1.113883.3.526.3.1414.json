@@ -5,12 +5,138 @@
     "versionId": "29",
     "lastUpdated": "2022-02-13T15:57:27.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 22 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1078791000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1078791000119109\">1078791000119109</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar senile cataract of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1078801000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1078801000119105\">1078801000119105</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar senile cataract of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15639401000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15639401000119105\">15639401000119105</a></td><td>http://snomed.info/sct</td><td>Cataract of posterior subcapsule of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15639441000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15639441000119107\">15639441000119107</a></td><td>http://snomed.info/sct</td><td>Cataract of posterior subcapsule of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15639481000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15639481000119102\">15639481000119102</a></td><td>http://snomed.info/sct</td><td>Cataract of posterior subcapsule of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15737681000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15737681000119103\">15737681000119103</a></td><td>http://snomed.info/sct</td><td>Anterior subcapsular polar cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15737881000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15737881000119104\">15737881000119104</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15737921000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15737921000119106\">15737921000119106</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar cataract of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15737961000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15737961000119101\">15737961000119101</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar cataract of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16477021000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16477021000119103\">16477021000119103</a></td><td>http://snomed.info/sct</td><td>Anterior subcapsular polar senile cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-253225009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=253225009\">253225009</a></td><td>http://snomed.info/sct</td><td>Congenital posterior polar cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315353005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315353005\">315353005</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-335831000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=335831000119107\">335831000119107</a></td><td>http://snomed.info/sct</td><td>Congenital posterior subcapsular polar cataract of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341441000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341441000119102\">341441000119102</a></td><td>http://snomed.info/sct</td><td>Congenital posterior subcapsular polar cataract of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-342821000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=342821000119103\">342821000119103</a></td><td>http://snomed.info/sct</td><td>Congenital posterior subcapsular polar cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34533008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34533008\">34533008</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346691000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346691000119104\">346691000119104</a></td><td>http://snomed.info/sct</td><td>Congenital posterior subcapsular polar cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347561000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347561000119108\">347561000119108</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar senile cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5318001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5318001\">5318001</a></td><td>http://snomed.info/sct</td><td>Posterior subcapsular polar senile cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.041\"> </a>H25.041</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior subcapsular polar age-related cataract, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.042\"> </a>H25.042</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior subcapsular polar age-related cataract, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H25.043\"> </a>H25.043</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior subcapsular polar age-related cataract, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1414",
   "version": "20210210",
   "name": "Cataract Posterior Polar",
   "status": "active",
   "date": "2021-02-10T01:03:00-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e8b28a2b-9518-4412-b3dd-a5976b1ca211",
+    "timestamp": "2022-07-19T15:11:59-04:00",
+    "total": 22,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1078791000119109",
+      "display": "Posterior subcapsular polar senile cataract of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1078801000119105",
+      "display": "Posterior subcapsular polar senile cataract of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15639401000119105",
+      "display": "Cataract of posterior subcapsule of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15639441000119107",
+      "display": "Cataract of posterior subcapsule of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15639481000119102",
+      "display": "Cataract of posterior subcapsule of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15737681000119103",
+      "display": "Anterior subcapsular polar cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15737881000119104",
+      "display": "Posterior subcapsular polar cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15737921000119106",
+      "display": "Posterior subcapsular polar cataract of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15737961000119101",
+      "display": "Posterior subcapsular polar cataract of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16477021000119103",
+      "display": "Anterior subcapsular polar senile cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "253225009",
+      "display": "Congenital posterior polar cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315353005",
+      "display": "Posterior subcapsular cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "335831000119107",
+      "display": "Congenital posterior subcapsular polar cataract of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341441000119102",
+      "display": "Congenital posterior subcapsular polar cataract of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "342821000119103",
+      "display": "Congenital posterior subcapsular polar cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34533008",
+      "display": "Posterior subcapsular polar cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346691000119104",
+      "display": "Congenital posterior subcapsular polar cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347561000119108",
+      "display": "Posterior subcapsular polar senile cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5318001",
+      "display": "Posterior subcapsular polar senile cataract (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.041",
+      "display": "Posterior subcapsular polar age-related cataract, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.042",
+      "display": "Posterior subcapsular polar age-related cataract, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H25.043",
+      "display": "Posterior subcapsular polar age-related cataract, bilateral"
+    } ]
+  }
 }

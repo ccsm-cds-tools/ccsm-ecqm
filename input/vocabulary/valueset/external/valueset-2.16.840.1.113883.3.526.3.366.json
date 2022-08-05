@@ -5,12 +5,593 @@
     "versionId": "25",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 113 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010405004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010405004\">1010405004</a></td><td>http://snomed.info/sct</td><td>Paroxysmal atrial fibrillation with rapid ventricular response (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10164001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10164001\">10164001</a></td><td>http://snomed.info/sct</td><td>Parasystole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10626002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10626002\">10626002</a></td><td>http://snomed.info/sct</td><td>Multifocal premature ventricular complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11157007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11157007\">11157007</a></td><td>http://snomed.info/sct</td><td>Ventricular bigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142040009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142040009\">1142040009</a></td><td>http://snomed.info/sct</td><td>Right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142041008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142041008\">1142041008</a></td><td>http://snomed.info/sct</td><td>Non-scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142057008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142057008\">1142057008</a></td><td>http://snomed.info/sct</td><td>Anticlockwise cavotricuspid isthmus dependent macroreentry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142064005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142064005\">1142064005</a></td><td>http://snomed.info/sct</td><td>Antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142066007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142066007\">1142066007</a></td><td>http://snomed.info/sct</td><td>Antidromic atrioventricular reciprocating tachycardia utilizing atrio-fascicular accessory pathway with antegrade unidirectional conduction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142067003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142067003\">1142067003</a></td><td>http://snomed.info/sct</td><td>Non scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142068008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142068008\">1142068008</a></td><td>http://snomed.info/sct</td><td>Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with antegrade unidirectional conduction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142069000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142069000\">1142069000</a></td><td>http://snomed.info/sct</td><td>Scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142082008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142082008\">1142082008</a></td><td>http://snomed.info/sct</td><td>Idiopathic junctional ectopic tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142086006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142086006\">1142086006</a></td><td>http://snomed.info/sct</td><td>Congenital junctional ectopic tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142090008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142090008\">1142090008</a></td><td>http://snomed.info/sct</td><td>Clockwise cavotricuspid isthmus dependent macroreentry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142093005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142093005\">1142093005</a></td><td>http://snomed.info/sct</td><td>Left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142098001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142098001\">1142098001</a></td><td>http://snomed.info/sct</td><td>Junctional ectopic tachycardia following surgical procedure on heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142103004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142103004\">1142103004</a></td><td>http://snomed.info/sct</td><td>Antidromic atrioventricular reciprocating tachycardia utilizing nodo-fascicular accessory pathway with antegrade unidirectional conduction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142105006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142105006\">1142105006</a></td><td>http://snomed.info/sct</td><td>Typical atrioventricular nodal re-entry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142114001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142114001\">1142114001</a></td><td>http://snomed.info/sct</td><td>Scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142117008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142117008\">1142117008</a></td><td>http://snomed.info/sct</td><td>Atypical slow slow atrioventricular nodal re-entry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142118003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142118003\">1142118003</a></td><td>http://snomed.info/sct</td><td>Atypical atrioventricular nodal re-entry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142119006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142119006\">1142119006</a></td><td>http://snomed.info/sct</td><td>Atypical fast slow atrioventricular nodal re-entry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142120000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142120000\">1142120000</a></td><td>http://snomed.info/sct</td><td>Orthodromic atrioventricular reciprocating tachycardia utilizing manifest accessory pathway (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142121001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142121001\">1142121001</a></td><td>http://snomed.info/sct</td><td>Atrioventricular nodal reentry tachycardia with twin atrioventricular nodes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142122008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142122008\">1142122008</a></td><td>http://snomed.info/sct</td><td>Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with bidirectional conduction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1142204001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1142204001\">1142204001</a></td><td>http://snomed.info/sct</td><td>Orthodromic atrioventricular reciprocating tachycardia utilizing concealed accessory pathway (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11849007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11849007\">11849007</a></td><td>http://snomed.info/sct</td><td>Atrioventricular junctional rhythm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13640000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13640000\">13640000</a></td><td>http://snomed.info/sct</td><td>Fusion beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16415081000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16415081000119104\">16415081000119104</a></td><td>http://snomed.info/sct</td><td>Supraventricular tachycardia following acute myocardial infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17338001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17338001\">17338001</a></td><td>http://snomed.info/sct</td><td>Ventricular premature beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17366009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17366009\">17366009</a></td><td>http://snomed.info/sct</td><td>Atrial arrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17869006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17869006\">17869006</a></td><td>http://snomed.info/sct</td><td>Anomalous atrioventricular excitation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-184004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=184004\">184004</a></td><td>http://snomed.info/sct</td><td>Withdrawal arrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195060002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195060002\">195060002</a></td><td>http://snomed.info/sct</td><td>Ventricular pre-excitation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195069001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195069001\">195069001</a></td><td>http://snomed.info/sct</td><td>Paroxysmal atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195071001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195071001\">195071001</a></td><td>http://snomed.info/sct</td><td>Paroxysmal junctional tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195072008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195072008\">195072008</a></td><td>http://snomed.info/sct</td><td>Paroxysmal nodal tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195083004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195083004\">195083004</a></td><td>http://snomed.info/sct</td><td>Ventricular fibrillation and flutter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233891009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233891009\">233891009</a></td><td>http://snomed.info/sct</td><td>Sinoatrial node tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233892002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233892002\">233892002</a></td><td>http://snomed.info/sct</td><td>Ectopic atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233893007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233893007\">233893007</a></td><td>http://snomed.info/sct</td><td>Re-entrant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233894001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233894001\">233894001</a></td><td>http://snomed.info/sct</td><td>Incessant atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233895000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233895000\">233895000</a></td><td>http://snomed.info/sct</td><td>Ectopic atrioventricular node tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233904005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233904005\">233904005</a></td><td>http://snomed.info/sct</td><td>Permanent junctional reciprocating tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233915000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233915000\">233915000</a></td><td>http://snomed.info/sct</td><td>Paroxysmal familial ventricular fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233922008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233922008\">233922008</a></td><td>http://snomed.info/sct</td><td>Concealed accessory pathway (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233923003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233923003\">233923003</a></td><td>http://snomed.info/sct</td><td>Unidirectional retrograde accessory pathway (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234172002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234172002\">234172002</a></td><td>http://snomed.info/sct</td><td>Electromechanical dissociation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251161003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251161003\">251161003</a></td><td>http://snomed.info/sct</td><td>Slow ventricular response (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251162005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251162005\">251162005</a></td><td>http://snomed.info/sct</td><td>Atrio-ventricular-junctional (nodal) bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251163000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251163000\">251163000</a></td><td>http://snomed.info/sct</td><td>Atrio-ventricular junctional (nodal) arrest (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251164006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251164006\">251164006</a></td><td>http://snomed.info/sct</td><td>Junctional premature complex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251165007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251165007\">251165007</a></td><td>http://snomed.info/sct</td><td>Atrioventricular junctional (nodal) tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251166008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251166008\">251166008</a></td><td>http://snomed.info/sct</td><td>Atrioventricular nodal re-entry tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251167004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251167004\">251167004</a></td><td>http://snomed.info/sct</td><td>Aberrant premature complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251168009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251168009\">251168009</a></td><td>http://snomed.info/sct</td><td>Supraventricular bigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251170000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251170000\">251170000</a></td><td>http://snomed.info/sct</td><td>Blocked premature atrial contraction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251172008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251172008\">251172008</a></td><td>http://snomed.info/sct</td><td>Run of atrial premature complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251173003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251173003\">251173003</a></td><td>http://snomed.info/sct</td><td>Atrial bigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251174009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251174009\">251174009</a></td><td>http://snomed.info/sct</td><td>Atrial trigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251175005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251175005\">251175005</a></td><td>http://snomed.info/sct</td><td>Ventricular premature complex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251176006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251176006\">251176006</a></td><td>http://snomed.info/sct</td><td>Multiple premature ventricular complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251177002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251177002\">251177002</a></td><td>http://snomed.info/sct</td><td>Run of ventricular premature complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251178007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251178007\">251178007</a></td><td>http://snomed.info/sct</td><td>Ventricular interpolated complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251179004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251179004\">251179004</a></td><td>http://snomed.info/sct</td><td>Multiple ventricular interpolated complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251180001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251180001\">251180001</a></td><td>http://snomed.info/sct</td><td>Ventricular trigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251181002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251181002\">251181002</a></td><td>http://snomed.info/sct</td><td>Ventricular quadrigeminy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251182009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251182009\">251182009</a></td><td>http://snomed.info/sct</td><td>Paired ventricular premature complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251186007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251186007\">251186007</a></td><td>http://snomed.info/sct</td><td>Ventricular escape complex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251187003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251187003\">251187003</a></td><td>http://snomed.info/sct</td><td>Atrial escape complex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251188008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251188008\">251188008</a></td><td>http://snomed.info/sct</td><td>Atrial parasystole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26950008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26950008\">26950008</a></td><td>http://snomed.info/sct</td><td>Chronic ectopic atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27337007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27337007\">27337007</a></td><td>http://snomed.info/sct</td><td>Unifocal premature ventricular complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276796006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276796006\">276796006</a></td><td>http://snomed.info/sct</td><td>Atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284470004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284470004\">284470004</a></td><td>http://snomed.info/sct</td><td>Premature atrial contraction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287057009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287057009\">287057009</a></td><td>http://snomed.info/sct</td><td>Atrial premature complex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29320008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29320008\">29320008</a></td><td>http://snomed.info/sct</td><td>Ectopic rhythm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309809007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309809007\">309809007</a></td><td>http://snomed.info/sct</td><td>Electromechanical dissociation with successful resuscitation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33413000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33413000\">33413000</a></td><td>http://snomed.info/sct</td><td>Ectopic beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36083008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36083008\">36083008</a></td><td>http://snomed.info/sct</td><td>Sick sinus syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38274001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38274001\">38274001</a></td><td>http://snomed.info/sct</td><td>Interpolated ventricular premature complexes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39260000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39260000\">39260000</a></td><td>http://snomed.info/sct</td><td>Nonparoxysmal atrioventricular nodal tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39357005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39357005\">39357005</a></td><td>http://snomed.info/sct</td><td>Paroxysmal atrial tachycardia with block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40593004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40593004\">40593004</a></td><td>http://snomed.info/sct</td><td>Fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406461004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406461004\">406461004</a></td><td>http://snomed.info/sct</td><td>Ectopic atrial beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418341009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418341009\">418341009</a></td><td>http://snomed.info/sct</td><td>Atrioventricular conduction disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418818005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418818005\">418818005</a></td><td>http://snomed.info/sct</td><td>Brugada syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419752005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419752005\">419752005</a></td><td>http://snomed.info/sct</td><td>Sinoatrial nodal reentrant tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421869004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421869004\">421869004</a></td><td>http://snomed.info/sct</td><td>Bradyarrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422348008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422348008\">422348008</a></td><td>http://snomed.info/sct</td><td>Andersen Tawil syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429243003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429243003\">429243003</a></td><td>http://snomed.info/sct</td><td>Sustained ventricular fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44808001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44808001\">44808001</a></td><td>http://snomed.info/sct</td><td>Conduction disorder of the heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47830009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47830009\">47830009</a></td><td>http://snomed.info/sct</td><td>Junctional escape beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49982000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49982000\">49982000</a></td><td>http://snomed.info/sct</td><td>Multifocal atrial tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55475008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55475008\">55475008</a></td><td>http://snomed.info/sct</td><td>Lown-Ganong-Levine syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59272004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59272004\">59272004</a></td><td>http://snomed.info/sct</td><td>Ventricular parasystole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60423000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60423000\">60423000</a></td><td>http://snomed.info/sct</td><td>Sinus node dysfunction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61277005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61277005\">61277005</a></td><td>http://snomed.info/sct</td><td>Accelerated idioventricular rhythm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63232000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63232000\">63232000</a></td><td>http://snomed.info/sct</td><td>Multifocal premature beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63593006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63593006\">63593006</a></td><td>http://snomed.info/sct</td><td>Supraventricular premature beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69730002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69730002\">69730002</a></td><td>http://snomed.info/sct</td><td>Idiojunctional tachycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71908006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71908006\">71908006</a></td><td>http://snomed.info/sct</td><td>Ventricular fibrillation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72654001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72654001\">72654001</a></td><td>http://snomed.info/sct</td><td>Supraventricular arrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74390002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74390002\">74390002</a></td><td>http://snomed.info/sct</td><td>Wolff-Parkinson-White pattern (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74615001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74615001\">74615001</a></td><td>http://snomed.info/sct</td><td>Tachycardia-bradycardia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75532003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75532003\">75532003</a></td><td>http://snomed.info/sct</td><td>Ventricular escape beat (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-762534000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=762534000\">762534000</a></td><td>http://snomed.info/sct</td><td>Supraventricular bradyarrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81681009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81681009\">81681009</a></td><td>http://snomed.info/sct</td><td>Junctional premature beats (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81898007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81898007\">81898007</a></td><td>http://snomed.info/sct</td><td>Ventricular escape rhythm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88412007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88412007\">88412007</a></td><td>http://snomed.info/sct</td><td>Atrio-ventricular node arrhythmia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I49.8\"> </a>I49.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified cardiac arrhythmias</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I49.9\"> </a>I49.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cardiac arrhythmia, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.366",
   "version": "20200306",
   "name": "Arrhythmia",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d35ea8d2-3668-4a2a-8d42-4d97d5c81f04",
+    "timestamp": "2022-07-19T15:13:23-04:00",
+    "total": 113,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010405004",
+      "display": "Paroxysmal atrial fibrillation with rapid ventricular response (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10164001",
+      "display": "Parasystole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10626002",
+      "display": "Multifocal premature ventricular complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11157007",
+      "display": "Ventricular bigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142040009",
+      "display": "Right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142041008",
+      "display": "Non-scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142057008",
+      "display": "Anticlockwise cavotricuspid isthmus dependent macroreentry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142064005",
+      "display": "Antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142066007",
+      "display": "Antidromic atrioventricular reciprocating tachycardia utilizing atrio-fascicular accessory pathway with antegrade unidirectional conduction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142067003",
+      "display": "Non scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142068008",
+      "display": "Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with antegrade unidirectional conduction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142069000",
+      "display": "Scar mediated left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142082008",
+      "display": "Idiopathic junctional ectopic tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142086006",
+      "display": "Congenital junctional ectopic tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142090008",
+      "display": "Clockwise cavotricuspid isthmus dependent macroreentry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142093005",
+      "display": "Left atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142098001",
+      "display": "Junctional ectopic tachycardia following surgical procedure on heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142103004",
+      "display": "Antidromic atrioventricular reciprocating tachycardia utilizing nodo-fascicular accessory pathway with antegrade unidirectional conduction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142105006",
+      "display": "Typical atrioventricular nodal re-entry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142114001",
+      "display": "Scar mediated right atrial non-cavotricuspid isthmus dependent macro re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142117008",
+      "display": "Atypical slow slow atrioventricular nodal re-entry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142118003",
+      "display": "Atypical atrioventricular nodal re-entry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142119006",
+      "display": "Atypical fast slow atrioventricular nodal re-entry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142120000",
+      "display": "Orthodromic atrioventricular reciprocating tachycardia utilizing manifest accessory pathway (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142121001",
+      "display": "Atrioventricular nodal reentry tachycardia with twin atrioventricular nodes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142122008",
+      "display": "Antidromic atrioventricular reciprocating tachycardia utilizing accessory pathway with bidirectional conduction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1142204001",
+      "display": "Orthodromic atrioventricular reciprocating tachycardia utilizing concealed accessory pathway (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11849007",
+      "display": "Atrioventricular junctional rhythm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13640000",
+      "display": "Fusion beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16415081000119104",
+      "display": "Supraventricular tachycardia following acute myocardial infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17338001",
+      "display": "Ventricular premature beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17366009",
+      "display": "Atrial arrhythmia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17869006",
+      "display": "Anomalous atrioventricular excitation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "184004",
+      "display": "Withdrawal arrhythmia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195060002",
+      "display": "Ventricular pre-excitation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195069001",
+      "display": "Paroxysmal atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195071001",
+      "display": "Paroxysmal junctional tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195072008",
+      "display": "Paroxysmal nodal tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195083004",
+      "display": "Ventricular fibrillation and flutter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233891009",
+      "display": "Sinoatrial node tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233892002",
+      "display": "Ectopic atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233893007",
+      "display": "Re-entrant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233894001",
+      "display": "Incessant atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233895000",
+      "display": "Ectopic atrioventricular node tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233904005",
+      "display": "Permanent junctional reciprocating tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233915000",
+      "display": "Paroxysmal familial ventricular fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233922008",
+      "display": "Concealed accessory pathway (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233923003",
+      "display": "Unidirectional retrograde accessory pathway (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234172002",
+      "display": "Electromechanical dissociation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251161003",
+      "display": "Slow ventricular response (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251162005",
+      "display": "Atrio-ventricular-junctional (nodal) bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251163000",
+      "display": "Atrio-ventricular junctional (nodal) arrest (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251164006",
+      "display": "Junctional premature complex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251165007",
+      "display": "Atrioventricular junctional (nodal) tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251166008",
+      "display": "Atrioventricular nodal re-entry tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251167004",
+      "display": "Aberrant premature complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251168009",
+      "display": "Supraventricular bigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251170000",
+      "display": "Blocked premature atrial contraction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251172008",
+      "display": "Run of atrial premature complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251173003",
+      "display": "Atrial bigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251174009",
+      "display": "Atrial trigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251175005",
+      "display": "Ventricular premature complex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251176006",
+      "display": "Multiple premature ventricular complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251177002",
+      "display": "Run of ventricular premature complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251178007",
+      "display": "Ventricular interpolated complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251179004",
+      "display": "Multiple ventricular interpolated complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251180001",
+      "display": "Ventricular trigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251181002",
+      "display": "Ventricular quadrigeminy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251182009",
+      "display": "Paired ventricular premature complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251186007",
+      "display": "Ventricular escape complex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251187003",
+      "display": "Atrial escape complex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251188008",
+      "display": "Atrial parasystole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26950008",
+      "display": "Chronic ectopic atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27337007",
+      "display": "Unifocal premature ventricular complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276796006",
+      "display": "Atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284470004",
+      "display": "Premature atrial contraction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287057009",
+      "display": "Atrial premature complex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29320008",
+      "display": "Ectopic rhythm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309809007",
+      "display": "Electromechanical dissociation with successful resuscitation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33413000",
+      "display": "Ectopic beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36083008",
+      "display": "Sick sinus syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38274001",
+      "display": "Interpolated ventricular premature complexes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39260000",
+      "display": "Nonparoxysmal atrioventricular nodal tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39357005",
+      "display": "Paroxysmal atrial tachycardia with block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40593004",
+      "display": "Fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406461004",
+      "display": "Ectopic atrial beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418341009",
+      "display": "Atrioventricular conduction disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418818005",
+      "display": "Brugada syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419752005",
+      "display": "Sinoatrial nodal reentrant tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421869004",
+      "display": "Bradyarrhythmia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422348008",
+      "display": "Andersen Tawil syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429243003",
+      "display": "Sustained ventricular fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44808001",
+      "display": "Conduction disorder of the heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47830009",
+      "display": "Junctional escape beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49982000",
+      "display": "Multifocal atrial tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55475008",
+      "display": "Lown-Ganong-Levine syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59272004",
+      "display": "Ventricular parasystole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60423000",
+      "display": "Sinus node dysfunction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61277005",
+      "display": "Accelerated idioventricular rhythm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63232000",
+      "display": "Multifocal premature beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63593006",
+      "display": "Supraventricular premature beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69730002",
+      "display": "Idiojunctional tachycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71908006",
+      "display": "Ventricular fibrillation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72654001",
+      "display": "Supraventricular arrhythmia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74390002",
+      "display": "Wolff-Parkinson-White pattern (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74615001",
+      "display": "Tachycardia-bradycardia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75532003",
+      "display": "Ventricular escape beat (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "762534000",
+      "display": "Supraventricular bradyarrhythmia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81681009",
+      "display": "Junctional premature beats (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81898007",
+      "display": "Ventricular escape rhythm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88412007",
+      "display": "Atrio-ventricular node arrhythmia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I49.8",
+      "display": "Other specified cardiac arrhythmias"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I49.9",
+      "display": "Cardiac arrhythmia, unspecified"
+    } ]
+  }
 }

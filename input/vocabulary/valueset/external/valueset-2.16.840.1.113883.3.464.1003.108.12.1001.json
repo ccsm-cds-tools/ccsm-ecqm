@@ -5,12 +5,693 @@
     "versionId": "29",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 133 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109838007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109838007\">109838007</a></td><td>http://snomed.info/sct</td><td>Overlapping malignant neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109839004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109839004\">109839004</a></td><td>http://snomed.info/sct</td><td>Overlapping malignant neoplasm of rectum, anus and anal canal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10987871000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10987871000119109\">10987871000119109</a></td><td>http://snomed.info/sct</td><td>History of malignant neoplasm of rectosigmoid junction (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156783003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156783003\">1156783003</a></td><td>http://snomed.info/sct</td><td>Leiomyosarcoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156788007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156788007\">1156788007</a></td><td>http://snomed.info/sct</td><td>Leiomyosarcoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156795003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156795003\">1156795003</a></td><td>http://snomed.info/sct</td><td>Kaposi sarcoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156797006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156797006\">1156797006</a></td><td>http://snomed.info/sct</td><td>Kaposi sarcoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-123701000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=123701000119104\">123701000119104</a></td><td>http://snomed.info/sct</td><td>Malignant carcinoid tumor of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-123721000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=123721000119108\">123721000119108</a></td><td>http://snomed.info/sct</td><td>Malignant carcinoid tumor of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-130381000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=130381000119103\">130381000119103</a></td><td>http://snomed.info/sct</td><td>Primary malignant neuroendocrine neoplasm of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-133751000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=133751000119102\">133751000119102</a></td><td>http://snomed.info/sct</td><td>Lymphoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.0\"> </a>153.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of hepatic flexure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.1\"> </a>153.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of transverse colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.2\"> </a>153.2</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of descending colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.3\"> </a>153.3</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of sigmoid colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.4\"> </a>153.4</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of cecum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.5\"> </a>153.5</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of appendix vermiformis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.6\"> </a>153.6</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of ascending colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.7\"> </a>153.7</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of splenic flexure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.8\"> </a>153.8</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of other specified sites of large intestine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-153.9\"> </a>153.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of colon, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-154.0\"> </a>154.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of rectosigmoid junction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-154.1\"> </a>154.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Malignant neoplasm of rectum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16636051000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16636051000119105\">16636051000119105</a></td><td>http://snomed.info/sct</td><td>Primary malignant gastrointestinal stromal neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16636101000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16636101000119105\">16636101000119105</a></td><td>http://snomed.info/sct</td><td>Primary malignant gastrointestinal stromal neoplasm of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1701000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1701000119104\">1701000119104</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-184881000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=184881000119106\">184881000119106</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-187760008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=187760008\">187760008</a></td><td>http://snomed.info/sct</td><td>Malignant neoplasm of rectum, rectosigmoid junction and anus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-197.5\"> </a>197.5</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Secondary malignant neoplasm of large intestine and rectum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254582000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254582000\">254582000</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254586002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254586002\">254586002</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of anorectal junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-269533000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=269533000\">269533000</a></td><td>http://snomed.info/sct</td><td>Carcinoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-269544008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=269544008\">269544008</a></td><td>http://snomed.info/sct</td><td>Carcinoma of the rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276822007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276822007\">276822007</a></td><td>http://snomed.info/sct</td><td>Malignant melanoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285312008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285312008\">285312008</a></td><td>http://snomed.info/sct</td><td>Carcinoma of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285611007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285611007\">285611007</a></td><td>http://snomed.info/sct</td><td>Metastasis to colon of unknown primary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285612000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285612000\">285612000</a></td><td>http://snomed.info/sct</td><td>Metastasis to rectum of unknown primary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-286771000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=286771000119106\">286771000119106</a></td><td>http://snomed.info/sct</td><td>History of malignant carcinoid tumor of colon (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-286791000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=286791000119107\">286791000119107</a></td><td>http://snomed.info/sct</td><td>History of malignant carcinoid tumor of rectum (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-301756000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=301756000\">301756000</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312111009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312111009\">312111009</a></td><td>http://snomed.info/sct</td><td>Carcinoma of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312112002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312112002\">312112002</a></td><td>http://snomed.info/sct</td><td>Carcinoma of transverse colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312113007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312113007\">312113007</a></td><td>http://snomed.info/sct</td><td>Carcinoma of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312114001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312114001\">312114001</a></td><td>http://snomed.info/sct</td><td>Carcinoma of hepatic flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312115000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312115000\">312115000</a></td><td>http://snomed.info/sct</td><td>Carcinoma of splenic flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314965007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314965007\">314965007</a></td><td>http://snomed.info/sct</td><td>Local recurrence of malignant tumor of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314966008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314966008\">314966008</a></td><td>http://snomed.info/sct</td><td>Local recurrence of malignant tumor of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315058005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315058005\">315058005</a></td><td>http://snomed.info/sct</td><td>Hereditary nonpolyposis colon cancer (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363351006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363351006\">363351006</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363406005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363406005\">363406005</a></td><td>http://snomed.info/sct</td><td>Malignant neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363407001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363407001\">363407001</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of hepatic flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363408006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363408006\">363408006</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of transverse colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363409003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363409003\">363409003</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363410008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363410008\">363410008</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363412000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363412000\">363412000</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363413005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363413005\">363413005</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of splenic flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363414004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363414004\">363414004</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363510005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363510005\">363510005</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of large intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369448007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369448007\">369448007</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from endometrium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369449004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369449004\">369449004</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from fallopian tube (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369450004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369450004\">369450004</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from ovary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369451000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369451000\">369451000</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369452007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369452007\">369452007</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369453002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369453002\">369453002</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from uterus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369454008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369454008\">369454008</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by direct extension from vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369455009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369455009\">369455009</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from endometrium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369456005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369456005\">369456005</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from fallopian tube (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369457001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369457001\">369457001</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from ovary (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369458006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369458006\">369458006</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369459003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369459003\">369459003</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from uterine cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369460008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369460008\">369460008</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from uterus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369461007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369461007\">369461007</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving rectum by separate metastasis from vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-395705003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=395705003\">395705003</a></td><td>http://snomed.info/sct</td><td>pTis: Carcinoma in situ, intraepithelial (colon/rectum) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422375001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422375001\">422375001</a></td><td>http://snomed.info/sct</td><td>Carcinoma of colon, stage III (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422581008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422581008\">422581008</a></td><td>http://snomed.info/sct</td><td>Carcinoma of colon, stage II (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422985007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422985007\">422985007</a></td><td>http://snomed.info/sct</td><td>Carcinoma of colon, stage IV (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425178004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425178004\">425178004</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma of rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425213009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425213009\">425213009</a></td><td>http://snomed.info/sct</td><td>Carcinoma of colon, stage I (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429084005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429084005\">429084005</a></td><td>http://snomed.info/sct</td><td>History of malignant neoplasm of rectum (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429699009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429699009\">429699009</a></td><td>http://snomed.info/sct</td><td>History of malignant neoplasm of colon (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443488001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443488001\">443488001</a></td><td>http://snomed.info/sct</td><td>Malignant neoplasm of anorectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447886005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447886005\">447886005</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma of anorectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448994001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448994001\">448994001</a></td><td>http://snomed.info/sct</td><td>Malignant epithelial neoplasm of upper rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449218003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449218003\">449218003</a></td><td>http://snomed.info/sct</td><td>Lymphoma of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-681601000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=681601000119101\">681601000119101</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-681651000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=681651000119102\">681651000119102</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713573006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713573006\">713573006</a></td><td>http://snomed.info/sct</td><td>Malignant carcinoid tumor of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721695008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721695008\">721695008</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of ascending colon and right flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721696009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721696009\">721696009</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of transverse colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721697000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721697000\">721697000</a></td><td>http://snomed.info/sct</td><td>Primary neuroendocrine carcinoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721698005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721698005\">721698005</a></td><td>http://snomed.info/sct</td><td>Primary malignant neuroendocrine neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721699002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721699002\">721699002</a></td><td>http://snomed.info/sct</td><td>Primary adenocarcinoma of descending colon and splenic flexure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721700001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721700001\">721700001</a></td><td>http://snomed.info/sct</td><td>Primary malignant neuroendocrine neoplasm of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721701002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721701002\">721701002</a></td><td>http://snomed.info/sct</td><td>Primary neuroendocrine carcinoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-726654006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=726654006\">726654006</a></td><td>http://snomed.info/sct</td><td>Malignant carcinoid tumor of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-737058005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=737058005\">737058005</a></td><td>http://snomed.info/sct</td><td>Microsatellite instability-high colorectal cancer (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766979005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766979005\">766979005</a></td><td>http://snomed.info/sct</td><td>Squamous cell carcinoma of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766981007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766981007\">766981007</a></td><td>http://snomed.info/sct</td><td>Squamous cell carcinoma of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93683002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93683002\">93683002</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93761005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93761005\">93761005</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93771007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93771007\">93771007</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93826009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93826009\">93826009</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of hepatic flexure of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93980002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93980002\">93980002</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93984006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93984006\">93984006</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94006002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94006002\">94006002</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94072004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94072004\">94072004</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of splenic flexure of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94105000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94105000\">94105000</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of transverse colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94179005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94179005\">94179005</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of ascending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94260004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94260004\">94260004</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94271003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94271003\">94271003</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of descending colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94328005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94328005\">94328005</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of hepatic flexure of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94509004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94509004\">94509004</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of rectosigmoid junction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94513006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94513006\">94513006</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94538001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94538001\">94538001</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of sigmoid colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94604000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94604000\">94604000</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of splenic flexure of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94643001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94643001\">94643001</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of transverse colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-96281000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=96281000119107\">96281000119107</a></td><td>http://snomed.info/sct</td><td>Overlapping malignant neoplasm of colon and rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-96981000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=96981000119102\">96981000119102</a></td><td>http://snomed.info/sct</td><td>Malignant neoplasm of rectosigmoid junction metastatic to brain (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.0\"> </a>C18.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of cecum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.1\"> </a>C18.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of appendix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.2\"> </a>C18.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of ascending colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.3\"> </a>C18.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of hepatic flexure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.4\"> </a>C18.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of transverse colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.5\"> </a>C18.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of splenic flexure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.6\"> </a>C18.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of descending colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.7\"> </a>C18.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of sigmoid colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.8\"> </a>C18.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of overlapping sites of colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C18.9\"> </a>C18.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of colon, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C19\"> </a>C19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of rectosigmoid junction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C20\"> </a>C20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of rectum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C21.2\"> </a>C21.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of cloacogenic zone</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C21.8\"> </a>C21.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of overlapping sites of rectum, anus and anal canal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C78.5\"> </a>C78.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Secondary malignant neoplasm of large intestine and rectum</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.108.12.1001",
   "version": "20171222",
   "name": "Malignant Neoplasm of Colon",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:34917628-e1e0-4d32-8edc-bc9fb64ff39b",
+    "timestamp": "2022-07-19T15:07:22-04:00",
+    "total": 133,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109838007",
+      "display": "Overlapping malignant neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109839004",
+      "display": "Overlapping malignant neoplasm of rectum, anus and anal canal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10987871000119109",
+      "display": "History of malignant neoplasm of rectosigmoid junction (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156783003",
+      "display": "Leiomyosarcoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156788007",
+      "display": "Leiomyosarcoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156795003",
+      "display": "Kaposi sarcoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156797006",
+      "display": "Kaposi sarcoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "123701000119104",
+      "display": "Malignant carcinoid tumor of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "123721000119108",
+      "display": "Malignant carcinoid tumor of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "130381000119103",
+      "display": "Primary malignant neuroendocrine neoplasm of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "133751000119102",
+      "display": "Lymphoma of colon (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.0",
+      "display": "Malignant neoplasm of hepatic flexure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.1",
+      "display": "Malignant neoplasm of transverse colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.2",
+      "display": "Malignant neoplasm of descending colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.3",
+      "display": "Malignant neoplasm of sigmoid colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.4",
+      "display": "Malignant neoplasm of cecum"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.5",
+      "display": "Malignant neoplasm of appendix vermiformis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.6",
+      "display": "Malignant neoplasm of ascending colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.7",
+      "display": "Malignant neoplasm of splenic flexure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.8",
+      "display": "Malignant neoplasm of other specified sites of large intestine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "153.9",
+      "display": "Malignant neoplasm of colon, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "154.0",
+      "display": "Malignant neoplasm of rectosigmoid junction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "154.1",
+      "display": "Malignant neoplasm of rectum"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16636051000119105",
+      "display": "Primary malignant gastrointestinal stromal neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16636101000119105",
+      "display": "Primary malignant gastrointestinal stromal neoplasm of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1701000119104",
+      "display": "Primary adenocarcinoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "184881000119106",
+      "display": "Primary adenocarcinoma of rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "187760008",
+      "display": "Malignant neoplasm of rectum, rectosigmoid junction and anus (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "197.5",
+      "display": "Secondary malignant neoplasm of large intestine and rectum"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254582000",
+      "display": "Adenocarcinoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254586002",
+      "display": "Malignant tumor of anorectal junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "269533000",
+      "display": "Carcinoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "269544008",
+      "display": "Carcinoma of the rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276822007",
+      "display": "Malignant melanoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285312008",
+      "display": "Carcinoma of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285611007",
+      "display": "Metastasis to colon of unknown primary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285612000",
+      "display": "Metastasis to rectum of unknown primary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "286771000119106",
+      "display": "History of malignant carcinoid tumor of colon (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "286791000119107",
+      "display": "History of malignant carcinoid tumor of rectum (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "301756000",
+      "display": "Adenocarcinoma of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312111009",
+      "display": "Carcinoma of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312112002",
+      "display": "Carcinoma of transverse colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312113007",
+      "display": "Carcinoma of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312114001",
+      "display": "Carcinoma of hepatic flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312115000",
+      "display": "Carcinoma of splenic flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314965007",
+      "display": "Local recurrence of malignant tumor of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314966008",
+      "display": "Local recurrence of malignant tumor of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315058005",
+      "display": "Hereditary nonpolyposis colon cancer (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363351006",
+      "display": "Malignant tumor of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363406005",
+      "display": "Malignant neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363407001",
+      "display": "Malignant tumor of hepatic flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363408006",
+      "display": "Malignant tumor of transverse colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363409003",
+      "display": "Malignant tumor of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363410008",
+      "display": "Malignant tumor of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363412000",
+      "display": "Malignant tumor of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363413005",
+      "display": "Malignant tumor of splenic flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363414004",
+      "display": "Malignant tumor of rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363510005",
+      "display": "Malignant tumor of large intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369448007",
+      "display": "Malignant tumor involving rectum by direct extension from endometrium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369449004",
+      "display": "Malignant tumor involving rectum by direct extension from fallopian tube (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369450004",
+      "display": "Malignant tumor involving rectum by direct extension from ovary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369451000",
+      "display": "Malignant tumor involving rectum by direct extension from prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369452007",
+      "display": "Malignant tumor involving rectum by direct extension from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369453002",
+      "display": "Malignant tumor involving rectum by direct extension from uterus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369454008",
+      "display": "Malignant tumor involving rectum by direct extension from vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369455009",
+      "display": "Malignant tumor involving rectum by separate metastasis from endometrium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369456005",
+      "display": "Malignant tumor involving rectum by separate metastasis from fallopian tube (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369457001",
+      "display": "Malignant tumor involving rectum by separate metastasis from ovary (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369458006",
+      "display": "Malignant tumor involving rectum by separate metastasis from prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369459003",
+      "display": "Malignant tumor involving rectum by separate metastasis from uterine cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369460008",
+      "display": "Malignant tumor involving rectum by separate metastasis from uterus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369461007",
+      "display": "Malignant tumor involving rectum by separate metastasis from vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "395705003",
+      "display": "pTis: Carcinoma in situ, intraepithelial (colon/rectum) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422375001",
+      "display": "Carcinoma of colon, stage III (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422581008",
+      "display": "Carcinoma of colon, stage II (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422985007",
+      "display": "Carcinoma of colon, stage IV (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425178004",
+      "display": "Adenocarcinoma of rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425213009",
+      "display": "Carcinoma of colon, stage I (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429084005",
+      "display": "History of malignant neoplasm of rectum (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429699009",
+      "display": "History of malignant neoplasm of colon (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443488001",
+      "display": "Malignant neoplasm of anorectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447886005",
+      "display": "Adenocarcinoma of anorectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448994001",
+      "display": "Malignant epithelial neoplasm of upper rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449218003",
+      "display": "Lymphoma of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "681601000119101",
+      "display": "Primary adenocarcinoma of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "681651000119102",
+      "display": "Primary adenocarcinoma of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713573006",
+      "display": "Malignant carcinoid tumor of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721695008",
+      "display": "Primary adenocarcinoma of ascending colon and right flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721696009",
+      "display": "Primary adenocarcinoma of transverse colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721697000",
+      "display": "Primary neuroendocrine carcinoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721698005",
+      "display": "Primary malignant neuroendocrine neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721699002",
+      "display": "Primary adenocarcinoma of descending colon and splenic flexure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721700001",
+      "display": "Primary malignant neuroendocrine neoplasm of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721701002",
+      "display": "Primary neuroendocrine carcinoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "726654006",
+      "display": "Malignant carcinoid tumor of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "737058005",
+      "display": "Microsatellite instability-high colorectal cancer (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766979005",
+      "display": "Squamous cell carcinoma of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766981007",
+      "display": "Squamous cell carcinoma of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93683002",
+      "display": "Primary malignant neoplasm of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93761005",
+      "display": "Primary malignant neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93771007",
+      "display": "Primary malignant neoplasm of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93826009",
+      "display": "Primary malignant neoplasm of hepatic flexure of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93980002",
+      "display": "Primary malignant neoplasm of rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93984006",
+      "display": "Primary malignant neoplasm of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94006002",
+      "display": "Primary malignant neoplasm of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94072004",
+      "display": "Primary malignant neoplasm of splenic flexure of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94105000",
+      "display": "Primary malignant neoplasm of transverse colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94179005",
+      "display": "Secondary malignant neoplasm of ascending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94260004",
+      "display": "Secondary malignant neoplasm of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94271003",
+      "display": "Secondary malignant neoplasm of descending colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94328005",
+      "display": "Secondary malignant neoplasm of hepatic flexure of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94509004",
+      "display": "Secondary malignant neoplasm of rectosigmoid junction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94513006",
+      "display": "Secondary malignant neoplasm of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94538001",
+      "display": "Secondary malignant neoplasm of sigmoid colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94604000",
+      "display": "Secondary malignant neoplasm of splenic flexure of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94643001",
+      "display": "Secondary malignant neoplasm of transverse colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "96281000119107",
+      "display": "Overlapping malignant neoplasm of colon and rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "96981000119102",
+      "display": "Malignant neoplasm of rectosigmoid junction metastatic to brain (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.0",
+      "display": "Malignant neoplasm of cecum"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.1",
+      "display": "Malignant neoplasm of appendix"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.2",
+      "display": "Malignant neoplasm of ascending colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.3",
+      "display": "Malignant neoplasm of hepatic flexure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.4",
+      "display": "Malignant neoplasm of transverse colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.5",
+      "display": "Malignant neoplasm of splenic flexure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.6",
+      "display": "Malignant neoplasm of descending colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.7",
+      "display": "Malignant neoplasm of sigmoid colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.8",
+      "display": "Malignant neoplasm of overlapping sites of colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C18.9",
+      "display": "Malignant neoplasm of colon, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C19",
+      "display": "Malignant neoplasm of rectosigmoid junction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C20",
+      "display": "Malignant neoplasm of rectum"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C21.2",
+      "display": "Malignant neoplasm of cloacogenic zone"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C21.8",
+      "display": "Malignant neoplasm of overlapping sites of rectum, anus and anal canal"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C78.5",
+      "display": "Secondary malignant neoplasm of large intestine and rectum"
+    } ]
+  }
 }

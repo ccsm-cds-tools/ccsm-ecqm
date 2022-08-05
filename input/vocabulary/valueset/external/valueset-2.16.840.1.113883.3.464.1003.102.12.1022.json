@@ -5,12 +5,58 @@
     "versionId": "17",
     "lastUpdated": "2021-01-13T08:47:11.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43692000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43692000\">43692000</a></td><td>http://snomed.info/sct</td><td>Influenzal acute upper respiratory infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54398005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54398005\">54398005</a></td><td>http://snomed.info/sct</td><td>Acute upper respiratory infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82272006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82272006\">82272006</a></td><td>http://snomed.info/sct</td><td>Common cold (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J00\"> </a>J00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute nasopharyngitis [common cold]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J06.0\"> </a>J06.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute laryngopharyngitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J06.9\"> </a>J06.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute upper respiratory infection, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.102.12.1022",
   "version": "20170504",
   "name": "Upper Respiratory Infection",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:94031602-bed7-40e7-8176-89e14e3eb65f",
+    "timestamp": "2022-07-19T15:07:00-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43692000",
+      "display": "Influenzal acute upper respiratory infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54398005",
+      "display": "Acute upper respiratory infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82272006",
+      "display": "Common cold (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J00",
+      "display": "Acute nasopharyngitis [common cold]"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J06.0",
+      "display": "Acute laryngopharyngitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J06.9",
+      "display": "Acute upper respiratory infection, unspecified"
+    } ]
+  }
 }

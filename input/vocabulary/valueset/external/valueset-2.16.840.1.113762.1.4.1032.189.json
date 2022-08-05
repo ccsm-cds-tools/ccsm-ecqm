@@ -5,12 +5,108 @@
     "versionId": "6",
     "lastUpdated": "2021-08-03T12:20:28.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312984006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312984006\">312984006</a></td><td>http://snomed.info/sct</td><td>Abnormal uterine bleeding unrelated to menstrual cycle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399131003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399131003\">399131003</a></td><td>http://snomed.info/sct</td><td>Non-menstrual vaginal bleeding (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44991000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44991000119100\">44991000119100</a></td><td>http://snomed.info/sct</td><td>Abnormal uterine bleeding (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92\"> </a>N92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Excessive, frequent and irregular menstruation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.0\"> </a>N92.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Excessive and frequent menstruation with regular cycle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.1\"> </a>N92.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Excessive and frequent menstruation with irregular cycle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.2\"> </a>N92.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Excessive menstruation at puberty</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.3\"> </a>N92.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ovulation bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.4\"> </a>N92.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Excessive bleeding in the premenopausal period</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.5\"> </a>N92.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified irregular menstruation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N92.6\"> </a>N92.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Irregular menstruation, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N93\"> </a>N93</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other abnormal uterine and vaginal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N93.0\"> </a>N93.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Postcoital and contact bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N93.1\"> </a>N93.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Pre-pubertal vaginal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N93.8\"> </a>N93.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified abnormal uterine and vaginal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N93.9\"> </a>N93.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Abnormal uterine and vaginal bleeding, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.189",
   "version": "20210730",
   "name": "Abnormal Uterine or Vaginal Bleeding Disorders",
   "status": "active",
   "date": "2021-07-30T01:05:31-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:b6472c0b-ca8a-4b08-bfa1-a5fccf718b33",
+    "timestamp": "2022-07-15T19:35:30-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312984006",
+      "display": "Abnormal uterine bleeding unrelated to menstrual cycle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399131003",
+      "display": "Non-menstrual vaginal bleeding (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44991000119100",
+      "display": "Abnormal uterine bleeding (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92",
+      "display": "Excessive, frequent and irregular menstruation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.0",
+      "display": "Excessive and frequent menstruation with regular cycle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.1",
+      "display": "Excessive and frequent menstruation with irregular cycle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.2",
+      "display": "Excessive menstruation at puberty"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.3",
+      "display": "Ovulation bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.4",
+      "display": "Excessive bleeding in the premenopausal period"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.5",
+      "display": "Other specified irregular menstruation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N92.6",
+      "display": "Irregular menstruation, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N93",
+      "display": "Other abnormal uterine and vaginal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N93.0",
+      "display": "Postcoital and contact bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N93.1",
+      "display": "Pre-pubertal vaginal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N93.8",
+      "display": "Other specified abnormal uterine and vaginal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N93.9",
+      "display": "Abnormal uterine and vaginal bleeding, unspecified"
+    } ]
+  }
 }

@@ -5,12 +5,103 @@
     "versionId": "29",
     "lastUpdated": "2021-02-10T01:02:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 15 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15738161000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15738161000119104\">15738161000119104</a></td><td>http://snomed.info/sct</td><td>Cataract of right eye due to ocular disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15738201000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15738201000119109\">15738201000119109</a></td><td>http://snomed.info/sct</td><td>Cataract of left eye due to ocular disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15738241000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15738241000119106\">15738241000119106</a></td><td>http://snomed.info/sct</td><td>Cataract of left eye due to inflammatory disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15738281000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15738281000119101\">15738281000119101</a></td><td>http://snomed.info/sct</td><td>Cataract of right eye due to inflammatory disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15738321000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15738321000119106\">15738321000119106</a></td><td>http://snomed.info/sct</td><td>Cataract of bilateral eyes due to inflammatory disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193600001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193600001\">193600001</a></td><td>http://snomed.info/sct</td><td>Cataract secondary to ocular disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193602009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193602009\">193602009</a></td><td>http://snomed.info/sct</td><td>Cataract due to inflammatory disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67733005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67733005\">67733005</a></td><td>http://snomed.info/sct</td><td>Subcapsular glaucomatous flecks (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76309006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76309006\">76309006</a></td><td>http://snomed.info/sct</td><td>Cataract with neovascularization (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.211\"> </a>H26.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract with neovascularization, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.212\"> </a>H26.212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract with neovascularization, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.213\"> </a>H26.213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract with neovascularization, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.221\"> </a>H26.221</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract secondary to ocular disorders (degenerative) (inflammatory), right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.222\"> </a>H26.222</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract secondary to ocular disorders (degenerative) (inflammatory), left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.223\"> </a>H26.223</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cataract secondary to ocular disorders (degenerative) (inflammatory), bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1410",
   "version": "20210210",
   "name": "Cataract Secondary to Ocular Disorders",
   "status": "active",
   "date": "2021-02-10T01:02:26-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:52a1b52b-e424-422a-a83b-aaab5188ae3f",
+    "timestamp": "2022-07-19T15:11:55-04:00",
+    "total": 15,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15738161000119104",
+      "display": "Cataract of right eye due to ocular disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15738201000119109",
+      "display": "Cataract of left eye due to ocular disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15738241000119106",
+      "display": "Cataract of left eye due to inflammatory disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15738281000119101",
+      "display": "Cataract of right eye due to inflammatory disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15738321000119106",
+      "display": "Cataract of bilateral eyes due to inflammatory disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193600001",
+      "display": "Cataract secondary to ocular disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193602009",
+      "display": "Cataract due to inflammatory disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67733005",
+      "display": "Subcapsular glaucomatous flecks (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76309006",
+      "display": "Cataract with neovascularization (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.211",
+      "display": "Cataract with neovascularization, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.212",
+      "display": "Cataract with neovascularization, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.213",
+      "display": "Cataract with neovascularization, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.221",
+      "display": "Cataract secondary to ocular disorders (degenerative) (inflammatory), right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.222",
+      "display": "Cataract secondary to ocular disorders (degenerative) (inflammatory), left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.223",
+      "display": "Cataract secondary to ocular disorders (degenerative) (inflammatory), bilateral"
+    } ]
+  }
 }

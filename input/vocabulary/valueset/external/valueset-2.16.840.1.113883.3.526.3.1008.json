@@ -5,12 +5,173 @@
     "versionId": "30",
     "lastUpdated": "2022-03-02T18:06:10.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 29 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105480006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105480006\">105480006</a></td><td>Procedure declined by patient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160932005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160932005\">160932005</a></td><td>Financial problem (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160934006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160934006\">160934006</a></td><td>Financial circumstances change (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182890002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182890002\">182890002</a></td><td>Patient requests alternative treatment (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182895007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182895007\">182895007</a></td><td>Drug declined by patient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182897004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182897004\">182897004</a></td><td>Drug declined by patient - side effects (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182900006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182900006\">182900006</a></td><td>Drug declined by patient - patient beliefs (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182902003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182902003\">182902003</a></td><td>Drug declined by patient - cannot pay script (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183945002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183945002\">183945002</a></td><td>Procedure declined for religious reason (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-184081006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=184081006\">184081006</a></td><td>Patient has moved away (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185479006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185479006\">185479006</a></td><td>Patient dissatisfied with result (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185481008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185481008\">185481008</a></td><td>Dissatisfied with doctor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224187001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224187001\">224187001</a></td><td>Variable income (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225928004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225928004\">225928004</a></td><td>Patient self-discharge against medical advice (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266710000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266710000\">266710000</a></td><td>Drugs not taken/completed (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266966009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266966009\">266966009</a></td><td>Family illness (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275694009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275694009\">275694009</a></td><td>Patient defaulted from follow-up (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275936005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275936005\">275936005</a></td><td>Patient noncompliance - general (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281399006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281399006\">281399006</a></td><td>Did not attend (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310343007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310343007\">310343007</a></td><td>Further opinion sought (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-373787003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=373787003\">373787003</a></td><td>Treatment delay - patient choice (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406149000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406149000\">406149000</a></td><td>Medication declined (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408367005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408367005\">408367005</a></td><td>Patient forgets to take medication (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413311005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413311005\">413311005</a></td><td>Patient non-compliant - declined intervention / support (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416432009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416432009\">416432009</a></td><td>Procedure not wanted (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423656007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423656007\">423656007</a></td><td>Income insufficient to buy necessities (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424739004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424739004\">424739004</a></td><td>Income sufficient to buy only necessities (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443390004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443390004\">443390004</a></td><td>Refused (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713247000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713247000\">713247000</a></td><td>Procedure discontinued by patient (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1008",
   "version": "20170504",
   "name": "Patient Reason",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:763eb485-5784-4d6e-8f98-b0ca3e0236e1",
+    "timestamp": "2022-07-19T15:11:04-04:00",
+    "total": 29,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105480006",
+      "display": "Procedure declined by patient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160932005",
+      "display": "Financial problem (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160934006",
+      "display": "Financial circumstances change (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182890002",
+      "display": "Patient requests alternative treatment (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182895007",
+      "display": "Drug declined by patient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182897004",
+      "display": "Drug declined by patient - side effects (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182900006",
+      "display": "Drug declined by patient - patient beliefs (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182902003",
+      "display": "Drug declined by patient - cannot pay script (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183945002",
+      "display": "Procedure declined for religious reason (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "184081006",
+      "display": "Patient has moved away (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185479006",
+      "display": "Patient dissatisfied with result (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185481008",
+      "display": "Dissatisfied with doctor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224187001",
+      "display": "Variable income (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225928004",
+      "display": "Patient self-discharge against medical advice (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266710000",
+      "display": "Drugs not taken/completed (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266966009",
+      "display": "Family illness (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275694009",
+      "display": "Patient defaulted from follow-up (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275936005",
+      "display": "Patient noncompliance - general (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281399006",
+      "display": "Did not attend (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310343007",
+      "display": "Further opinion sought (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "373787003",
+      "display": "Treatment delay - patient choice (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406149000",
+      "display": "Medication declined (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408367005",
+      "display": "Patient forgets to take medication (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413311005",
+      "display": "Patient non-compliant - declined intervention / support (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416432009",
+      "display": "Procedure not wanted (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423656007",
+      "display": "Income insufficient to buy necessities (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424739004",
+      "display": "Income sufficient to buy only necessities (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443390004",
+      "display": "Refused (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713247000",
+      "display": "Procedure discontinued by patient (situation)"
+    } ]
+  }
 }

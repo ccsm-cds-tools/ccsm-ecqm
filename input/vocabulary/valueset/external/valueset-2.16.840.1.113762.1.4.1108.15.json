@@ -5,12 +5,53 @@
     "versionId": "25",
     "lastUpdated": "2022-02-09T01:02:17.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170935008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170935008\">170935008</a></td><td>Full care by hospice (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170936009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170936009\">170936009</a></td><td>Shared care - hospice and general practitioner (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305911006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305911006\">305911006</a></td><td>Seen in hospice (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385763009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385763009\">385763009</a></td><td>Hospice care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385765002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385765002\">385765002</a></td><td>Hospice care management (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1108.15",
   "version": "20220209",
   "name": "Hospice Care Ambulatory",
   "status": "active",
   "date": "2022-02-09T01:02:18-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:faa9c743-152d-4da7-9cac-8547c67cfd31",
+    "timestamp": "2022-07-19T15:04:47-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170935008",
+      "display": "Full care by hospice (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170936009",
+      "display": "Shared care - hospice and general practitioner (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305911006",
+      "display": "Seen in hospice (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385763009",
+      "display": "Hospice care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385765002",
+      "display": "Hospice care management (procedure)"
+    } ]
+  }
 }

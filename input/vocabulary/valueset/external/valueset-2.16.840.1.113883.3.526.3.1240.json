@@ -5,12 +5,48 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:03:36.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444971000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444971000124105\">444971000124105</a></td><td>http://snomed.info/sct</td><td>Annual wellness visit (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-456201000124103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=456201000124103\">456201000124103</a></td><td>http://snomed.info/sct</td><td>Medicare annual wellness visit (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0438\"> </a>G0438</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Annual wellness visit; includes a personalized prevention plan of service (pps), initial visit</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0439\"> </a>G0439</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1240",
   "version": "20190315",
   "name": "Annual Wellness Visit",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:a6c2671d-ae4a-4e25-adbf-fc6102ccaba5",
+    "timestamp": "2022-07-19T15:11:37-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444971000124105",
+      "display": "Annual wellness visit (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "456201000124103",
+      "display": "Medicare annual wellness visit (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0438",
+      "display": "Annual wellness visit; includes a personalized prevention plan of service (pps), initial visit"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0439",
+      "display": "Annual wellness visit, includes a personalized prevention plan of service (pps), subsequent visit"
+    } ]
+  }
 }

@@ -5,12 +5,33 @@
     "versionId": "6",
     "lastUpdated": "2021-02-02T10:18:00.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-312914\"> </a>312914</td><td>secobarbital sodium 100 MG Oral Capsule</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1521",
   "version": "20200310",
   "name": "Secobarbital",
   "status": "active",
   "date": "2020-03-10T01:00:21-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0d01722f-adae-4399-b07e-bc7bd2d238d3",
+    "timestamp": "2022-07-19T15:10:17-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "312914",
+      "display": "secobarbital sodium 100 MG Oral Capsule"
+    } ]
+  }
 }

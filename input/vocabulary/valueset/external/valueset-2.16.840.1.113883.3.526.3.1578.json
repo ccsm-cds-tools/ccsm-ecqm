@@ -5,12 +5,63 @@
     "versionId": "9",
     "lastUpdated": "2022-03-02T18:02:37.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183617005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183617005\">183617005</a></td><td>Follow-up 1 day (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183618000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183618000\">183618000</a></td><td>Follow-up 2-3 days (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183619008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183619008\">183619008</a></td><td>Follow-up 4-6 days (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183620002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183620002\">183620002</a></td><td>Follow-up 1 week (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183621003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183621003\">183621003</a></td><td>Follow-up 2 weeks (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183622005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183622005\">183622005</a></td><td>Follow-up 3 weeks (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183623000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183623000\">183623000</a></td><td>Follow-up 1 month (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1578",
   "version": "20200307",
   "name": "Follow Up Within 4 Weeks",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ef5795f6-ed89-48f7-b12c-700d19fd0aac",
+    "timestamp": "2022-07-19T15:13:11-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183617005",
+      "display": "Follow-up 1 day (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183618000",
+      "display": "Follow-up 2-3 days (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183619008",
+      "display": "Follow-up 4-6 days (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183620002",
+      "display": "Follow-up 1 week (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183621003",
+      "display": "Follow-up 2 weeks (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183622005",
+      "display": "Follow-up 3 weeks (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183623000",
+      "display": "Follow-up 1 month (finding)"
+    } ]
+  }
 }

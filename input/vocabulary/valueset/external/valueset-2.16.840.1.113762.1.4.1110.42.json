@@ -5,12 +5,73 @@
     "versionId": "10",
     "lastUpdated": "2021-03-18T11:38:15.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-301542\"> </a>301542</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>rosuvastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-36567\"> </a>36567</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>simvastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372912004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372912004\">372912004</a></td><td>http://snomed.info/sct</td><td>Substance with 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor mechanism of action (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-41127\"> </a>41127</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>fluvastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-42463\"> </a>42463</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>pravastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-6472\"> </a>6472</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>lovastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-83367\"> </a>83367</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>atorvastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861634\"> </a>861634</td><td>http://www.nlm.nih.gov/research/umls/rxnorm</td><td>pitavastatin</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-96302009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=96302009\">96302009</a></td><td>http://snomed.info/sct</td><td>Product containing 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor (product)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1110.42",
   "version": "20210220",
   "name": "Statin Allergen",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:cd70fd73-368a-4b8d-ae7e-c77020864c78",
+    "timestamp": "2022-07-19T15:04:53-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "301542",
+      "display": "rosuvastatin"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "36567",
+      "display": "simvastatin"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372912004",
+      "display": "Substance with 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor mechanism of action (substance)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "41127",
+      "display": "fluvastatin"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "42463",
+      "display": "pravastatin"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "6472",
+      "display": "lovastatin"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "83367",
+      "display": "atorvastatin"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861634",
+      "display": "pitavastatin"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "96302009",
+      "display": "Product containing 3-hydroxy-3-methylglutaryl-coenzyme A reductase inhibitor (product)"
+    } ]
+  }
 }

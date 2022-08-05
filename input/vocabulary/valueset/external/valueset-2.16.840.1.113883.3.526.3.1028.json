@@ -5,12 +5,53 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:05:07.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38208-5\"> </a><a href=\"http://details.loinc.org/LOINC/38208-5.html\">38208-5</a></td><td>Pain severity - Reported</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38214-3\"> </a><a href=\"http://details.loinc.org/LOINC/38214-3.html\">38214-3</a></td><td>Pain severity [Score] Visual analog score</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38221-8\"> </a><a href=\"http://details.loinc.org/LOINC/38221-8.html\">38221-8</a></td><td>Pain severity Wong-Baker FACES pain rating scale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-72514-3\"> </a><a href=\"http://details.loinc.org/LOINC/72514-3.html\">72514-3</a></td><td>Pain severity - 0-10 verbal numeric rating [Score] - Reported</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-77565-0\"> </a><a href=\"http://details.loinc.org/LOINC/77565-0.html\">77565-0</a></td><td>Pain interference score [BPI Short Form]</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1028",
   "version": "20170504",
   "name": "Standardized Pain Assessment Tool",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Society of Clinical Oncology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:62b07cc6-e73a-4217-a399-93e4d54621b5",
+    "timestamp": "2022-07-19T15:11:14-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38208-5",
+      "display": "Pain severity - Reported"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38214-3",
+      "display": "Pain severity [Score] Visual analog score"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38221-8",
+      "display": "Pain severity Wong-Baker FACES pain rating scale"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "72514-3",
+      "display": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "77565-0",
+      "display": "Pain interference score [BPI Short Form]"
+    } ]
+  }
 }

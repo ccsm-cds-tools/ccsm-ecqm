@@ -5,12 +5,183 @@
     "versionId": "30",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 31 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15631011000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15631011000119102\">15631011000119102</a></td><td>http://snomed.info/sct</td><td>Neuritis of right optic nerve (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15631051000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15631051000119101\">15631051000119101</a></td><td>http://snomed.info/sct</td><td>Neuritis of left optic nerve (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230507009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230507009\">230507009</a></td><td>http://snomed.info/sct</td><td>Retrobulbar neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25044007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25044007\">25044007</a></td><td>http://snomed.info/sct</td><td>Neuromyelitis optica (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26125006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26125006\">26125006</a></td><td>http://snomed.info/sct</td><td>Toxic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2691000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2691000124105\">2691000124105</a></td><td>http://snomed.info/sct</td><td>Recurrent optic neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314537004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314537004\">314537004</a></td><td>http://snomed.info/sct</td><td>Optic papillopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314538009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314538009\">314538009</a></td><td>http://snomed.info/sct</td><td>Tobacco related optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314539001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314539001\">314539001</a></td><td>http://snomed.info/sct</td><td>Alcohol related optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314540004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314540004\">314540004</a></td><td>http://snomed.info/sct</td><td>Drug induced optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36276008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36276008\">36276008</a></td><td>http://snomed.info/sct</td><td>Syphilitic retrobulbar neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410471004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410471004\">410471004</a></td><td>http://snomed.info/sct</td><td>Neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410472006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410472006\">410472006</a></td><td>http://snomed.info/sct</td><td>Bartonella henselae neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416913007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416913007\">416913007</a></td><td>http://snomed.info/sct</td><td>Toxoplasma neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420920007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420920007\">420920007</a></td><td>http://snomed.info/sct</td><td>Optic neuropathy due to vitamin B12 deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432521000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432521000124106\">432521000124106</a></td><td>http://snomed.info/sct</td><td>Bilateral optic neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51604006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51604006\">51604006</a></td><td>http://snomed.info/sct</td><td>Acute retrobulbar neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66760008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66760008\">66760008</a></td><td>http://snomed.info/sct</td><td>Optic neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73221001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73221001\">73221001</a></td><td>http://snomed.info/sct</td><td>Optic papillitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73431005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73431005\">73431005</a></td><td>http://snomed.info/sct</td><td>Meningococcal optic neuritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82108004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82108004\">82108004</a></td><td>http://snomed.info/sct</td><td>Disorder of optic nerve due to nutritional deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.01\"> </a>H46.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Optic papillitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.02\"> </a>H46.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Optic papillitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.03\"> </a>H46.03</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Optic papillitis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.11\"> </a>H46.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrobulbar neuritis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.12\"> </a>H46.12</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrobulbar neuritis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.13\"> </a>H46.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrobulbar neuritis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.2\"> </a>H46.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nutritional optic neuropathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.3\"> </a>H46.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic optic neuropathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.8\"> </a>H46.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other optic neuritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H46.9\"> </a>H46.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified optic neuritis</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1467",
   "version": "20210218",
   "name": "Optic Neuritis",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2e519c33-b502-4643-8c22-e698c9975d79",
+    "timestamp": "2022-07-19T15:12:35-04:00",
+    "total": 31,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15631011000119102",
+      "display": "Neuritis of right optic nerve (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15631051000119101",
+      "display": "Neuritis of left optic nerve (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230507009",
+      "display": "Retrobulbar neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25044007",
+      "display": "Neuromyelitis optica (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26125006",
+      "display": "Toxic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2691000124105",
+      "display": "Recurrent optic neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314537004",
+      "display": "Optic papillopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314538009",
+      "display": "Tobacco related optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314539001",
+      "display": "Alcohol related optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314540004",
+      "display": "Drug induced optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36276008",
+      "display": "Syphilitic retrobulbar neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410471004",
+      "display": "Neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410472006",
+      "display": "Bartonella henselae neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416913007",
+      "display": "Toxoplasma neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420920007",
+      "display": "Optic neuropathy due to vitamin B12 deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432521000124106",
+      "display": "Bilateral optic neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51604006",
+      "display": "Acute retrobulbar neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66760008",
+      "display": "Optic neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73221001",
+      "display": "Optic papillitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73431005",
+      "display": "Meningococcal optic neuritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82108004",
+      "display": "Disorder of optic nerve due to nutritional deficiency (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.01",
+      "display": "Optic papillitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.02",
+      "display": "Optic papillitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.03",
+      "display": "Optic papillitis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.11",
+      "display": "Retrobulbar neuritis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.12",
+      "display": "Retrobulbar neuritis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.13",
+      "display": "Retrobulbar neuritis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.2",
+      "display": "Nutritional optic neuropathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.3",
+      "display": "Toxic optic neuropathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.8",
+      "display": "Other optic neuritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H46.9",
+      "display": "Unspecified optic neuritis"
+    } ]
+  }
 }

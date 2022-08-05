@@ -5,12 +5,103 @@
     "versionId": "21",
     "lastUpdated": "2021-02-18T01:00:59.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 15 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15631531000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15631531000119100\">15631531000119100</a></td><td>http://snomed.info/sct</td><td>Scarred macula of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15631611000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15631611000119106\">15631611000119106</a></td><td>http://snomed.info/sct</td><td>Scarred macula of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15710081000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15710081000119102\">15710081000119102</a></td><td>http://snomed.info/sct</td><td>Scar of macula of right eye following trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15710121000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15710121000119100\">15710121000119100</a></td><td>http://snomed.info/sct</td><td>Scar of macula of bilateral eyes following trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15710161000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15710161000119105\">15710161000119105</a></td><td>http://snomed.info/sct</td><td>Scar of macula of left eye following trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18410006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18410006\">18410006</a></td><td>http://snomed.info/sct</td><td>Scarred macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21939006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21939006\">21939006</a></td><td>http://snomed.info/sct</td><td>Scar of posterior pole of retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267611002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267611002\">267611002</a></td><td>http://snomed.info/sct</td><td>Degeneration of macula and posterior pole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-344341000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=344341000119106\">344341000119106</a></td><td>http://snomed.info/sct</td><td>Postinflammatory chorioretinal scar of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425622004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425622004\">425622004</a></td><td>http://snomed.info/sct</td><td>Scar of macula following trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-737273002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=737273002\">737273002</a></td><td>http://snomed.info/sct</td><td>Degeneration of posterior pole of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-774010000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=774010000\">774010000</a></td><td>http://snomed.info/sct</td><td>Scarred macula of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.011\"> </a>H31.011</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macula scars of posterior pole (postinflammatory) (post-traumatic), right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.012\"> </a>H31.012</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macula scars of posterior pole (postinflammatory) (post-traumatic), left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.013\"> </a>H31.013</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macula scars of posterior pole (postinflammatory) (post-traumatic), bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1559",
   "version": "20210218",
   "name": "Macular Scar of Posterior Polar",
   "status": "active",
   "date": "2021-02-18T01:00:59-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:594fd3d0-ff6d-4119-9761-a054b7a74e6a",
+    "timestamp": "2022-07-19T15:12:55-04:00",
+    "total": 15,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15631531000119100",
+      "display": "Scarred macula of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15631611000119106",
+      "display": "Scarred macula of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15710081000119102",
+      "display": "Scar of macula of right eye following trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15710121000119100",
+      "display": "Scar of macula of bilateral eyes following trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15710161000119105",
+      "display": "Scar of macula of left eye following trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18410006",
+      "display": "Scarred macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21939006",
+      "display": "Scar of posterior pole of retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267611002",
+      "display": "Degeneration of macula and posterior pole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "344341000119106",
+      "display": "Postinflammatory chorioretinal scar of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425622004",
+      "display": "Scar of macula following trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "737273002",
+      "display": "Degeneration of posterior pole of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "774010000",
+      "display": "Scarred macula of left eye (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.011",
+      "display": "Macula scars of posterior pole (postinflammatory) (post-traumatic), right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.012",
+      "display": "Macula scars of posterior pole (postinflammatory) (post-traumatic), left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.013",
+      "display": "Macula scars of posterior pole (postinflammatory) (post-traumatic), bilateral"
+    } ]
+  }
 }

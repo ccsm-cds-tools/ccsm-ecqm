@@ -5,12 +5,203 @@
     "versionId": "17",
     "lastUpdated": "2021-01-14T12:11:51.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 35 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105821000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105821000119107\">105821000119107</a></td><td>http://snomed.info/sct</td><td>Immunity to mumps by positive serology (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10665004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10665004\">10665004</a></td><td>http://snomed.info/sct</td><td>Mumps pancreatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111870000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111870000\">111870000</a></td><td>http://snomed.info/sct</td><td>Mumps without complication (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-161420006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=161420006\">161420006</a></td><td>http://snomed.info/sct</td><td>History of mumps (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17121006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17121006\">17121006</a></td><td>http://snomed.info/sct</td><td>Mumps nephritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235123001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235123001\">235123001</a></td><td>http://snomed.info/sct</td><td>Mumps acute sialadenitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236771002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236771002\">236771002</a></td><td>http://snomed.info/sct</td><td>Mumps epididymo-orchitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237443002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237443002\">237443002</a></td><td>http://snomed.info/sct</td><td>Mastitis of mumps (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240526004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240526004\">240526004</a></td><td>http://snomed.info/sct</td><td>Mumps parotitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240527008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240527008\">240527008</a></td><td>http://snomed.info/sct</td><td>Mumps submandibular sialadenitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240529006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240529006\">240529006</a></td><td>http://snomed.info/sct</td><td>Mumps sublingual sialadenitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31524007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31524007\">31524007</a></td><td>http://snomed.info/sct</td><td>Mumps polyneuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31646008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31646008\">31646008</a></td><td>http://snomed.info/sct</td><td>Mumps encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36989005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36989005\">36989005</a></td><td>http://snomed.info/sct</td><td>Mumps (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371112003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371112003\">371112003</a></td><td>http://snomed.info/sct</td><td>Mumps immune (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40099009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40099009\">40099009</a></td><td>http://snomed.info/sct</td><td>Meningoencephalitis caused by mumps (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44201003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44201003\">44201003</a></td><td>http://snomed.info/sct</td><td>Mumps meningitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63462008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63462008\">63462008</a></td><td>http://snomed.info/sct</td><td>Mumps myocarditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72071001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72071001\">72071001</a></td><td>http://snomed.info/sct</td><td>Mumps thyroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74717002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74717002\">74717002</a></td><td>http://snomed.info/sct</td><td>Mumps with complication (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75548002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75548002\">75548002</a></td><td>http://snomed.info/sct</td><td>Mumps oophoritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78580004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78580004\">78580004</a></td><td>http://snomed.info/sct</td><td>Mumps orchitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89231008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89231008\">89231008</a></td><td>http://snomed.info/sct</td><td>Mumps hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89764009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89764009\">89764009</a></td><td>http://snomed.info/sct</td><td>Mumps arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.0\"> </a>B26.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps orchitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.1\"> </a>B26.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps meningitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.2\"> </a>B26.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps encephalitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.3\"> </a>B26.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps pancreatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.81\"> </a>B26.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.82\"> </a>B26.82</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps myocarditis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.83\"> </a>B26.83</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps nephritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.84\"> </a>B26.84</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps polyneuropathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.85\"> </a>B26.85</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.89\"> </a>B26.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other mumps complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B26.9\"> </a>B26.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mumps without complication</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1032",
   "version": "20170504",
   "name": "Mumps",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e1c095d9-c247-4611-b69b-27ac9bd94787",
+    "timestamp": "2022-07-19T15:07:45-04:00",
+    "total": 35,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105821000119107",
+      "display": "Immunity to mumps by positive serology (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10665004",
+      "display": "Mumps pancreatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111870000",
+      "display": "Mumps without complication (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "161420006",
+      "display": "History of mumps (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17121006",
+      "display": "Mumps nephritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235123001",
+      "display": "Mumps acute sialadenitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236771002",
+      "display": "Mumps epididymo-orchitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237443002",
+      "display": "Mastitis of mumps (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240526004",
+      "display": "Mumps parotitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240527008",
+      "display": "Mumps submandibular sialadenitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240529006",
+      "display": "Mumps sublingual sialadenitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31524007",
+      "display": "Mumps polyneuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31646008",
+      "display": "Mumps encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36989005",
+      "display": "Mumps (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371112003",
+      "display": "Mumps immune (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40099009",
+      "display": "Meningoencephalitis caused by mumps (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44201003",
+      "display": "Mumps meningitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63462008",
+      "display": "Mumps myocarditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72071001",
+      "display": "Mumps thyroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74717002",
+      "display": "Mumps with complication (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75548002",
+      "display": "Mumps oophoritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78580004",
+      "display": "Mumps orchitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89231008",
+      "display": "Mumps hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89764009",
+      "display": "Mumps arthritis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.0",
+      "display": "Mumps orchitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.1",
+      "display": "Mumps meningitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.2",
+      "display": "Mumps encephalitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.3",
+      "display": "Mumps pancreatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.81",
+      "display": "Mumps hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.82",
+      "display": "Mumps myocarditis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.83",
+      "display": "Mumps nephritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.84",
+      "display": "Mumps polyneuropathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.85",
+      "display": "Mumps arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.89",
+      "display": "Other mumps complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B26.9",
+      "display": "Mumps without complication"
+    } ]
+  }
 }

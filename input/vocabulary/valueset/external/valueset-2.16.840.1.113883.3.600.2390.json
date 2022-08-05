@@ -5,12 +5,158 @@
     "versionId": "25",
     "lastUpdated": "2021-03-04T01:00:20.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 26 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160603005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160603005\">160603005</a></td><td>Light cigarette smoker (1-9 cigs/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160604004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160604004\">160604004</a></td><td>Moderate cigarette smoker (10-19 cigs/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160605003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160605003\">160605003</a></td><td>Heavy cigarette smoker (20-39 cigs/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160606002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160606002\">160606002</a></td><td>Very heavy cigarette smoker (40+ cigs/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160619003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160619003\">160619003</a></td><td>Rolls own cigarettes (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230059006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230059006\">230059006</a></td><td>Occasional cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230060001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230060001\">230060001</a></td><td>Light cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230062009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230062009\">230062009</a></td><td>Moderate cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230063004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230063004\">230063004</a></td><td>Heavy cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230064005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230064005\">230064005</a></td><td>Very heavy cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230065006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230065006\">230065006</a></td><td>Chain smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266920004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266920004\">266920004</a></td><td>Trivial cigarette smoker (less than one cigarette/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-365981007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=365981007\">365981007</a></td><td>Finding of tobacco smoking behavior (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-365982000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=365982000\">365982000</a></td><td>Finding of tobacco smoking consumption (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428041000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428041000124106\">428041000124106</a></td><td>Occasional tobacco smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428061000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428061000124105\">428061000124105</a></td><td>Light tobacco smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428071000124103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428071000124103\">428071000124103</a></td><td>Heavy tobacco smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449868002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449868002\">449868002</a></td><td>Smokes tobacco daily (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450811000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450811000124104\">450811000124104</a></td><td>Cigarette smoker (5-9 cigarettes/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450821000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450821000124107\">450821000124107</a></td><td>Cigarette smoker (1-4 cigarettes/day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56578002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56578002\">56578002</a></td><td>Moderate smoker (20 or less per day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56771006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56771006\">56771006</a></td><td>Heavy smoker (over 20 per day) (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59978006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59978006\">59978006</a></td><td>Cigar smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65568007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65568007\">65568007</a></td><td>Cigarette smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77176002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77176002\">77176002</a></td><td>Smoker (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82302008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82302008\">82302008</a></td><td>Pipe smoker (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.600.2390",
   "version": "20210304",
   "name": "Current Tobacco Smoker",
   "status": "active",
   "date": "2021-03-04T01:00:20-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0f27f65f-c554-4805-95c1-e57faa30a3d3",
+    "timestamp": "2022-07-19T15:13:57-04:00",
+    "total": 26,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160603005",
+      "display": "Light cigarette smoker (1-9 cigs/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160604004",
+      "display": "Moderate cigarette smoker (10-19 cigs/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160605003",
+      "display": "Heavy cigarette smoker (20-39 cigs/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160606002",
+      "display": "Very heavy cigarette smoker (40+ cigs/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160619003",
+      "display": "Rolls own cigarettes (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230059006",
+      "display": "Occasional cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230060001",
+      "display": "Light cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230062009",
+      "display": "Moderate cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230063004",
+      "display": "Heavy cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230064005",
+      "display": "Very heavy cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230065006",
+      "display": "Chain smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266920004",
+      "display": "Trivial cigarette smoker (less than one cigarette/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "365981007",
+      "display": "Finding of tobacco smoking behavior (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "365982000",
+      "display": "Finding of tobacco smoking consumption (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428041000124106",
+      "display": "Occasional tobacco smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428061000124105",
+      "display": "Light tobacco smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428071000124103",
+      "display": "Heavy tobacco smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449868002",
+      "display": "Smokes tobacco daily (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450811000124104",
+      "display": "Cigarette smoker (5-9 cigarettes/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450821000124107",
+      "display": "Cigarette smoker (1-4 cigarettes/day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56578002",
+      "display": "Moderate smoker (20 or less per day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56771006",
+      "display": "Heavy smoker (over 20 per day) (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59978006",
+      "display": "Cigar smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65568007",
+      "display": "Cigarette smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77176002",
+      "display": "Smoker (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82302008",
+      "display": "Pipe smoker (finding)"
+    } ]
+  }
 }

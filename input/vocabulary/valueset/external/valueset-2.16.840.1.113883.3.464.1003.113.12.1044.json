@@ -5,12 +5,118 @@
     "versionId": "8",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1003379004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1003379004\">1003379004</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type 5 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15552004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15552004\">15552004</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, recessive perinatal lethal, with microcephaly AND cataracts (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-205496008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=205496008\">205496008</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-205497004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=205497004\">205497004</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type IV (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254110009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254110009\">254110009</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type IIA (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254111008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254111008\">254111008</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type IIB (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254112001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254112001\">254112001</a></td><td>http://snomed.info/sct</td><td>Osteoporosis with pseudoglioma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-279309008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=279309008\">279309008</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, type IV B (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-280159008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=280159008\">280159008</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, type IV A (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385482004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385482004\">385482004</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385483009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385483009\">385483009</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta type III (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63890001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63890001\">63890001</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta with blue sclerae AND dentinogenesis imperfecta (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64404003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64404003\">64404003</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta with blue sclerae AND normal teeth (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7134007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7134007\">7134007</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, dominant perinatal lethal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-756.51\"> </a>756.51</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Osteogenesis imperfecta</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78314001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78314001\">78314001</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86470003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86470003\">86470003</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, recessive perinatal lethal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q78.0\"> </a>Q78.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Osteogenesis imperfecta</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1044",
   "version": "20180310",
   "name": "Osteogenesis Imperfecta",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:74d94167-1994-4421-b921-5aff77a7070c",
+    "timestamp": "2022-07-19T15:08:19-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1003379004",
+      "display": "Osteogenesis imperfecta type 5 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15552004",
+      "display": "Osteogenesis imperfecta, recessive perinatal lethal, with microcephaly AND cataracts (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "205496008",
+      "display": "Osteogenesis imperfecta type II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "205497004",
+      "display": "Osteogenesis imperfecta type IV (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254110009",
+      "display": "Osteogenesis imperfecta type IIA (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254111008",
+      "display": "Osteogenesis imperfecta type IIB (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254112001",
+      "display": "Osteoporosis with pseudoglioma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "279309008",
+      "display": "Osteogenesis imperfecta, type IV B (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "280159008",
+      "display": "Osteogenesis imperfecta, type IV A (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385482004",
+      "display": "Osteogenesis imperfecta type I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385483009",
+      "display": "Osteogenesis imperfecta type III (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63890001",
+      "display": "Osteogenesis imperfecta with blue sclerae AND dentinogenesis imperfecta (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64404003",
+      "display": "Osteogenesis imperfecta with blue sclerae AND normal teeth (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7134007",
+      "display": "Osteogenesis imperfecta, dominant perinatal lethal (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "756.51",
+      "display": "Osteogenesis imperfecta"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78314001",
+      "display": "Osteogenesis imperfecta (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86470003",
+      "display": "Osteogenesis imperfecta, recessive perinatal lethal (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q78.0",
+      "display": "Osteogenesis imperfecta"
+    } ]
+  }
 }

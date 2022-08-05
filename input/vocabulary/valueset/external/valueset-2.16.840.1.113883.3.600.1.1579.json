@@ -5,12 +5,78 @@
     "versionId": "35",
     "lastUpdated": "2022-03-02T18:05:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103735009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103735009\">103735009</a></td><td>Palliative care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-133918004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=133918004\">133918004</a></td><td>Comfort measures (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182964004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182964004\">182964004</a></td><td>Terminal care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305284002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305284002\">305284002</a></td><td>Admission by palliative care physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305381007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305381007\">305381007</a></td><td>Admission to palliative care department (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305981001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305981001\">305981001</a></td><td>Referral by palliative care physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306237005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306237005\">306237005</a></td><td>Referral to palliative care service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306288008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306288008\">306288008</a></td><td>Referral to palliative care physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385736008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385736008\">385736008</a></td><td>Dying care (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385763009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385763009\">385763009</a></td><td>Hospice care (regime/therapy)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.600.1.1579",
   "version": "20210224",
   "name": "Palliative or Hospice Care",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:71b06425-6e4d-4a0d-8223-16a6fb59dc2f",
+    "timestamp": "2022-07-19T15:13:47-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103735009",
+      "display": "Palliative care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "133918004",
+      "display": "Comfort measures (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182964004",
+      "display": "Terminal care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305284002",
+      "display": "Admission by palliative care physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305381007",
+      "display": "Admission to palliative care department (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305981001",
+      "display": "Referral by palliative care physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306237005",
+      "display": "Referral to palliative care service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306288008",
+      "display": "Referral to palliative care physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385736008",
+      "display": "Dying care (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385763009",
+      "display": "Hospice care (regime/therapy)"
+    } ]
+  }
 }

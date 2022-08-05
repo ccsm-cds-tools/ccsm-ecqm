@@ -5,12 +5,38 @@
     "versionId": "11",
     "lastUpdated": "2021-01-04T15:36:31.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38265-5\"> </a><a href=\"http://details.loinc.org/LOINC/38265-5.html\">38265-5</a></td><td>DXA Radius and Ulna [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38268-9\"> </a><a href=\"http://details.loinc.org/LOINC/38268-9.html\">38268-9</a></td><td>DXA Skeletal system Views for bone density</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1151.38",
   "version": "20170812",
   "name": "DEXA Dual Energy Xray Absorptiometry, Bone Density for Urology Care",
   "status": "active",
   "date": "2017-08-12T01:00:03-04:00",
   "publisher": "Oregon Urology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:aba2e811-c373-4af2-9c74-a0f86c029228",
+    "timestamp": "2022-07-19T15:05:11-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38265-5",
+      "display": "DXA Radius and Ulna [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38268-9",
+      "display": "DXA Skeletal system Views for bone density"
+    } ]
+  }
 }

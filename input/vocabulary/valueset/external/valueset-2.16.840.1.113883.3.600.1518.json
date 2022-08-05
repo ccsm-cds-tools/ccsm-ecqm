@@ -5,12 +5,73 @@
     "versionId": "30",
     "lastUpdated": "2022-03-02T18:03:48.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281090004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281090004\">281090004</a></td><td>http://snomed.info/sct</td><td>Recommendation to exercise (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-304507003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=304507003\">304507003</a></td><td>http://snomed.info/sct</td><td>Exercise education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-304549008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=304549008\">304549008</a></td><td>http://snomed.info/sct</td><td>Giving encouragement to exercise (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386291006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386291006\">386291006</a></td><td>http://snomed.info/sct</td><td>Exercise promotion: strength training (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386292004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386292004\">386292004</a></td><td>http://snomed.info/sct</td><td>Exercise promotion: stretching (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386373004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386373004\">386373004</a></td><td>http://snomed.info/sct</td><td>Nutrition therapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386463000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386463000\">386463000</a></td><td>http://snomed.info/sct</td><td>Prescribed activity/exercise education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410289001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410289001\">410289001</a></td><td>http://snomed.info/sct</td><td>Exercises education, guidance, and counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9451\"> </a>S9451</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Exercise classes, non-physician provider, per session</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.600.1518",
   "version": "20190313",
   "name": "Recommendation to Increase Physical Activity",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:b9ddba81-992b-4d81-a4f1-5b3ef7413a67",
+    "timestamp": "2022-07-19T15:13:54-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281090004",
+      "display": "Recommendation to exercise (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "304507003",
+      "display": "Exercise education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "304549008",
+      "display": "Giving encouragement to exercise (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386291006",
+      "display": "Exercise promotion: strength training (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386292004",
+      "display": "Exercise promotion: stretching (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386373004",
+      "display": "Nutrition therapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386463000",
+      "display": "Prescribed activity/exercise education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410289001",
+      "display": "Exercises education, guidance, and counseling (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9451",
+      "display": "Exercise classes, non-physician provider, per session"
+    } ]
+  }
 }

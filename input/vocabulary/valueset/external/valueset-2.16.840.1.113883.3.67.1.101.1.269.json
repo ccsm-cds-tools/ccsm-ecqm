@@ -5,12 +5,183 @@
     "versionId": "25",
     "lastUpdated": "2021-03-16T15:54:05.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 31 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1116000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1116000\">1116000</a></td><td>http://snomed.info/sct</td><td>Chronic aggressive type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111891008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111891008\">111891008</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis B without hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13265006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13265006\">13265006</a></td><td>http://snomed.info/sct</td><td>Acute fulminating type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186624004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186624004\">186624004</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to acute hepatitis B with delta agent (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186626002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186626002\">186626002</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis B with delta-agent (coinfection) without hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186639003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186639003\">186639003</a></td><td>http://snomed.info/sct</td><td>Chronic viral hepatitis B without delta-agent (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235864009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235864009\">235864009</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis B with hepatitis D (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235865005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235865005\">235865005</a></td><td>http://snomed.info/sct</td><td>Hepatitis D superinfection of hepatitis B carrier (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235869004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235869004\">235869004</a></td><td>http://snomed.info/sct</td><td>Chronic viral hepatitis B with hepatitis D (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235871004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235871004\">235871004</a></td><td>http://snomed.info/sct</td><td>Hepatitis B carrier (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26206000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26206000\">26206000</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to viral hepatitis B (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38662009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38662009\">38662009</a></td><td>http://snomed.info/sct</td><td>Chronic persistent type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424099008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424099008\">424099008</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to acute hepatitis B (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424340000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424340000\">424340000</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to chronic hepatitis B (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442134007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442134007\">442134007</a></td><td>http://snomed.info/sct</td><td>Hepatitis B associated with Human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442374005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442374005\">442374005</a></td><td>http://snomed.info/sct</td><td>Hepatitis B and hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446698005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446698005\">446698005</a></td><td>http://snomed.info/sct</td><td>Reactivation of hepatitis B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50167007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50167007\">50167007</a></td><td>http://snomed.info/sct</td><td>Chronic active type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53425008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53425008\">53425008</a></td><td>http://snomed.info/sct</td><td>Anicteric type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60498001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60498001\">60498001</a></td><td>http://snomed.info/sct</td><td>Congenital viral hepatitis B infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61977001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61977001\">61977001</a></td><td>http://snomed.info/sct</td><td>Chronic type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66071002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66071002\">66071002</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis type B (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76795007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76795007\">76795007</a></td><td>http://snomed.info/sct</td><td>Acute type B viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B16.0\"> </a>B16.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis B with delta-agent with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B16.1\"> </a>B16.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis B with delta-agent without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B16.2\"> </a>B16.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis B without delta-agent with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B16.9\"> </a>B16.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis B without delta-agent and without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B18.0\"> </a>B18.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic viral hepatitis B with delta-agent</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B18.1\"> </a>B18.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic viral hepatitis B without delta-agent</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.10\"> </a>B19.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis B without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.11\"> </a>B19.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis B with hepatic coma</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.67.1.101.1.269",
   "version": "20170825",
   "name": "Hepatitis B",
   "status": "active",
   "date": "2017-08-25T01:00:04-04:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d684f723-87d6-4658-8cf3-9dda430915db",
+    "timestamp": "2022-07-19T15:14:10-04:00",
+    "total": 31,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1116000",
+      "display": "Chronic aggressive type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111891008",
+      "display": "Viral hepatitis B without hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13265006",
+      "display": "Acute fulminating type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186624004",
+      "display": "Hepatic coma due to acute hepatitis B with delta agent (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186626002",
+      "display": "Acute hepatitis B with delta-agent (coinfection) without hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186639003",
+      "display": "Chronic viral hepatitis B without delta-agent (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235864009",
+      "display": "Acute hepatitis B with hepatitis D (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235865005",
+      "display": "Hepatitis D superinfection of hepatitis B carrier (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235869004",
+      "display": "Chronic viral hepatitis B with hepatitis D (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235871004",
+      "display": "Hepatitis B carrier (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26206000",
+      "display": "Hepatic coma due to viral hepatitis B (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38662009",
+      "display": "Chronic persistent type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424099008",
+      "display": "Hepatic coma due to acute hepatitis B (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424340000",
+      "display": "Hepatic coma due to chronic hepatitis B (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442134007",
+      "display": "Hepatitis B associated with Human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442374005",
+      "display": "Hepatitis B and hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446698005",
+      "display": "Reactivation of hepatitis B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50167007",
+      "display": "Chronic active type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53425008",
+      "display": "Anicteric type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60498001",
+      "display": "Congenital viral hepatitis B infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61977001",
+      "display": "Chronic type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66071002",
+      "display": "Viral hepatitis type B (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76795007",
+      "display": "Acute type B viral hepatitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B16.0",
+      "display": "Acute hepatitis B with delta-agent with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B16.1",
+      "display": "Acute hepatitis B with delta-agent without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B16.2",
+      "display": "Acute hepatitis B without delta-agent with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B16.9",
+      "display": "Acute hepatitis B without delta-agent and without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B18.0",
+      "display": "Chronic viral hepatitis B with delta-agent"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B18.1",
+      "display": "Chronic viral hepatitis B without delta-agent"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.10",
+      "display": "Unspecified viral hepatitis B without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.11",
+      "display": "Unspecified viral hepatitis B with hepatic coma"
+    } ]
+  }
 }

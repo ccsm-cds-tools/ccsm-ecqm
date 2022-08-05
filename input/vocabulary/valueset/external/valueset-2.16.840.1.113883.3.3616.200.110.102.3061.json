@@ -5,12 +5,2113 @@
     "versionId": "9",
     "lastUpdated": "2020-12-12T01:00:34.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 417 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/icd-10-cm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05\"> </a>M05</td><td>Rheumatoid arthritis with rheumatoid factor</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.0\"> </a>M05.0</td><td>Felty's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.00\"> </a>M05.00</td><td>Felty's syndrome, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.01\"> </a>M05.01</td><td>Felty's syndrome, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.011\"> </a>M05.011</td><td>Felty's syndrome, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.012\"> </a>M05.012</td><td>Felty's syndrome, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.019\"> </a>M05.019</td><td>Felty's syndrome, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.02\"> </a>M05.02</td><td>Felty's syndrome, elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.021\"> </a>M05.021</td><td>Felty's syndrome, right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.022\"> </a>M05.022</td><td>Felty's syndrome, left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.029\"> </a>M05.029</td><td>Felty's syndrome, unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.03\"> </a>M05.03</td><td>Felty's syndrome, wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.031\"> </a>M05.031</td><td>Felty's syndrome, right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.032\"> </a>M05.032</td><td>Felty's syndrome, left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.039\"> </a>M05.039</td><td>Felty's syndrome, unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.04\"> </a>M05.04</td><td>Felty's syndrome, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.041\"> </a>M05.041</td><td>Felty's syndrome, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.042\"> </a>M05.042</td><td>Felty's syndrome, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.049\"> </a>M05.049</td><td>Felty's syndrome, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.05\"> </a>M05.05</td><td>Felty's syndrome, hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.051\"> </a>M05.051</td><td>Felty's syndrome, right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.052\"> </a>M05.052</td><td>Felty's syndrome, left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.059\"> </a>M05.059</td><td>Felty's syndrome, unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.06\"> </a>M05.06</td><td>Felty's syndrome, knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.061\"> </a>M05.061</td><td>Felty's syndrome, right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.062\"> </a>M05.062</td><td>Felty's syndrome, left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.069\"> </a>M05.069</td><td>Felty's syndrome, unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.07\"> </a>M05.07</td><td>Felty's syndrome, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.071\"> </a>M05.071</td><td>Felty's syndrome, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.072\"> </a>M05.072</td><td>Felty's syndrome, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.079\"> </a>M05.079</td><td>Felty's syndrome, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.09\"> </a>M05.09</td><td>Felty's syndrome, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.1\"> </a>M05.1</td><td>Rheumatoid lung disease with rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.10\"> </a>M05.10</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.11\"> </a>M05.11</td><td>Rheumatoid lung disease with rheumatoid arthritis of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.111\"> </a>M05.111</td><td>Rheumatoid lung disease with rheumatoid arthritis of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.112\"> </a>M05.112</td><td>Rheumatoid lung disease with rheumatoid arthritis of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.119\"> </a>M05.119</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.12\"> </a>M05.12</td><td>Rheumatoid lung disease with rheumatoid arthritis of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.121\"> </a>M05.121</td><td>Rheumatoid lung disease with rheumatoid arthritis of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.122\"> </a>M05.122</td><td>Rheumatoid lung disease with rheumatoid arthritis of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.129\"> </a>M05.129</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.13\"> </a>M05.13</td><td>Rheumatoid lung disease with rheumatoid arthritis of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.131\"> </a>M05.131</td><td>Rheumatoid lung disease with rheumatoid arthritis of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.132\"> </a>M05.132</td><td>Rheumatoid lung disease with rheumatoid arthritis of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.139\"> </a>M05.139</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.14\"> </a>M05.14</td><td>Rheumatoid lung disease with rheumatoid arthritis of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.141\"> </a>M05.141</td><td>Rheumatoid lung disease with rheumatoid arthritis of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.142\"> </a>M05.142</td><td>Rheumatoid lung disease with rheumatoid arthritis of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.149\"> </a>M05.149</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.15\"> </a>M05.15</td><td>Rheumatoid lung disease with rheumatoid arthritis of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.151\"> </a>M05.151</td><td>Rheumatoid lung disease with rheumatoid arthritis of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.152\"> </a>M05.152</td><td>Rheumatoid lung disease with rheumatoid arthritis of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.159\"> </a>M05.159</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.16\"> </a>M05.16</td><td>Rheumatoid lung disease with rheumatoid arthritis of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.161\"> </a>M05.161</td><td>Rheumatoid lung disease with rheumatoid arthritis of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.162\"> </a>M05.162</td><td>Rheumatoid lung disease with rheumatoid arthritis of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.169\"> </a>M05.169</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.17\"> </a>M05.17</td><td>Rheumatoid lung disease with rheumatoid arthritis of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.171\"> </a>M05.171</td><td>Rheumatoid lung disease with rheumatoid arthritis of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.172\"> </a>M05.172</td><td>Rheumatoid lung disease with rheumatoid arthritis of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.179\"> </a>M05.179</td><td>Rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.19\"> </a>M05.19</td><td>Rheumatoid lung disease with rheumatoid arthritis of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.2\"> </a>M05.2</td><td>Rheumatoid vasculitis with rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.20\"> </a>M05.20</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.21\"> </a>M05.21</td><td>Rheumatoid vasculitis with rheumatoid arthritis of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.211\"> </a>M05.211</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.212\"> </a>M05.212</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.219\"> </a>M05.219</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.22\"> </a>M05.22</td><td>Rheumatoid vasculitis with rheumatoid arthritis of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.221\"> </a>M05.221</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.222\"> </a>M05.222</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.229\"> </a>M05.229</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.23\"> </a>M05.23</td><td>Rheumatoid vasculitis with rheumatoid arthritis of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.231\"> </a>M05.231</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.232\"> </a>M05.232</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.239\"> </a>M05.239</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.24\"> </a>M05.24</td><td>Rheumatoid vasculitis with rheumatoid arthritis of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.241\"> </a>M05.241</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.242\"> </a>M05.242</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.249\"> </a>M05.249</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.25\"> </a>M05.25</td><td>Rheumatoid vasculitis with rheumatoid arthritis of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.251\"> </a>M05.251</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.252\"> </a>M05.252</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.259\"> </a>M05.259</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.26\"> </a>M05.26</td><td>Rheumatoid vasculitis with rheumatoid arthritis of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.261\"> </a>M05.261</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.262\"> </a>M05.262</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.269\"> </a>M05.269</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.27\"> </a>M05.27</td><td>Rheumatoid vasculitis with rheumatoid arthritis of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.271\"> </a>M05.271</td><td>Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.272\"> </a>M05.272</td><td>Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.279\"> </a>M05.279</td><td>Rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.29\"> </a>M05.29</td><td>Rheumatoid vasculitis with rheumatoid arthritis of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.3\"> </a>M05.3</td><td>Rheumatoid heart disease with rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.30\"> </a>M05.30</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.31\"> </a>M05.31</td><td>Rheumatoid heart disease with rheumatoid arthritis of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.311\"> </a>M05.311</td><td>Rheumatoid heart disease with rheumatoid arthritis of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.312\"> </a>M05.312</td><td>Rheumatoid heart disease with rheumatoid arthritis of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.319\"> </a>M05.319</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.32\"> </a>M05.32</td><td>Rheumatoid heart disease with rheumatoid arthritis of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.321\"> </a>M05.321</td><td>Rheumatoid heart disease with rheumatoid arthritis of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.322\"> </a>M05.322</td><td>Rheumatoid heart disease with rheumatoid arthritis of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.329\"> </a>M05.329</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.33\"> </a>M05.33</td><td>Rheumatoid heart disease with rheumatoid arthritis of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.331\"> </a>M05.331</td><td>Rheumatoid heart disease with rheumatoid arthritis of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.332\"> </a>M05.332</td><td>Rheumatoid heart disease with rheumatoid arthritis of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.339\"> </a>M05.339</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.34\"> </a>M05.34</td><td>Rheumatoid heart disease with rheumatoid arthritis of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.341\"> </a>M05.341</td><td>Rheumatoid heart disease with rheumatoid arthritis of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.342\"> </a>M05.342</td><td>Rheumatoid heart disease with rheumatoid arthritis of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.349\"> </a>M05.349</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.35\"> </a>M05.35</td><td>Rheumatoid heart disease with rheumatoid arthritis of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.351\"> </a>M05.351</td><td>Rheumatoid heart disease with rheumatoid arthritis of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.352\"> </a>M05.352</td><td>Rheumatoid heart disease with rheumatoid arthritis of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.359\"> </a>M05.359</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.36\"> </a>M05.36</td><td>Rheumatoid heart disease with rheumatoid arthritis of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.361\"> </a>M05.361</td><td>Rheumatoid heart disease with rheumatoid arthritis of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.362\"> </a>M05.362</td><td>Rheumatoid heart disease with rheumatoid arthritis of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.369\"> </a>M05.369</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.37\"> </a>M05.37</td><td>Rheumatoid heart disease with rheumatoid arthritis of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.371\"> </a>M05.371</td><td>Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.372\"> </a>M05.372</td><td>Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.379\"> </a>M05.379</td><td>Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.39\"> </a>M05.39</td><td>Rheumatoid heart disease with rheumatoid arthritis of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.4\"> </a>M05.4</td><td>Rheumatoid myopathy with rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.40\"> </a>M05.40</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.41\"> </a>M05.41</td><td>Rheumatoid myopathy with rheumatoid arthritis of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.411\"> </a>M05.411</td><td>Rheumatoid myopathy with rheumatoid arthritis of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.412\"> </a>M05.412</td><td>Rheumatoid myopathy with rheumatoid arthritis of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.419\"> </a>M05.419</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.42\"> </a>M05.42</td><td>Rheumatoid myopathy with rheumatoid arthritis of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.421\"> </a>M05.421</td><td>Rheumatoid myopathy with rheumatoid arthritis of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.422\"> </a>M05.422</td><td>Rheumatoid myopathy with rheumatoid arthritis of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.429\"> </a>M05.429</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.43\"> </a>M05.43</td><td>Rheumatoid myopathy with rheumatoid arthritis of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.431\"> </a>M05.431</td><td>Rheumatoid myopathy with rheumatoid arthritis of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.432\"> </a>M05.432</td><td>Rheumatoid myopathy with rheumatoid arthritis of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.439\"> </a>M05.439</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.44\"> </a>M05.44</td><td>Rheumatoid myopathy with rheumatoid arthritis of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.441\"> </a>M05.441</td><td>Rheumatoid myopathy with rheumatoid arthritis of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.442\"> </a>M05.442</td><td>Rheumatoid myopathy with rheumatoid arthritis of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.449\"> </a>M05.449</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.45\"> </a>M05.45</td><td>Rheumatoid myopathy with rheumatoid arthritis of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.451\"> </a>M05.451</td><td>Rheumatoid myopathy with rheumatoid arthritis of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.452\"> </a>M05.452</td><td>Rheumatoid myopathy with rheumatoid arthritis of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.459\"> </a>M05.459</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.46\"> </a>M05.46</td><td>Rheumatoid myopathy with rheumatoid arthritis of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.461\"> </a>M05.461</td><td>Rheumatoid myopathy with rheumatoid arthritis of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.462\"> </a>M05.462</td><td>Rheumatoid myopathy with rheumatoid arthritis of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.469\"> </a>M05.469</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.47\"> </a>M05.47</td><td>Rheumatoid myopathy with rheumatoid arthritis of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.471\"> </a>M05.471</td><td>Rheumatoid myopathy with rheumatoid arthritis of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.472\"> </a>M05.472</td><td>Rheumatoid myopathy with rheumatoid arthritis of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.479\"> </a>M05.479</td><td>Rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.49\"> </a>M05.49</td><td>Rheumatoid myopathy with rheumatoid arthritis of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.5\"> </a>M05.5</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.50\"> </a>M05.50</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.51\"> </a>M05.51</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.511\"> </a>M05.511</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.512\"> </a>M05.512</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.519\"> </a>M05.519</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.52\"> </a>M05.52</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.521\"> </a>M05.521</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.522\"> </a>M05.522</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.529\"> </a>M05.529</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.53\"> </a>M05.53</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.531\"> </a>M05.531</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.532\"> </a>M05.532</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.539\"> </a>M05.539</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.54\"> </a>M05.54</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.541\"> </a>M05.541</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.542\"> </a>M05.542</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.549\"> </a>M05.549</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.55\"> </a>M05.55</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.551\"> </a>M05.551</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.552\"> </a>M05.552</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.559\"> </a>M05.559</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.56\"> </a>M05.56</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.561\"> </a>M05.561</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.562\"> </a>M05.562</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.569\"> </a>M05.569</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.57\"> </a>M05.57</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.571\"> </a>M05.571</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.572\"> </a>M05.572</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.579\"> </a>M05.579</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.59\"> </a>M05.59</td><td>Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.6\"> </a>M05.6</td><td>Rheumatoid arthritis with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.60\"> </a>M05.60</td><td>Rheumatoid arthritis of unspecified site with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.61\"> </a>M05.61</td><td>Rheumatoid arthritis of shoulder with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.611\"> </a>M05.611</td><td>Rheumatoid arthritis of right shoulder with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.612\"> </a>M05.612</td><td>Rheumatoid arthritis of left shoulder with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.619\"> </a>M05.619</td><td>Rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.62\"> </a>M05.62</td><td>Rheumatoid arthritis of elbow with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.621\"> </a>M05.621</td><td>Rheumatoid arthritis of right elbow with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.622\"> </a>M05.622</td><td>Rheumatoid arthritis of left elbow with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.629\"> </a>M05.629</td><td>Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.63\"> </a>M05.63</td><td>Rheumatoid arthritis of wrist with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.631\"> </a>M05.631</td><td>Rheumatoid arthritis of right wrist with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.632\"> </a>M05.632</td><td>Rheumatoid arthritis of left wrist with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.639\"> </a>M05.639</td><td>Rheumatoid arthritis of unspecified wrist with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.64\"> </a>M05.64</td><td>Rheumatoid arthritis of hand with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.641\"> </a>M05.641</td><td>Rheumatoid arthritis of right hand with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.642\"> </a>M05.642</td><td>Rheumatoid arthritis of left hand with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.649\"> </a>M05.649</td><td>Rheumatoid arthritis of unspecified hand with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.65\"> </a>M05.65</td><td>Rheumatoid arthritis of hip with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.651\"> </a>M05.651</td><td>Rheumatoid arthritis of right hip with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.652\"> </a>M05.652</td><td>Rheumatoid arthritis of left hip with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.659\"> </a>M05.659</td><td>Rheumatoid arthritis of unspecified hip with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.66\"> </a>M05.66</td><td>Rheumatoid arthritis of knee with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.661\"> </a>M05.661</td><td>Rheumatoid arthritis of right knee with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.662\"> </a>M05.662</td><td>Rheumatoid arthritis of left knee with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.669\"> </a>M05.669</td><td>Rheumatoid arthritis of unspecified knee with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.67\"> </a>M05.67</td><td>Rheumatoid arthritis of ankle and foot with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.671\"> </a>M05.671</td><td>Rheumatoid arthritis of right ankle and foot with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.672\"> </a>M05.672</td><td>Rheumatoid arthritis of left ankle and foot with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.679\"> </a>M05.679</td><td>Rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.69\"> </a>M05.69</td><td>Rheumatoid arthritis of multiple sites with involvement of other organs and systems</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.7\"> </a>M05.7</td><td>Rheumatoid arthritis with rheumatoid factor without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.70\"> </a>M05.70</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.71\"> </a>M05.71</td><td>Rheumatoid arthritis with rheumatoid factor of shoulder without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.711\"> </a>M05.711</td><td>Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.712\"> </a>M05.712</td><td>Rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.719\"> </a>M05.719</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.72\"> </a>M05.72</td><td>Rheumatoid arthritis with rheumatoid factor of elbow without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.721\"> </a>M05.721</td><td>Rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.722\"> </a>M05.722</td><td>Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.729\"> </a>M05.729</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.73\"> </a>M05.73</td><td>Rheumatoid arthritis with rheumatoid factor of wrist without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.731\"> </a>M05.731</td><td>Rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.732\"> </a>M05.732</td><td>Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.739\"> </a>M05.739</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.74\"> </a>M05.74</td><td>Rheumatoid arthritis with rheumatoid factor of hand without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.741\"> </a>M05.741</td><td>Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.742\"> </a>M05.742</td><td>Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.749\"> </a>M05.749</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.75\"> </a>M05.75</td><td>Rheumatoid arthritis with rheumatoid factor of hip without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.751\"> </a>M05.751</td><td>Rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.752\"> </a>M05.752</td><td>Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.759\"> </a>M05.759</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.76\"> </a>M05.76</td><td>Rheumatoid arthritis with rheumatoid factor of knee without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.761\"> </a>M05.761</td><td>Rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.762\"> </a>M05.762</td><td>Rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.769\"> </a>M05.769</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.77\"> </a>M05.77</td><td>Rheumatoid arthritis with rheumatoid factor of ankle and foot without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.771\"> </a>M05.771</td><td>Rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.772\"> </a>M05.772</td><td>Rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.779\"> </a>M05.779</td><td>Rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.79\"> </a>M05.79</td><td>Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.7A\"> </a>M05.7A</td><td>Rheumatoid arthritis with rheumatoid factor of other specified site without organ or systems involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.8\"> </a>M05.8</td><td>Other rheumatoid arthritis with rheumatoid factor</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.80\"> </a>M05.80</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.81\"> </a>M05.81</td><td>Other rheumatoid arthritis with rheumatoid factor of shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.811\"> </a>M05.811</td><td>Other rheumatoid arthritis with rheumatoid factor of right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.812\"> </a>M05.812</td><td>Other rheumatoid arthritis with rheumatoid factor of left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.819\"> </a>M05.819</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.82\"> </a>M05.82</td><td>Other rheumatoid arthritis with rheumatoid factor of elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.821\"> </a>M05.821</td><td>Other rheumatoid arthritis with rheumatoid factor of right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.822\"> </a>M05.822</td><td>Other rheumatoid arthritis with rheumatoid factor of left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.829\"> </a>M05.829</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.83\"> </a>M05.83</td><td>Other rheumatoid arthritis with rheumatoid factor of wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.831\"> </a>M05.831</td><td>Other rheumatoid arthritis with rheumatoid factor of right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.832\"> </a>M05.832</td><td>Other rheumatoid arthritis with rheumatoid factor of left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.839\"> </a>M05.839</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.84\"> </a>M05.84</td><td>Other rheumatoid arthritis with rheumatoid factor of hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.841\"> </a>M05.841</td><td>Other rheumatoid arthritis with rheumatoid factor of right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.842\"> </a>M05.842</td><td>Other rheumatoid arthritis with rheumatoid factor of left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.849\"> </a>M05.849</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.85\"> </a>M05.85</td><td>Other rheumatoid arthritis with rheumatoid factor of hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.851\"> </a>M05.851</td><td>Other rheumatoid arthritis with rheumatoid factor of right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.852\"> </a>M05.852</td><td>Other rheumatoid arthritis with rheumatoid factor of left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.859\"> </a>M05.859</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.86\"> </a>M05.86</td><td>Other rheumatoid arthritis with rheumatoid factor of knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.861\"> </a>M05.861</td><td>Other rheumatoid arthritis with rheumatoid factor of right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.862\"> </a>M05.862</td><td>Other rheumatoid arthritis with rheumatoid factor of left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.869\"> </a>M05.869</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.87\"> </a>M05.87</td><td>Other rheumatoid arthritis with rheumatoid factor of ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.871\"> </a>M05.871</td><td>Other rheumatoid arthritis with rheumatoid factor of right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.872\"> </a>M05.872</td><td>Other rheumatoid arthritis with rheumatoid factor of left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.879\"> </a>M05.879</td><td>Other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.89\"> </a>M05.89</td><td>Other rheumatoid arthritis with rheumatoid factor of multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.8A\"> </a>M05.8A</td><td>Other rheumatoid arthritis with rheumatoid factor of other specified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M05.9\"> </a>M05.9</td><td>Rheumatoid arthritis with rheumatoid factor, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06\"> </a>M06</td><td>Other rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.0\"> </a>M06.0</td><td>Rheumatoid arthritis without rheumatoid factor</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.00\"> </a>M06.00</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.01\"> </a>M06.01</td><td>Rheumatoid arthritis without rheumatoid factor, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.011\"> </a>M06.011</td><td>Rheumatoid arthritis without rheumatoid factor, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.012\"> </a>M06.012</td><td>Rheumatoid arthritis without rheumatoid factor, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.019\"> </a>M06.019</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.02\"> </a>M06.02</td><td>Rheumatoid arthritis without rheumatoid factor, elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.021\"> </a>M06.021</td><td>Rheumatoid arthritis without rheumatoid factor, right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.022\"> </a>M06.022</td><td>Rheumatoid arthritis without rheumatoid factor, left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.029\"> </a>M06.029</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.03\"> </a>M06.03</td><td>Rheumatoid arthritis without rheumatoid factor, wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.031\"> </a>M06.031</td><td>Rheumatoid arthritis without rheumatoid factor, right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.032\"> </a>M06.032</td><td>Rheumatoid arthritis without rheumatoid factor, left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.039\"> </a>M06.039</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.04\"> </a>M06.04</td><td>Rheumatoid arthritis without rheumatoid factor, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.041\"> </a>M06.041</td><td>Rheumatoid arthritis without rheumatoid factor, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.042\"> </a>M06.042</td><td>Rheumatoid arthritis without rheumatoid factor, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.049\"> </a>M06.049</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.05\"> </a>M06.05</td><td>Rheumatoid arthritis without rheumatoid factor, hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.051\"> </a>M06.051</td><td>Rheumatoid arthritis without rheumatoid factor, right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.052\"> </a>M06.052</td><td>Rheumatoid arthritis without rheumatoid factor, left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.059\"> </a>M06.059</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.06\"> </a>M06.06</td><td>Rheumatoid arthritis without rheumatoid factor, knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.061\"> </a>M06.061</td><td>Rheumatoid arthritis without rheumatoid factor, right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.062\"> </a>M06.062</td><td>Rheumatoid arthritis without rheumatoid factor, left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.069\"> </a>M06.069</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.07\"> </a>M06.07</td><td>Rheumatoid arthritis without rheumatoid factor, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.071\"> </a>M06.071</td><td>Rheumatoid arthritis without rheumatoid factor, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.072\"> </a>M06.072</td><td>Rheumatoid arthritis without rheumatoid factor, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.079\"> </a>M06.079</td><td>Rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.08\"> </a>M06.08</td><td>Rheumatoid arthritis without rheumatoid factor, vertebrae</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.09\"> </a>M06.09</td><td>Rheumatoid arthritis without rheumatoid factor, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.0A\"> </a>M06.0A</td><td>Rheumatoid arthritis without rheumatoid factor, other specified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.1\"> </a>M06.1</td><td>Adult-onset Still's disease</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.2\"> </a>M06.2</td><td>Rheumatoid bursitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.20\"> </a>M06.20</td><td>Rheumatoid bursitis, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.21\"> </a>M06.21</td><td>Rheumatoid bursitis, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.211\"> </a>M06.211</td><td>Rheumatoid bursitis, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.212\"> </a>M06.212</td><td>Rheumatoid bursitis, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.219\"> </a>M06.219</td><td>Rheumatoid bursitis, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.22\"> </a>M06.22</td><td>Rheumatoid bursitis, elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.221\"> </a>M06.221</td><td>Rheumatoid bursitis, right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.222\"> </a>M06.222</td><td>Rheumatoid bursitis, left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.229\"> </a>M06.229</td><td>Rheumatoid bursitis, unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.23\"> </a>M06.23</td><td>Rheumatoid bursitis, wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.231\"> </a>M06.231</td><td>Rheumatoid bursitis, right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.232\"> </a>M06.232</td><td>Rheumatoid bursitis, left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.239\"> </a>M06.239</td><td>Rheumatoid bursitis, unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.24\"> </a>M06.24</td><td>Rheumatoid bursitis, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.241\"> </a>M06.241</td><td>Rheumatoid bursitis, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.242\"> </a>M06.242</td><td>Rheumatoid bursitis, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.249\"> </a>M06.249</td><td>Rheumatoid bursitis, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.25\"> </a>M06.25</td><td>Rheumatoid bursitis, hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.251\"> </a>M06.251</td><td>Rheumatoid bursitis, right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.252\"> </a>M06.252</td><td>Rheumatoid bursitis, left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.259\"> </a>M06.259</td><td>Rheumatoid bursitis, unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.26\"> </a>M06.26</td><td>Rheumatoid bursitis, knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.261\"> </a>M06.261</td><td>Rheumatoid bursitis, right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.262\"> </a>M06.262</td><td>Rheumatoid bursitis, left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.269\"> </a>M06.269</td><td>Rheumatoid bursitis, unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.27\"> </a>M06.27</td><td>Rheumatoid bursitis, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.271\"> </a>M06.271</td><td>Rheumatoid bursitis, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.272\"> </a>M06.272</td><td>Rheumatoid bursitis, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.279\"> </a>M06.279</td><td>Rheumatoid bursitis, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.28\"> </a>M06.28</td><td>Rheumatoid bursitis, vertebrae</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.29\"> </a>M06.29</td><td>Rheumatoid bursitis, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.3\"> </a>M06.3</td><td>Rheumatoid nodule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.30\"> </a>M06.30</td><td>Rheumatoid nodule, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.31\"> </a>M06.31</td><td>Rheumatoid nodule, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.311\"> </a>M06.311</td><td>Rheumatoid nodule, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.312\"> </a>M06.312</td><td>Rheumatoid nodule, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.319\"> </a>M06.319</td><td>Rheumatoid nodule, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.32\"> </a>M06.32</td><td>Rheumatoid nodule, elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.321\"> </a>M06.321</td><td>Rheumatoid nodule, right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.322\"> </a>M06.322</td><td>Rheumatoid nodule, left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.329\"> </a>M06.329</td><td>Rheumatoid nodule, unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.33\"> </a>M06.33</td><td>Rheumatoid nodule, wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.331\"> </a>M06.331</td><td>Rheumatoid nodule, right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.332\"> </a>M06.332</td><td>Rheumatoid nodule, left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.339\"> </a>M06.339</td><td>Rheumatoid nodule, unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.34\"> </a>M06.34</td><td>Rheumatoid nodule, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.341\"> </a>M06.341</td><td>Rheumatoid nodule, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.342\"> </a>M06.342</td><td>Rheumatoid nodule, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.349\"> </a>M06.349</td><td>Rheumatoid nodule, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.35\"> </a>M06.35</td><td>Rheumatoid nodule, hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.351\"> </a>M06.351</td><td>Rheumatoid nodule, right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.352\"> </a>M06.352</td><td>Rheumatoid nodule, left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.359\"> </a>M06.359</td><td>Rheumatoid nodule, unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.36\"> </a>M06.36</td><td>Rheumatoid nodule, knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.361\"> </a>M06.361</td><td>Rheumatoid nodule, right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.362\"> </a>M06.362</td><td>Rheumatoid nodule, left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.369\"> </a>M06.369</td><td>Rheumatoid nodule, unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.37\"> </a>M06.37</td><td>Rheumatoid nodule, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.371\"> </a>M06.371</td><td>Rheumatoid nodule, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.372\"> </a>M06.372</td><td>Rheumatoid nodule, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.379\"> </a>M06.379</td><td>Rheumatoid nodule, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.38\"> </a>M06.38</td><td>Rheumatoid nodule, vertebrae</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.39\"> </a>M06.39</td><td>Rheumatoid nodule, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.4\"> </a>M06.4</td><td>Inflammatory polyarthropathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.8\"> </a>M06.8</td><td>Other specified rheumatoid arthritis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.80\"> </a>M06.80</td><td>Other specified rheumatoid arthritis, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.81\"> </a>M06.81</td><td>Other specified rheumatoid arthritis, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.811\"> </a>M06.811</td><td>Other specified rheumatoid arthritis, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.812\"> </a>M06.812</td><td>Other specified rheumatoid arthritis, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.819\"> </a>M06.819</td><td>Other specified rheumatoid arthritis, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.82\"> </a>M06.82</td><td>Other specified rheumatoid arthritis, elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.821\"> </a>M06.821</td><td>Other specified rheumatoid arthritis, right elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.822\"> </a>M06.822</td><td>Other specified rheumatoid arthritis, left elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.829\"> </a>M06.829</td><td>Other specified rheumatoid arthritis, unspecified elbow</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.83\"> </a>M06.83</td><td>Other specified rheumatoid arthritis, wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.831\"> </a>M06.831</td><td>Other specified rheumatoid arthritis, right wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.832\"> </a>M06.832</td><td>Other specified rheumatoid arthritis, left wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.839\"> </a>M06.839</td><td>Other specified rheumatoid arthritis, unspecified wrist</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.84\"> </a>M06.84</td><td>Other specified rheumatoid arthritis, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.841\"> </a>M06.841</td><td>Other specified rheumatoid arthritis, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.842\"> </a>M06.842</td><td>Other specified rheumatoid arthritis, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.849\"> </a>M06.849</td><td>Other specified rheumatoid arthritis, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.85\"> </a>M06.85</td><td>Other specified rheumatoid arthritis, hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.851\"> </a>M06.851</td><td>Other specified rheumatoid arthritis, right hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.852\"> </a>M06.852</td><td>Other specified rheumatoid arthritis, left hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.859\"> </a>M06.859</td><td>Other specified rheumatoid arthritis, unspecified hip</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.86\"> </a>M06.86</td><td>Other specified rheumatoid arthritis, knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.861\"> </a>M06.861</td><td>Other specified rheumatoid arthritis, right knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.862\"> </a>M06.862</td><td>Other specified rheumatoid arthritis, left knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.869\"> </a>M06.869</td><td>Other specified rheumatoid arthritis, unspecified knee</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.87\"> </a>M06.87</td><td>Other specified rheumatoid arthritis, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.871\"> </a>M06.871</td><td>Other specified rheumatoid arthritis, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.872\"> </a>M06.872</td><td>Other specified rheumatoid arthritis, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.879\"> </a>M06.879</td><td>Other specified rheumatoid arthritis, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.88\"> </a>M06.88</td><td>Other specified rheumatoid arthritis, vertebrae</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.89\"> </a>M06.89</td><td>Other specified rheumatoid arthritis, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.8A\"> </a>M06.8A</td><td>Other specified rheumatoid arthritis, other specified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M06.9\"> </a>M06.9</td><td>Rheumatoid arthritis, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.3061",
   "version": "20201212",
   "name": "COVID19 ICD10CM Value Set Adult Rheumatoid Arthritis",
   "status": "active",
   "date": "2020-12-12T01:00:34-05:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7ea53c66-9c77-4431-99db-50374954b351",
+    "timestamp": "2022-07-15T19:34:11-04:00",
+    "total": 417,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05",
+      "display": "Rheumatoid arthritis with rheumatoid factor"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.0",
+      "display": "Felty's syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.00",
+      "display": "Felty's syndrome, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.01",
+      "display": "Felty's syndrome, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.011",
+      "display": "Felty's syndrome, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.012",
+      "display": "Felty's syndrome, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.019",
+      "display": "Felty's syndrome, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.02",
+      "display": "Felty's syndrome, elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.021",
+      "display": "Felty's syndrome, right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.022",
+      "display": "Felty's syndrome, left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.029",
+      "display": "Felty's syndrome, unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.03",
+      "display": "Felty's syndrome, wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.031",
+      "display": "Felty's syndrome, right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.032",
+      "display": "Felty's syndrome, left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.039",
+      "display": "Felty's syndrome, unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.04",
+      "display": "Felty's syndrome, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.041",
+      "display": "Felty's syndrome, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.042",
+      "display": "Felty's syndrome, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.049",
+      "display": "Felty's syndrome, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.05",
+      "display": "Felty's syndrome, hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.051",
+      "display": "Felty's syndrome, right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.052",
+      "display": "Felty's syndrome, left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.059",
+      "display": "Felty's syndrome, unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.06",
+      "display": "Felty's syndrome, knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.061",
+      "display": "Felty's syndrome, right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.062",
+      "display": "Felty's syndrome, left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.069",
+      "display": "Felty's syndrome, unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.07",
+      "display": "Felty's syndrome, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.071",
+      "display": "Felty's syndrome, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.072",
+      "display": "Felty's syndrome, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.079",
+      "display": "Felty's syndrome, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.09",
+      "display": "Felty's syndrome, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.1",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.10",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.11",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.111",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.112",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.119",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.12",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.121",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.122",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.129",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.13",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.131",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.132",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.139",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.14",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.141",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.142",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.149",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.15",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.151",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.152",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.159",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.16",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.161",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.162",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.169",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.17",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.171",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.172",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.179",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.19",
+      "display": "Rheumatoid lung disease with rheumatoid arthritis of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.2",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.20",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.21",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.211",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.212",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.219",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.22",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.221",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.222",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.229",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.23",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.231",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.232",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.239",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.24",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.241",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.242",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.249",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.25",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.251",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.252",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.259",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.26",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.261",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.262",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.269",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.27",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.271",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.272",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.279",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.29",
+      "display": "Rheumatoid vasculitis with rheumatoid arthritis of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.3",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.30",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.31",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.311",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.312",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.319",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.32",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.321",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.322",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.329",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.33",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.331",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.332",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.339",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.34",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.341",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.342",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.349",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.35",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.351",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.352",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.359",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.36",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.361",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.362",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.369",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.37",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.371",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.372",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.379",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.39",
+      "display": "Rheumatoid heart disease with rheumatoid arthritis of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.4",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.40",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.41",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.411",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.412",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.419",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.42",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.421",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.422",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.429",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.43",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.431",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.432",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.439",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.44",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.441",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.442",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.449",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.45",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.451",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.452",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.459",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.46",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.461",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.462",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.469",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.47",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.471",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.472",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.479",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.49",
+      "display": "Rheumatoid myopathy with rheumatoid arthritis of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.5",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.50",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.51",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.511",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.512",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.519",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.52",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.521",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.522",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.529",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.53",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.531",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.532",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.539",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.54",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.541",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.542",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.549",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.55",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.551",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.552",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.559",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.56",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.561",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.562",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.569",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.57",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.571",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.572",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.579",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.59",
+      "display": "Rheumatoid polyneuropathy with rheumatoid arthritis of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.6",
+      "display": "Rheumatoid arthritis with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.60",
+      "display": "Rheumatoid arthritis of unspecified site with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.61",
+      "display": "Rheumatoid arthritis of shoulder with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.611",
+      "display": "Rheumatoid arthritis of right shoulder with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.612",
+      "display": "Rheumatoid arthritis of left shoulder with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.619",
+      "display": "Rheumatoid arthritis of unspecified shoulder with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.62",
+      "display": "Rheumatoid arthritis of elbow with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.621",
+      "display": "Rheumatoid arthritis of right elbow with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.622",
+      "display": "Rheumatoid arthritis of left elbow with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.629",
+      "display": "Rheumatoid arthritis of unspecified elbow with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.63",
+      "display": "Rheumatoid arthritis of wrist with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.631",
+      "display": "Rheumatoid arthritis of right wrist with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.632",
+      "display": "Rheumatoid arthritis of left wrist with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.639",
+      "display": "Rheumatoid arthritis of unspecified wrist with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.64",
+      "display": "Rheumatoid arthritis of hand with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.641",
+      "display": "Rheumatoid arthritis of right hand with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.642",
+      "display": "Rheumatoid arthritis of left hand with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.649",
+      "display": "Rheumatoid arthritis of unspecified hand with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.65",
+      "display": "Rheumatoid arthritis of hip with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.651",
+      "display": "Rheumatoid arthritis of right hip with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.652",
+      "display": "Rheumatoid arthritis of left hip with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.659",
+      "display": "Rheumatoid arthritis of unspecified hip with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.66",
+      "display": "Rheumatoid arthritis of knee with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.661",
+      "display": "Rheumatoid arthritis of right knee with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.662",
+      "display": "Rheumatoid arthritis of left knee with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.669",
+      "display": "Rheumatoid arthritis of unspecified knee with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.67",
+      "display": "Rheumatoid arthritis of ankle and foot with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.671",
+      "display": "Rheumatoid arthritis of right ankle and foot with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.672",
+      "display": "Rheumatoid arthritis of left ankle and foot with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.679",
+      "display": "Rheumatoid arthritis of unspecified ankle and foot with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.69",
+      "display": "Rheumatoid arthritis of multiple sites with involvement of other organs and systems"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.7",
+      "display": "Rheumatoid arthritis with rheumatoid factor without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.70",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified site without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.71",
+      "display": "Rheumatoid arthritis with rheumatoid factor of shoulder without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.711",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right shoulder without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.712",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left shoulder without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.719",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified shoulder without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.72",
+      "display": "Rheumatoid arthritis with rheumatoid factor of elbow without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.721",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right elbow without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.722",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left elbow without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.729",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified elbow without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.73",
+      "display": "Rheumatoid arthritis with rheumatoid factor of wrist without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.731",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right wrist without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.732",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left wrist without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.739",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified wrist without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.74",
+      "display": "Rheumatoid arthritis with rheumatoid factor of hand without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.741",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right hand without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.742",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left hand without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.749",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified hand without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.75",
+      "display": "Rheumatoid arthritis with rheumatoid factor of hip without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.751",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right hip without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.752",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left hip without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.759",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified hip without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.76",
+      "display": "Rheumatoid arthritis with rheumatoid factor of knee without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.761",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right knee without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.762",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left knee without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.769",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified knee without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.77",
+      "display": "Rheumatoid arthritis with rheumatoid factor of ankle and foot without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.771",
+      "display": "Rheumatoid arthritis with rheumatoid factor of right ankle and foot without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.772",
+      "display": "Rheumatoid arthritis with rheumatoid factor of left ankle and foot without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.779",
+      "display": "Rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.79",
+      "display": "Rheumatoid arthritis with rheumatoid factor of multiple sites without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.7A",
+      "display": "Rheumatoid arthritis with rheumatoid factor of other specified site without organ or systems involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.8",
+      "display": "Other rheumatoid arthritis with rheumatoid factor"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.80",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.81",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.811",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.812",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.819",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.82",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.821",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.822",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.829",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.83",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.831",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.832",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.839",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.84",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.841",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.842",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.849",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.85",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.851",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.852",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.859",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.86",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.861",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.862",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.869",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.87",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.871",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.872",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.879",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.89",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.8A",
+      "display": "Other rheumatoid arthritis with rheumatoid factor of other specified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M05.9",
+      "display": "Rheumatoid arthritis with rheumatoid factor, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06",
+      "display": "Other rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.0",
+      "display": "Rheumatoid arthritis without rheumatoid factor"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.00",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.01",
+      "display": "Rheumatoid arthritis without rheumatoid factor, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.011",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.012",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.019",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.02",
+      "display": "Rheumatoid arthritis without rheumatoid factor, elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.021",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.022",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.029",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.03",
+      "display": "Rheumatoid arthritis without rheumatoid factor, wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.031",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.032",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.039",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.04",
+      "display": "Rheumatoid arthritis without rheumatoid factor, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.041",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.042",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.049",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.05",
+      "display": "Rheumatoid arthritis without rheumatoid factor, hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.051",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.052",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.059",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.06",
+      "display": "Rheumatoid arthritis without rheumatoid factor, knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.061",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.062",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.069",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.07",
+      "display": "Rheumatoid arthritis without rheumatoid factor, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.071",
+      "display": "Rheumatoid arthritis without rheumatoid factor, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.072",
+      "display": "Rheumatoid arthritis without rheumatoid factor, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.079",
+      "display": "Rheumatoid arthritis without rheumatoid factor, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.08",
+      "display": "Rheumatoid arthritis without rheumatoid factor, vertebrae"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.09",
+      "display": "Rheumatoid arthritis without rheumatoid factor, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.0A",
+      "display": "Rheumatoid arthritis without rheumatoid factor, other specified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.1",
+      "display": "Adult-onset Still's disease"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.2",
+      "display": "Rheumatoid bursitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.20",
+      "display": "Rheumatoid bursitis, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.21",
+      "display": "Rheumatoid bursitis, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.211",
+      "display": "Rheumatoid bursitis, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.212",
+      "display": "Rheumatoid bursitis, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.219",
+      "display": "Rheumatoid bursitis, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.22",
+      "display": "Rheumatoid bursitis, elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.221",
+      "display": "Rheumatoid bursitis, right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.222",
+      "display": "Rheumatoid bursitis, left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.229",
+      "display": "Rheumatoid bursitis, unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.23",
+      "display": "Rheumatoid bursitis, wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.231",
+      "display": "Rheumatoid bursitis, right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.232",
+      "display": "Rheumatoid bursitis, left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.239",
+      "display": "Rheumatoid bursitis, unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.24",
+      "display": "Rheumatoid bursitis, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.241",
+      "display": "Rheumatoid bursitis, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.242",
+      "display": "Rheumatoid bursitis, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.249",
+      "display": "Rheumatoid bursitis, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.25",
+      "display": "Rheumatoid bursitis, hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.251",
+      "display": "Rheumatoid bursitis, right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.252",
+      "display": "Rheumatoid bursitis, left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.259",
+      "display": "Rheumatoid bursitis, unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.26",
+      "display": "Rheumatoid bursitis, knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.261",
+      "display": "Rheumatoid bursitis, right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.262",
+      "display": "Rheumatoid bursitis, left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.269",
+      "display": "Rheumatoid bursitis, unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.27",
+      "display": "Rheumatoid bursitis, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.271",
+      "display": "Rheumatoid bursitis, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.272",
+      "display": "Rheumatoid bursitis, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.279",
+      "display": "Rheumatoid bursitis, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.28",
+      "display": "Rheumatoid bursitis, vertebrae"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.29",
+      "display": "Rheumatoid bursitis, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.3",
+      "display": "Rheumatoid nodule"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.30",
+      "display": "Rheumatoid nodule, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.31",
+      "display": "Rheumatoid nodule, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.311",
+      "display": "Rheumatoid nodule, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.312",
+      "display": "Rheumatoid nodule, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.319",
+      "display": "Rheumatoid nodule, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.32",
+      "display": "Rheumatoid nodule, elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.321",
+      "display": "Rheumatoid nodule, right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.322",
+      "display": "Rheumatoid nodule, left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.329",
+      "display": "Rheumatoid nodule, unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.33",
+      "display": "Rheumatoid nodule, wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.331",
+      "display": "Rheumatoid nodule, right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.332",
+      "display": "Rheumatoid nodule, left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.339",
+      "display": "Rheumatoid nodule, unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.34",
+      "display": "Rheumatoid nodule, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.341",
+      "display": "Rheumatoid nodule, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.342",
+      "display": "Rheumatoid nodule, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.349",
+      "display": "Rheumatoid nodule, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.35",
+      "display": "Rheumatoid nodule, hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.351",
+      "display": "Rheumatoid nodule, right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.352",
+      "display": "Rheumatoid nodule, left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.359",
+      "display": "Rheumatoid nodule, unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.36",
+      "display": "Rheumatoid nodule, knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.361",
+      "display": "Rheumatoid nodule, right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.362",
+      "display": "Rheumatoid nodule, left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.369",
+      "display": "Rheumatoid nodule, unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.37",
+      "display": "Rheumatoid nodule, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.371",
+      "display": "Rheumatoid nodule, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.372",
+      "display": "Rheumatoid nodule, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.379",
+      "display": "Rheumatoid nodule, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.38",
+      "display": "Rheumatoid nodule, vertebrae"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.39",
+      "display": "Rheumatoid nodule, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.4",
+      "display": "Inflammatory polyarthropathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.8",
+      "display": "Other specified rheumatoid arthritis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.80",
+      "display": "Other specified rheumatoid arthritis, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.81",
+      "display": "Other specified rheumatoid arthritis, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.811",
+      "display": "Other specified rheumatoid arthritis, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.812",
+      "display": "Other specified rheumatoid arthritis, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.819",
+      "display": "Other specified rheumatoid arthritis, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.82",
+      "display": "Other specified rheumatoid arthritis, elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.821",
+      "display": "Other specified rheumatoid arthritis, right elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.822",
+      "display": "Other specified rheumatoid arthritis, left elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.829",
+      "display": "Other specified rheumatoid arthritis, unspecified elbow"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.83",
+      "display": "Other specified rheumatoid arthritis, wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.831",
+      "display": "Other specified rheumatoid arthritis, right wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.832",
+      "display": "Other specified rheumatoid arthritis, left wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.839",
+      "display": "Other specified rheumatoid arthritis, unspecified wrist"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.84",
+      "display": "Other specified rheumatoid arthritis, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.841",
+      "display": "Other specified rheumatoid arthritis, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.842",
+      "display": "Other specified rheumatoid arthritis, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.849",
+      "display": "Other specified rheumatoid arthritis, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.85",
+      "display": "Other specified rheumatoid arthritis, hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.851",
+      "display": "Other specified rheumatoid arthritis, right hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.852",
+      "display": "Other specified rheumatoid arthritis, left hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.859",
+      "display": "Other specified rheumatoid arthritis, unspecified hip"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.86",
+      "display": "Other specified rheumatoid arthritis, knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.861",
+      "display": "Other specified rheumatoid arthritis, right knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.862",
+      "display": "Other specified rheumatoid arthritis, left knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.869",
+      "display": "Other specified rheumatoid arthritis, unspecified knee"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.87",
+      "display": "Other specified rheumatoid arthritis, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.871",
+      "display": "Other specified rheumatoid arthritis, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.872",
+      "display": "Other specified rheumatoid arthritis, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.879",
+      "display": "Other specified rheumatoid arthritis, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.88",
+      "display": "Other specified rheumatoid arthritis, vertebrae"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.89",
+      "display": "Other specified rheumatoid arthritis, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.8A",
+      "display": "Other specified rheumatoid arthritis, other specified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M06.9",
+      "display": "Rheumatoid arthritis, unspecified"
+    } ]
+  }
 }

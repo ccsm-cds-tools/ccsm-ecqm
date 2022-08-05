@@ -5,12 +5,73 @@
     "versionId": "8",
     "lastUpdated": "2021-03-15T15:41:38.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183919006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183919006\">183919006</a></td><td>Urgent admission to hospice (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183920000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183920000\">183920000</a></td><td>Routine admission to hospice (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183921001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183921001\">183921001</a></td><td>Admission to hospice for respite (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305336008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305336008\">305336008</a></td><td>Admission to hospice (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306205009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306205009\">306205009</a></td><td>Referral to hospice (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385765002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385765002\">385765002</a></td><td>Hospice care management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428361000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428361000124107\">428361000124107</a></td><td>Discharge to home for hospice care (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428371000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428371000124100\">428371000124100</a></td><td>Discharge to healthcare facility for hospice care (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444933003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444933003\">444933003</a></td><td>Home hospice service (qualifier value)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1116.365",
   "version": "20191010",
   "name": "Hospice Care Referral or Admission",
   "status": "active",
   "date": "2019-10-10T01:00:20-04:00",
   "publisher": "American Society of Clinical Oncology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:17ff6677-e3ba-4be9-84a1-8c7eecacb026",
+    "timestamp": "2022-07-19T15:05:06-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183919006",
+      "display": "Urgent admission to hospice (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183920000",
+      "display": "Routine admission to hospice (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183921001",
+      "display": "Admission to hospice for respite (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305336008",
+      "display": "Admission to hospice (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306205009",
+      "display": "Referral to hospice (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385765002",
+      "display": "Hospice care management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428361000124107",
+      "display": "Discharge to home for hospice care (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428371000124100",
+      "display": "Discharge to healthcare facility for hospice care (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444933003",
+      "display": "Home hospice service (qualifier value)"
+    } ]
+  }
 }

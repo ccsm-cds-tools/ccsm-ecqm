@@ -5,12 +5,253 @@
     "versionId": "4",
     "lastUpdated": "2021-01-14T10:39:15.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 45 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276703007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276703007\">276703007</a></td><td>http://snomed.info/sct</td><td>Osteopenia of prematurity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312894000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312894000\">312894000</a></td><td>http://snomed.info/sct</td><td>Osteopenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37605006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37605006\">37605006</a></td><td>http://snomed.info/sct</td><td>Senile osteopenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40308000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40308000\">40308000</a></td><td>http://snomed.info/sct</td><td>Steroid-induced osteopenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.90\"> </a>733.90</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorder of bone and cartilage, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-733.99\"> </a>733.99</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other disorders of bone and cartilage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735613004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735613004\">735613004</a></td><td>http://snomed.info/sct</td><td>Premenopausal idiopathic osteopenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735614005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735614005\">735614005</a></td><td>http://snomed.info/sct</td><td>Osteopenia following menopause (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735615006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735615006\">735615006</a></td><td>http://snomed.info/sct</td><td>Osteopenia due to disuse (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735616007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735616007\">735616007</a></td><td>http://snomed.info/sct</td><td>Osteopenia caused by drug (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78441005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78441005\">78441005</a></td><td>http://snomed.info/sct</td><td>Osteopenia (morphologic abnormality)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.80\"> </a>M85.80</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.811\"> </a>M85.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.812\"> </a>M85.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.819\"> </a>M85.819</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.821\"> </a>M85.821</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right upper arm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.822\"> </a>M85.822</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left upper arm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.829\"> </a>M85.829</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified upper arm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.831\"> </a>M85.831</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right forearm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.832\"> </a>M85.832</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left forearm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.839\"> </a>M85.839</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified forearm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.841\"> </a>M85.841</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.842\"> </a>M85.842</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.849\"> </a>M85.849</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.851\"> </a>M85.851</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.852\"> </a>M85.852</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.859\"> </a>M85.859</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.861\"> </a>M85.861</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.862\"> </a>M85.862</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.869\"> </a>M85.869</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.871\"> </a>M85.871</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, right ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.872\"> </a>M85.872</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, left ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.879\"> </a>M85.879</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, unspecified ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.88\"> </a>M85.88</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, other site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M85.89\"> </a>M85.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone density and structure, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X0\"> </a>M89.8X0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, multiple sites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X1\"> </a>M89.8X1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, shoulder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X2\"> </a>M89.8X2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, upper arm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X3\"> </a>M89.8X3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, forearm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X4\"> </a>M89.8X4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, hand</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X5\"> </a>M89.8X5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X6\"> </a>M89.8X6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X7\"> </a>M89.8X7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, ankle and foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X8\"> </a>M89.8X8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, other site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M89.8X9\"> </a>M89.8X9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified disorders of bone, unspecified site</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1049",
   "version": "20180310",
   "name": "Osteopenia",
   "status": "active",
   "date": "2018-03-10T01:00:08-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:82a4d842-744a-48b4-a4c9-c5892dfb6ff2",
+    "timestamp": "2022-07-19T15:08:24-04:00",
+    "total": 45,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276703007",
+      "display": "Osteopenia of prematurity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312894000",
+      "display": "Osteopenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37605006",
+      "display": "Senile osteopenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40308000",
+      "display": "Steroid-induced osteopenia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.90",
+      "display": "Disorder of bone and cartilage, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "733.99",
+      "display": "Other disorders of bone and cartilage"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735613004",
+      "display": "Premenopausal idiopathic osteopenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735614005",
+      "display": "Osteopenia following menopause (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735615006",
+      "display": "Osteopenia due to disuse (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735616007",
+      "display": "Osteopenia caused by drug (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78441005",
+      "display": "Osteopenia (morphologic abnormality)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.80",
+      "display": "Other specified disorders of bone density and structure, unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.811",
+      "display": "Other specified disorders of bone density and structure, right shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.812",
+      "display": "Other specified disorders of bone density and structure, left shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.819",
+      "display": "Other specified disorders of bone density and structure, unspecified shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.821",
+      "display": "Other specified disorders of bone density and structure, right upper arm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.822",
+      "display": "Other specified disorders of bone density and structure, left upper arm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.829",
+      "display": "Other specified disorders of bone density and structure, unspecified upper arm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.831",
+      "display": "Other specified disorders of bone density and structure, right forearm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.832",
+      "display": "Other specified disorders of bone density and structure, left forearm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.839",
+      "display": "Other specified disorders of bone density and structure, unspecified forearm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.841",
+      "display": "Other specified disorders of bone density and structure, right hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.842",
+      "display": "Other specified disorders of bone density and structure, left hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.849",
+      "display": "Other specified disorders of bone density and structure, unspecified hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.851",
+      "display": "Other specified disorders of bone density and structure, right thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.852",
+      "display": "Other specified disorders of bone density and structure, left thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.859",
+      "display": "Other specified disorders of bone density and structure, unspecified thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.861",
+      "display": "Other specified disorders of bone density and structure, right lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.862",
+      "display": "Other specified disorders of bone density and structure, left lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.869",
+      "display": "Other specified disorders of bone density and structure, unspecified lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.871",
+      "display": "Other specified disorders of bone density and structure, right ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.872",
+      "display": "Other specified disorders of bone density and structure, left ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.879",
+      "display": "Other specified disorders of bone density and structure, unspecified ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.88",
+      "display": "Other specified disorders of bone density and structure, other site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M85.89",
+      "display": "Other specified disorders of bone density and structure, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X0",
+      "display": "Other specified disorders of bone, multiple sites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X1",
+      "display": "Other specified disorders of bone, shoulder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X2",
+      "display": "Other specified disorders of bone, upper arm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X3",
+      "display": "Other specified disorders of bone, forearm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X4",
+      "display": "Other specified disorders of bone, hand"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X5",
+      "display": "Other specified disorders of bone, thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X6",
+      "display": "Other specified disorders of bone, lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X7",
+      "display": "Other specified disorders of bone, ankle and foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X8",
+      "display": "Other specified disorders of bone, other site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M89.8X9",
+      "display": "Other specified disorders of bone, unspecified site"
+    } ]
+  }
 }

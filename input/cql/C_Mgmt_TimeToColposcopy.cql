@@ -7,10 +7,11 @@ include HospiceFHIR4_2022 version '4.0.000' called Hospice
 include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CCSMCommonFunctions version '1.0.0' called Common
-include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
+include DashboardLibrary version '1.0.0' called Dash
 include TopLevelScreeningLibrary version '1.0.0' called TLSL
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 include HPVVaccination_SDE version '0.0.1' called HPVVaccination_SDE
+include CollateManagementData version '1.1.0' called Collate
 
 codesystem "SNOMED-CT": 'http://snomed.info/sct'
 
@@ -32,12 +33,12 @@ define "Initial Population":
       or exists "Abnormal HrHPV")
 
 define "Abnormal HrHPV":
-  ManagementLibrary.SortedHpvReports HrHPV
+  SortedHpvReports HrHPV
   where HrHPV.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
     and HrHPV.riskTableInput in {'HPV16-, HPV18+', 'HPV16+'}
 
 define "Abnormal Cytology":
-  (ManagementLibrary.SortedCytologyReports Cytology
+  (SortedCytologyReports Cytology
     where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
       and Cytology.riskTableInput in {'ASC-H','AGC','HSIL+'})
   //The CQL code below will be removed once the SCC code is integrated into the CQL libraries.
@@ -47,12 +48,12 @@ define "Abnormal Cytology":
       and DR.code ~ "SCC")
 
 define "Normal Cytology":
-  ManagementLibrary.SortedCytologyReports Cytology
+  SortedCytologyReports Cytology
   where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
   and Cytology.riskTableInput = 'NILM'
 
 define "Normal HrHPV":
-  ManagementLibrary.SortedCytologyReports Cytology
+  SortedCytologyReports Cytology
   where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
   and Cytology.riskTableInput = 'HPV-negative'
 
@@ -71,10 +72,10 @@ define "Numerator":
   exists (Dash.ColposcopyProcedures C
     where Common.ProcedureDate(C) 6 months or less after "Last Abnormal Cervical Cancer Screening Result Date")
   or
-  exists (ManagementLibrary."SortedBiopsyReports" Biopsy
+  exists (SortedBiopsyReports Biopsy
     where Biopsy.date 6 months or less after "Last Abnormal Cervical Cancer Screening Result Date")
   or
-  exists (ManagementLibrary."CervicalPrecancerTreatments" AblationOrExcision
+  exists (Collate."CervicalPrecancerTreatments" AblationOrExcision
     where Common.ProcedureDate(AblationOrExcision) 6 months or less after "Last Abnormal Cervical Cancer Screening Result Date")
   or
   exists ("Colposcopy or Treatment Referral" R
@@ -101,3 +102,91 @@ define "Absence of Cervix":
 
 define "SDE HPV Vaccination Status":
   HPVVaccination_SDE."HPV Vaccinated"
+
+//The CQL below is required for the extended lookback period of this measure.
+//As part of refactoring the CQL libraries for better use in both eCQMs and CDS,
+//the lookback period will not have to be customized as below.
+
+define HpvDiagnosticReports:
+  Common.CompletedDiagnosticReport(
+    Common.LookBack(
+      [DiagnosticReport: Dash."HPV Test"],
+      22 years
+    )
+  )
+
+define HpvObservations:
+  [Observation: Dash."HPV Test"]
+
+define CervicalCytologyReports:
+  Common.CompletedDiagnosticReport(
+    Common.LookBack(
+      [DiagnosticReport: Dash."Pap Test"],
+      22 years
+    )
+  )
+
+define CytologyObservations:
+  [Observation: Dash."Pap Test"]
+
+define function CollateConclusionCodes(D DiagnosticReport, ObsList List<Observation>):
+  D.conclusionCode union
+  (ObsList) O
+    where 
+      Exists( (D.result ) R where Last(Split(R.reference,'/')) =  O.id ) or
+      Exists( (O.basedOn) oB where AnyTrue((D.basedOn) dB return dB = oB ) ) or
+      C3F.FindDate(O) = Common.DiagnosticReportDate(D)
+    return O.value as FHIR.CodeableConcept
+
+define HistologyDiagnosticReports:
+  Common.CompletedDiagnosticReport([DiagnosticReport: Dash."Biopsy Report"])
+
+define HistologyObservations:
+  [Observation: Dash."Biopsy Report"]
+
+define HpvDiagnosticReportsSummary:
+  (HpvDiagnosticReports) D
+  return {
+    name: 'HPV Test',
+    longName: Common.ConceptText(D.code),
+    riskTableInput: Dash.HighestRankedInterpretation(Dash.HpvInterpretation(CollateConclusionCodes(D,HpvObservations))),
+    allConclusions: (CollateConclusionCodes(D,HpvObservations)) cC,
+    date: Common.DiagnosticReportDate(D),
+    reference: 'DiagnosticReport/' + D.id
+  }
+
+define CervicalCytologyReportsSummary:
+  (CervicalCytologyReports) D
+  return {
+    name: 'Cervical Cytology',
+    longName: Common.ConceptText(D.code),
+    riskTableInput: Dash.HighestRankedInterpretation(Dash.CytologyInterpretation(CollateConclusionCodes(D,CytologyObservations))),
+    allConclusions:
+      (CollateConclusionCodes(D,CytologyObservations)) cC,
+    date: Common.DiagnosticReportDate(D),
+    reference: 'DiagnosticReport/' + D.id
+  }
+
+define HistologyDiagnosticReportsSummary:
+  (HistologyDiagnosticReports) D
+  return {
+    name: 'Cervical Histology',
+    longName: Common.ConceptText(D.code),
+    riskTableInput: Dash.HighestRankedInterpretation(Dash.BiopsyInterpretation(CollateConclusionCodes(D,HistologyObservations))),
+    allConclusions:
+      (CollateConclusionCodes(D,HistologyObservations)) cC, 
+    date: Common.DiagnosticReportDate(D),
+    reference: 'DiagnosticReport/' + D.id
+  }
+
+define SortedCytologyReports:
+  (CervicalCytologyReportsSummary) C
+  sort by date desc
+
+define SortedHpvReports:
+  (HpvDiagnosticReportsSummary) H
+  sort by date desc
+
+define SortedBiopsyReports:
+  (HistologyDiagnosticReportsSummary) H
+  sort by date desc

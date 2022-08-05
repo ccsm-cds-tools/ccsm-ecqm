@@ -5,12 +5,683 @@
     "versionId": "7",
     "lastUpdated": "2021-08-04T01:00:53.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 131 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-122501000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=122501000119101\">122501000119101</a></td><td>http://snomed.info/sct</td><td>Lymphoproliferative disorder following lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-122511000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=122511000119103\">122511000119103</a></td><td>http://snomed.info/sct</td><td>Lymphoproliferative disorder following heart transplantation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-122531000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=122531000119108\">122531000119108</a></td><td>http://snomed.info/sct</td><td>Lymphoproliferative disorder following kidney transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128631000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128631000119109\">128631000119109</a></td><td>http://snomed.info/sct</td><td>Chronic graft-versus-host disease following kidney transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-129781000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=129781000119105\">129781000119105</a></td><td>http://snomed.info/sct</td><td>Neoplasia following lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15960341000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15960341000119104\">15960341000119104</a></td><td>http://snomed.info/sct</td><td>Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197747000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197747000\">197747000</a></td><td>http://snomed.info/sct</td><td>Renal tubulo-interstitial disorders in transplant rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-213150003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=213150003\">213150003</a></td><td>http://snomed.info/sct</td><td>Kidney transplant failure and rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-213151004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=213151004\">213151004</a></td><td>http://snomed.info/sct</td><td>Heart transplant failure and rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-213152006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=213152006\">213152006</a></td><td>http://snomed.info/sct</td><td>Heart-lung transplant failure and rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233844002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233844002\">233844002</a></td><td>http://snomed.info/sct</td><td>Accelerated coronary artery disease in transplanted heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233933006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233933006\">233933006</a></td><td>http://snomed.info/sct</td><td>Cardiac transplant rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233934000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233934000\">233934000</a></td><td>http://snomed.info/sct</td><td>Cardiac transplant failure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234046009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234046009\">234046009</a></td><td>http://snomed.info/sct</td><td>Transplant renal vein thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236436003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236436003\">236436003</a></td><td>http://snomed.info/sct</td><td>End stage renal failure with renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236569000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236569000\">236569000</a></td><td>http://snomed.info/sct</td><td>Primary non-function of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236570004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236570004\">236570004</a></td><td>http://snomed.info/sct</td><td>Renal transplant rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236571000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236571000\">236571000</a></td><td>http://snomed.info/sct</td><td>Hyperacute rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236572007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236572007\">236572007</a></td><td>http://snomed.info/sct</td><td>Accelerated rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236573002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236573002\">236573002</a></td><td>http://snomed.info/sct</td><td>Very mild acute rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236574008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236574008\">236574008</a></td><td>http://snomed.info/sct</td><td>Acute rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236575009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236575009\">236575009</a></td><td>http://snomed.info/sct</td><td>Acute rejection of renal transplant - grade I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236576005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236576005\">236576005</a></td><td>http://snomed.info/sct</td><td>Acute rejection of renal transplant - grade II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236577001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236577001\">236577001</a></td><td>http://snomed.info/sct</td><td>Acute rejection of renal transplant - grade III (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236578006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236578006\">236578006</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236579003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236579003\">236579003</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of renal transplant - grade I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236580000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236580000\">236580000</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of renal transplant - grade II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236581001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236581001\">236581001</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of renal transplant - grade III (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236582008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236582008\">236582008</a></td><td>http://snomed.info/sct</td><td>Acute-on-chronic rejection of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236583003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236583003\">236583003</a></td><td>http://snomed.info/sct</td><td>Failed renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236584009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236584009\">236584009</a></td><td>http://snomed.info/sct</td><td>Perfusion injury of renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-277010001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=277010001\">277010001</a></td><td>http://snomed.info/sct</td><td>Unexplained episode of renal transplant dysfunction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-277011002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=277011002\">277011002</a></td><td>http://snomed.info/sct</td><td>Pre-existing disease in renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312603000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312603000\">312603000</a></td><td>http://snomed.info/sct</td><td>Lung transplant rejection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-33.5\"> </a>33.5</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-33.50\"> </a>33.50</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Lung transplantation, not otherwise specified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-33.51\"> </a>33.51</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unilateral lung transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-33.52\"> </a>33.52</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Bilateral lung transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-33.6\"> </a>33.6</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Combined heart-lung transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-37.51\"> </a>37.51</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Heart transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.06\"> </a>414.06</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of native coronary artery of transplanted heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.07\"> </a>414.07</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427928003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427928003\">427928003</a></td><td>http://snomed.info/sct</td><td>Disorder related to lung transplantation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428575007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428575007\">428575007</a></td><td>http://snomed.info/sct</td><td>Hypertension secondary to kidney transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429257001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429257001\">429257001</a></td><td>http://snomed.info/sct</td><td>Disorder of transplanted heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429451003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429451003\">429451003</a></td><td>http://snomed.info/sct</td><td>Disorder related to renal transplantation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431186002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431186002\">431186002</a></td><td>http://snomed.info/sct</td><td>Accelerated rejection of cardiac transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431223003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431223003\">431223003</a></td><td>http://snomed.info/sct</td><td>Acute rejection of lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431507002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431507002\">431507002</a></td><td>http://snomed.info/sct</td><td>Accelerated rejection of lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431896008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431896008\">431896008</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of cardiac transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432773004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432773004\">432773004</a></td><td>http://snomed.info/sct</td><td>Hyperacute rejection of cardiac transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432774005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432774005\">432774005</a></td><td>http://snomed.info/sct</td><td>Hyperacute rejection of lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432843002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432843002\">432843002</a></td><td>http://snomed.info/sct</td><td>Acute rejection of cardiac transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432958009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432958009\">432958009</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of lung transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433592008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433592008\">433592008</a></td><td>http://snomed.info/sct</td><td>Acute rejection of pancreas transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433809002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433809002\">433809002</a></td><td>http://snomed.info/sct</td><td>Accelerated rejection of pancreas transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434202008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434202008\">434202008</a></td><td>http://snomed.info/sct</td><td>Hyperacute rejection of pancreas transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434271002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434271002\">434271002</a></td><td>http://snomed.info/sct</td><td>Chronic rejection of pancreas transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44165003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44165003\">44165003</a></td><td>http://snomed.info/sct</td><td>Complication of transplanted lung (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444855007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444855007\">444855007</a></td><td>http://snomed.info/sct</td><td>Arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-471851005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=471851005\">471851005</a></td><td>http://snomed.info/sct</td><td>Disorder of myocardium associated with rejection of cardiac transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-50.5\"> </a>50.5</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Liver transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-50.51\"> </a>50.51</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Auxiliary liver transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-50.59\"> </a>50.59</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other transplant of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-52.8\"> </a>52.8</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Transplant of pancreas</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-55.53\"> </a>55.53</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Removal of transplanted or rejected kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-55.6\"> </a>55.6</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Transplant of kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-55.69\"> </a>55.69</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other kidney transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58797008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58797008\">58797008</a></td><td>http://snomed.info/sct</td><td>Complication of transplanted kidney (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703048006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703048006\">703048006</a></td><td>http://snomed.info/sct</td><td>Vesicoureteric reflux after renal transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707148007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707148007\">707148007</a></td><td>http://snomed.info/sct</td><td>Recurrent post-transplant renal disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713825007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713825007\">713825007</a></td><td>http://snomed.info/sct</td><td>Renal artery stenosis of transplanted kidney (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-714153000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=714153000\">714153000</a></td><td>http://snomed.info/sct</td><td>Chronic kidney disease stage 5 with transplant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-762618008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=762618008\">762618008</a></td><td>http://snomed.info/sct</td><td>Bronchiolitis obliterans syndrome due to and after lung transplantation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-792842004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=792842004\">792842004</a></td><td>http://snomed.info/sct</td><td>Coronary arteriosclerosis in artery of transplanted heart (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79369007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79369007\">79369007</a></td><td>http://snomed.info/sct</td><td>Complication of transplanted pancreas (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.81\"> </a>996.81</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.82\"> </a>996.82</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.83\"> </a>996.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.84\"> </a>996.84</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted lung</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-996.86\"> </a>996.86</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Complications of transplanted pancreas</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.7\"> </a>I25.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.75\"> </a>I25.75</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.750\"> </a>I25.750</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with unstable angina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.751\"> </a>I25.751</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.758\"> </a>I25.758</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.759\"> </a>I25.759</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.76\"> </a>I25.76</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.760\"> </a>I25.760</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.761\"> </a>I25.761</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.768\"> </a>I25.768</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.769\"> </a>I25.769</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.811\"> </a>I25.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.812\"> </a>I25.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.1\"> </a>T86.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of kidney transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.10\"> </a>T86.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of kidney transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.11\"> </a>T86.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Kidney transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.12\"> </a>T86.12</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Kidney transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.13\"> </a>T86.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Kidney transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.19\"> </a>T86.19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complication of kidney transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.2\"> </a>T86.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of heart transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.20\"> </a>T86.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of heart transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.21\"> </a>T86.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.22\"> </a>T86.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.23\"> </a>T86.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.29\"> </a>T86.29</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of heart transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.290\"> </a>T86.290</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cardiac allograft vasculopathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.298\"> </a>T86.298</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of heart transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.3\"> </a>T86.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of heart-lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.30\"> </a>T86.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of heart-lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.31\"> </a>T86.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart-lung transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.32\"> </a>T86.32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart-lung transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.33\"> </a>T86.33</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Heart-lung transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.39\"> </a>T86.39</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of heart-lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.4\"> </a>T86.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of liver transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.40\"> </a>T86.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of liver transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.41\"> </a>T86.41</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Liver transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.42\"> </a>T86.42</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Liver transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.43\"> </a>T86.43</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Liver transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.49\"> </a>T86.49</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of liver transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.81\"> </a>T86.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Complications of lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.810\"> </a>T86.810</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lung transplant rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.811\"> </a>T86.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lung transplant failure</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.812\"> </a>T86.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lung transplant infection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.818\"> </a>T86.818</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other complications of lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T86.819\"> </a>T86.819</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified complication of lung transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V42.0\"> </a>V42.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Kidney replaced by transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V42.1\"> </a>V42.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Heart replaced by transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V42.6\"> </a>V42.6</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Lung replaced by transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V42.7\"> </a>V42.7</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Liver replaced by transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V42.83\"> </a>V42.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Pancreas replaced by transplant</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.206",
   "version": "20210804",
   "name": "Solid Organ Transplant Diagnosis Codes",
   "status": "active",
   "date": "2021-08-04T01:00:53-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:84860a78-0471-4c9d-8bba-b200b4e930ac",
+    "timestamp": "2022-07-15T19:04:20-04:00",
+    "total": 131,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "122501000119101",
+      "display": "Lymphoproliferative disorder following lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "122511000119103",
+      "display": "Lymphoproliferative disorder following heart transplantation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "122531000119108",
+      "display": "Lymphoproliferative disorder following kidney transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128631000119109",
+      "display": "Chronic graft-versus-host disease following kidney transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "129781000119105",
+      "display": "Neoplasia following lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15960341000119104",
+      "display": "Unstable angina due to arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197747000",
+      "display": "Renal tubulo-interstitial disorders in transplant rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "213150003",
+      "display": "Kidney transplant failure and rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "213151004",
+      "display": "Heart transplant failure and rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "213152006",
+      "display": "Heart-lung transplant failure and rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233844002",
+      "display": "Accelerated coronary artery disease in transplanted heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233933006",
+      "display": "Cardiac transplant rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233934000",
+      "display": "Cardiac transplant failure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234046009",
+      "display": "Transplant renal vein thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236436003",
+      "display": "End stage renal failure with renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236569000",
+      "display": "Primary non-function of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236570004",
+      "display": "Renal transplant rejection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236571000",
+      "display": "Hyperacute rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236572007",
+      "display": "Accelerated rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236573002",
+      "display": "Very mild acute rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236574008",
+      "display": "Acute rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236575009",
+      "display": "Acute rejection of renal transplant - grade I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236576005",
+      "display": "Acute rejection of renal transplant - grade II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236577001",
+      "display": "Acute rejection of renal transplant - grade III (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236578006",
+      "display": "Chronic rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236579003",
+      "display": "Chronic rejection of renal transplant - grade I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236580000",
+      "display": "Chronic rejection of renal transplant - grade II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236581001",
+      "display": "Chronic rejection of renal transplant - grade III (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236582008",
+      "display": "Acute-on-chronic rejection of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236583003",
+      "display": "Failed renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236584009",
+      "display": "Perfusion injury of renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "277010001",
+      "display": "Unexplained episode of renal transplant dysfunction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "277011002",
+      "display": "Pre-existing disease in renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312603000",
+      "display": "Lung transplant rejection (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "33.5",
+      "display": "Lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "33.50",
+      "display": "Lung transplantation, not otherwise specified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "33.51",
+      "display": "Unilateral lung transplantation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "33.52",
+      "display": "Bilateral lung transplantation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "33.6",
+      "display": "Combined heart-lung transplantation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "37.51",
+      "display": "Heart transplantation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.06",
+      "display": "Coronary atherosclerosis of native coronary artery of transplanted heart"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.07",
+      "display": "Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427928003",
+      "display": "Disorder related to lung transplantation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428575007",
+      "display": "Hypertension secondary to kidney transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429257001",
+      "display": "Disorder of transplanted heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429451003",
+      "display": "Disorder related to renal transplantation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431186002",
+      "display": "Accelerated rejection of cardiac transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431223003",
+      "display": "Acute rejection of lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431507002",
+      "display": "Accelerated rejection of lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431896008",
+      "display": "Chronic rejection of cardiac transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432773004",
+      "display": "Hyperacute rejection of cardiac transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432774005",
+      "display": "Hyperacute rejection of lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432843002",
+      "display": "Acute rejection of cardiac transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432958009",
+      "display": "Chronic rejection of lung transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433592008",
+      "display": "Acute rejection of pancreas transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433809002",
+      "display": "Accelerated rejection of pancreas transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434202008",
+      "display": "Hyperacute rejection of pancreas transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434271002",
+      "display": "Chronic rejection of pancreas transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44165003",
+      "display": "Complication of transplanted lung (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444855007",
+      "display": "Arteriosclerosis of coronary artery bypass graft of transplanted heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "471851005",
+      "display": "Disorder of myocardium associated with rejection of cardiac transplant (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "50.5",
+      "display": "Liver transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "50.51",
+      "display": "Auxiliary liver transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "50.59",
+      "display": "Other transplant of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "52.8",
+      "display": "Transplant of pancreas"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "55.53",
+      "display": "Removal of transplanted or rejected kidney"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "55.6",
+      "display": "Transplant of kidney"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "55.69",
+      "display": "Other kidney transplantation"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58797008",
+      "display": "Complication of transplanted kidney (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703048006",
+      "display": "Vesicoureteric reflux after renal transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707148007",
+      "display": "Recurrent post-transplant renal disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713825007",
+      "display": "Renal artery stenosis of transplanted kidney (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "714153000",
+      "display": "Chronic kidney disease stage 5 with transplant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "762618008",
+      "display": "Bronchiolitis obliterans syndrome due to and after lung transplantation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "792842004",
+      "display": "Coronary arteriosclerosis in artery of transplanted heart (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79369007",
+      "display": "Complication of transplanted pancreas (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.81",
+      "display": "Complications of transplanted kidney"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.82",
+      "display": "Complications of transplanted liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.83",
+      "display": "Complications of transplanted heart"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.84",
+      "display": "Complications of transplanted lung"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "996.86",
+      "display": "Complications of transplanted pancreas"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.7",
+      "display": "Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.75",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.750",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with unstable angina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.751",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.758",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.759",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.76",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.760",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.761",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.768",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.769",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.811",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.812",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.1",
+      "display": "Complications of kidney transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.10",
+      "display": "Unspecified complication of kidney transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.11",
+      "display": "Kidney transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.12",
+      "display": "Kidney transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.13",
+      "display": "Kidney transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.19",
+      "display": "Other complication of kidney transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.2",
+      "display": "Complications of heart transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.20",
+      "display": "Unspecified complication of heart transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.21",
+      "display": "Heart transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.22",
+      "display": "Heart transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.23",
+      "display": "Heart transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.29",
+      "display": "Other complications of heart transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.290",
+      "display": "Cardiac allograft vasculopathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.298",
+      "display": "Other complications of heart transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.3",
+      "display": "Complications of heart-lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.30",
+      "display": "Unspecified complication of heart-lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.31",
+      "display": "Heart-lung transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.32",
+      "display": "Heart-lung transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.33",
+      "display": "Heart-lung transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.39",
+      "display": "Other complications of heart-lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.4",
+      "display": "Complications of liver transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.40",
+      "display": "Unspecified complication of liver transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.41",
+      "display": "Liver transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.42",
+      "display": "Liver transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.43",
+      "display": "Liver transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.49",
+      "display": "Other complications of liver transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.81",
+      "display": "Complications of lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.810",
+      "display": "Lung transplant rejection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.811",
+      "display": "Lung transplant failure"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.812",
+      "display": "Lung transplant infection"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.818",
+      "display": "Other complications of lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T86.819",
+      "display": "Unspecified complication of lung transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V42.0",
+      "display": "Kidney replaced by transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V42.1",
+      "display": "Heart replaced by transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V42.6",
+      "display": "Lung replaced by transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V42.7",
+      "display": "Liver replaced by transplant"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V42.83",
+      "display": "Pancreas replaced by transplant"
+    } ]
+  }
 }

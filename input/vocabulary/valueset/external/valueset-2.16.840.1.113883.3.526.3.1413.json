@@ -5,12 +5,83 @@
     "versionId": "29",
     "lastUpdated": "2022-02-13T15:55:01.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193590000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193590000\">193590000</a></td><td>http://snomed.info/sct</td><td>Total, mature senile cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-217791000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=217791000119107\">217791000119107</a></td><td>http://snomed.info/sct</td><td>Hypermature senile cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-264443002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=264443002\">264443002</a></td><td>http://snomed.info/sct</td><td>Morgagnian cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267626000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267626000\">267626000</a></td><td>http://snomed.info/sct</td><td>Hypermature cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347461000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347461000119107\">347461000119107</a></td><td>http://snomed.info/sct</td><td>Hypermature senile cataract of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347521000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347521000119103\">347521000119103</a></td><td>http://snomed.info/sct</td><td>Hypermature senile cataract of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347581000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347581000119104\">347581000119104</a></td><td>http://snomed.info/sct</td><td>Hypermature senile cataract of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-849000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=849000\">849000</a></td><td>http://snomed.info/sct</td><td>Mature cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8656007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8656007\">8656007</a></td><td>http://snomed.info/sct</td><td>Total traumatic cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95724003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95724003\">95724003</a></td><td>http://snomed.info/sct</td><td>Intumescent cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.9\"> </a>H26.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified cataract</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1413",
   "version": "20210210",
   "name": "Cataract Mature or Hypermature",
   "status": "active",
   "date": "2021-02-10T01:02:26-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:bbfb33a1-1f86-4b49-b787-c4e526c98c3f",
+    "timestamp": "2022-07-19T15:11:58-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193590000",
+      "display": "Total, mature senile cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "217791000119107",
+      "display": "Hypermature senile cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "264443002",
+      "display": "Morgagnian cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267626000",
+      "display": "Hypermature cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347461000119107",
+      "display": "Hypermature senile cataract of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347521000119103",
+      "display": "Hypermature senile cataract of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347581000119104",
+      "display": "Hypermature senile cataract of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "849000",
+      "display": "Mature cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8656007",
+      "display": "Total traumatic cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95724003",
+      "display": "Intumescent cataract (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.9",
+      "display": "Unspecified cataract"
+    } ]
+  }
 }

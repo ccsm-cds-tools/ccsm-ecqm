@@ -5,12 +5,98 @@
     "versionId": "15",
     "lastUpdated": "2022-03-02T18:05:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-24701-5\"> </a><a href=\"http://details.loinc.org/LOINC/24701-5.html\">24701-5</a></td><td>DXA Femur [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-24890-6\"> </a><a href=\"http://details.loinc.org/LOINC/24890-6.html\">24890-6</a></td><td>DXA Radius and Ulna [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-24966-4\"> </a><a href=\"http://details.loinc.org/LOINC/24966-4.html\">24966-4</a></td><td>DXA Lumbar spine [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38261-4\"> </a><a href=\"http://details.loinc.org/LOINC/38261-4.html\">38261-4</a></td><td>DXA Hip [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38262-2\"> </a><a href=\"http://details.loinc.org/LOINC/38262-2.html\">38262-2</a></td><td>DXA Calcaneus [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38263-0\"> </a><a href=\"http://details.loinc.org/LOINC/38263-0.html\">38263-0</a></td><td>DXA Femur [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38264-8\"> </a><a href=\"http://details.loinc.org/LOINC/38264-8.html\">38264-8</a></td><td>DXA Hip [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38265-5\"> </a><a href=\"http://details.loinc.org/LOINC/38265-5.html\">38265-5</a></td><td>DXA Radius and Ulna [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38266-3\"> </a><a href=\"http://details.loinc.org/LOINC/38266-3.html\">38266-3</a></td><td>DXA Calcaneus [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38267-1\"> </a><a href=\"http://details.loinc.org/LOINC/38267-1.html\">38267-1</a></td><td>DXA Lumbar spine [T-score] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38268-9\"> </a><a href=\"http://details.loinc.org/LOINC/38268-9.html\">38268-9</a></td><td>DXA Skeletal system Views for bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46278-8\"> </a><a href=\"http://details.loinc.org/LOINC/46278-8.html\">46278-8</a></td><td>DXA Hip - left [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46279-6\"> </a><a href=\"http://details.loinc.org/LOINC/46279-6.html\">46279-6</a></td><td>DXA Hip - right [Mass/Area] Bone density</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46383-6\"> </a><a href=\"http://details.loinc.org/LOINC/46383-6.html\">46383-6</a></td><td>DXA Bone [Mass/Area] Bone density</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1051",
   "version": "20180310",
   "name": "DXA (Dual energy Xray Absorptiometry) Scan",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6d34544e-3895-40ae-a758-bb786f19d603",
+    "timestamp": "2022-07-19T15:08:26-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "24701-5",
+      "display": "DXA Femur [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "24890-6",
+      "display": "DXA Radius and Ulna [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "24966-4",
+      "display": "DXA Lumbar spine [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38261-4",
+      "display": "DXA Hip [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38262-2",
+      "display": "DXA Calcaneus [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38263-0",
+      "display": "DXA Femur [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38264-8",
+      "display": "DXA Hip [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38265-5",
+      "display": "DXA Radius and Ulna [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38266-3",
+      "display": "DXA Calcaneus [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38267-1",
+      "display": "DXA Lumbar spine [T-score] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38268-9",
+      "display": "DXA Skeletal system Views for bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46278-8",
+      "display": "DXA Hip - left [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46279-6",
+      "display": "DXA Hip - right [Mass/Area] Bone density"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46383-6",
+      "display": "DXA Bone [Mass/Area] Bone density"
+    } ]
+  }
 }

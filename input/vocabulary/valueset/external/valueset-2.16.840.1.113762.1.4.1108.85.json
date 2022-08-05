@@ -5,12 +5,73 @@
     "versionId": "5",
     "lastUpdated": "2021-02-20T01:02:00.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16462851000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16462851000119106\">16462851000119106</a></td><td>http://snomed.info/sct</td><td>Myalgia caused by statin (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240101000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240101000\">240101000</a></td><td>http://snomed.info/sct</td><td>Drug-induced myopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-288225004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=288225004\">288225004</a></td><td>http://snomed.info/sct</td><td>Myalgia/myositis - multiple (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-359.9\"> </a>359.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Myopathy, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-729.1\"> </a>729.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Myalgia and myositis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G72.0\"> </a>G72.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug-induced myopathy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G72.9\"> </a>G72.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Myopathy, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M60.9\"> </a>M60.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Myositis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M79.10\"> </a>M79.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Myalgia, unspecified site</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1108.85",
   "version": "20210220",
   "name": "Statin Associated Muscle Symptoms",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c1e12db5-b6b8-400d-a40e-245177a8fd59",
+    "timestamp": "2022-07-19T15:04:48-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16462851000119106",
+      "display": "Myalgia caused by statin (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240101000",
+      "display": "Drug-induced myopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "288225004",
+      "display": "Myalgia/myositis - multiple (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "359.9",
+      "display": "Myopathy, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "729.1",
+      "display": "Myalgia and myositis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G72.0",
+      "display": "Drug-induced myopathy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G72.9",
+      "display": "Myopathy, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M60.9",
+      "display": "Myositis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M79.10",
+      "display": "Myalgia, unspecified site"
+    } ]
+  }
 }

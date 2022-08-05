@@ -5,12 +5,53 @@
     "versionId": "30",
     "lastUpdated": "2021-01-20T12:00:22.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-213020009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=213020009\">213020009</a></td><td>http://snomed.info/sct</td><td>Allergy to egg protein (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T78.08XA\"> </a>T78.08XA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Anaphylactic reaction due to eggs, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T78.08XD\"> </a>T78.08XD</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Anaphylactic reaction due to eggs, subsequent encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T78.08XS\"> </a>T78.08XS</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Anaphylactic reaction due to eggs, sequela</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z91.012\"> </a>Z91.012</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Allergy to eggs</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1253",
   "version": "20200306",
   "name": "Allergy to Eggs",
   "status": "active",
   "date": "2020-03-06T01:00:20-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e9042479-edc1-4ee2-9228-86b95abaed7c",
+    "timestamp": "2022-07-19T15:11:41-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "213020009",
+      "display": "Allergy to egg protein (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T78.08XA",
+      "display": "Anaphylactic reaction due to eggs, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T78.08XD",
+      "display": "Anaphylactic reaction due to eggs, subsequent encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T78.08XS",
+      "display": "Anaphylactic reaction due to eggs, sequela"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z91.012",
+      "display": "Allergy to eggs"
+    } ]
+  }
 }

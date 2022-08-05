@@ -5,12 +5,43 @@
     "versionId": "38",
     "lastUpdated": "2021-02-20T01:02:00.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://www.ama-assn.org/go/cpt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-50360\"> </a>50360</td><td>Renal allotransplantation, implantation of graft; without recipient nephrectomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-50365\"> </a>50365</td><td>Renal allotransplantation, implantation of graft; with recipient nephrectomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-50380\"> </a>50380</td><td>Renal autotransplantation, reimplantation of kidney</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.11.1025",
   "version": "20210220",
   "name": "Kidney Transplant",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:84621fed-9dcc-461c-9e90-14f3d21d8e02",
+    "timestamp": "2022-07-15T19:34:30-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "50360",
+      "display": "Renal allotransplantation, implantation of graft; without recipient nephrectomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "50365",
+      "display": "Renal allotransplantation, implantation of graft; with recipient nephrectomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "50380",
+      "display": "Renal autotransplantation, reimplantation of kidney"
+    } ]
+  }
 }

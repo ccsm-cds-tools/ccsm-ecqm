@@ -5,12 +5,178 @@
     "versionId": "29",
     "lastUpdated": "2021-02-10T01:02:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 30 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19031009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19031009\">19031009</a></td><td>http://snomed.info/sct</td><td>Hemorrhagic choroidal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232000008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232000008\">232000008</a></td><td>http://snomed.info/sct</td><td>Choroidal effusion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247198004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247198004\">247198004</a></td><td>http://snomed.info/sct</td><td>Annular choroidal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27871007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27871007\">27871007</a></td><td>http://snomed.info/sct</td><td>Choroidal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278805002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278805002\">278805002</a></td><td>http://snomed.info/sct</td><td>Uveal effusion syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332111000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332111000119102\">332111000119102</a></td><td>http://snomed.info/sct</td><td>Serous choroidal detachment of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-333881000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=333881000119109\">333881000119109</a></td><td>http://snomed.info/sct</td><td>Minor opacity of right cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-334901000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=334901000119109\">334901000119109</a></td><td>http://snomed.info/sct</td><td>Hemorrhagic detachment of right choroid (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336051000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336051000119104\">336051000119104</a></td><td>http://snomed.info/sct</td><td>Rupture of choroid of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336061000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336061000119102\">336061000119102</a></td><td>http://snomed.info/sct</td><td>Hemorrhage of choroid of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336071000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336071000119108\">336071000119108</a></td><td>http://snomed.info/sct</td><td>Choroidal detachment of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-337721000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=337721000119107\">337721000119107</a></td><td>http://snomed.info/sct</td><td>Serous choroidal detachment of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-339481000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=339481000119109\">339481000119109</a></td><td>http://snomed.info/sct</td><td>Minor opacity of left cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340511000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340511000119109\">340511000119109</a></td><td>http://snomed.info/sct</td><td>Hemorrhagic detachment of left choroid (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341661000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341661000119101\">341661000119101</a></td><td>http://snomed.info/sct</td><td>Rupture of choroid of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341671000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341671000119107\">341671000119107</a></td><td>http://snomed.info/sct</td><td>Hemorrhage of choroid of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341681000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341681000119105\">341681000119105</a></td><td>http://snomed.info/sct</td><td>Choroidal detachment of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343491000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343491000119109\">343491000119109</a></td><td>http://snomed.info/sct</td><td>Serous choroidal detachment of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-344611000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=344611000119101\">344611000119101</a></td><td>http://snomed.info/sct</td><td>Peripheral opacity of bilateral corneas (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-778049009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=778049009\">778049009</a></td><td>http://snomed.info/sct</td><td>Idiopathic uveal effusion syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78584008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78584008\">78584008</a></td><td>http://snomed.info/sct</td><td>Serous choroidal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.401\"> </a>H31.401</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified choroidal detachment, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.402\"> </a>H31.402</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified choroidal detachment, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.403\"> </a>H31.403</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified choroidal detachment, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.411\"> </a>H31.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hemorrhagic choroidal detachment, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.412\"> </a>H31.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hemorrhagic choroidal detachment, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.413\"> </a>H31.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hemorrhagic choroidal detachment, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.421\"> </a>H31.421</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Serous choroidal detachment, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.422\"> </a>H31.422</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Serous choroidal detachment, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.423\"> </a>H31.423</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Serous choroidal detachment, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1451",
   "version": "20210210",
   "name": "Choroidal Detachment",
   "status": "active",
   "date": "2021-02-10T01:02:26-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:04529504-3ebf-4f81-a761-8cf8ed1f71f3",
+    "timestamp": "2022-07-19T15:12:21-04:00",
+    "total": 30,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19031009",
+      "display": "Hemorrhagic choroidal detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232000008",
+      "display": "Choroidal effusion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247198004",
+      "display": "Annular choroidal detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27871007",
+      "display": "Choroidal detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278805002",
+      "display": "Uveal effusion syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332111000119102",
+      "display": "Serous choroidal detachment of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "333881000119109",
+      "display": "Minor opacity of right cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "334901000119109",
+      "display": "Hemorrhagic detachment of right choroid (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336051000119104",
+      "display": "Rupture of choroid of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336061000119102",
+      "display": "Hemorrhage of choroid of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336071000119108",
+      "display": "Choroidal detachment of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "337721000119107",
+      "display": "Serous choroidal detachment of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "339481000119109",
+      "display": "Minor opacity of left cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340511000119109",
+      "display": "Hemorrhagic detachment of left choroid (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341661000119101",
+      "display": "Rupture of choroid of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341671000119107",
+      "display": "Hemorrhage of choroid of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341681000119105",
+      "display": "Choroidal detachment of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343491000119109",
+      "display": "Serous choroidal detachment of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "344611000119101",
+      "display": "Peripheral opacity of bilateral corneas (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "778049009",
+      "display": "Idiopathic uveal effusion syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78584008",
+      "display": "Serous choroidal detachment (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.401",
+      "display": "Unspecified choroidal detachment, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.402",
+      "display": "Unspecified choroidal detachment, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.403",
+      "display": "Unspecified choroidal detachment, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.411",
+      "display": "Hemorrhagic choroidal detachment, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.412",
+      "display": "Hemorrhagic choroidal detachment, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.413",
+      "display": "Hemorrhagic choroidal detachment, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.421",
+      "display": "Serous choroidal detachment, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.422",
+      "display": "Serous choroidal detachment, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.423",
+      "display": "Serous choroidal detachment, bilateral"
+    } ]
+  }
 }

@@ -5,12 +5,33 @@
     "versionId": "3",
     "lastUpdated": "2021-02-02T12:01:06.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>urn:oid:2.16.840.1.113883.6.238</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"urn-oid-2.16.840.1.113883.6.238-2106-3\"> </a>2106-3</td><td>White</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.123.12.1007",
   "version": "20180321",
   "name": "White",
   "status": "active",
   "date": "2018-03-21T01:00:05-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:db0203c8-22cc-466f-8edd-147653685f32",
+    "timestamp": "2022-07-19T15:08:51-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "urn:oid:2.16.840.1.113883.6.238",
+      "version": "1.2",
+      "code": "2106-3",
+      "display": "White"
+    } ]
+  }
 }

@@ -5,12 +5,58 @@
     "versionId": "7",
     "lastUpdated": "2022-03-02T18:03:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-10900-9\"> </a><a href=\"http://details.loinc.org/LOINC/10900-9.html\">10900-9</a></td><td>Hepatitis B virus surface Ab [Presence] in Serum by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-22322-2\"> </a><a href=\"http://details.loinc.org/LOINC/22322-2.html\">22322-2</a></td><td>Hepatitis B virus surface Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-39535-0\"> </a><a href=\"http://details.loinc.org/LOINC/39535-0.html\">39535-0</a></td><td>Hepatitis B virus surface Ab [Presence] in Serum by Radioimmunoassay (RIA)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-48070-7\"> </a><a href=\"http://details.loinc.org/LOINC/48070-7.html\">48070-7</a></td><td>Hepatitis B virus surface IgG Ab [Presence] in Serum by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-49177-9\"> </a><a href=\"http://details.loinc.org/LOINC/49177-9.html\">49177-9</a></td><td>Hepatitis B virus surface IgG Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-75409-3\"> </a><a href=\"http://details.loinc.org/LOINC/75409-3.html\">75409-3</a></td><td>Hepatitis B virus surface Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1073",
   "version": "20170504",
   "name": "Anti Hepatitis B Virus Surface Ab",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:58787fa4-af46-4257-9aa7-ddb46591f6ae",
+    "timestamp": "2022-07-19T15:10:47-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "10900-9",
+      "display": "Hepatitis B virus surface Ab [Presence] in Serum by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "22322-2",
+      "display": "Hepatitis B virus surface Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "39535-0",
+      "display": "Hepatitis B virus surface Ab [Presence] in Serum by Radioimmunoassay (RIA)"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "48070-7",
+      "display": "Hepatitis B virus surface IgG Ab [Presence] in Serum by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "49177-9",
+      "display": "Hepatitis B virus surface IgG Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "75409-3",
+      "display": "Hepatitis B virus surface Ab [Presence] in Serum, Plasma or Blood by Rapid immunoassay"
+    } ]
+  }
 }

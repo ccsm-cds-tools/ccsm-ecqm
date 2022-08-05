@@ -5,12 +5,103 @@
     "versionId": "4",
     "lastUpdated": "2021-01-12T10:42:39.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 15 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239810002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239810002\">239810002</a></td><td>http://snomed.info/sct</td><td>Ankylosing spondylitis with organ / system involvement (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239811003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239811003\">239811003</a></td><td>http://snomed.info/sct</td><td>Ankylosing spondylitis with multisystem involvement (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-720.0\"> </a>720.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Ankylosing spondylitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-786077003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=786077003\">786077003</a></td><td>http://snomed.info/sct</td><td>Ankylosing spondylitis co-occurrent with anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9631008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9631008\">9631008</a></td><td>http://snomed.info/sct</td><td>Ankylosing spondylitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.0\"> </a>M45.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of multiple sites in spine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.1\"> </a>M45.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of occipito-atlanto-axial region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.2\"> </a>M45.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of cervical region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.3\"> </a>M45.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of cervicothoracic region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.4\"> </a>M45.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of thoracic region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.5\"> </a>M45.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of thoracolumbar region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.6\"> </a>M45.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis lumbar region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.7\"> </a>M45.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of lumbosacral region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.8\"> </a>M45.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis sacral and sacrococcygeal region</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M45.9\"> </a>M45.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ankylosing spondylitis of unspecified sites in spine</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1045",
   "version": "20180310",
   "name": "Ankylosing Spondylitis",
   "status": "active",
   "date": "2018-03-10T01:00:08-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7c3f6b25-305f-4064-8caf-2c37a493e209",
+    "timestamp": "2022-07-19T15:08:21-04:00",
+    "total": 15,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239810002",
+      "display": "Ankylosing spondylitis with organ / system involvement (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239811003",
+      "display": "Ankylosing spondylitis with multisystem involvement (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "720.0",
+      "display": "Ankylosing spondylitis"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "786077003",
+      "display": "Ankylosing spondylitis co-occurrent with anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9631008",
+      "display": "Ankylosing spondylitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.0",
+      "display": "Ankylosing spondylitis of multiple sites in spine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.1",
+      "display": "Ankylosing spondylitis of occipito-atlanto-axial region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.2",
+      "display": "Ankylosing spondylitis of cervical region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.3",
+      "display": "Ankylosing spondylitis of cervicothoracic region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.4",
+      "display": "Ankylosing spondylitis of thoracic region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.5",
+      "display": "Ankylosing spondylitis of thoracolumbar region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.6",
+      "display": "Ankylosing spondylitis lumbar region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.7",
+      "display": "Ankylosing spondylitis of lumbosacral region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.8",
+      "display": "Ankylosing spondylitis sacral and sacrococcygeal region"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M45.9",
+      "display": "Ankylosing spondylitis of unspecified sites in spine"
+    } ]
+  }
 }

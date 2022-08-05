@@ -5,12 +5,228 @@
     "versionId": "14",
     "lastUpdated": "2022-03-02T18:04:12.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 40 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108313002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108313002\">108313002</a></td><td>Family psychotherapy procedure (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1555005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1555005\">1555005</a></td><td>Brief group psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15558000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15558000\">15558000</a></td><td>Expressive psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18512000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18512000\">18512000</a></td><td>Individual psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228557008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228557008\">228557008</a></td><td>Cognitive and behavioral therapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-229065009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=229065009\">229065009</a></td><td>Exercise therapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28868002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28868002\">28868002</a></td><td>Interactive group medical psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-372067001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=372067001\">372067001</a></td><td>Implementation of measures to provide psychological support (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385721005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385721005\">385721005</a></td><td>Coping support assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385724002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385724002\">385724002</a></td><td>Coping support management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385725001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385725001\">385725001</a></td><td>Emotional support assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385726000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385726000\">385726000</a></td><td>Emotional support education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385727009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385727009\">385727009</a></td><td>Emotional support management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385887004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385887004\">385887004</a></td><td>Mental health history taking assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385889001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385889001\">385889001</a></td><td>Mental health history taking education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385890005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385890005\">385890005</a></td><td>Mental health history taking management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386472008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386472008\">386472008</a></td><td>Telephone consultation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401277000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401277000\">401277000</a></td><td>Completion of mental health crisis plan (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405780009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405780009\">405780009</a></td><td>Dialectical behavior therapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410223002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410223002\">410223002</a></td><td>Mental health care assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410224008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410224008\">410224008</a></td><td>Mental health care education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410225009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410225009\">410225009</a></td><td>Mental health care management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410226005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410226005\">410226005</a></td><td>Mental health promotion assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410227001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410227001\">410227001</a></td><td>Mental health promotion education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410228006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410228006\">410228006</a></td><td>Mental health promotion management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410229003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410229003\">410229003</a></td><td>Mental health screening assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410230008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410230008\">410230008</a></td><td>Mental health screening education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410231007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410231007\">410231007</a></td><td>Mental health screening management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410232000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410232000\">410232000</a></td><td>Mental health treatment assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410233005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410233005\">410233005</a></td><td>Mental health treatment education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410234004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410234004\">410234004</a></td><td>Management of mental health treatment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425604002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425604002\">425604002</a></td><td>Case management follow up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-439141002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=439141002\">439141002</a></td><td>Discharge by mental health primary care worker (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5694008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5694008\">5694008</a></td><td>Crisis intervention with follow-up (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75516001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75516001\">75516001</a></td><td>Psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76168009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76168009\">76168009</a></td><td>Group psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76740001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76740001\">76740001</a></td><td>Psychiatric telephone consultation or therapy with patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81294000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81294000\">81294000</a></td><td>Patient referral for psychotherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88848003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88848003\">88848003</a></td><td>Psychiatric follow-up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91310009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91310009\">91310009</a></td><td>Patient follow-up to return when and if necessary (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1568",
   "version": "20210220",
   "name": "Follow Up for Adult Depression",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2fc2a964-21a2-4cd9-a458-44a82c3d7417",
+    "timestamp": "2022-07-19T15:13:01-04:00",
+    "total": 40,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108313002",
+      "display": "Family psychotherapy procedure (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1555005",
+      "display": "Brief group psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15558000",
+      "display": "Expressive psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18512000",
+      "display": "Individual psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228557008",
+      "display": "Cognitive and behavioral therapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "229065009",
+      "display": "Exercise therapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28868002",
+      "display": "Interactive group medical psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "372067001",
+      "display": "Implementation of measures to provide psychological support (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385721005",
+      "display": "Coping support assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385724002",
+      "display": "Coping support management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385725001",
+      "display": "Emotional support assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385726000",
+      "display": "Emotional support education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385727009",
+      "display": "Emotional support management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385887004",
+      "display": "Mental health history taking assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385889001",
+      "display": "Mental health history taking education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385890005",
+      "display": "Mental health history taking management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386472008",
+      "display": "Telephone consultation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401277000",
+      "display": "Completion of mental health crisis plan (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405780009",
+      "display": "Dialectical behavior therapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410223002",
+      "display": "Mental health care assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410224008",
+      "display": "Mental health care education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410225009",
+      "display": "Mental health care management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410226005",
+      "display": "Mental health promotion assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410227001",
+      "display": "Mental health promotion education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410228006",
+      "display": "Mental health promotion management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410229003",
+      "display": "Mental health screening assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410230008",
+      "display": "Mental health screening education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410231007",
+      "display": "Mental health screening management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410232000",
+      "display": "Mental health treatment assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410233005",
+      "display": "Mental health treatment education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410234004",
+      "display": "Management of mental health treatment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425604002",
+      "display": "Case management follow up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "439141002",
+      "display": "Discharge by mental health primary care worker (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5694008",
+      "display": "Crisis intervention with follow-up (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75516001",
+      "display": "Psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76168009",
+      "display": "Group psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76740001",
+      "display": "Psychiatric telephone consultation or therapy with patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81294000",
+      "display": "Patient referral for psychotherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88848003",
+      "display": "Psychiatric follow-up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91310009",
+      "display": "Patient follow-up to return when and if necessary (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "12",
     "lastUpdated": "2022-03-02T18:04:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41763-4\"> </a><a href=\"http://details.loinc.org/LOINC/41763-4.html\">41763-4</a></td><td>Rubella virus IgG Ab [Titer] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46110-3\"> </a><a href=\"http://details.loinc.org/LOINC/46110-3.html\">46110-3</a></td><td>Rubella virus IgG Ab [Titer] in Cerebral spinal fluid</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1063",
   "version": "20170504",
   "name": "Rubella Antibody Test (IgG Antibody Titer)",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:13578f99-c331-414e-bf3d-82d6623c584b",
+    "timestamp": "2022-07-19T15:10:39-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41763-4",
+      "display": "Rubella virus IgG Ab [Titer] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46110-3",
+      "display": "Rubella virus IgG Ab [Titer] in Cerebral spinal fluid"
+    } ]
+  }
 }

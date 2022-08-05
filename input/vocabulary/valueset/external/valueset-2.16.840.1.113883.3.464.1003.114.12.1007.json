@@ -5,12 +5,138 @@
     "versionId": "20",
     "lastUpdated": "2021-01-12T14:41:13.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 22 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192704009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192704009\">192704009</a></td><td>http://snomed.info/sct</td><td>Post-immunization encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192705005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192705005\">192705005</a></td><td>http://snomed.info/sct</td><td>Post-bacillus Calmette-Guerin vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192706006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192706006\">192706006</a></td><td>http://snomed.info/sct</td><td>Post typhoid vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192707002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192707002\">192707002</a></td><td>http://snomed.info/sct</td><td>Post paratyphoid vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192708007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192708007\">192708007</a></td><td>http://snomed.info/sct</td><td>Post cholera vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192709004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192709004\">192709004</a></td><td>http://snomed.info/sct</td><td>Post plague vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192710009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192710009\">192710009</a></td><td>http://snomed.info/sct</td><td>Post tetanus vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192711008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192711008\">192711008</a></td><td>http://snomed.info/sct</td><td>Post diphtheria vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192712001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192712001\">192712001</a></td><td>http://snomed.info/sct</td><td>Post pertussis vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192713006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192713006\">192713006</a></td><td>http://snomed.info/sct</td><td>Post smallpox vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192714000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192714000\">192714000</a></td><td>http://snomed.info/sct</td><td>Post rabies vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192715004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192715004\">192715004</a></td><td>http://snomed.info/sct</td><td>Post typhus vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192716003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192716003\">192716003</a></td><td>http://snomed.info/sct</td><td>Post yellow fever vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192717007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192717007\">192717007</a></td><td>http://snomed.info/sct</td><td>Post measles vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192718002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192718002\">192718002</a></td><td>http://snomed.info/sct</td><td>Post polio vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192719005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192719005\">192719005</a></td><td>http://snomed.info/sct</td><td>Post mumps vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192720004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192720004\">192720004</a></td><td>http://snomed.info/sct</td><td>Post rubella vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192721000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192721000\">192721000</a></td><td>http://snomed.info/sct</td><td>Post influenza vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192722007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192722007\">192722007</a></td><td>http://snomed.info/sct</td><td>Post hepatitis A vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192723002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192723002\">192723002</a></td><td>http://snomed.info/sct</td><td>Post hepatitis B vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192724008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192724008\">192724008</a></td><td>http://snomed.info/sct</td><td>Post mixed vaccination encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G04.32\"> </a>G04.32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Postimmunization acute necrotizing hemorrhagic encephalopathy</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.114.12.1007",
   "version": "20170504",
   "name": "Encephalopathy due to Childhood Vaccination",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:200bbfe6-5aad-4cf0-a1c8-a9291a2afe4b",
+    "timestamp": "2022-07-19T15:08:29-04:00",
+    "total": 22,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192704009",
+      "display": "Post-immunization encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192705005",
+      "display": "Post-bacillus Calmette-Guerin vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192706006",
+      "display": "Post typhoid vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192707002",
+      "display": "Post paratyphoid vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192708007",
+      "display": "Post cholera vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192709004",
+      "display": "Post plague vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192710009",
+      "display": "Post tetanus vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192711008",
+      "display": "Post diphtheria vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192712001",
+      "display": "Post pertussis vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192713006",
+      "display": "Post smallpox vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192714000",
+      "display": "Post rabies vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192715004",
+      "display": "Post typhus vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192716003",
+      "display": "Post yellow fever vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192717007",
+      "display": "Post measles vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192718002",
+      "display": "Post polio vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192719005",
+      "display": "Post mumps vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192720004",
+      "display": "Post rubella vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192721000",
+      "display": "Post influenza vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192722007",
+      "display": "Post hepatitis A vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192723002",
+      "display": "Post hepatitis B vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192724008",
+      "display": "Post mixed vaccination encephalitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G04.32",
+      "display": "Postimmunization acute necrotizing hemorrhagic encephalopathy"
+    } ]
+  }
 }

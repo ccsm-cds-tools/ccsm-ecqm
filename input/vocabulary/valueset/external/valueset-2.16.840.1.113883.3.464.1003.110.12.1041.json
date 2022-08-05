@@ -5,12 +5,118 @@
     "versionId": "20",
     "lastUpdated": "2022-03-02T18:02:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170378007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170378007\">170378007</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170379004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170379004\">170379004</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170380001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170380001\">170380001</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170381002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170381002\">170381002</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170434002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170434002\">170434002</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170435001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170435001\">170435001</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Hepatitis A and B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170436000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170436000\">170436000</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170437009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170437009\">170437009</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-243789007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=243789007\">243789007</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312868009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312868009\">312868009</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314177003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314177003\">314177003</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314178008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314178008\">314178008</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314179000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314179000\">314179000</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-394691002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=394691002\">394691002</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-871752004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=871752004\">871752004</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-871753009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=871753009\">871753009</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-871754003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=871754003\">871754003</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90633\"> </a>90633</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose schedule, for intramuscular use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1041",
   "version": "20170504",
   "name": "Hepatitis A Vaccine Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:eb3cddb5-24ac-4c61-8df3-3982d9f3e0d0",
+    "timestamp": "2022-07-19T15:07:49-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170378007",
+      "display": "Administration of first dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170379004",
+      "display": "Administration of second dose of vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170380001",
+      "display": "Administration of third dose of vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170381002",
+      "display": "Administration of booster dose of vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170434002",
+      "display": "Administration of first dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170435001",
+      "display": "Administration of second dose of vaccine product containing only Hepatitis A and B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170436000",
+      "display": "Administration of third dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170437009",
+      "display": "Administration of booster dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "243789007",
+      "display": "Administration of vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312868009",
+      "display": "Administration of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314177003",
+      "display": "Administration of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314178008",
+      "display": "Administration of first dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314179000",
+      "display": "Administration of second dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "394691002",
+      "display": "Administration of booster dose of vaccine product containing only Hepatitis A virus and Salmonella enterica subspecies enterica serovar Typhi antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "871752004",
+      "display": "Administration of second dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "871753009",
+      "display": "Administration of third dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "871754003",
+      "display": "Administration of booster dose of pediatric vaccine product containing only Hepatitis A virus antigen (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90633",
+      "display": "Hepatitis A vaccine (HepA), pediatric/adolescent dosage-2 dose schedule, for intramuscular use"
+    } ]
+  }
 }

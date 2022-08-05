@@ -5,12 +5,313 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:05:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 57 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10178000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10178000\">10178000</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by inferior temporal route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-110473004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=110473004\">110473004</a></td><td>http://snomed.info/sct</td><td>Cataract surgery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112963003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112963003\">112963003</a></td><td>http://snomed.info/sct</td><td>Aspiration of cataract (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112964009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112964009\">112964009</a></td><td>http://snomed.info/sct</td><td>Extraction of cataract by rotoextraction with aspiration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12163000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12163000\">12163000</a></td><td>http://snomed.info/sct</td><td>Needling of secondary cataract (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-172523009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=172523009\">172523009</a></td><td>http://snomed.info/sct</td><td>Intracapsular extraction of lens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231744001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231744001\">231744001</a></td><td>http://snomed.info/sct</td><td>Cataract extraction, insertion of intraocular lens and trabeculectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308694002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308694002\">308694002</a></td><td>http://snomed.info/sct</td><td>Extracapsular cataract extraction and insertion of intraocular lens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308695001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308695001\">308695001</a></td><td>http://snomed.info/sct</td><td>Intracapsular cataract extraction and insertion of intraocular lens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-313999004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=313999004\">313999004</a></td><td>http://snomed.info/sct</td><td>Small incision phacoemulsification of cataract and insertion of intraocular lens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31705006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31705006\">31705006</a></td><td>http://snomed.info/sct</td><td>Extraction of cataract by rotoextraction with aspiration by posterior route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-335636001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=335636001\">335636001</a></td><td>http://snomed.info/sct</td><td>Extraction of primary membranous cataract by phacofragmentation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336651000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336651000\">336651000</a></td><td>http://snomed.info/sct</td><td>Extraction of primary membranous cataract by mechanical fragmentation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35717002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35717002\">35717002</a></td><td>http://snomed.info/sct</td><td>Discission of congenital cataract (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361191005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361191005\">361191005</a></td><td>http://snomed.info/sct</td><td>Extraction of cataract by ultrasonic phacofragmentation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385468004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385468004\">385468004</a></td><td>http://snomed.info/sct</td><td>Cataract extraction and insertion of intraocular lens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39243005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39243005\">39243005</a></td><td>http://snomed.info/sct</td><td>Mechanical fragmentation of cataract with extraction by posterior route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397544007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397544007\">397544007</a></td><td>http://snomed.info/sct</td><td>Complicated cataract surgery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404628003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404628003\">404628003</a></td><td>http://snomed.info/sct</td><td>Intracapsular cataract extraction (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415089008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415089008\">415089008</a></td><td>http://snomed.info/sct</td><td>Phacoemulsification of cataract with intraocular lens implantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417493007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417493007\">417493007</a></td><td>http://snomed.info/sct</td><td>Small incision manual extracapsular cataract extraction (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418430006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418430006\">418430006</a></td><td>http://snomed.info/sct</td><td>Bimanual phacoemulsification of cataract with intraocular lens implantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419767009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419767009\">419767009</a></td><td>http://snomed.info/sct</td><td>Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420260004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420260004\">420260004</a></td><td>http://snomed.info/sct</td><td>Bimanual phacoemulsification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420526005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420526005\">420526005</a></td><td>http://snomed.info/sct</td><td>Coaxial phacoemulsfication (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424945000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424945000\">424945000</a></td><td>http://snomed.info/sct</td><td>Torsional phacoemulsification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446548003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446548003\">446548003</a></td><td>http://snomed.info/sct</td><td>Extraction of cataract and trabeculectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46309001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46309001\">46309001</a></td><td>http://snomed.info/sct</td><td>Extraction of primary membranous cataract by excision (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46426006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46426006\">46426006</a></td><td>http://snomed.info/sct</td><td>Cryoextraction of cataract by inferior temporal route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46562009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46562009\">46562009</a></td><td>http://snomed.info/sct</td><td>Incisional discission of secondary membranous cataract and anterior hyaloid (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50538003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50538003\">50538003</a></td><td>http://snomed.info/sct</td><td>Discission of membranous cataract, primary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5130002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5130002\">5130002</a></td><td>http://snomed.info/sct</td><td>Extraction of primary membranous cataract by discission (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51839008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51839008\">51839008</a></td><td>http://snomed.info/sct</td><td>Extraction of primary membranous cataract by needling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54885007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54885007\">54885007</a></td><td>http://snomed.info/sct</td><td>Extraction of cataract (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65812008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65812008\">65812008</a></td><td>http://snomed.info/sct</td><td>Removal of secondary membranous cataract with iridectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66840\"> </a>66840</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; aspiration technique, 1 or more stages</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66850\"> </a>66850</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (eg, phacoemulsification), with aspiration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66852\"> </a>66852</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; pars plana approach, with or without vitrectomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66920\"> </a>66920</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; intracapsular</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66930\"> </a>66930</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; intracapsular, for dislocated lens</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66940\"> </a>66940</td><td>http://www.ama-assn.org/go/cpt</td><td>Removal of lens material; extracapsular (other than 66840, 66850, 66852)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66982\"> </a>66982</td><td>http://www.ama-assn.org/go/cpt</td><td>Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; without endoscopic cyclophotocoagulation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66983\"> </a>66983</td><td>http://www.ama-assn.org/go/cpt</td><td>Intracapsular cataract extraction with insertion of intraocular lens prosthesis (1 stage procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-66984\"> </a>66984</td><td>http://www.ama-assn.org/go/cpt</td><td>Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); without endoscopic cyclophotocoagulation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67760003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67760003\">67760003</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by rotoextraction with aspiration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69360005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69360005\">69360005</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by mechanical fragmentation with aspiration by posterior route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74490003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74490003\">74490003</a></td><td>http://snomed.info/sct</td><td>Mechanical fragmentation of primary membranous cataract (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75814005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75814005\">75814005</a></td><td>http://snomed.info/sct</td><td>Erysiphake extraction of cataract by inferior temporal route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79611007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79611007\">79611007</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by curette evacuation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82155009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82155009\">82155009</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by emulsification with aspiration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84149000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84149000\">84149000</a></td><td>http://snomed.info/sct</td><td>Aspiration of cataract by phacoemulsification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85622008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85622008\">85622008</a></td><td>http://snomed.info/sct</td><td>Cryoextraction of cataract by intracapsular approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860930005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860930005\">860930005</a></td><td>http://snomed.info/sct</td><td>Surgery of cataract of left eye (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860934001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860934001\">860934001</a></td><td>http://snomed.info/sct</td><td>Surgery of cataract of right eye (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88282000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88282000\">88282000</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by mechanical fragmentation with aspiration (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89153001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89153001\">89153001</a></td><td>http://snomed.info/sct</td><td>Extracapsular extraction of cataract by rotoextraction with aspiration by posterior route (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9137006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9137006\">9137006</a></td><td>http://snomed.info/sct</td><td>Discission of membranous cataract, secondary (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1411",
   "version": "20210210",
   "name": "Cataract Surgery",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f0f91731-f9c5-41a7-ad90-35c0dfb38c81",
+    "timestamp": "2022-07-19T15:11:56-04:00",
+    "total": 57,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10178000",
+      "display": "Extracapsular extraction of cataract by inferior temporal route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "110473004",
+      "display": "Cataract surgery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112963003",
+      "display": "Aspiration of cataract (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112964009",
+      "display": "Extraction of cataract by rotoextraction with aspiration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12163000",
+      "display": "Needling of secondary cataract (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "172523009",
+      "display": "Intracapsular extraction of lens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231744001",
+      "display": "Cataract extraction, insertion of intraocular lens and trabeculectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308694002",
+      "display": "Extracapsular cataract extraction and insertion of intraocular lens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308695001",
+      "display": "Intracapsular cataract extraction and insertion of intraocular lens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "313999004",
+      "display": "Small incision phacoemulsification of cataract and insertion of intraocular lens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31705006",
+      "display": "Extraction of cataract by rotoextraction with aspiration by posterior route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "335636001",
+      "display": "Extraction of primary membranous cataract by phacofragmentation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336651000",
+      "display": "Extraction of primary membranous cataract by mechanical fragmentation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35717002",
+      "display": "Discission of congenital cataract (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361191005",
+      "display": "Extraction of cataract by ultrasonic phacofragmentation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385468004",
+      "display": "Cataract extraction and insertion of intraocular lens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39243005",
+      "display": "Mechanical fragmentation of cataract with extraction by posterior route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397544007",
+      "display": "Complicated cataract surgery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404628003",
+      "display": "Intracapsular cataract extraction (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415089008",
+      "display": "Phacoemulsification of cataract with intraocular lens implantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417493007",
+      "display": "Small incision manual extracapsular cataract extraction (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418430006",
+      "display": "Bimanual phacoemulsification of cataract with intraocular lens implantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419767009",
+      "display": "Bimanual microincisional phacoemulsification of cataract with intraocular lens implantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420260004",
+      "display": "Bimanual phacoemulsification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420526005",
+      "display": "Coaxial phacoemulsfication (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424945000",
+      "display": "Torsional phacoemulsification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446548003",
+      "display": "Extraction of cataract and trabeculectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46309001",
+      "display": "Extraction of primary membranous cataract by excision (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46426006",
+      "display": "Cryoextraction of cataract by inferior temporal route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46562009",
+      "display": "Incisional discission of secondary membranous cataract and anterior hyaloid (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50538003",
+      "display": "Discission of membranous cataract, primary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5130002",
+      "display": "Extraction of primary membranous cataract by discission (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51839008",
+      "display": "Extraction of primary membranous cataract by needling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54885007",
+      "display": "Extraction of cataract (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65812008",
+      "display": "Removal of secondary membranous cataract with iridectomy (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66840",
+      "display": "Removal of lens material; aspiration technique, 1 or more stages"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66850",
+      "display": "Removal of lens material; phacofragmentation technique (mechanical or ultrasonic) (eg, phacoemulsification), with aspiration"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66852",
+      "display": "Removal of lens material; pars plana approach, with or without vitrectomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66920",
+      "display": "Removal of lens material; intracapsular"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66930",
+      "display": "Removal of lens material; intracapsular, for dislocated lens"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66940",
+      "display": "Removal of lens material; extracapsular (other than 66840, 66850, 66852)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66982",
+      "display": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1-stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification), complex, requiring devices or techniques not generally used in routine cataract surgery (eg, iris expansion device, suture support for intraocular lens, or primary posterior capsulorrhexis) or performed on patients in the amblyogenic developmental stage; without endoscopic cyclophotocoagulation"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66983",
+      "display": "Intracapsular cataract extraction with insertion of intraocular lens prosthesis (1 stage procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "66984",
+      "display": "Extracapsular cataract removal with insertion of intraocular lens prosthesis (1 stage procedure), manual or mechanical technique (eg, irrigation and aspiration or phacoemulsification); without endoscopic cyclophotocoagulation"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67760003",
+      "display": "Extracapsular extraction of cataract by rotoextraction with aspiration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69360005",
+      "display": "Extracapsular extraction of cataract by mechanical fragmentation with aspiration by posterior route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74490003",
+      "display": "Mechanical fragmentation of primary membranous cataract (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75814005",
+      "display": "Erysiphake extraction of cataract by inferior temporal route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79611007",
+      "display": "Extracapsular extraction of cataract by curette evacuation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82155009",
+      "display": "Extracapsular extraction of cataract by emulsification with aspiration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84149000",
+      "display": "Aspiration of cataract by phacoemulsification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85622008",
+      "display": "Cryoextraction of cataract by intracapsular approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860930005",
+      "display": "Surgery of cataract of left eye (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860934001",
+      "display": "Surgery of cataract of right eye (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88282000",
+      "display": "Extracapsular extraction of cataract by mechanical fragmentation with aspiration (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89153001",
+      "display": "Extracapsular extraction of cataract by rotoextraction with aspiration by posterior route (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9137006",
+      "display": "Discission of membranous cataract, secondary (procedure)"
+    } ]
+  }
 }

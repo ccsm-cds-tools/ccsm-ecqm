@@ -5,12 +5,143 @@
     "versionId": "4",
     "lastUpdated": "2021-01-12T13:23:49.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 23 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-190501008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=190501008\">190501008</a></td><td>http://snomed.info/sct</td><td>Idiopathic Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-190502001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=190502001\">190502001</a></td><td>http://snomed.info/sct</td><td>Pituitary-dependent Cushing's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237734007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237734007\">237734007</a></td><td>http://snomed.info/sct</td><td>Adrenocorticotropic hormone-dependent Cushing syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237735008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237735008\">237735008</a></td><td>http://snomed.info/sct</td><td>Adrenal Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237736009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237736009\">237736009</a></td><td>http://snomed.info/sct</td><td>Cyclical Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237737000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237737000\">237737000</a></td><td>http://snomed.info/sct</td><td>Pseudo-Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237738005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237738005\">237738005</a></td><td>http://snomed.info/sct</td><td>Alcohol-induced pseudo-Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237739002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237739002\">237739002</a></td><td>http://snomed.info/sct</td><td>Pseudo-Cushing's syndrome of depression (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237740000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237740000\">237740000</a></td><td>http://snomed.info/sct</td><td>Artefactual pseudo-Cushing's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-255.0\"> </a>255.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Cushing's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41299009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41299009\">41299009</a></td><td>http://snomed.info/sct</td><td>Iatrogenic Cushing's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43019009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43019009\">43019009</a></td><td>http://snomed.info/sct</td><td>Nelson syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47270006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47270006\">47270006</a></td><td>http://snomed.info/sct</td><td>Hypercortisolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-626004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=626004\">626004</a></td><td>http://snomed.info/sct</td><td>Hypercortisolism due to nonpituitary tumor (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79398006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79398006\">79398006</a></td><td>http://snomed.info/sct</td><td>Hypercortisolism due to adrenal neoplasm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88803002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88803002\">88803002</a></td><td>http://snomed.info/sct</td><td>Hypercortisolism due to pituitary adenoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.0\"> </a>E24.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Pituitary-dependent Cushing's disease</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.1\"> </a>E24.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nelson's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.2\"> </a>E24.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug-induced Cushing's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.3\"> </a>E24.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ectopic ACTH syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.4\"> </a>E24.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcohol-induced pseudo-Cushing's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.8\"> </a>E24.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other Cushing's syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E24.9\"> </a>E24.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cushing's syndrome, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.117.12.1009",
   "version": "20180310",
   "name": "Cushings Syndrome",
   "status": "active",
   "date": "2018-03-10T01:00:08-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ee71925f-bc45-4ade-9680-6c27287b406b",
+    "timestamp": "2022-07-19T15:08:32-04:00",
+    "total": 23,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "190501008",
+      "display": "Idiopathic Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "190502001",
+      "display": "Pituitary-dependent Cushing's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237734007",
+      "display": "Adrenocorticotropic hormone-dependent Cushing syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237735008",
+      "display": "Adrenal Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237736009",
+      "display": "Cyclical Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237737000",
+      "display": "Pseudo-Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237738005",
+      "display": "Alcohol-induced pseudo-Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237739002",
+      "display": "Pseudo-Cushing's syndrome of depression (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237740000",
+      "display": "Artefactual pseudo-Cushing's syndrome (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "255.0",
+      "display": "Cushing's syndrome"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41299009",
+      "display": "Iatrogenic Cushing's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43019009",
+      "display": "Nelson syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47270006",
+      "display": "Hypercortisolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "626004",
+      "display": "Hypercortisolism due to nonpituitary tumor (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79398006",
+      "display": "Hypercortisolism due to adrenal neoplasm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88803002",
+      "display": "Hypercortisolism due to pituitary adenoma (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.0",
+      "display": "Pituitary-dependent Cushing's disease"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.1",
+      "display": "Nelson's syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.2",
+      "display": "Drug-induced Cushing's syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.3",
+      "display": "Ectopic ACTH syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.4",
+      "display": "Alcohol-induced pseudo-Cushing's syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.8",
+      "display": "Other Cushing's syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E24.9",
+      "display": "Cushing's syndrome, unspecified"
+    } ]
+  }
 }

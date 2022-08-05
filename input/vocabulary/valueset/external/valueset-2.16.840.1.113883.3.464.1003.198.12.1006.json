@@ -5,12 +5,143 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:04:42.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 23 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15163009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15163009\">15163009</a></td><td>http://snomed.info/sct</td><td>Total arthroplasty of hip, low friction (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179294005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179294005\">179294005</a></td><td>http://snomed.info/sct</td><td>Conversion to cemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179304004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179304004\">179304004</a></td><td>http://snomed.info/sct</td><td>Primary uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179305003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179305003\">179305003</a></td><td>http://snomed.info/sct</td><td>Conversion to uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19954002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19954002\">19954002</a></td><td>http://snomed.info/sct</td><td>Reconstruction of hip with use of methyl methacrylate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265157000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265157000\">265157000</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of hip joint using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265158005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265158005\">265158005</a></td><td>http://snomed.info/sct</td><td>Primary cemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265160007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265160007\">265160007</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of hip joint not using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-27130\"> </a>27130</td><td>http://www.ama-assn.org/go/cpt</td><td>Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314489006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314489006\">314489006</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314491003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314491003\">314491003</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426618001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426618001\">426618001</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint using cemented femoral component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426904006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426904006\">426904006</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint using cemented acetabular component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427728006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427728006\">427728006</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429156003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429156003\">429156003</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total prosthetic replacement of hip joint using cemented acetabular component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443435007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443435007\">443435007</a></td><td>http://snomed.info/sct</td><td>Total replacement of right hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450813004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450813004\">450813004</a></td><td>http://snomed.info/sct</td><td>Primary total prosthetic replacement of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52734007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52734007\">52734007</a></td><td>http://snomed.info/sct</td><td>Total replacement of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53081006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53081006\">53081006</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral, prosthetic replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57589001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57589001\">57589001</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral prosthetic replacement, with allograft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76915002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76915002\">76915002</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral prosthetic replacement, with autograft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770606008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770606008\">770606008</a></td><td>http://snomed.info/sct</td><td>Total replacement of left hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S2118\"> </a>S2118</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Metal-on-metal total hip resurfacing, including acetabular and femoral components</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1006",
   "version": "20170504",
   "name": "Primary THA Procedure",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f769113a-b846-409a-be95-e6617c7c637b",
+    "timestamp": "2022-07-19T15:10:25-04:00",
+    "total": 23,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15163009",
+      "display": "Total arthroplasty of hip, low friction (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179294005",
+      "display": "Conversion to cemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179304004",
+      "display": "Primary uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179305003",
+      "display": "Conversion to uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19954002",
+      "display": "Reconstruction of hip with use of methyl methacrylate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265157000",
+      "display": "Total prosthetic replacement of hip joint using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265158005",
+      "display": "Primary cemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265160007",
+      "display": "Total prosthetic replacement of hip joint not using cement (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "27130",
+      "display": "Arthroplasty, acetabular and proximal femoral prosthetic replacement (total hip arthroplasty), with or without autograft or allograft"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314489006",
+      "display": "Primary hybrid total replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314491003",
+      "display": "Prosthetic hybrid total replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426618001",
+      "display": "Prosthetic hybrid total replacement of hip joint using cemented femoral component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426904006",
+      "display": "Prosthetic hybrid total replacement of hip joint using cemented acetabular component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427728006",
+      "display": "Primary hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429156003",
+      "display": "Primary hybrid total prosthetic replacement of hip joint using cemented acetabular component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443435007",
+      "display": "Total replacement of right hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450813004",
+      "display": "Primary total prosthetic replacement of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52734007",
+      "display": "Total replacement of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53081006",
+      "display": "Arthroplasty, acetabular and proximal femoral, prosthetic replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57589001",
+      "display": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with allograft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76915002",
+      "display": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with autograft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770606008",
+      "display": "Total replacement of left hip joint (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S2118",
+      "display": "Metal-on-metal total hip resurfacing, including acetabular and femoral components"
+    } ]
+  }
 }

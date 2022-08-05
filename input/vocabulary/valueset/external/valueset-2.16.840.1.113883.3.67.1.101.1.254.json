@@ -5,12 +5,78 @@
     "versionId": "25",
     "lastUpdated": "2022-02-19T01:07:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19694002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19694002\">19694002</a></td><td>http://snomed.info/sct</td><td>Late onset dysthymia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2506003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2506003\">2506003</a></td><td>http://snomed.info/sct</td><td>Early onset dysthymia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3109008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3109008\">3109008</a></td><td>http://snomed.info/sct</td><td>Secondary dysthymia early onset (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36170009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36170009\">36170009</a></td><td>http://snomed.info/sct</td><td>Secondary dysthymia late onset (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38451003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38451003\">38451003</a></td><td>http://snomed.info/sct</td><td>Primary dysthymia early onset (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67711008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67711008\">67711008</a></td><td>http://snomed.info/sct</td><td>Primary dysthymia late onset (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78667006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78667006\">78667006</a></td><td>http://snomed.info/sct</td><td>Dysthymia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83176005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83176005\">83176005</a></td><td>http://snomed.info/sct</td><td>Primary dysthymia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85080004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85080004\">85080004</a></td><td>http://snomed.info/sct</td><td>Secondary dysthymia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F34.1\"> </a>F34.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Dysthymic disorder</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.67.1.101.1.254",
   "version": "20220219",
   "name": "Dysthymia",
   "status": "active",
   "date": "2022-02-19T01:07:29-05:00",
   "publisher": "MNCM Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:558bdaa9-0557-4226-96a1-e2c73fcd5413",
+    "timestamp": "2022-07-19T15:14:08-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19694002",
+      "display": "Late onset dysthymia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2506003",
+      "display": "Early onset dysthymia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3109008",
+      "display": "Secondary dysthymia early onset (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36170009",
+      "display": "Secondary dysthymia late onset (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38451003",
+      "display": "Primary dysthymia early onset (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67711008",
+      "display": "Primary dysthymia late onset (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78667006",
+      "display": "Dysthymia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83176005",
+      "display": "Primary dysthymia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85080004",
+      "display": "Secondary dysthymia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F34.1",
+      "display": "Dysthymic disorder"
+    } ]
+  }
 }

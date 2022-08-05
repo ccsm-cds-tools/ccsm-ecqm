@@ -5,12 +5,53 @@
     "versionId": "31",
     "lastUpdated": "2022-03-02T18:03:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108313002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108313002\">108313002</a></td><td>http://snomed.info/sct</td><td>Family psychotherapy procedure (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302247005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302247005\">302247005</a></td><td>http://snomed.info/sct</td><td>Narrative family psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361229007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361229007\">361229007</a></td><td>http://snomed.info/sct</td><td>Structural family psychotherapy (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90846\"> </a>90846</td><td>http://www.ama-assn.org/go/cpt</td><td>Family psychotherapy (without the patient present), 50 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90847\"> </a>90847</td><td>http://www.ama-assn.org/go/cpt</td><td>Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1018",
   "version": "20210220",
   "name": "Psych Visit for Family Psychotherapy",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1d890a91-847e-4c20-bf9a-96b64131b9e9",
+    "timestamp": "2022-07-19T15:11:11-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108313002",
+      "display": "Family psychotherapy procedure (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302247005",
+      "display": "Narrative family psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361229007",
+      "display": "Structural family psychotherapy (regime/therapy)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90846",
+      "display": "Family psychotherapy (without the patient present), 50 minutes"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90847",
+      "display": "Family psychotherapy (conjoint psychotherapy) (with patient present), 50 minutes"
+    } ]
+  }
 }

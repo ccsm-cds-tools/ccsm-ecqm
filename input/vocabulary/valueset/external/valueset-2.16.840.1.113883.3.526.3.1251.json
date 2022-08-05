@@ -5,12 +5,53 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:03:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32451-7\"> </a><a href=\"http://details.loinc.org/LOINC/32451-7.html\">32451-7</a></td><td>Physical findings of Macula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71488-1\"> </a><a href=\"http://details.loinc.org/LOINC/71488-1.html\">71488-1</a></td><td>Left eye Macular edema by Ophthalmoscopy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71489-9\"> </a><a href=\"http://details.loinc.org/LOINC/71489-9.html\">71489-9</a></td><td>Right eye Macular edema by Ophthalmoscopy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-79820-7\"> </a><a href=\"http://details.loinc.org/LOINC/79820-7.html\">79820-7</a></td><td>Physical findings of Right macula by Ophthalmoscopy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-79821-5\"> </a><a href=\"http://details.loinc.org/LOINC/79821-5.html\">79821-5</a></td><td>Physical findings of Left macula by Ophthalmoscopy</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1251",
   "version": "20210209",
   "name": "Macular Exam",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:626aa938-431f-4be3-8906-bd0ef677fe35",
+    "timestamp": "2022-07-19T15:11:39-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32451-7",
+      "display": "Physical findings of Macula"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71488-1",
+      "display": "Left eye Macular edema by Ophthalmoscopy"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71489-9",
+      "display": "Right eye Macular edema by Ophthalmoscopy"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "79820-7",
+      "display": "Physical findings of Right macula by Ophthalmoscopy"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "79821-5",
+      "display": "Physical findings of Left macula by Ophthalmoscopy"
+    } ]
+  }
 }

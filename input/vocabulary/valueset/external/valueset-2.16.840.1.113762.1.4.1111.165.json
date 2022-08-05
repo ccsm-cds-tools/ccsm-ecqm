@@ -5,12 +5,1658 @@
     "versionId": "28",
     "lastUpdated": "2022-03-08T01:01:59.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 326 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1014599\"> </a>1014599</td><td>acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1014615\"> </a>1014615</td><td>acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1014632\"> </a>1014632</td><td>acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1037259\"> </a>1037259</td><td>acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1044427\"> </a>1044427</td><td>acetaminophen 20 MG/ML / hydrocodone bitartrate 0.667 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049214\"> </a>1049214</td><td>acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049221\"> </a>1049221</td><td>acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049225\"> </a>1049225</td><td>acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049251\"> </a>1049251</td><td>acetaminophen 400 MG / oxycodone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049260\"> </a>1049260</td><td>acetaminophen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049502\"> </a>1049502</td><td>12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049543\"> </a>1049543</td><td>12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049574\"> </a>1049574</td><td>12 HR oxycodone hydrochloride 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049580\"> </a>1049580</td><td>acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049589\"> </a>1049589</td><td>ibuprofen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049593\"> </a>1049593</td><td>12 HR oxycodone hydrochloride 60 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049604\"> </a>1049604</td><td>oxycodone hydrochloride 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049611\"> </a>1049611</td><td>oxycodone hydrochloride 15 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049615\"> </a>1049615</td><td>oxycodone hydrochloride 20 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049618\"> </a>1049618</td><td>oxycodone hydrochloride 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049621\"> </a>1049621</td><td>oxycodone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049635\"> </a>1049635</td><td>acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049683\"> </a>1049683</td><td>oxycodone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049686\"> </a>1049686</td><td>oxycodone hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1049696\"> </a>1049696</td><td>oxycodone hydrochloride 5 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053647\"> </a>1053647</td><td>fentanyl 0.1 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053652\"> </a>1053652</td><td>fentanyl 0.2 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053655\"> </a>1053655</td><td>fentanyl 0.3 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053658\"> </a>1053658</td><td>fentanyl 0.4 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053661\"> </a>1053661</td><td>fentanyl 0.6 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1053664\"> </a>1053664</td><td>fentanyl 0.8 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1087459\"> </a>1087459</td><td>12 HR chlorpheniramine polistirex 1.6 MG/ML / hydrocodone polistirex 2 MG/ML Extended Release Suspension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1089055\"> </a>1089055</td><td>codeine phosphate 10 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1089058\"> </a>1089058</td><td>codeine phosphate 10 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1112220\"> </a>1112220</td><td>chlorpheniramine maleate 0.8 MG/ML / hydrocodone bitartrate 1 MG/ML / pseudoephedrine hydrochloride 12 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1113314\"> </a>1113314</td><td>oxycodone hydrochloride 7.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1115573\"> </a>1115573</td><td>fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1115577\"> </a>1115577</td><td>fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1148797\"> </a>1148797</td><td>12 HR tapentadol 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1148800\"> </a>1148800</td><td>12 HR tapentadol 150 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1148803\"> </a>1148803</td><td>12 HR tapentadol 200 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1148807\"> </a>1148807</td><td>12 HR tapentadol 250 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1148809\"> </a>1148809</td><td>12 HR tapentadol 50 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1232113\"> </a>1232113</td><td>1 ML morphine sulfate 15 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1234941\"> </a>1234941</td><td>chlorpheniramine maleate 0.4 MG/ML / dihydrocodeine bitartrate 0.6 MG/ML / phenylephrine hydrochloride 1.5 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1237050\"> </a>1237050</td><td>fentanyl 0.1 MG/ACTUAT Mucosal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1237057\"> </a>1237057</td><td>fentanyl 0.2 MG/ACTUAT Mucosal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1237060\"> </a>1237060</td><td>fentanyl 0.4 MG/ACTUAT Mucosal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1237064\"> </a>1237064</td><td>fentanyl 0.6 MG/ACTUAT Mucosal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1237068\"> </a>1237068</td><td>fentanyl 0.8 MG/ACTUAT Mucosal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1303736\"> </a>1303736</td><td>morphine sulfate 40 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1306898\"> </a>1306898</td><td>24 HR hydromorphone hydrochloride 32 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1356797\"> </a>1356797</td><td>brompheniramine maleate 4 MG / codeine phosphate 10 MG / phenylephrine hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1356800\"> </a>1356800</td><td>brompheniramine maleate 4 MG / codeine phosphate 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1356804\"> </a>1356804</td><td>brompheniramine maleate 4 MG / codeine phosphate 20 MG / phenylephrine hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1356807\"> </a>1356807</td><td>brompheniramine maleate 4 MG / codeine phosphate 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1366873\"> </a>1366873</td><td>hydrocodone bitartrate 5 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1372265\"> </a>1372265</td><td>chlorpheniramine maleate 0.8 MG/ML / hydrocodone bitartrate 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1431286\"> </a>1431286</td><td>acetaminophen 300 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1432969\"> </a>1432969</td><td>168 HR buprenorphine 0.015 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1433251\"> </a>1433251</td><td>0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1442790\"> </a>1442790</td><td>1 ML morphine sulfate 5 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1542997\"> </a>1542997</td><td>168 HR buprenorphine 0.0075 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595730\"> </a>1595730</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 20 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595740\"> </a>1595740</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595746\"> </a>1595746</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 40 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595752\"> </a>1595752</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 60 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595758\"> </a>1595758</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 80 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595764\"> </a>1595764</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1595770\"> </a>1595770</td><td>Abuse-Deterrent 24 HR hydrocodone bitartrate 120 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1596108\"> </a>1596108</td><td>acetaminophen 320.5 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1603495\"> </a>1603495</td><td>72 HR fentanyl 0.0375 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1603498\"> </a>1603498</td><td>72 HR fentanyl 0.0625 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1603501\"> </a>1603501</td><td>72 HR fentanyl 0.0875 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1651558\"> </a>1651558</td><td>guaifenesin 40 MG/ML / hydrocodone bitartrate 0.5 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1652087\"> </a>1652087</td><td>12 HR chlorpheniramine polistirex 0.8 MG/ML / codeine polistirex 4 MG/ML Extended Release Suspension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1655032\"> </a>1655032</td><td>1 ML buprenorphine 0.3 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665685\"> </a>1665685</td><td>1 ML meperidine hydrochloride 100 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665690\"> </a>1665690</td><td>1.5 ML meperidine hydrochloride 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665697\"> </a>1665697</td><td>1 ML meperidine hydrochloride 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665699\"> </a>1665699</td><td>0.5 ML meperidine hydrochloride 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665701\"> </a>1665701</td><td>2 ML meperidine hydrochloride 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1666831\"> </a>1666831</td><td>80 ACTUAT fentanyl 0.04 MG/ACTUAT Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716057\"> </a>1716057</td><td>buprenorphine 0.15 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716065\"> </a>1716065</td><td>buprenorphine 0.3 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716069\"> </a>1716069</td><td>buprenorphine 0.45 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716073\"> </a>1716073</td><td>buprenorphine 0.6 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716077\"> </a>1716077</td><td>buprenorphine 0.075 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716081\"> </a>1716081</td><td>buprenorphine 0.75 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1716086\"> </a>1716086</td><td>buprenorphine 0.9 MG Buccal Film</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1723206\"> </a>1723206</td><td>2 ML alfentanil 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1723208\"> </a>1723208</td><td>10 ML alfentanil 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1723209\"> </a>1723209</td><td>20 ML alfentanil 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1723210\"> </a>1723210</td><td>5 ML alfentanil 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724276\"> </a>1724276</td><td>1 ML hydromorphone hydrochloride 2 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724338\"> </a>1724338</td><td>1 ML hydromorphone hydrochloride 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724340\"> </a>1724340</td><td>5 ML hydromorphone hydrochloride 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724341\"> </a>1724341</td><td>50 ML hydromorphone hydrochloride 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724383\"> </a>1724383</td><td>1 ML hydromorphone hydrochloride 1 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1724644\"> </a>1724644</td><td>1 ML hydromorphone hydrochloride 2 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1728783\"> </a>1728783</td><td>10 ML morphine sulfate 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1728791\"> </a>1728791</td><td>2 ML morphine sulfate 0.5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1728800\"> </a>1728800</td><td>10 ML morphine sulfate 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1728805\"> </a>1728805</td><td>2 ML morphine sulfate 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1728999\"> </a>1728999</td><td>30 ML morphine sulfate 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1729197\"> </a>1729197</td><td>1 ML morphine sulfate 2 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1729320\"> </a>1729320</td><td>fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1729578\"> </a>1729578</td><td>remifentanil 1 MG Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1729584\"> </a>1729584</td><td>remifentanil 2 MG Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1729710\"> </a>1729710</td><td>remifentanil 5 MG Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731517\"> </a>1731517</td><td>10 ML morphine sulfate 25 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731520\"> </a>1731520</td><td>4 ML morphine sulfate 25 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731522\"> </a>1731522</td><td>20 ML morphine sulfate 25 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731537\"> </a>1731537</td><td>20 ML morphine sulfate 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731545\"> </a>1731545</td><td>50 ML morphine sulfate 50 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731990\"> </a>1731990</td><td>1.5 ML morphine sulfate liposomal 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731993\"> </a>1731993</td><td>1 ML morphine sulfate 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731995\"> </a>1731995</td><td>1 ML morphine sulfate 10 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1731998\"> </a>1731998</td><td>20 ML morphine sulfate 10 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732003\"> </a>1732003</td><td>1 ML morphine sulfate 8 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732006\"> </a>1732006</td><td>1 ML morphine sulfate 4 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732011\"> </a>1732011</td><td>1 ML morphine sulfate 8 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732014\"> </a>1732014</td><td>1 ML morphine sulfate 4 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732136\"> </a>1732136</td><td>1 ML morphine sulfate 5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1732138\"> </a>1732138</td><td>30 ML morphine sulfate 5 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1733080\"> </a>1733080</td><td>1 ML morphine sulfate 15 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1735003\"> </a>1735003</td><td>2 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1735006\"> </a>1735006</td><td>10 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1735007\"> </a>1735007</td><td>5 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1735008\"> </a>1735008</td><td>20 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1735013\"> </a>1735013</td><td>50 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1740007\"> </a>1740007</td><td>{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray) } Pack</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1740009\"> </a>1740009</td><td>{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1790527\"> </a>1790527</td><td>Abuse-Deterrent 12 HR oxycodone 9 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1791558\"> </a>1791558</td><td>Abuse-Deterrent 12 HR oxycodone 13.5 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1791567\"> </a>1791567</td><td>Abuse-Deterrent 12 HR oxycodone 18 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1791574\"> </a>1791574</td><td>Abuse-Deterrent 12 HR oxycodone 27 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1791580\"> </a>1791580</td><td>Abuse-Deterrent 12 HR oxycodone 36 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1797650\"> </a>1797650</td><td>buprenorphine 74.2 MG Drug Implant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1809097\"> </a>1809097</td><td>1 ML sufentanil 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1809102\"> </a>1809102</td><td>2 ML sufentanil 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1809104\"> </a>1809104</td><td>5 ML sufentanil 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1812164\"> </a>1812164</td><td>acetaminophen 325 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860127\"> </a>1860127</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 60 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860129\"> </a>1860129</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860137\"> </a>1860137</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860148\"> </a>1860148</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860151\"> </a>1860151</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860154\"> </a>1860154</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860157\"> </a>1860157</td><td>Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860491\"> </a>1860491</td><td>12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860493\"> </a>1860493</td><td>12 HR hydrocodone bitartrate 15 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860495\"> </a>1860495</td><td>12 HR hydrocodone bitartrate 20 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860497\"> </a>1860497</td><td>12 HR hydrocodone bitartrate 30 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860499\"> </a>1860499</td><td>12 HR hydrocodone bitartrate 40 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1860501\"> </a>1860501</td><td>12 HR hydrocodone bitartrate 50 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1871434\"> </a>1871434</td><td>Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1871441\"> </a>1871441</td><td>Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1871444\"> </a>1871444</td><td>Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1872234\"> </a>1872234</td><td>Abuse-Deterrent 12 HR morphine sulfate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1872271\"> </a>1872271</td><td>1 ML hydromorphone hydrochloride 4 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1944529\"> </a>1944529</td><td>Abuse-Deterrent oxycodone hydrochloride 15 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1944538\"> </a>1944538</td><td>Abuse-Deterrent oxycodone hydrochloride 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197696\"> </a>197696</td><td>72 HR fentanyl 0.075 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-197873\"> </a>197873</td><td>levorphanol tartrate 2 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1996184\"> </a>1996184</td><td>0.5 ML buprenorphine 200 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1996192\"> </a>1996192</td><td>1.5 ML buprenorphine 200 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-200240\"> </a>200240</td><td>paregoric 0.4 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2003714\"> </a>2003714</td><td>1 ML morphine sulfate 2 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2058845\"> </a>2058845</td><td>levorphanol tartrate 3 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2103192\"> </a>2103192</td><td>sufentanil 0.03 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2105822\"> </a>2105822</td><td>acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2168270\"> </a>2168270</td><td>1 ML fentanyl 0.05 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2277368\"> </a>2277368</td><td>1 ML hydromorphone hydrochloride 0.2 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-238129\"> </a>238129</td><td>1 ML buprenorphine 0.3 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-245134\"> </a>245134</td><td>72 HR fentanyl 0.025 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-245135\"> </a>245135</td><td>72 HR fentanyl 0.05 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-245136\"> </a>245136</td><td>72 HR fentanyl 0.1 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2539186\"> </a>2539186</td><td>1 ML meperidine hydrochloride 50 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-2539191\"> </a>2539191</td><td>1 ML meperidine hydrochloride 25 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310293\"> </a>310293</td><td>fentanyl 1.2 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310294\"> </a>310294</td><td>fentanyl 1.6 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310295\"> </a>310295</td><td>fentanyl 0.2 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-310297\"> </a>310297</td><td>fentanyl 0.4 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-312104\"> </a>312104</td><td>belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-312107\"> </a>312107</td><td>belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-313992\"> </a>313992</td><td>fentanyl 0.6 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-313993\"> </a>313993</td><td>fentanyl 0.8 MG Oral Lozenge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-351264\"> </a>351264</td><td>buprenorphine 2 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-351265\"> </a>351265</td><td>buprenorphine 8 MG Sublingual Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-577057\"> </a>577057</td><td>72 HR fentanyl 0.012 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-637540\"> </a>637540</td><td>aspirin 325 MG / oxycodone hydrochloride 4.5 MG / oxycodone terephthalate 0.38 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-668363\"> </a>668363</td><td>fentanyl 0.1 MG Buccal Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-668364\"> </a>668364</td><td>fentanyl 0.2 MG Buccal Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-668365\"> </a>668365</td><td>fentanyl 0.4 MG Buccal Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-668366\"> </a>668366</td><td>fentanyl 0.6 MG Buccal Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-668367\"> </a>668367</td><td>fentanyl 0.8 MG Buccal Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-727759\"> </a>727759</td><td>2 ML fentanyl 0.05 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-825409\"> </a>825409</td><td>tapentadol 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-825411\"> </a>825411</td><td>tapentadol 50 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-825413\"> </a>825413</td><td>tapentadol 75 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-830196\"> </a>830196</td><td>opium tincture 100 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-848768\"> </a>848768</td><td>aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856940\"> </a>856940</td><td>acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856944\"> </a>856944</td><td>acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.67 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856980\"> </a>856980</td><td>acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856987\"> </a>856987</td><td>acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856992\"> </a>856992</td><td>acetaminophen 300 MG / hydrocodone bitartrate 7.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-856999\"> </a>856999</td><td>acetaminophen 325 MG / hydrocodone bitartrate 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857002\"> </a>857002</td><td>acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857005\"> </a>857005</td><td>acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857099\"> </a>857099</td><td>acetaminophen 33.3 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857121\"> </a>857121</td><td>aspirin 500 MG / hydrocodone bitartrate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857131\"> </a>857131</td><td>acetaminophen 400 MG / hydrocodone bitartrate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857391\"> </a>857391</td><td>acetaminophen 325 MG / hydrocodone bitartrate 2.5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857510\"> </a>857510</td><td>12 HR chlorpheniramine polistirex 4 MG / hydrocodone polistirex 5 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-857512\"> </a>857512</td><td>12 HR chlorpheniramine polistirex 8 MG / hydrocodone polistirex 10 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-858770\"> </a>858770</td><td>hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-858778\"> </a>858778</td><td>hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-858798\"> </a>858798</td><td>hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-859315\"> </a>859315</td><td>hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-859383\"> </a>859383</td><td>guaifenesin 40 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860151\"> </a>860151</td><td>hydrocodone bitartrate 1 MG/ML / phenylephrine hydrochloride 1 MG/ML / pyrilamine maleate 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860792\"> </a>860792</td><td>1 ML meperidine hydrochloride 75 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861447\"> </a>861447</td><td>meperidine hydrochloride 10 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861455\"> </a>861455</td><td>meperidine hydrochloride 100 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861459\"> </a>861459</td><td>meperidine hydrochloride 100 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861463\"> </a>861463</td><td>meperidine hydrochloride 50 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861467\"> </a>861467</td><td>meperidine hydrochloride 50 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861473\"> </a>861473</td><td>1 ML meperidine hydrochloride 50 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861476\"> </a>861476</td><td>1 ML meperidine hydrochloride 25 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861479\"> </a>861479</td><td>meperidine hydrochloride 10 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861493\"> </a>861493</td><td>1 ML meperidine hydrochloride 100 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-861494\"> </a>861494</td><td>1 ML meperidine hydrochloride 25 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863845\"> </a>863845</td><td>Abuse-Deterrent morphine sulfate 100 MG / naltrexone hydrochloride 4 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863848\"> </a>863848</td><td>Abuse-Deterrent morphine sulfate 20 MG / naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863850\"> </a>863850</td><td>Abuse-Deterrent morphine sulfate 30 MG / naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863852\"> </a>863852</td><td>Abuse-Deterrent morphine sulfate 50 MG / naltrexone hydrochloride 2 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863854\"> </a>863854</td><td>Abuse-Deterrent morphine sulfate 60 MG / naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-863856\"> </a>863856</td><td>Abuse-Deterrent morphine sulfate 80 MG / naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864706\"> </a>864706</td><td>methadone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864714\"> </a>864714</td><td>methadone hydrochloride 10 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864718\"> </a>864718</td><td>methadone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864761\"> </a>864761</td><td>methadone hydrochloride 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864769\"> </a>864769</td><td>methadone hydrochloride 2 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-864978\"> </a>864978</td><td>methadone hydrochloride 40 MG Tablet for Oral Suspension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-891874\"> </a>891874</td><td>morphine sulfate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-891881\"> </a>891881</td><td>morphine sulfate 15 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-891888\"> </a>891888</td><td>morphine sulfate 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-891893\"> </a>891893</td><td>morphine sulfate 60 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892297\"> </a>892297</td><td>24 HR morphine sulfate 120 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892342\"> </a>892342</td><td>24 HR morphine sulfate 30 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892345\"> </a>892345</td><td>morphine sulfate 30 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892349\"> </a>892349</td><td>24 HR morphine sulfate 60 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892352\"> </a>892352</td><td>morphine sulfate 60 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892355\"> </a>892355</td><td>24 HR morphine sulfate 90 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892494\"> </a>892494</td><td>morphine sulfate 10 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892516\"> </a>892516</td><td>morphine sulfate 10 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892554\"> </a>892554</td><td>morphine sulfate 100 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892582\"> </a>892582</td><td>morphine sulfate 15 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892589\"> </a>892589</td><td>morphine sulfate 2 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892596\"> </a>892596</td><td>morphine sulfate 20 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892603\"> </a>892603</td><td>morphine sulfate 20 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892625\"> </a>892625</td><td>morphine sulfate 20 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892643\"> </a>892643</td><td>morphine sulfate 200 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892646\"> </a>892646</td><td>morphine sulfate 200 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892672\"> </a>892672</td><td>morphine sulfate 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-892678\"> </a>892678</td><td>morphine sulfate 30 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894780\"> </a>894780</td><td>morphine sulfate 4 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894801\"> </a>894801</td><td>morphine sulfate 50 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894807\"> </a>894807</td><td>morphine sulfate 5 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894814\"> </a>894814</td><td>morphine sulfate 80 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894911\"> </a>894911</td><td>0.7 ML morphine sulfate 14.3 MG/ML Auto-Injector</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894912\"> </a>894912</td><td>1 ML morphine sulfate 10 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894914\"> </a>894914</td><td>1 ML morphine sulfate 8 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894942\"> </a>894942</td><td>24 HR morphine sulfate 45 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-894970\"> </a>894970</td><td>24 HR morphine sulfate 75 MG Extended Release Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897653\"> </a>897653</td><td>1 ML hydromorphone hydrochloride 1 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897657\"> </a>897657</td><td>hydromorphone hydrochloride 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897696\"> </a>897696</td><td>hydromorphone hydrochloride 2 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897702\"> </a>897702</td><td>hydromorphone hydrochloride 4 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897710\"> </a>897710</td><td>hydromorphone hydrochloride 8 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897745\"> </a>897745</td><td>hydromorphone hydrochloride 2 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897749\"> </a>897749</td><td>hydromorphone hydrochloride 3 MG Rectal Suppository</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897753\"> </a>897753</td><td>1 ML hydromorphone hydrochloride 4 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897756\"> </a>897756</td><td>1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897757\"> </a>897757</td><td>1 ML hydromorphone hydrochloride 2 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-897758\"> </a>897758</td><td>1 ML hydromorphone hydrochloride 4 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-902729\"> </a>902729</td><td>24 HR hydromorphone hydrochloride 12 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-902736\"> </a>902736</td><td>24 HR hydromorphone hydrochloride 16 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-902741\"> </a>902741</td><td>24 HR hydromorphone hydrochloride 8 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-904870\"> </a>904870</td><td>168 HR buprenorphine 0.01 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-904876\"> </a>904876</td><td>168 HR buprenorphine 0.02 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-904880\"> </a>904880</td><td>168 HR buprenorphine 0.005 MG/HR Transdermal System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977874\"> </a>977874</td><td>12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977894\"> </a>977894</td><td>12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977902\"> </a>977902</td><td>12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977909\"> </a>977909</td><td>12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977915\"> </a>977915</td><td>12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977923\"> </a>977923</td><td>12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977929\"> </a>977929</td><td>12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977939\"> </a>977939</td><td>oxymorphone hydrochloride 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-977942\"> </a>977942</td><td>oxymorphone hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-991147\"> </a>991147</td><td>methadone hydrochloride 10 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-992656\"> </a>992656</td><td>homatropine methylbromide 1.5 MG / hydrocodone bitartrate 5 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-992668\"> </a>992668</td><td>homatropine methylbromide 0.3 MG/ML / hydrocodone bitartrate 1 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-993755\"> </a>993755</td><td>acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-993770\"> </a>993770</td><td>acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-993781\"> </a>993781</td><td>acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-993890\"> </a>993890</td><td>acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-993943\"> </a>993943</td><td>acetaminophen 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994226\"> </a>994226</td><td>aspirin 325 MG / carisoprodol 200 MG / codeine phosphate 16 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994237\"> </a>994237</td><td>aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994289\"> </a>994289</td><td>brompheniramine maleate 0.27 MG/ML / codeine phosphate 1.27 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994402\"> </a>994402</td><td>brompheniramine maleate 0.4 MG/ML / codeine phosphate 1.5 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-995450\"> </a>995450</td><td>codeine phosphate 10 MG / guaifenesin 300 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-996706\"> </a>996706</td><td>codeine phosphate 20 MG / guaifenesin 400 MG / phenylephrine hydrochloride 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-996710\"> </a>996710</td><td>codeine phosphate 20 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 20 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-996714\"> </a>996714</td><td>codeine phosphate 20 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-996725\"> </a>996725</td><td>codeine phosphate 20 MG / guaifenesin 400 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-996728\"> </a>996728</td><td>codeine phosphate 20 MG / pseudoephedrine hydrochloride 60 MG Oral Capsule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-997170\"> </a>997170</td><td>codeine sulfate 15 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-997287\"> </a>997287</td><td>codeine sulfate 30 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-997296\"> </a>997296</td><td>codeine sulfate 60 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-998212\"> </a>998212</td><td>1 ML morphine sulfate 2 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-998213\"> </a>998213</td><td>1 ML morphine sulfate 4 MG/ML Prefilled Syringe</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1111.165",
   "version": "20210224",
   "name": "Schedule II & III Opioid Medications",
   "status": "active",
   "date": "2022-03-08T01:02:00-05:00",
   "publisher": "Lantana EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0d2af047-8277-4583-86e3-f4d8dbfe9ea8",
+    "timestamp": "2022-07-19T15:05:06-04:00",
+    "total": 326,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1014599",
+      "display": "acetaminophen 300 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1014615",
+      "display": "acetaminophen 300 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1014632",
+      "display": "acetaminophen 300 MG / oxycodone hydrochloride 7.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1037259",
+      "display": "acetaminophen 300 MG / oxycodone hydrochloride 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1044427",
+      "display": "acetaminophen 20 MG/ML / hydrocodone bitartrate 0.667 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049214",
+      "display": "acetaminophen 325 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049221",
+      "display": "acetaminophen 325 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049225",
+      "display": "acetaminophen 325 MG / oxycodone hydrochloride 7.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049251",
+      "display": "acetaminophen 400 MG / oxycodone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049260",
+      "display": "acetaminophen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049502",
+      "display": "12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049543",
+      "display": "12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049574",
+      "display": "12 HR oxycodone hydrochloride 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049580",
+      "display": "acetaminophen 65 MG/ML / oxycodone hydrochloride 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049589",
+      "display": "ibuprofen 400 MG / oxycodone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049593",
+      "display": "12 HR oxycodone hydrochloride 60 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049604",
+      "display": "oxycodone hydrochloride 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049611",
+      "display": "oxycodone hydrochloride 15 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049615",
+      "display": "oxycodone hydrochloride 20 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049618",
+      "display": "oxycodone hydrochloride 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049621",
+      "display": "oxycodone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049635",
+      "display": "acetaminophen 325 MG / oxycodone hydrochloride 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049683",
+      "display": "oxycodone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049686",
+      "display": "oxycodone hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1049696",
+      "display": "oxycodone hydrochloride 5 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053647",
+      "display": "fentanyl 0.1 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053652",
+      "display": "fentanyl 0.2 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053655",
+      "display": "fentanyl 0.3 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053658",
+      "display": "fentanyl 0.4 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053661",
+      "display": "fentanyl 0.6 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1053664",
+      "display": "fentanyl 0.8 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1087459",
+      "display": "12 HR chlorpheniramine polistirex 1.6 MG/ML / hydrocodone polistirex 2 MG/ML Extended Release Suspension"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1089055",
+      "display": "codeine phosphate 10 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1089058",
+      "display": "codeine phosphate 10 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1112220",
+      "display": "chlorpheniramine maleate 0.8 MG/ML / hydrocodone bitartrate 1 MG/ML / pseudoephedrine hydrochloride 12 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1113314",
+      "display": "oxycodone hydrochloride 7.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1115573",
+      "display": "fentanyl 0.1 MG/ACTUAT Metered Dose Nasal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1115577",
+      "display": "fentanyl 0.4 MG/ACTUAT Metered Dose Nasal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1148797",
+      "display": "12 HR tapentadol 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1148800",
+      "display": "12 HR tapentadol 150 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1148803",
+      "display": "12 HR tapentadol 200 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1148807",
+      "display": "12 HR tapentadol 250 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1148809",
+      "display": "12 HR tapentadol 50 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1232113",
+      "display": "1 ML morphine sulfate 15 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1234941",
+      "display": "chlorpheniramine maleate 0.4 MG/ML / dihydrocodeine bitartrate 0.6 MG/ML / phenylephrine hydrochloride 1.5 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1237050",
+      "display": "fentanyl 0.1 MG/ACTUAT Mucosal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1237057",
+      "display": "fentanyl 0.2 MG/ACTUAT Mucosal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1237060",
+      "display": "fentanyl 0.4 MG/ACTUAT Mucosal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1237064",
+      "display": "fentanyl 0.6 MG/ACTUAT Mucosal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1237068",
+      "display": "fentanyl 0.8 MG/ACTUAT Mucosal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1303736",
+      "display": "morphine sulfate 40 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1306898",
+      "display": "24 HR hydromorphone hydrochloride 32 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1356797",
+      "display": "brompheniramine maleate 4 MG / codeine phosphate 10 MG / phenylephrine hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1356800",
+      "display": "brompheniramine maleate 4 MG / codeine phosphate 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1356804",
+      "display": "brompheniramine maleate 4 MG / codeine phosphate 20 MG / phenylephrine hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1356807",
+      "display": "brompheniramine maleate 4 MG / codeine phosphate 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1366873",
+      "display": "hydrocodone bitartrate 5 MG / pseudoephedrine hydrochloride 60 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1372265",
+      "display": "chlorpheniramine maleate 0.8 MG/ML / hydrocodone bitartrate 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1431286",
+      "display": "acetaminophen 300 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1432969",
+      "display": "168 HR buprenorphine 0.015 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1433251",
+      "display": "0.5 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1442790",
+      "display": "1 ML morphine sulfate 5 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1542997",
+      "display": "168 HR buprenorphine 0.0075 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595730",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 20 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595740",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595746",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 40 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595752",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 60 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595758",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 80 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595764",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1595770",
+      "display": "Abuse-Deterrent 24 HR hydrocodone bitartrate 120 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1596108",
+      "display": "acetaminophen 320.5 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1603495",
+      "display": "72 HR fentanyl 0.0375 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1603498",
+      "display": "72 HR fentanyl 0.0625 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1603501",
+      "display": "72 HR fentanyl 0.0875 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1651558",
+      "display": "guaifenesin 40 MG/ML / hydrocodone bitartrate 0.5 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1652087",
+      "display": "12 HR chlorpheniramine polistirex 0.8 MG/ML / codeine polistirex 4 MG/ML Extended Release Suspension"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1655032",
+      "display": "1 ML buprenorphine 0.3 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665685",
+      "display": "1 ML meperidine hydrochloride 100 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665690",
+      "display": "1.5 ML meperidine hydrochloride 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665697",
+      "display": "1 ML meperidine hydrochloride 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665699",
+      "display": "0.5 ML meperidine hydrochloride 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665701",
+      "display": "2 ML meperidine hydrochloride 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1666831",
+      "display": "80 ACTUAT fentanyl 0.04 MG/ACTUAT Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716057",
+      "display": "buprenorphine 0.15 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716065",
+      "display": "buprenorphine 0.3 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716069",
+      "display": "buprenorphine 0.45 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716073",
+      "display": "buprenorphine 0.6 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716077",
+      "display": "buprenorphine 0.075 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716081",
+      "display": "buprenorphine 0.75 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1716086",
+      "display": "buprenorphine 0.9 MG Buccal Film"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1723206",
+      "display": "2 ML alfentanil 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1723208",
+      "display": "10 ML alfentanil 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1723209",
+      "display": "20 ML alfentanil 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1723210",
+      "display": "5 ML alfentanil 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724276",
+      "display": "1 ML hydromorphone hydrochloride 2 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724338",
+      "display": "1 ML hydromorphone hydrochloride 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724340",
+      "display": "5 ML hydromorphone hydrochloride 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724341",
+      "display": "50 ML hydromorphone hydrochloride 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724383",
+      "display": "1 ML hydromorphone hydrochloride 1 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1724644",
+      "display": "1 ML hydromorphone hydrochloride 2 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1728783",
+      "display": "10 ML morphine sulfate 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1728791",
+      "display": "2 ML morphine sulfate 0.5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1728800",
+      "display": "10 ML morphine sulfate 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1728805",
+      "display": "2 ML morphine sulfate 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1728999",
+      "display": "30 ML morphine sulfate 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1729197",
+      "display": "1 ML morphine sulfate 2 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1729320",
+      "display": "fentanyl 0.3 MG/ACTUAT Metered Dose Nasal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1729578",
+      "display": "remifentanil 1 MG Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1729584",
+      "display": "remifentanil 2 MG Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1729710",
+      "display": "remifentanil 5 MG Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731517",
+      "display": "10 ML morphine sulfate 25 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731520",
+      "display": "4 ML morphine sulfate 25 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731522",
+      "display": "20 ML morphine sulfate 25 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731537",
+      "display": "20 ML morphine sulfate 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731545",
+      "display": "50 ML morphine sulfate 50 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731990",
+      "display": "1.5 ML morphine sulfate liposomal 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731993",
+      "display": "1 ML morphine sulfate 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731995",
+      "display": "1 ML morphine sulfate 10 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1731998",
+      "display": "20 ML morphine sulfate 10 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732003",
+      "display": "1 ML morphine sulfate 8 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732006",
+      "display": "1 ML morphine sulfate 4 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732011",
+      "display": "1 ML morphine sulfate 8 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732014",
+      "display": "1 ML morphine sulfate 4 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732136",
+      "display": "1 ML morphine sulfate 5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1732138",
+      "display": "30 ML morphine sulfate 5 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1733080",
+      "display": "1 ML morphine sulfate 15 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1735003",
+      "display": "2 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1735006",
+      "display": "10 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1735007",
+      "display": "5 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1735008",
+      "display": "20 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1735013",
+      "display": "50 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1740007",
+      "display": "{2 (fentanyl 0.6 MG/ACTUAT Mucosal Spray) } Pack"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1740009",
+      "display": "{2 (fentanyl 0.8 MG/ACTUAT Mucosal Spray) } Pack"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1790527",
+      "display": "Abuse-Deterrent 12 HR oxycodone 9 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1791558",
+      "display": "Abuse-Deterrent 12 HR oxycodone 13.5 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1791567",
+      "display": "Abuse-Deterrent 12 HR oxycodone 18 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1791574",
+      "display": "Abuse-Deterrent 12 HR oxycodone 27 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1791580",
+      "display": "Abuse-Deterrent 12 HR oxycodone 36 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1797650",
+      "display": "buprenorphine 74.2 MG Drug Implant"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1809097",
+      "display": "1 ML sufentanil 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1809102",
+      "display": "2 ML sufentanil 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1809104",
+      "display": "5 ML sufentanil 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1812164",
+      "display": "acetaminophen 325 MG / caffeine 30 MG / dihydrocodeine bitartrate 16 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860127",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 60 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860129",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 20 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860137",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 40 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860148",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 80 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860151",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860154",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 15 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860157",
+      "display": "Abuse-Deterrent 12 HR oxycodone hydrochloride 10 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860491",
+      "display": "12 HR hydrocodone bitartrate 10 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860493",
+      "display": "12 HR hydrocodone bitartrate 15 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860495",
+      "display": "12 HR hydrocodone bitartrate 20 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860497",
+      "display": "12 HR hydrocodone bitartrate 30 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860499",
+      "display": "12 HR hydrocodone bitartrate 40 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1860501",
+      "display": "12 HR hydrocodone bitartrate 50 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1871434",
+      "display": "Abuse-Deterrent 12 HR morphine sulfate 15 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1871441",
+      "display": "Abuse-Deterrent 12 HR morphine sulfate 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1871444",
+      "display": "Abuse-Deterrent 12 HR morphine sulfate 60 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1872234",
+      "display": "Abuse-Deterrent 12 HR morphine sulfate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1872271",
+      "display": "1 ML hydromorphone hydrochloride 4 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1944529",
+      "display": "Abuse-Deterrent oxycodone hydrochloride 15 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1944538",
+      "display": "Abuse-Deterrent oxycodone hydrochloride 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197696",
+      "display": "72 HR fentanyl 0.075 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "197873",
+      "display": "levorphanol tartrate 2 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1996184",
+      "display": "0.5 ML buprenorphine 200 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1996192",
+      "display": "1.5 ML buprenorphine 200 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "200240",
+      "display": "paregoric 0.4 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2003714",
+      "display": "1 ML morphine sulfate 2 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2058845",
+      "display": "levorphanol tartrate 3 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2103192",
+      "display": "sufentanil 0.03 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2105822",
+      "display": "acetaminophen 60 MG/ML / oxycodone hydrochloride 2 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2168270",
+      "display": "1 ML fentanyl 0.05 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2277368",
+      "display": "1 ML hydromorphone hydrochloride 0.2 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "238129",
+      "display": "1 ML buprenorphine 0.3 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "245134",
+      "display": "72 HR fentanyl 0.025 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "245135",
+      "display": "72 HR fentanyl 0.05 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "245136",
+      "display": "72 HR fentanyl 0.1 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2539186",
+      "display": "1 ML meperidine hydrochloride 50 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "2539191",
+      "display": "1 ML meperidine hydrochloride 25 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310293",
+      "display": "fentanyl 1.2 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310294",
+      "display": "fentanyl 1.6 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310295",
+      "display": "fentanyl 0.2 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "310297",
+      "display": "fentanyl 0.4 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "312104",
+      "display": "belladonna alkaloids 16.2 MG / opium 30 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "312107",
+      "display": "belladonna alkaloids 16.2 MG / opium 60 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "313992",
+      "display": "fentanyl 0.6 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "313993",
+      "display": "fentanyl 0.8 MG Oral Lozenge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "351264",
+      "display": "buprenorphine 2 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "351265",
+      "display": "buprenorphine 8 MG Sublingual Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "577057",
+      "display": "72 HR fentanyl 0.012 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "637540",
+      "display": "aspirin 325 MG / oxycodone hydrochloride 4.5 MG / oxycodone terephthalate 0.38 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "668363",
+      "display": "fentanyl 0.1 MG Buccal Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "668364",
+      "display": "fentanyl 0.2 MG Buccal Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "668365",
+      "display": "fentanyl 0.4 MG Buccal Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "668366",
+      "display": "fentanyl 0.6 MG Buccal Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "668367",
+      "display": "fentanyl 0.8 MG Buccal Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "727759",
+      "display": "2 ML fentanyl 0.05 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "825409",
+      "display": "tapentadol 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "825411",
+      "display": "tapentadol 50 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "825413",
+      "display": "tapentadol 75 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "830196",
+      "display": "opium tincture 100 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "848768",
+      "display": "aspirin 325 MG / oxycodone hydrochloride 4.84 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856940",
+      "display": "acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856944",
+      "display": "acetaminophen 21.7 MG/ML / hydrocodone bitartrate 0.67 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856980",
+      "display": "acetaminophen 300 MG / hydrocodone bitartrate 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856987",
+      "display": "acetaminophen 300 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856992",
+      "display": "acetaminophen 300 MG / hydrocodone bitartrate 7.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "856999",
+      "display": "acetaminophen 325 MG / hydrocodone bitartrate 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857002",
+      "display": "acetaminophen 325 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857005",
+      "display": "acetaminophen 325 MG / hydrocodone bitartrate 7.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857099",
+      "display": "acetaminophen 33.3 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857121",
+      "display": "aspirin 500 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857131",
+      "display": "acetaminophen 400 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857391",
+      "display": "acetaminophen 325 MG / hydrocodone bitartrate 2.5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857510",
+      "display": "12 HR chlorpheniramine polistirex 4 MG / hydrocodone polistirex 5 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "857512",
+      "display": "12 HR chlorpheniramine polistirex 8 MG / hydrocodone polistirex 10 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "858770",
+      "display": "hydrocodone bitartrate 2.5 MG / ibuprofen 200 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "858778",
+      "display": "hydrocodone bitartrate 5 MG / ibuprofen 200 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "858798",
+      "display": "hydrocodone bitartrate 7.5 MG / ibuprofen 200 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "859315",
+      "display": "hydrocodone bitartrate 10 MG / ibuprofen 200 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "859383",
+      "display": "guaifenesin 40 MG/ML / hydrocodone bitartrate 0.5 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860151",
+      "display": "hydrocodone bitartrate 1 MG/ML / phenylephrine hydrochloride 1 MG/ML / pyrilamine maleate 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860792",
+      "display": "1 ML meperidine hydrochloride 75 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861447",
+      "display": "meperidine hydrochloride 10 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861455",
+      "display": "meperidine hydrochloride 100 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861459",
+      "display": "meperidine hydrochloride 100 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861463",
+      "display": "meperidine hydrochloride 50 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861467",
+      "display": "meperidine hydrochloride 50 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861473",
+      "display": "1 ML meperidine hydrochloride 50 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861476",
+      "display": "1 ML meperidine hydrochloride 25 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861479",
+      "display": "meperidine hydrochloride 10 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861493",
+      "display": "1 ML meperidine hydrochloride 100 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "861494",
+      "display": "1 ML meperidine hydrochloride 25 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863845",
+      "display": "Abuse-Deterrent morphine sulfate 100 MG / naltrexone hydrochloride 4 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863848",
+      "display": "Abuse-Deterrent morphine sulfate 20 MG / naltrexone hydrochloride 0.8 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863850",
+      "display": "Abuse-Deterrent morphine sulfate 30 MG / naltrexone hydrochloride 1.2 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863852",
+      "display": "Abuse-Deterrent morphine sulfate 50 MG / naltrexone hydrochloride 2 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863854",
+      "display": "Abuse-Deterrent morphine sulfate 60 MG / naltrexone hydrochloride 2.4 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "863856",
+      "display": "Abuse-Deterrent morphine sulfate 80 MG / naltrexone hydrochloride 3.2 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864706",
+      "display": "methadone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864714",
+      "display": "methadone hydrochloride 10 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864718",
+      "display": "methadone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864761",
+      "display": "methadone hydrochloride 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864769",
+      "display": "methadone hydrochloride 2 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "864978",
+      "display": "methadone hydrochloride 40 MG Tablet for Oral Suspension"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "891874",
+      "display": "morphine sulfate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "891881",
+      "display": "morphine sulfate 15 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "891888",
+      "display": "morphine sulfate 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "891893",
+      "display": "morphine sulfate 60 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892297",
+      "display": "24 HR morphine sulfate 120 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892342",
+      "display": "24 HR morphine sulfate 30 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892345",
+      "display": "morphine sulfate 30 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892349",
+      "display": "24 HR morphine sulfate 60 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892352",
+      "display": "morphine sulfate 60 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892355",
+      "display": "24 HR morphine sulfate 90 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892494",
+      "display": "morphine sulfate 10 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892516",
+      "display": "morphine sulfate 10 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892554",
+      "display": "morphine sulfate 100 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892582",
+      "display": "morphine sulfate 15 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892589",
+      "display": "morphine sulfate 2 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892596",
+      "display": "morphine sulfate 20 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892603",
+      "display": "morphine sulfate 20 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892625",
+      "display": "morphine sulfate 20 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892643",
+      "display": "morphine sulfate 200 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892646",
+      "display": "morphine sulfate 200 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892672",
+      "display": "morphine sulfate 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "892678",
+      "display": "morphine sulfate 30 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894780",
+      "display": "morphine sulfate 4 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894801",
+      "display": "morphine sulfate 50 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894807",
+      "display": "morphine sulfate 5 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894814",
+      "display": "morphine sulfate 80 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894911",
+      "display": "0.7 ML morphine sulfate 14.3 MG/ML Auto-Injector"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894912",
+      "display": "1 ML morphine sulfate 10 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894914",
+      "display": "1 ML morphine sulfate 8 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894942",
+      "display": "24 HR morphine sulfate 45 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "894970",
+      "display": "24 HR morphine sulfate 75 MG Extended Release Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897653",
+      "display": "1 ML hydromorphone hydrochloride 1 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897657",
+      "display": "hydromorphone hydrochloride 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897696",
+      "display": "hydromorphone hydrochloride 2 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897702",
+      "display": "hydromorphone hydrochloride 4 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897710",
+      "display": "hydromorphone hydrochloride 8 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897745",
+      "display": "hydromorphone hydrochloride 2 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897749",
+      "display": "hydromorphone hydrochloride 3 MG Rectal Suppository"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897753",
+      "display": "1 ML hydromorphone hydrochloride 4 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897756",
+      "display": "1 ML hydromorphone hydrochloride 1 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897757",
+      "display": "1 ML hydromorphone hydrochloride 2 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "897758",
+      "display": "1 ML hydromorphone hydrochloride 4 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "902729",
+      "display": "24 HR hydromorphone hydrochloride 12 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "902736",
+      "display": "24 HR hydromorphone hydrochloride 16 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "902741",
+      "display": "24 HR hydromorphone hydrochloride 8 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "904870",
+      "display": "168 HR buprenorphine 0.01 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "904876",
+      "display": "168 HR buprenorphine 0.02 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "904880",
+      "display": "168 HR buprenorphine 0.005 MG/HR Transdermal System"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977874",
+      "display": "12 HR oxymorphone hydrochloride 10 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977894",
+      "display": "12 HR oxymorphone hydrochloride 15 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977902",
+      "display": "12 HR oxymorphone hydrochloride 20 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977909",
+      "display": "12 HR oxymorphone hydrochloride 30 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977915",
+      "display": "12 HR oxymorphone hydrochloride 40 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977923",
+      "display": "12 HR oxymorphone hydrochloride 5 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977929",
+      "display": "12 HR oxymorphone hydrochloride 7.5 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977939",
+      "display": "oxymorphone hydrochloride 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "977942",
+      "display": "oxymorphone hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "991147",
+      "display": "methadone hydrochloride 10 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "992656",
+      "display": "homatropine methylbromide 1.5 MG / hydrocodone bitartrate 5 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "992668",
+      "display": "homatropine methylbromide 0.3 MG/ML / hydrocodone bitartrate 1 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "993755",
+      "display": "acetaminophen 24 MG/ML / codeine phosphate 2.4 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "993770",
+      "display": "acetaminophen 300 MG / codeine phosphate 15 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "993781",
+      "display": "acetaminophen 300 MG / codeine phosphate 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "993890",
+      "display": "acetaminophen 300 MG / codeine phosphate 60 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "993943",
+      "display": "acetaminophen 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994226",
+      "display": "aspirin 325 MG / carisoprodol 200 MG / codeine phosphate 16 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994237",
+      "display": "aspirin 325 MG / butalbital 50 MG / caffeine 40 MG / codeine phosphate 30 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994289",
+      "display": "brompheniramine maleate 0.27 MG/ML / codeine phosphate 1.27 MG/ML / pseudoephedrine hydrochloride 2 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994402",
+      "display": "brompheniramine maleate 0.4 MG/ML / codeine phosphate 1.5 MG/ML / pseudoephedrine hydrochloride 6 MG/ML Oral Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "995450",
+      "display": "codeine phosphate 10 MG / guaifenesin 300 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "996706",
+      "display": "codeine phosphate 20 MG / guaifenesin 400 MG / phenylephrine hydrochloride 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "996710",
+      "display": "codeine phosphate 20 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 20 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "996714",
+      "display": "codeine phosphate 20 MG / guaifenesin 400 MG / pseudoephedrine hydrochloride 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "996725",
+      "display": "codeine phosphate 20 MG / guaifenesin 400 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "996728",
+      "display": "codeine phosphate 20 MG / pseudoephedrine hydrochloride 60 MG Oral Capsule"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "997170",
+      "display": "codeine sulfate 15 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "997287",
+      "display": "codeine sulfate 30 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "997296",
+      "display": "codeine sulfate 60 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "998212",
+      "display": "1 ML morphine sulfate 2 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "998213",
+      "display": "1 ML morphine sulfate 4 MG/ML Prefilled Syringe"
+    } ]
+  }
 }

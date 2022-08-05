@@ -5,12 +5,73 @@
     "versionId": "13",
     "lastUpdated": "2022-03-02T18:04:22.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-134403003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=134403003\">134403003</a></td><td>Urgent referral (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183516009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183516009\">183516009</a></td><td>Referral to general medical service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183561008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183561008\">183561008</a></td><td>Referral to general practitioner (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183856001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183856001\">183856001</a></td><td>Referral to hypertension clinic (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306206005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306206005\">306206005</a></td><td>Referral to service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306253008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306253008\">306253008</a></td><td>Referral to doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306362008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306362008\">306362008</a></td><td>Referral to pharmacist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308470006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308470006\">308470006</a></td><td>Referral to general physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-453641000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=453641000124107\">453641000124107</a></td><td>Referral to specialist pharmacist (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1580",
   "version": "20210220",
   "name": "Referral to Primary Care or Alternate Provider",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0f8aa852-df64-4411-b446-f1c37163195c",
+    "timestamp": "2022-07-19T15:13:11-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "134403003",
+      "display": "Urgent referral (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183516009",
+      "display": "Referral to general medical service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183561008",
+      "display": "Referral to general practitioner (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183856001",
+      "display": "Referral to hypertension clinic (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306206005",
+      "display": "Referral to service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306253008",
+      "display": "Referral to doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306362008",
+      "display": "Referral to pharmacist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308470006",
+      "display": "Referral to general physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "453641000124107",
+      "display": "Referral to specialist pharmacist (procedure)"
+    } ]
+  }
 }

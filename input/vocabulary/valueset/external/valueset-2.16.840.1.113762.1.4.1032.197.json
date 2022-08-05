@@ -5,12 +5,223 @@
     "versionId": "7",
     "lastUpdated": "2021-08-03T01:00:43.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 39 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10743651000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10743651000119105\">10743651000119105</a></td><td>http://snomed.info/sct</td><td>Inflammation of cervix in pregnancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109867008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109867008\">109867008</a></td><td>http://snomed.info/sct</td><td>Follicular cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111418006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111418006\">111418006</a></td><td>http://snomed.info/sct</td><td>Chronic endocervicitis with erosion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19272000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19272000\">19272000</a></td><td>http://snomed.info/sct</td><td>Acute cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198199009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198199009\">198199009</a></td><td>http://snomed.info/sct</td><td>Cervicitis and endocervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198203009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198203009\">198203009</a></td><td>http://snomed.info/sct</td><td>Cervicitis with Nabothian cyst (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198206001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198206001\">198206001</a></td><td>http://snomed.info/sct</td><td>Endocervicitis with Nabothian cyst (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198336007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198336007\">198336007</a></td><td>http://snomed.info/sct</td><td>Noninflammatory cervical disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198338008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198338008\">198338008</a></td><td>http://snomed.info/sct</td><td>Ulcer of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237084006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237084006\">237084006</a></td><td>http://snomed.info/sct</td><td>Chlamydial cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237085007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237085007\">237085007</a></td><td>http://snomed.info/sct</td><td>Actinomycotic cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24548005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24548005\">24548005</a></td><td>http://snomed.info/sct</td><td>Cyst of vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248936004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248936004\">248936004</a></td><td>http://snomed.info/sct</td><td>Polyp at cervical os (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254892000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254892000\">254892000</a></td><td>http://snomed.info/sct</td><td>Fibroid polyp of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-255196008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=255196008\">255196008</a></td><td>http://snomed.info/sct</td><td>Adenomatous polyp of cervix uteri (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29609001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29609001\">29609001</a></td><td>http://snomed.info/sct</td><td>Polyp of vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31354001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31354001\">31354001</a></td><td>http://snomed.info/sct</td><td>Endocervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34543006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34543006\">34543006</a></td><td>http://snomed.info/sct</td><td>Chronic cervicitis with erosion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37610005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37610005\">37610005</a></td><td>http://snomed.info/sct</td><td>Inflammation of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427307004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427307004\">427307004</a></td><td>http://snomed.info/sct</td><td>Nongonococcal cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428193004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428193004\">428193004</a></td><td>http://snomed.info/sct</td><td>Ulcerative mucositis of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49249007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49249007\">49249007</a></td><td>http://snomed.info/sct</td><td>Acute endocervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49258000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49258000\">49258000</a></td><td>http://snomed.info/sct</td><td>Chronic endocervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55310007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55310007\">55310007</a></td><td>http://snomed.info/sct</td><td>Mucous polyp of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56728002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56728002\">56728002</a></td><td>http://snomed.info/sct</td><td>Chronic cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58881007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58881007\">58881007</a></td><td>http://snomed.info/sct</td><td>Polyp of cervix affecting pregnancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61253004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61253004\">61253004</a></td><td>http://snomed.info/sct</td><td>Erosion of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61476004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61476004\">61476004</a></td><td>http://snomed.info/sct</td><td>Embryonic cyst of vagina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64150007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64150007\">64150007</a></td><td>http://snomed.info/sct</td><td>Endocervicitis with erosion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65576009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65576009\">65576009</a></td><td>http://snomed.info/sct</td><td>Polyp of cervix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-702717000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=702717000\">702717000</a></td><td>http://snomed.info/sct</td><td>Acute on chronic cervicitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8220004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8220004\">8220004</a></td><td>http://snomed.info/sct</td><td>Endocervical polyp (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83774001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83774001\">83774001</a></td><td>http://snomed.info/sct</td><td>Cervicitis with erosion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N72\"> </a>N72</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Inflammatory disease of cervix uteri</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N84.1\"> </a>N84.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Polyp of cervix uteri</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N84.2\"> </a>N84.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Polyp of vagina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N86\"> </a>N86</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Erosion and ectropion of cervix uteri</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N89.8\"> </a>N89.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified noninflammatory disorders of vagina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-N89.9\"> </a>N89.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Noninflammatory disorder of vagina, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.197",
   "version": "20210803",
   "name": "Observed Cervical and/or Vaginal Lesions",
   "status": "active",
   "date": "2021-08-03T01:00:43-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:25dfddc9-6c25-4f63-8f1e-e0d665bf0cc7",
+    "timestamp": "2022-07-15T19:32:18-04:00",
+    "total": 39,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10743651000119105",
+      "display": "Inflammation of cervix in pregnancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109867008",
+      "display": "Follicular cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111418006",
+      "display": "Chronic endocervicitis with erosion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19272000",
+      "display": "Acute cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198199009",
+      "display": "Cervicitis and endocervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198203009",
+      "display": "Cervicitis with Nabothian cyst (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198206001",
+      "display": "Endocervicitis with Nabothian cyst (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198336007",
+      "display": "Noninflammatory cervical disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198338008",
+      "display": "Ulcer of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237084006",
+      "display": "Chlamydial cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237085007",
+      "display": "Actinomycotic cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24548005",
+      "display": "Cyst of vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248936004",
+      "display": "Polyp at cervical os (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254892000",
+      "display": "Fibroid polyp of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "255196008",
+      "display": "Adenomatous polyp of cervix uteri (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29609001",
+      "display": "Polyp of vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31354001",
+      "display": "Endocervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34543006",
+      "display": "Chronic cervicitis with erosion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37610005",
+      "display": "Inflammation of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427307004",
+      "display": "Nongonococcal cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428193004",
+      "display": "Ulcerative mucositis of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49249007",
+      "display": "Acute endocervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49258000",
+      "display": "Chronic endocervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55310007",
+      "display": "Mucous polyp of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56728002",
+      "display": "Chronic cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58881007",
+      "display": "Polyp of cervix affecting pregnancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61253004",
+      "display": "Erosion of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61476004",
+      "display": "Embryonic cyst of vagina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64150007",
+      "display": "Endocervicitis with erosion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65576009",
+      "display": "Polyp of cervix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "702717000",
+      "display": "Acute on chronic cervicitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8220004",
+      "display": "Endocervical polyp (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83774001",
+      "display": "Cervicitis with erosion (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N72",
+      "display": "Inflammatory disease of cervix uteri"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N84.1",
+      "display": "Polyp of cervix uteri"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N84.2",
+      "display": "Polyp of vagina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N86",
+      "display": "Erosion and ectropion of cervix uteri"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N89.8",
+      "display": "Other specified noninflammatory disorders of vagina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "N89.9",
+      "display": "Noninflammatory disorder of vagina, unspecified"
+    } ]
+  }
 }

@@ -5,12 +5,473 @@
     "versionId": "31",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 89 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14894002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14894002\">14894002</a></td><td>http://snomed.info/sct</td><td>Generalized disseminated choroiditis AND chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15677801000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15677801000119103\">15677801000119103</a></td><td>http://snomed.info/sct</td><td>Chorioretinitis of right eye caused by secondary syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15677881000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15677881000119106\">15677881000119106</a></td><td>http://snomed.info/sct</td><td>Chorioretinitis of left eye caused by secondary syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685401000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685401000119104\">15685401000119104</a></td><td>http://snomed.info/sct</td><td>Retinitis of bilateral eyes caused by Toxoplasma gondii (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685441000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685441000119102\">15685441000119102</a></td><td>http://snomed.info/sct</td><td>Retinitis of bilateral eyes caused by Treponema pallidum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685801000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685801000119101\">15685801000119101</a></td><td>http://snomed.info/sct</td><td>Retinitis of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685841000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685841000119104\">15685841000119104</a></td><td>http://snomed.info/sct</td><td>Retinitis of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685881000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685881000119109\">15685881000119109</a></td><td>http://snomed.info/sct</td><td>Retinitis of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15847003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15847003\">15847003</a></td><td>http://snomed.info/sct</td><td>Focal chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15992631000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15992631000119101\">15992631000119101</a></td><td>http://snomed.info/sct</td><td>Neuroretinitis of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15992671000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15992671000119103\">15992671000119103</a></td><td>http://snomed.info/sct</td><td>Neuroretinitis of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15992711000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15992711000119104\">15992711000119104</a></td><td>http://snomed.info/sct</td><td>Neuroretinitis of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15993391000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15993391000119102\">15993391000119102</a></td><td>http://snomed.info/sct</td><td>Retinitis of bilateral eyes caused by secondary syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186263000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186263000\">186263000</a></td><td>http://snomed.info/sct</td><td>Tuberculous chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-187039009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=187039009\">187039009</a></td><td>http://snomed.info/sct</td><td>Histoplasma capsulatum with retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-187194004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=187194004\">187194004</a></td><td>http://snomed.info/sct</td><td>Toxoplasmosis chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193434008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193434008\">193434008</a></td><td>http://snomed.info/sct</td><td>Focal juxtapapillary choroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193436005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193436005\">193436005</a></td><td>http://snomed.info/sct</td><td>Juxtapapillary focal chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193438006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193438006\">193438006</a></td><td>http://snomed.info/sct</td><td>Peripheral focal retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193442009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193442009\">193442009</a></td><td>http://snomed.info/sct</td><td>Disseminated posterior pole chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193443004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193443004\">193443004</a></td><td>http://snomed.info/sct</td><td>Disseminated peripheral chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193444005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193444005\">193444005</a></td><td>http://snomed.info/sct</td><td>General disseminated chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193497004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193497004\">193497004</a></td><td>http://snomed.info/sct</td><td>Vogt-Koyanagi-Harada disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22455005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22455005\">22455005</a></td><td>http://snomed.info/sct</td><td>Cytomegaloviral retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231981005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231981005\">231981005</a></td><td>http://snomed.info/sct</td><td>Birdshot chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231984002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231984002\">231984002</a></td><td>http://snomed.info/sct</td><td>Viral retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231988004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231988004\">231988004</a></td><td>http://snomed.info/sct</td><td>Bacterial chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231990003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231990003\">231990003</a></td><td>http://snomed.info/sct</td><td>Candida retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231992006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231992006\">231992006</a></td><td>http://snomed.info/sct</td><td>Onchocerca chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231994007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231994007\">231994007</a></td><td>http://snomed.info/sct</td><td>Toxocara chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312491004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312491004\">312491004</a></td><td>http://snomed.info/sct</td><td>Serpiginous choroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312930008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312930008\">312930008</a></td><td>http://snomed.info/sct</td><td>Sarcoid chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312934004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312934004\">312934004</a></td><td>http://snomed.info/sct</td><td>Syphilitic chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312955002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312955002\">312955002</a></td><td>http://snomed.info/sct</td><td>Tertiary syphilitic chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314031009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314031009\">314031009</a></td><td>http://snomed.info/sct</td><td>Acute toxoplasmosis chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314032002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314032002\">314032002</a></td><td>http://snomed.info/sct</td><td>Inactive toxoplasmosis chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314428001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314428001\">314428001</a></td><td>http://snomed.info/sct</td><td>Posterior cyclitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346251000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346251000119106\">346251000119106</a></td><td>http://snomed.info/sct</td><td>Disseminated chorioretinitis of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359668007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359668007\">359668007</a></td><td>http://snomed.info/sct</td><td>Focal retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359698000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359698000\">359698000</a></td><td>http://snomed.info/sct</td><td>Parasitic chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359707007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359707007\">359707007</a></td><td>http://snomed.info/sct</td><td>Fungal chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36535003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36535003\">36535003</a></td><td>http://snomed.info/sct</td><td>Peripheral focal retinitis AND retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371099005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371099005\">371099005</a></td><td>http://snomed.info/sct</td><td>Generalized disseminated choroiditis AND chorioretinitis with acute necrosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-373667006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=373667006\">373667006</a></td><td>http://snomed.info/sct</td><td>Posterior pole focal chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399463004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399463004\">399463004</a></td><td>http://snomed.info/sct</td><td>Retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410470003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410470003\">410470003</a></td><td>http://snomed.info/sct</td><td>Syphilitic retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414783007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414783007\">414783007</a></td><td>http://snomed.info/sct</td><td>Multifocal choroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415218004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415218004\">415218004</a></td><td>http://snomed.info/sct</td><td>Punctate outer retinal toxoplasmosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416589006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416589006\">416589006</a></td><td>http://snomed.info/sct</td><td>Toxoplasma retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416877003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416877003\">416877003</a></td><td>http://snomed.info/sct</td><td>Cryptococcal chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417405005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417405005\">417405005</a></td><td>http://snomed.info/sct</td><td>Chorioretinitis with coccidioidmycosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417547006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417547006\">417547006</a></td><td>http://snomed.info/sct</td><td>Cryptococcal retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42031001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42031001\">42031001</a></td><td>http://snomed.info/sct</td><td>Macular focal retinitis AND retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421029004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421029004\">421029004</a></td><td>http://snomed.info/sct</td><td>Herpes zoster retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441854007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441854007\">441854007</a></td><td>http://snomed.info/sct</td><td>Reactivation of toxoplasmosis chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46497009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46497009\">46497009</a></td><td>http://snomed.info/sct</td><td>Juxtapapillary focal retinitis AND retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46627006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46627006\">46627006</a></td><td>http://snomed.info/sct</td><td>Chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48225000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48225000\">48225000</a></td><td>http://snomed.info/sct</td><td>Tuberculous disseminated chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51579006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51579006\">51579006</a></td><td>http://snomed.info/sct</td><td>Disseminated choroiditis AND chorioretinitis, posterior pole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51930008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51930008\">51930008</a></td><td>http://snomed.info/sct</td><td>Focal retinitis AND retinochoroiditis of other posterior pole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56787009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56787009\">56787009</a></td><td>http://snomed.info/sct</td><td>Peripheral focal choroiditis AND chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61517002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61517002\">61517002</a></td><td>http://snomed.info/sct</td><td>Metastatic disseminated retinitis AND retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61922005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61922005\">61922005</a></td><td>http://snomed.info/sct</td><td>Disseminated retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6313001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6313001\">6313001</a></td><td>http://snomed.info/sct</td><td>Juxtapapillary focal choroiditis AND chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66281009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66281009\">66281009</a></td><td>http://snomed.info/sct</td><td>Secondary syphilitic chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69811008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69811008\">69811008</a></td><td>http://snomed.info/sct</td><td>Peripheral disseminated choroiditis AND chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-699515009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=699515009\">699515009</a></td><td>http://snomed.info/sct</td><td>Focal retinitis of posterior pole of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-699763005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=699763005\">699763005</a></td><td>http://snomed.info/sct</td><td>Focal choroiditis of posterior pole of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77628002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77628002\">77628002</a></td><td>http://snomed.info/sct</td><td>Retinal vasculitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77939001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77939001\">77939001</a></td><td>http://snomed.info/sct</td><td>Syphilitic disseminated retinochoroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78769001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78769001\">78769001</a></td><td>http://snomed.info/sct</td><td>Disseminated chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-866099002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=866099002\">866099002</a></td><td>http://snomed.info/sct</td><td>Leber idiopathic stellate neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-866133000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=866133000\">866133000</a></td><td>http://snomed.info/sct</td><td>Infectious neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88290000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88290000\">88290000</a></td><td>http://snomed.info/sct</td><td>Focal chorioretinitis caused by acquired toxoplasmosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95682009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95682009\">95682009</a></td><td>http://snomed.info/sct</td><td>Granulomatous chorioretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95685006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95685006\">95685006</a></td><td>http://snomed.info/sct</td><td>Granulomatous retinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9941009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9941009\">9941009</a></td><td>http://snomed.info/sct</td><td>Congenital syphilitic choroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.21\"> </a>H30.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior cyclitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.22\"> </a>H30.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior cyclitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.23\"> </a>H30.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior cyclitis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.811\"> </a>H30.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Harada's disease, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.812\"> </a>H30.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Harada's disease, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.813\"> </a>H30.813</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Harada's disease, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.891\"> </a>H30.891</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chorioretinal inflammations, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.892\"> </a>H30.892</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chorioretinal inflammations, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.893\"> </a>H30.893</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chorioretinal inflammations, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.91\"> </a>H30.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified chorioretinal inflammation, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.92\"> </a>H30.92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified chorioretinal inflammation, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H30.93\"> </a>H30.93</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified chorioretinal inflammation, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1468",
   "version": "20210219",
   "name": "Other and Unspecified Forms of Chorioretinitis and Retinochoroiditis",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8630c48a-e673-4697-b074-4b2a4ad09cac",
+    "timestamp": "2022-07-19T15:12:36-04:00",
+    "total": 89,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14894002",
+      "display": "Generalized disseminated choroiditis AND chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15677801000119103",
+      "display": "Chorioretinitis of right eye caused by secondary syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15677881000119106",
+      "display": "Chorioretinitis of left eye caused by secondary syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685401000119104",
+      "display": "Retinitis of bilateral eyes caused by Toxoplasma gondii (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685441000119102",
+      "display": "Retinitis of bilateral eyes caused by Treponema pallidum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685801000119101",
+      "display": "Retinitis of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685841000119104",
+      "display": "Retinitis of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685881000119109",
+      "display": "Retinitis of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15847003",
+      "display": "Focal chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15992631000119101",
+      "display": "Neuroretinitis of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15992671000119103",
+      "display": "Neuroretinitis of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15992711000119104",
+      "display": "Neuroretinitis of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15993391000119102",
+      "display": "Retinitis of bilateral eyes caused by secondary syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186263000",
+      "display": "Tuberculous chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "187039009",
+      "display": "Histoplasma capsulatum with retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "187194004",
+      "display": "Toxoplasmosis chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193434008",
+      "display": "Focal juxtapapillary choroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193436005",
+      "display": "Juxtapapillary focal chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193438006",
+      "display": "Peripheral focal retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193442009",
+      "display": "Disseminated posterior pole chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193443004",
+      "display": "Disseminated peripheral chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193444005",
+      "display": "General disseminated chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193497004",
+      "display": "Vogt-Koyanagi-Harada disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22455005",
+      "display": "Cytomegaloviral retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231981005",
+      "display": "Birdshot chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231984002",
+      "display": "Viral retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231988004",
+      "display": "Bacterial chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231990003",
+      "display": "Candida retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231992006",
+      "display": "Onchocerca chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231994007",
+      "display": "Toxocara chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312491004",
+      "display": "Serpiginous choroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312930008",
+      "display": "Sarcoid chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312934004",
+      "display": "Syphilitic chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312955002",
+      "display": "Tertiary syphilitic chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314031009",
+      "display": "Acute toxoplasmosis chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314032002",
+      "display": "Inactive toxoplasmosis chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314428001",
+      "display": "Posterior cyclitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346251000119106",
+      "display": "Disseminated chorioretinitis of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359668007",
+      "display": "Focal retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359698000",
+      "display": "Parasitic chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359707007",
+      "display": "Fungal chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36535003",
+      "display": "Peripheral focal retinitis AND retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371099005",
+      "display": "Generalized disseminated choroiditis AND chorioretinitis with acute necrosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "373667006",
+      "display": "Posterior pole focal chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399463004",
+      "display": "Retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410470003",
+      "display": "Syphilitic retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414783007",
+      "display": "Multifocal choroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415218004",
+      "display": "Punctate outer retinal toxoplasmosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416589006",
+      "display": "Toxoplasma retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416877003",
+      "display": "Cryptococcal chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417405005",
+      "display": "Chorioretinitis with coccidioidmycosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417547006",
+      "display": "Cryptococcal retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42031001",
+      "display": "Macular focal retinitis AND retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421029004",
+      "display": "Herpes zoster retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441854007",
+      "display": "Reactivation of toxoplasmosis chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46497009",
+      "display": "Juxtapapillary focal retinitis AND retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46627006",
+      "display": "Chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48225000",
+      "display": "Tuberculous disseminated chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51579006",
+      "display": "Disseminated choroiditis AND chorioretinitis, posterior pole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51930008",
+      "display": "Focal retinitis AND retinochoroiditis of other posterior pole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56787009",
+      "display": "Peripheral focal choroiditis AND chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61517002",
+      "display": "Metastatic disseminated retinitis AND retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61922005",
+      "display": "Disseminated retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6313001",
+      "display": "Juxtapapillary focal choroiditis AND chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66281009",
+      "display": "Secondary syphilitic chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69811008",
+      "display": "Peripheral disseminated choroiditis AND chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "699515009",
+      "display": "Focal retinitis of posterior pole of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "699763005",
+      "display": "Focal choroiditis of posterior pole of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77628002",
+      "display": "Retinal vasculitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77939001",
+      "display": "Syphilitic disseminated retinochoroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78769001",
+      "display": "Disseminated chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "866099002",
+      "display": "Leber idiopathic stellate neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "866133000",
+      "display": "Infectious neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88290000",
+      "display": "Focal chorioretinitis caused by acquired toxoplasmosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95682009",
+      "display": "Granulomatous chorioretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95685006",
+      "display": "Granulomatous retinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9941009",
+      "display": "Congenital syphilitic choroiditis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.21",
+      "display": "Posterior cyclitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.22",
+      "display": "Posterior cyclitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.23",
+      "display": "Posterior cyclitis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.811",
+      "display": "Harada's disease, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.812",
+      "display": "Harada's disease, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.813",
+      "display": "Harada's disease, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.891",
+      "display": "Other chorioretinal inflammations, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.892",
+      "display": "Other chorioretinal inflammations, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.893",
+      "display": "Other chorioretinal inflammations, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.91",
+      "display": "Unspecified chorioretinal inflammation, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.92",
+      "display": "Unspecified chorioretinal inflammation, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H30.93",
+      "display": "Unspecified chorioretinal inflammation, bilateral"
+    } ]
+  }
 }

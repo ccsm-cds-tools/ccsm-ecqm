@@ -5,12 +5,388 @@
     "versionId": "34",
     "lastUpdated": "2021-03-08T01:00:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 72 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111533001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111533001\">111533001</a></td><td>http://snomed.info/sct</td><td>Vertical nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232124002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232124002\">232124002</a></td><td>http://snomed.info/sct</td><td>Voluntary nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246761002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246761002\">246761002</a></td><td>http://snomed.info/sct</td><td>Uniocular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246762009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246762009\">246762009</a></td><td>http://snomed.info/sct</td><td>Gaze paretic nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278468008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278468008\">278468008</a></td><td>http://snomed.info/sct</td><td>Pressure-induced nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278469000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278469000\">278469000</a></td><td>http://snomed.info/sct</td><td>Sound intensity-induced nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-285765003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=285765003\">285765003</a></td><td>http://snomed.info/sct</td><td>Manifest-latent nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29356006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29356006\">29356006</a></td><td>http://snomed.info/sct</td><td>End-position nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307670000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307670000\">307670000</a></td><td>http://snomed.info/sct</td><td>Congenital nystagmus with sensory abnormality (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307671001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307671001\">307671001</a></td><td>http://snomed.info/sct</td><td>Congenital nystagmus without sensory abnormality (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307672008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307672008\">307672008</a></td><td>http://snomed.info/sct</td><td>Oculopalatal myoclonus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307673003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307673003\">307673003</a></td><td>http://snomed.info/sct</td><td>Peripheral vestibular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307674009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307674009\">307674009</a></td><td>http://snomed.info/sct</td><td>Benign paroxysmal positional vertigo nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307675005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307675005\">307675005</a></td><td>http://snomed.info/sct</td><td>Central vestibular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307676006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307676006\">307676006</a></td><td>http://snomed.info/sct</td><td>Downbeat nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307677002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307677002\">307677002</a></td><td>http://snomed.info/sct</td><td>Upbeat nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307678007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307678007\">307678007</a></td><td>http://snomed.info/sct</td><td>Torsional central vestibular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307679004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307679004\">307679004</a></td><td>http://snomed.info/sct</td><td>Hemi-seesaw nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307680001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307680001\">307680001</a></td><td>http://snomed.info/sct</td><td>Abducting nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307700006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307700006\">307700006</a></td><td>http://snomed.info/sct</td><td>Ataxic nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314935002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314935002\">314935002</a></td><td>http://snomed.info/sct</td><td>Acquired nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3327002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3327002\">3327002</a></td><td>http://snomed.info/sct</td><td>Jerk nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35743001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35743001\">35743001</a></td><td>http://snomed.info/sct</td><td>Pendular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359687001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359687001\">359687001</a></td><td>http://snomed.info/sct</td><td>Acquired pendular nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-373590007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=373590007\">373590007</a></td><td>http://snomed.info/sct</td><td>Convergence retraction nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39737009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39737009\">39737009</a></td><td>http://snomed.info/sct</td><td>Symptomatic nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-400948003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=400948003\">400948003</a></td><td>http://snomed.info/sct</td><td>Spasmus nutans (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-400949006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=400949006\">400949006</a></td><td>http://snomed.info/sct</td><td>Divergence retraction nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404676002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404676002\">404676002</a></td><td>http://snomed.info/sct</td><td>Bruns nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404677006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404677006\">404677006</a></td><td>http://snomed.info/sct</td><td>Elliptical nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40782004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40782004\">40782004</a></td><td>http://snomed.info/sct</td><td>Hennebert's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414489005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414489005\">414489005</a></td><td>http://snomed.info/sct</td><td>Infantile nystagmus syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418472007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418472007\">418472007</a></td><td>http://snomed.info/sct</td><td>Heartbeat nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431951000124101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431951000124101\">431951000124101</a></td><td>http://snomed.info/sct</td><td>Idiopathic nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44526006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44526006\">44526006</a></td><td>http://snomed.info/sct</td><td>Rotary nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-45339001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=45339001\">45339001</a></td><td>http://snomed.info/sct</td><td>Visual deprivation nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46888001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46888001\">46888001</a></td><td>http://snomed.info/sct</td><td>Nystagmus associated with disorder of the vestibular system (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-563001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=563001\">563001</a></td><td>http://snomed.info/sct</td><td>Nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64635004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64635004\">64635004</a></td><td>http://snomed.info/sct</td><td>Congenital nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68610001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68610001\">68610001</a></td><td>http://snomed.info/sct</td><td>Latent nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6881000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6881000119109\">6881000119109</a></td><td>http://snomed.info/sct</td><td>Sensory nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733334001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733334001\">733334001</a></td><td>http://snomed.info/sct</td><td>Perverted nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733335000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733335000\">733335000</a></td><td>http://snomed.info/sct</td><td>Eyelid nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-762438000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=762438000\">762438000</a></td><td>http://snomed.info/sct</td><td>Physiological nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-762439008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=762439008\">762439008</a></td><td>http://snomed.info/sct</td><td>Torsional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8134005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8134005\">8134005</a></td><td>http://snomed.info/sct</td><td>Periodic alternating nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81756001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81756001\">81756001</a></td><td>http://snomed.info/sct</td><td>Horizontal nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83655001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83655001\">83655001</a></td><td>http://snomed.info/sct</td><td>Rebound nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9074007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9074007\">9074007</a></td><td>http://snomed.info/sct</td><td>Retraction nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9520006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9520006\">9520006</a></td><td>http://snomed.info/sct</td><td>Dissociated nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95777008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95777008\">95777008</a></td><td>http://snomed.info/sct</td><td>Temporary nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95778003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95778003\">95778003</a></td><td>http://snomed.info/sct</td><td>Permanent nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95779006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95779006\">95779006</a></td><td>http://snomed.info/sct</td><td>Unidirectional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95780009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95780009\">95780009</a></td><td>http://snomed.info/sct</td><td>Multidirectional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95781008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95781008\">95781008</a></td><td>http://snomed.info/sct</td><td>Conjugate nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95782001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95782001\">95782001</a></td><td>http://snomed.info/sct</td><td>See-saw nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95783006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95783006\">95783006</a></td><td>http://snomed.info/sct</td><td>Rotational nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95784000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95784000\">95784000</a></td><td>http://snomed.info/sct</td><td>Convergence nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95785004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95785004\">95785004</a></td><td>http://snomed.info/sct</td><td>Positional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95786003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95786003\">95786003</a></td><td>http://snomed.info/sct</td><td>Fatigable positional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95787007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95787007\">95787007</a></td><td>http://snomed.info/sct</td><td>Non-fatigable positional nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95788002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95788002\">95788002</a></td><td>http://snomed.info/sct</td><td>Positional nystagmus, variable eye direction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95790001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95790001\">95790001</a></td><td>http://snomed.info/sct</td><td>Fixation nystagmus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.00\"> </a>H55.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.01\"> </a>H55.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Congenital nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.02\"> </a>H55.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Latent nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.03\"> </a>H55.03</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Visual deprivation nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.04\"> </a>H55.04</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Dissociated nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.09\"> </a>H55.09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other forms of nystagmus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.81\"> </a>H55.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deficient saccadic eye movements</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.82\"> </a>H55.82</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deficient smooth pursuit eye movements</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H55.89\"> </a>H55.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other irregular eye movements</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1465",
   "version": "20210308",
   "name": "Nystagmus and Other Irregular Eye Movements",
   "status": "active",
   "date": "2021-03-08T01:00:16-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:fc24e8ac-9807-4313-a731-c9b117e21649",
+    "timestamp": "2022-07-19T15:12:33-04:00",
+    "total": 72,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111533001",
+      "display": "Vertical nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232124002",
+      "display": "Voluntary nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246761002",
+      "display": "Uniocular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246762009",
+      "display": "Gaze paretic nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278468008",
+      "display": "Pressure-induced nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278469000",
+      "display": "Sound intensity-induced nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "285765003",
+      "display": "Manifest-latent nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29356006",
+      "display": "End-position nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307670000",
+      "display": "Congenital nystagmus with sensory abnormality (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307671001",
+      "display": "Congenital nystagmus without sensory abnormality (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307672008",
+      "display": "Oculopalatal myoclonus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307673003",
+      "display": "Peripheral vestibular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307674009",
+      "display": "Benign paroxysmal positional vertigo nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307675005",
+      "display": "Central vestibular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307676006",
+      "display": "Downbeat nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307677002",
+      "display": "Upbeat nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307678007",
+      "display": "Torsional central vestibular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307679004",
+      "display": "Hemi-seesaw nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307680001",
+      "display": "Abducting nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307700006",
+      "display": "Ataxic nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314935002",
+      "display": "Acquired nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3327002",
+      "display": "Jerk nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35743001",
+      "display": "Pendular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359687001",
+      "display": "Acquired pendular nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "373590007",
+      "display": "Convergence retraction nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39737009",
+      "display": "Symptomatic nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "400948003",
+      "display": "Spasmus nutans (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "400949006",
+      "display": "Divergence retraction nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404676002",
+      "display": "Bruns nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404677006",
+      "display": "Elliptical nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40782004",
+      "display": "Hennebert's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414489005",
+      "display": "Infantile nystagmus syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418472007",
+      "display": "Heartbeat nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431951000124101",
+      "display": "Idiopathic nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44526006",
+      "display": "Rotary nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "45339001",
+      "display": "Visual deprivation nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46888001",
+      "display": "Nystagmus associated with disorder of the vestibular system (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "563001",
+      "display": "Nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64635004",
+      "display": "Congenital nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68610001",
+      "display": "Latent nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6881000119109",
+      "display": "Sensory nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733334001",
+      "display": "Perverted nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733335000",
+      "display": "Eyelid nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "762438000",
+      "display": "Physiological nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "762439008",
+      "display": "Torsional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8134005",
+      "display": "Periodic alternating nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81756001",
+      "display": "Horizontal nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83655001",
+      "display": "Rebound nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9074007",
+      "display": "Retraction nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9520006",
+      "display": "Dissociated nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95777008",
+      "display": "Temporary nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95778003",
+      "display": "Permanent nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95779006",
+      "display": "Unidirectional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95780009",
+      "display": "Multidirectional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95781008",
+      "display": "Conjugate nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95782001",
+      "display": "See-saw nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95783006",
+      "display": "Rotational nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95784000",
+      "display": "Convergence nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95785004",
+      "display": "Positional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95786003",
+      "display": "Fatigable positional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95787007",
+      "display": "Non-fatigable positional nystagmus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95788002",
+      "display": "Positional nystagmus, variable eye direction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95790001",
+      "display": "Fixation nystagmus (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.00",
+      "display": "Unspecified nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.01",
+      "display": "Congenital nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.02",
+      "display": "Latent nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.03",
+      "display": "Visual deprivation nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.04",
+      "display": "Dissociated nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.09",
+      "display": "Other forms of nystagmus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.81",
+      "display": "Deficient saccadic eye movements"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.82",
+      "display": "Deficient smooth pursuit eye movements"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H55.89",
+      "display": "Other irregular eye movements"
+    } ]
+  }
 }

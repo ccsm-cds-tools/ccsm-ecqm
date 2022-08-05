@@ -5,12 +5,73 @@
     "versionId": "40",
     "lastUpdated": "2022-03-02T18:05:13.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183027000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183027000\">183027000</a></td><td>http://snomed.info/sct</td><td>Prolonged intravenous feeding (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225372007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225372007\">225372007</a></td><td>http://snomed.info/sct</td><td>Total parenteral nutrition (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230114001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230114001\">230114001</a></td><td>http://snomed.info/sct</td><td>Central line feeding (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230115000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230115000\">230115000</a></td><td>http://snomed.info/sct</td><td>Peripheral line feeding (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25156005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25156005\">25156005</a></td><td>http://snomed.info/sct</td><td>Intravenous feeding of patient (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E0336Z\"> </a>3E0336Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Nutritional Substance into Peripheral Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E0436Z\"> </a>3E0436Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Nutritional Substance into Central Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E0536Z\"> </a>3E0536Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Nutritional Substance into Peripheral Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E0636Z\"> </a>3E0636Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Nutritional Substance into Central Artery, Percutaneous Approach</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.38",
   "version": "20210220",
   "name": "Parenteral Nutrition",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1b78ac1b-43ea-4326-8157-496349eed93b",
+    "timestamp": "2022-07-19T15:06:07-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183027000",
+      "display": "Prolonged intravenous feeding (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225372007",
+      "display": "Total parenteral nutrition (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230114001",
+      "display": "Central line feeding (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230115000",
+      "display": "Peripheral line feeding (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25156005",
+      "display": "Intravenous feeding of patient (regime/therapy)"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E0336Z",
+      "display": "Introduction of Nutritional Substance into Peripheral Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E0436Z",
+      "display": "Introduction of Nutritional Substance into Central Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E0536Z",
+      "display": "Introduction of Nutritional Substance into Peripheral Artery, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E0636Z",
+      "display": "Introduction of Nutritional Substance into Central Artery, Percutaneous Approach"
+    } ]
+  }
 }

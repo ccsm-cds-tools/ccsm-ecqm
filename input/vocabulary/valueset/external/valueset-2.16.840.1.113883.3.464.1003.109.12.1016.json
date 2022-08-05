@@ -5,12 +5,48 @@
     "versionId": "23",
     "lastUpdated": "2022-03-02T18:04:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28812006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28812006\">28812006</a></td><td>Hemodialysis education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-385972005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=385972005\">385972005</a></td><td>Dialysis care education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59596005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59596005\">59596005</a></td><td>Hemodialysis education at home (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66402002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66402002\">66402002</a></td><td>Peritoneal dialysis education (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.109.12.1016",
   "version": "20170504",
   "name": "Dialysis Education",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:fe5c1d06-649d-4106-90ea-75c4f971aca3",
+    "timestamp": "2022-07-19T15:07:35-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28812006",
+      "display": "Hemodialysis education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "385972005",
+      "display": "Dialysis care education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59596005",
+      "display": "Hemodialysis education at home (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66402002",
+      "display": "Peritoneal dialysis education (procedure)"
+    } ]
+  }
 }

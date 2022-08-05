@@ -5,12 +5,118 @@
     "versionId": "14",
     "lastUpdated": "2022-04-20T01:02:10.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10828004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10828004\">10828004</a></td><td>Positive (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-260385009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=260385009\">260385009</a></td><td>Negative (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708298003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708298003\">708298003</a></td><td>Deoxyribonucleic acid of Human papillomavirus 16 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708299006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708299006\">708299006</a></td><td>Deoxyribonucleic acid of Human papillomavirus 18 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708301004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708301004\">708301004</a></td><td>Deoxyribonucleic acid of Human papillomavirus 31 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708302006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708302006\">708302006</a></td><td>Deoxyribonucleic acid of Human papillomavirus 33 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708304007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708304007\">708304007</a></td><td>Deoxyribonucleic acid of Human papillomavirus 35 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708305008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708305008\">708305008</a></td><td>Deoxyribonucleic acid of Human papillomavirus 39 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708308005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708308005\">708308005</a></td><td>Deoxyribonucleic acid of Human papillomavirus 45 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708309002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708309002\">708309002</a></td><td>Deoxyribonucleic acid of Human papillomavirus 51 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708311006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708311006\">708311006</a></td><td>Deoxyribonucleic acid of Human papillomavirus 52 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708313009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708313009\">708313009</a></td><td>Deoxyribonucleic acid of Human papillomavirus 56 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708314003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708314003\">708314003</a></td><td>Deoxyribonucleic acid of Human papillomavirus 58 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708315002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708315002\">708315002</a></td><td>Deoxyribonucleic acid of Human papillomavirus 59 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708320002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708320002\">708320002</a></td><td>Deoxyribonucleic acid of Human papillomavirus 66 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708322005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708322005\">708322005</a></td><td>Deoxyribonucleic acid of Human papillomavirus 68 (substance)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720005005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720005005\">720005005</a></td><td>Human papillomavirus deoxyribonucleic acid test positive, high risk on cervical specimen (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-787724008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=787724008\">787724008</a></td><td>Human papillomavirus deoxyribonucleic acid test negative (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.233",
   "version": "20220420",
   "name": "All Results of High Risk HPV Test",
   "status": "active",
   "date": "2022-04-20T01:02:10-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:07937c97-b472-43c6-a63e-dbfae95583ac",
+    "timestamp": "2022-07-15T19:50:41-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10828004",
+      "display": "Positive (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "260385009",
+      "display": "Negative (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708298003",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 16 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708299006",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 18 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708301004",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 31 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708302006",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 33 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708304007",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 35 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708305008",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 39 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708308005",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 45 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708309002",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 51 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708311006",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 52 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708313009",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 56 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708314003",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 58 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708315002",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 59 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708320002",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 66 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708322005",
+      "display": "Deoxyribonucleic acid of Human papillomavirus 68 (substance)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720005005",
+      "display": "Human papillomavirus deoxyribonucleic acid test positive, high risk on cervical specimen (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "787724008",
+      "display": "Human papillomavirus deoxyribonucleic acid test negative (finding)"
+    } ]
+  }
 }

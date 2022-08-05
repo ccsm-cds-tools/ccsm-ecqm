@@ -5,12 +5,1578 @@
     "versionId": "9",
     "lastUpdated": "2022-03-01T01:02:09.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 310 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128613002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128613002\">128613002</a></td><td>http://snomed.info/sct</td><td>Seizure disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13973009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13973009\">13973009</a></td><td>http://snomed.info/sct</td><td>Grand mal status (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14401000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14401000119109\">14401000119109</a></td><td>http://snomed.info/sct</td><td>Partial frontal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170706008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170706008\">170706008</a></td><td>http://snomed.info/sct</td><td>Epilepsy associated problems (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170709001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170709001\">170709001</a></td><td>http://snomed.info/sct</td><td>Epilepsy drug side effect (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191714002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191714002\">191714002</a></td><td>http://snomed.info/sct</td><td>Dissociative convulsions (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192845009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192845009\">192845009</a></td><td>http://snomed.info/sct</td><td>Myoclonic encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192979009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192979009\">192979009</a></td><td>http://snomed.info/sct</td><td>Generalized non-convulsive epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192990004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192990004\">192990004</a></td><td>http://snomed.info/sct</td><td>Benign myoclonic epilepsy in infancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-192999003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=192999003\">192999003</a></td><td>http://snomed.info/sct</td><td>Partial epilepsy with impairment of consciousness (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193000002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193000002\">193000002</a></td><td>http://snomed.info/sct</td><td>Temporal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193002005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193002005\">193002005</a></td><td>http://snomed.info/sct</td><td>Psychosensory epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193003000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193003000\">193003000</a></td><td>http://snomed.info/sct</td><td>Mesiobasal limbic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193008009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193008009\">193008009</a></td><td>http://snomed.info/sct</td><td>Somatosensory epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193009001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193009001\">193009001</a></td><td>http://snomed.info/sct</td><td>Partial epilepsy with autonomic symptoms (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193021002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193021002\">193021002</a></td><td>http://snomed.info/sct</td><td>Cursive (running) epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19598007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19598007\">19598007</a></td><td>http://snomed.info/sct</td><td>Generalized epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20121000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20121000119105\">20121000119105</a></td><td>http://snomed.info/sct</td><td>Partial occipital lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21391000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21391000119102\">21391000119102</a></td><td>http://snomed.info/sct</td><td>Partial parietal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230191005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230191005\">230191005</a></td><td>http://snomed.info/sct</td><td>Rasmussen syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230381009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230381009\">230381009</a></td><td>http://snomed.info/sct</td><td>Localization-related epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230389006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230389006\">230389006</a></td><td>http://snomed.info/sct</td><td>Primary inherited reading epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230390002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230390002\">230390002</a></td><td>http://snomed.info/sct</td><td>Localization-related symptomatic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230391003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230391003\">230391003</a></td><td>http://snomed.info/sct</td><td>Amygdalo-hippocampal epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230392005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230392005\">230392005</a></td><td>http://snomed.info/sct</td><td>Rhinencephalic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230393000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230393000\">230393000</a></td><td>http://snomed.info/sct</td><td>Lateral temporal epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230394006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230394006\">230394006</a></td><td>http://snomed.info/sct</td><td>Frontal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230395007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230395007\">230395007</a></td><td>http://snomed.info/sct</td><td>Supplementary motor epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230396008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230396008\">230396008</a></td><td>http://snomed.info/sct</td><td>Cingulate epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230397004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230397004\">230397004</a></td><td>http://snomed.info/sct</td><td>Anterior frontopolar epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230398009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230398009\">230398009</a></td><td>http://snomed.info/sct</td><td>Orbitofrontal epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230399001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230399001\">230399001</a></td><td>http://snomed.info/sct</td><td>Dorsolateral epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230400008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230400008\">230400008</a></td><td>http://snomed.info/sct</td><td>Opercular epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230401007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230401007\">230401007</a></td><td>http://snomed.info/sct</td><td>Non-progressive Kozhevnikow syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230403005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230403005\">230403005</a></td><td>http://snomed.info/sct</td><td>Parietal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230404004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230404004\">230404004</a></td><td>http://snomed.info/sct</td><td>Occipital lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230406002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230406002\">230406002</a></td><td>http://snomed.info/sct</td><td>Localization-related symptomatic epilepsy with specific precipitant (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230407006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230407006\">230407006</a></td><td>http://snomed.info/sct</td><td>Hemiplegia-hemiconvulsion-epilepsy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230408001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230408001\">230408001</a></td><td>http://snomed.info/sct</td><td>Localization-related cryptogenic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230414008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230414008\">230414008</a></td><td>http://snomed.info/sct</td><td>Epilepsy with grand mal seizures on awakening (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230415009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230415009\">230415009</a></td><td>http://snomed.info/sct</td><td>Cryptogenic generalized epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230416005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230416005\">230416005</a></td><td>http://snomed.info/sct</td><td>Cryptogenic West syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230417001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230417001\">230417001</a></td><td>http://snomed.info/sct</td><td>Symptomatic West syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230418006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230418006\">230418006</a></td><td>http://snomed.info/sct</td><td>Lennox-Gastaut syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230419003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230419003\">230419003</a></td><td>http://snomed.info/sct</td><td>Cryptogenic Lennox-Gastaut syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230420009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230420009\">230420009</a></td><td>http://snomed.info/sct</td><td>Symptomatic Lennox-Gastaut syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230421008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230421008\">230421008</a></td><td>http://snomed.info/sct</td><td>Myoclonic astatic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230422001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230422001\">230422001</a></td><td>http://snomed.info/sct</td><td>Myoclonic absence epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230423006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230423006\">230423006</a></td><td>http://snomed.info/sct</td><td>Unverricht-Lundborg syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230425004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230425004\">230425004</a></td><td>http://snomed.info/sct</td><td>Lafora disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230426003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230426003\">230426003</a></td><td>http://snomed.info/sct</td><td>Myoclonic epilepsy with ragged red fibers (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230427007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230427007\">230427007</a></td><td>http://snomed.info/sct</td><td>Cryptogenic myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230428002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230428002\">230428002</a></td><td>http://snomed.info/sct</td><td>Idiopathic myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230430000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230430000\">230430000</a></td><td>http://snomed.info/sct</td><td>Symptomatic myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230432008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230432008\">230432008</a></td><td>http://snomed.info/sct</td><td>Familial febrile convulsions (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230435005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230435005\">230435005</a></td><td>http://snomed.info/sct</td><td>Epilepsy undetermined whether focal or generalized (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230437002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230437002\">230437002</a></td><td>http://snomed.info/sct</td><td>Severe myoclonic epilepsy in infancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230438007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230438007\">230438007</a></td><td>http://snomed.info/sct</td><td>Acquired epileptic aphasia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230439004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230439004\">230439004</a></td><td>http://snomed.info/sct</td><td>Epilepsy with continuous spike wave during slow-wave sleep (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230440002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230440002\">230440002</a></td><td>http://snomed.info/sct</td><td>Secondary reading epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230444006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230444006\">230444006</a></td><td>http://snomed.info/sct</td><td>Menstrual epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230445007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230445007\">230445007</a></td><td>http://snomed.info/sct</td><td>Nocturnal epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230448009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230448009\">230448009</a></td><td>http://snomed.info/sct</td><td>Writing epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230450001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230450001\">230450001</a></td><td>http://snomed.info/sct</td><td>Eating epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230452009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230452009\">230452009</a></td><td>http://snomed.info/sct</td><td>Toothbrushing epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230453004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230453004\">230453004</a></td><td>http://snomed.info/sct</td><td>Decision-making epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230454005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230454005\">230454005</a></td><td>http://snomed.info/sct</td><td>Aquagenic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230455006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230455006\">230455006</a></td><td>http://snomed.info/sct</td><td>Self-induced non-photosensitive epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230456007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230456007\">230456007</a></td><td>http://snomed.info/sct</td><td>Status epilepticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230457003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230457003\">230457003</a></td><td>http://snomed.info/sct</td><td>Non-convulsive status epilepticus with three per second spike wave (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230458008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230458008\">230458008</a></td><td>http://snomed.info/sct</td><td>Non-convulsive status epilepticus without three per second spike wave (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23374007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23374007\">23374007</a></td><td>http://snomed.info/sct</td><td>Atypical absence seizure (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-243857008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=243857008\">243857008</a></td><td>http://snomed.info/sct</td><td>Epilepsy monitoring status (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246549008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246549008\">246549008</a></td><td>http://snomed.info/sct</td><td>Absence seizure with atonic components (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246550008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246550008\">246550008</a></td><td>http://snomed.info/sct</td><td>Absence seizure with tonic components (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246551007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246551007\">246551007</a></td><td>http://snomed.info/sct</td><td>Absence seizure with automatisms (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246552000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246552000\">246552000</a></td><td>http://snomed.info/sct</td><td>Absence seizure with autonomic components (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267581004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267581004\">267581004</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267592003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267592003\">267592003</a></td><td>http://snomed.info/sct</td><td>Motor cortex epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278510009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278510009\">278510009</a></td><td>http://snomed.info/sct</td><td>Localization-related idiopathic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28055006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28055006\">28055006</a></td><td>http://snomed.info/sct</td><td>West syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290671000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290671000119100\">290671000119100</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to complex partial epileptic seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290681000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290681000119102\">290681000119102</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to refractory complex partial seizures (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290691000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290691000119104\">290691000119104</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to generalized idiopathic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290711000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290711000119101\">290711000119101</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to intractable idiopathic generalized epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290721000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290721000119108\">290721000119108</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to refractory epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290731000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290731000119106\">290731000119106</a></td><td>http://snomed.info/sct</td><td>Idiopathic partial status epilepticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290761000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290761000119103\">290761000119103</a></td><td>http://snomed.info/sct</td><td>Status epilepticus due to refractory simple partial epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307356008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307356008\">307356008</a></td><td>http://snomed.info/sct</td><td>Motor epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307357004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307357004\">307357004</a></td><td>http://snomed.info/sct</td><td>Jacksonian, focal or motor epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314827004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314827004\">314827004</a></td><td>http://snomed.info/sct</td><td>Epilepsy control good (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314828009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314828009\">314828009</a></td><td>http://snomed.info/sct</td><td>Epilepsy control poor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-322112361000132104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=322112361000132104\">322112361000132104</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to scarring of brain (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-329991000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=329991000119104\">329991000119104</a></td><td>http://snomed.info/sct</td><td>Intractable atypical absence epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-352818000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=352818000\">352818000</a></td><td>http://snomed.info/sct</td><td>Tonic-clonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36803009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36803009\">36803009</a></td><td>http://snomed.info/sct</td><td>Idiopathic generalized epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37356005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37356005\">37356005</a></td><td>http://snomed.info/sct</td><td>Myoclonic seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39194005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39194005\">39194005</a></td><td>http://snomed.info/sct</td><td>Visual epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401178003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401178003\">401178003</a></td><td>http://snomed.info/sct</td><td>Epilepsy care arrangement (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-407616001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=407616001\">407616001</a></td><td>http://snomed.info/sct</td><td>Epilepsy severity (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-407623000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=407623000\">407623000</a></td><td>http://snomed.info/sct</td><td>Emergency epilepsy treatment since last appointment (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-407675009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=407675009\">407675009</a></td><td>http://snomed.info/sct</td><td>Complex partial epileptic seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413101007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413101007\">413101007</a></td><td>http://snomed.info/sct</td><td>Stress-induced epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422513000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422513000\">422513000</a></td><td>http://snomed.info/sct</td><td>Epilepsy, not refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42365007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42365007\">42365007</a></td><td>http://snomed.info/sct</td><td>Atonic seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431101000124102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431101000124102\">431101000124102</a></td><td>http://snomed.info/sct</td><td>Benign myoclonic epilepsy in infancy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431111000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431111000124104\">431111000124104</a></td><td>http://snomed.info/sct</td><td>Lennox-Gastaut syndrome, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431121000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431121000124107\">431121000124107</a></td><td>http://snomed.info/sct</td><td>Lennox-Gastaut syndrome, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431141000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431141000124100\">431141000124100</a></td><td>http://snomed.info/sct</td><td>Myoclonic absence epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431991000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431991000124107\">431991000124107</a></td><td>http://snomed.info/sct</td><td>Petit mal status, non-refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432151000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432151000124107\">432151000124107</a></td><td>http://snomed.info/sct</td><td>Myoclonic seizure, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432161000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432161000124109\">432161000124109</a></td><td>http://snomed.info/sct</td><td>Severe myoclonic epilepsy in infancy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432271000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432271000124109\">432271000124109</a></td><td>http://snomed.info/sct</td><td>Tonic seizures, refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432281000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432281000124107\">432281000124107</a></td><td>http://snomed.info/sct</td><td>Tonic seizures, non-refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432291000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432291000124105\">432291000124105</a></td><td>http://snomed.info/sct</td><td>Temporal lobe epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432471000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432471000124108\">432471000124108</a></td><td>http://snomed.info/sct</td><td>Post-traumatic epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432501000124101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432501000124101\">432501000124101</a></td><td>http://snomed.info/sct</td><td>Atonic seizure, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432511000124103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432511000124103\">432511000124103</a></td><td>http://snomed.info/sct</td><td>Atonic seizure, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432561000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432561000124100\">432561000124100</a></td><td>http://snomed.info/sct</td><td>Typical absence seizure, non-refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432571000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432571000124107\">432571000124107</a></td><td>http://snomed.info/sct</td><td>Typical absence seizure, refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434211000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434211000124108\">434211000124108</a></td><td>http://snomed.info/sct</td><td>Grand mal status epilepticus, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434491000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434491000124104\">434491000124104</a></td><td>http://snomed.info/sct</td><td>Idiopathic generalized epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434521000124102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434521000124102\">434521000124102</a></td><td>http://snomed.info/sct</td><td>Atypical absence seizure, refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434531000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434531000124104\">434531000124104</a></td><td>http://snomed.info/sct</td><td>Atypical absence seizure, non-refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435321000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435321000124106\">435321000124106</a></td><td>http://snomed.info/sct</td><td>Acquired epileptic aphasia, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435331000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435331000124109\">435331000124109</a></td><td>http://snomed.info/sct</td><td>Acquired epileptic aphasia, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435341000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435341000124104\">435341000124104</a></td><td>http://snomed.info/sct</td><td>Rasmussen syndrome, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-436011000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=436011000124108\">436011000124108</a></td><td>http://snomed.info/sct</td><td>Petit mal status, refractory (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438113009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438113009\">438113009</a></td><td>http://snomed.info/sct</td><td>Convulsive syncope (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438421000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438421000124109\">438421000124109</a></td><td>http://snomed.info/sct</td><td>Myoclonic astatic epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440211000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440211000124100\">440211000124100</a></td><td>http://snomed.info/sct</td><td>Generalized convulsive epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44145005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44145005\">44145005</a></td><td>http://snomed.info/sct</td><td>Benign Rolandic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442151000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442151000124108\">442151000124108</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant nocturnal frontal lobe epilepsy, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442161000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442161000124105\">442161000124105</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant nocturnal frontal lobe epilepsy, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442511009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442511009\">442511009</a></td><td>http://snomed.info/sct</td><td>Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442512002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442512002\">442512002</a></td><td>http://snomed.info/sct</td><td>Nonconvulsive status epilepticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444441000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444441000124109\">444441000124109</a></td><td>http://snomed.info/sct</td><td>Generalized epilepsy with febrile seizures plus, refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444451000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444451000124106\">444451000124106</a></td><td>http://snomed.info/sct</td><td>Generalized epilepsy with febrile seizures plus, non-refractory (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-460731000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=460731000124105\">460731000124105</a></td><td>http://snomed.info/sct</td><td>Recurrent seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47391000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47391000119107\">47391000119107</a></td><td>http://snomed.info/sct</td><td>Primary generalized absence epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51887003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51887003\">51887003</a></td><td>http://snomed.info/sct</td><td>Tonic seizure (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5321000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5321000124109\">5321000124109</a></td><td>http://snomed.info/sct</td><td>Temporal lobe epilepsy with mesial temporal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53521000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53521000119106\">53521000119106</a></td><td>http://snomed.info/sct</td><td>First generalized onset seizure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65120008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65120008\">65120008</a></td><td>http://snomed.info/sct</td><td>Generalized convulsive epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68091000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68091000119102\">68091000119102</a></td><td>http://snomed.info/sct</td><td>Intractable absence seizures (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68761002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68761002\">68761002</a></td><td>http://snomed.info/sct</td><td>Epileptic vertigo (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698021005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698021005\">698021005</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant nocturnal frontal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698760002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698760002\">698760002</a></td><td>http://snomed.info/sct</td><td>Generalized non-convulsive absence epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698763000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698763000\">698763000</a></td><td>http://snomed.info/sct</td><td>Postoperative status epilepticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698764006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698764006\">698764006</a></td><td>http://snomed.info/sct</td><td>Post infectious grand mal epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698767004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698767004\">698767004</a></td><td>http://snomed.info/sct</td><td>Post-cerebrovascular accident epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-699688008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=699688008\">699688008</a></td><td>http://snomed.info/sct</td><td>Generalized epilepsy with febrile seizures plus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-702326000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=702326000\">702326000</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonus epilepsy with ataxia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-702344008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=702344008\">702344008</a></td><td>http://snomed.info/sct</td><td>Pitt-Hopkins syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7033004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7033004\">7033004</a></td><td>http://snomed.info/sct</td><td>Absence status epilepticus (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703524005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703524005\">703524005</a></td><td>http://snomed.info/sct</td><td>Spinal muscular atrophy with progressive myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-715629001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=715629001\">715629001</a></td><td>http://snomed.info/sct</td><td>Generalized epilepsy and paroxysmal dyskinesia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-716278005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=716278005\">716278005</a></td><td>http://snomed.info/sct</td><td>Jeavons syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-716706009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=716706009\">716706009</a></td><td>http://snomed.info/sct</td><td>Female restricted epilepsy with intellectual disability syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717223008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717223008\">717223008</a></td><td>http://snomed.info/sct</td><td>X-linked epilepsy with learning disability and behavior disorder syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717225001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717225001\">717225001</a></td><td>http://snomed.info/sct</td><td>Benign adult familial myoclonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71831005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71831005\">71831005</a></td><td>http://snomed.info/sct</td><td>Symptomatic generalized epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-719810000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=719810000\">719810000</a></td><td>http://snomed.info/sct</td><td>X-linked intellectual disability with seizure and psoriasis syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720519003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720519003\">720519003</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721088003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721088003\">721088003</a></td><td>http://snomed.info/sct</td><td>Developmental delay, epilepsy, neonatal diabetes syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721207002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721207002\">721207002</a></td><td>http://snomed.info/sct</td><td>Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722110003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722110003\">722110003</a></td><td>http://snomed.info/sct</td><td>Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722386009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722386009\">722386009</a></td><td>http://snomed.info/sct</td><td>Celiac disease with epilepsy and cerebral calcification syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722762005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722762005\">722762005</a></td><td>http://snomed.info/sct</td><td>Ganglioside GM3 synthase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-723125008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=723125008\">723125008</a></td><td>http://snomed.info/sct</td><td>Epileptic encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-723304001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=723304001\">723304001</a></td><td>http://snomed.info/sct</td><td>Microcephaly, seizure, intellectual disability, heart disease syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-723676007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=723676007\">723676007</a></td><td>http://snomed.info/sct</td><td>Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-723926008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=723926008\">723926008</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724274009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724274009\">724274009</a></td><td>http://snomed.info/sct</td><td>Infant epilepsy with migrant focal crisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724549005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724549005\">724549005</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to infectious disease of central nervous system (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724576005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724576005\">724576005</a></td><td>http://snomed.info/sct</td><td>Pyridoxal 5-phosphate dependent epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724668002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724668002\">724668002</a></td><td>http://snomed.info/sct</td><td>Seizure co-occurrent and due to sedative withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724669005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724669005\">724669005</a></td><td>http://snomed.info/sct</td><td>Seizure co-occurrent and due to hypnotic withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724670006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724670006\">724670006</a></td><td>http://snomed.info/sct</td><td>Seizure co-occurrent and due to anxiolytic withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724671005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724671005\">724671005</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbances and seizures co-occurrent and due to sedative withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724672003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724672003\">724672003</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbances and seizures co-occurrent and due to hypnotic withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724727001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724727001\">724727001</a></td><td>http://snomed.info/sct</td><td>Seizure co-occurrent and due to psychoactive substance withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724728006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724728006\">724728006</a></td><td>http://snomed.info/sct</td><td>Perceptual disturbances and seizures co-occurrent and due to psychoactive substance withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724785007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724785007\">724785007</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to perinatal stroke (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724786008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724786008\">724786008</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to perinatal anoxic-ischemic brain injury (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724787004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724787004\">724787004</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to cerebrovascular accident (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724789001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724789001\">724789001</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to intracranial tumor (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724988000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724988000\">724988000</a></td><td>http://snomed.info/sct</td><td>Epilepsy co-occurrent and due to degenerative brain disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724989008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724989008\">724989008</a></td><td>http://snomed.info/sct</td><td>Epilepsy co-occurrent and due to mesial temporal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724990004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724990004\">724990004</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to immune disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724991000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724991000\">724991000</a></td><td>http://snomed.info/sct</td><td>Epilepsy co-occurrent and due to demyelinating disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724992007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724992007\">724992007</a></td><td>http://snomed.info/sct</td><td>Epilepsy co-occurrent and due to dementia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-725163002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=725163002\">725163002</a></td><td>http://snomed.info/sct</td><td>X-linked spasticity, intellectual disability, epilepsy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-726702005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=726702005\">726702005</a></td><td>http://snomed.info/sct</td><td>Epileptic encephalopathy with global cerebral demyelination (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733031004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733031004\">733031004</a></td><td>http://snomed.info/sct</td><td>Epilepsy, microcephaly, skeletal dysplasia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733032006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733032006\">733032006</a></td><td>http://snomed.info/sct</td><td>Epilepsy telangiectasia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733082001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733082001\">733082001</a></td><td>http://snomed.info/sct</td><td>Early-onset Lafora body disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733195008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733195008\">733195008</a></td><td>http://snomed.info/sct</td><td>Epilepsy of infancy with migrating focal seizures (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733623005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733623005\">733623005</a></td><td>http://snomed.info/sct</td><td>Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-734434007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=734434007\">734434007</a></td><td>http://snomed.info/sct</td><td>Pyridoxine-dependent epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735235000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735235000\">735235000</a></td><td>http://snomed.info/sct</td><td>Seizure co-occurrent and due to drug withdrawal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75023009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75023009\">75023009</a></td><td>http://snomed.info/sct</td><td>Post-traumatic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763349002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763349002\">763349002</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy with dystonia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763534009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763534009\">763534009</a></td><td>http://snomed.info/sct</td><td>Hot water reflex epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763622006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763622006\">763622006</a></td><td>http://snomed.info/sct</td><td>Thinking epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763632004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763632004\">763632004</a></td><td>http://snomed.info/sct</td><td>Startle epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763802009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763802009\">763802009</a></td><td>http://snomed.info/sct</td><td>Micturition induced epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763827002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763827002\">763827002</a></td><td>http://snomed.info/sct</td><td>Orgasm induced epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-763861000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=763861000\">763861000</a></td><td>http://snomed.info/sct</td><td>Pachygyria, intellectual disability, epilepsy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764453009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764453009\">764453009</a></td><td>http://snomed.info/sct</td><td>Action myoclonus renal failure syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764522009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764522009\">764522009</a></td><td>http://snomed.info/sct</td><td>Familial focal epilepsy with variable foci (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-765093009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=765093009\">765093009</a></td><td>http://snomed.info/sct</td><td>Rolandic epilepsy, speech dyspraxia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-765170001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=765170001\">765170001</a></td><td>http://snomed.info/sct</td><td>Sodium voltage-gated channel alpha subunit 8-related epilepsy with encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-765216006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=765216006\">765216006</a></td><td>http://snomed.info/sct</td><td>Audiogenic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766044005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766044005\">766044005</a></td><td>http://snomed.info/sct</td><td>Acute encephalopathy with biphasic seizures and late reduced diffusion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766815007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766815007\">766815007</a></td><td>http://snomed.info/sct</td><td>Perioral myoclonia with absences (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-768473009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=768473009\">768473009</a></td><td>http://snomed.info/sct</td><td>Purine rich element binding protein A syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-768555009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=768555009\">768555009</a></td><td>http://snomed.info/sct</td><td>5q31.3 microdeletion syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770405003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770405003\">770405003</a></td><td>http://snomed.info/sct</td><td>Benign familial mesial temporal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770431001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770431001\">770431001</a></td><td>http://snomed.info/sct</td><td>Early-onset epileptic encephalopathy and intellectual disability due to glutamate receptor, ionotropic, N-methyl-D-aspartate, subunit 2A mutation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770623004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770623004\">770623004</a></td><td>http://snomed.info/sct</td><td>Benign occipital lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770643005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770643005\">770643005</a></td><td>http://snomed.info/sct</td><td>Mesial temporal lobe epilepsy with hippocampal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770678005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770678005\">770678005</a></td><td>http://snomed.info/sct</td><td>Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770755007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770755007\">770755007</a></td><td>http://snomed.info/sct</td><td>Intellectual disability, seizures, hypotonia, ophthalmologic, skeletal anomalies syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770758009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770758009\">770758009</a></td><td>http://snomed.info/sct</td><td>New-onset refractory status epilepticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770898002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770898002\">770898002</a></td><td>http://snomed.info/sct</td><td>Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to WW domain containing oxidoreductase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-771141002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=771141002\">771141002</a></td><td>http://snomed.info/sct</td><td>Benign partial epilepsy with secondarily generalized seizures in infancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-771142009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=771142009\">771142009</a></td><td>http://snomed.info/sct</td><td>Cortical dysplasia with focal epilepsy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-771448004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=771448004\">771448004</a></td><td>http://snomed.info/sct</td><td>Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-771469002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=771469002\">771469002</a></td><td>http://snomed.info/sct</td><td>Early-onset spastic ataxia, myoclonic epilepsy, neuropathy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773230003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773230003\">773230003</a></td><td>http://snomed.info/sct</td><td>Cyclin-dependent kinase-like 5 deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773498006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773498006\">773498006</a></td><td>http://snomed.info/sct</td><td>Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to TUD deficiency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773548008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773548008\">773548008</a></td><td>http://snomed.info/sct</td><td>Early-onset epileptic encephalopathy, cortical blindness, intellectual disability, facial dysmorphism syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773643006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773643006\">773643006</a></td><td>http://snomed.info/sct</td><td>Multiple congenital anomalies, hypotonia, seizures syndrome type 2 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773699009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773699009\">773699009</a></td><td>http://snomed.info/sct</td><td>Pitt Hopkins-like syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-778001003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=778001003\">778001003</a></td><td>http://snomed.info/sct</td><td>Potassium voltage-gated channel subfamily Q member 2 related epileptic encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-778047006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=778047006\">778047006</a></td><td>http://snomed.info/sct</td><td>Myoclonic epilepsy in non-progressive encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-778063003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=778063003\">778063003</a></td><td>http://snomed.info/sct</td><td>Cryptogenic late-onset epileptic spasms (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-780827006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=780827006\">780827006</a></td><td>http://snomed.info/sct</td><td>Synaptic Ras GTPase activating protein 1- related intellectual disability (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-782825008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=782825008\">782825008</a></td><td>http://snomed.info/sct</td><td>Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-783055005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=783055005\">783055005</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy type 5 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-783062001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=783062001\">783062001</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy type 6 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-783064000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=783064000\">783064000</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy type 3 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-783139000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=783139000\">783139000</a></td><td>http://snomed.info/sct</td><td>Progressive myoclonic epilepsy type 8 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-783739005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=783739005\">783739005</a></td><td>http://snomed.info/sct</td><td>Familial temporal lobe epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-784372002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=784372002\">784372002</a></td><td>http://snomed.info/sct</td><td>Familial mesial temporal lobe epilepsy with febrile seizures (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-784377008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=784377008\">784377008</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant epilepsy with auditory features (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-785303004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=785303004\">785303004</a></td><td>http://snomed.info/sct</td><td>Multiple congenital anomalies, hypotonia, seizures syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-785726009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=785726009\">785726009</a></td><td>http://snomed.info/sct</td><td>Hyperekplexia epilepsy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-788417006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=788417006\">788417006</a></td><td>http://snomed.info/sct</td><td>Alopecia, epilepsy, intellectual disability syndrome Moynahan type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-789063000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=789063000\">789063000</a></td><td>http://snomed.info/sct</td><td>Primary hyperaldosteronism, seizures, neurological abnormalities syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79631006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79631006\">79631006</a></td><td>http://snomed.info/sct</td><td>Absence seizure (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79745005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79745005\">79745005</a></td><td>http://snomed.info/sct</td><td>Reflex epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82381000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82381000119103\">82381000119103</a></td><td>http://snomed.info/sct</td><td>Epileptic dementia with behavioral disturbance (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8291000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8291000119107\">8291000119107</a></td><td>http://snomed.info/sct</td><td>Atonic epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84191000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84191000119107\">84191000119107</a></td><td>http://snomed.info/sct</td><td>Partial epileptic seizure of temporal lobe with impairment of consciousness (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84757009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84757009\">84757009</a></td><td>http://snomed.info/sct</td><td>Epilepsy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860804005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860804005\">860804005</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to infectious encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860806007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860806007\">860806007</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to infectious meningitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860815000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860815000\">860815000</a></td><td>http://snomed.info/sct</td><td>Epilepsy due to neonatal central nervous system infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.001\"> </a>G40.001</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.009\"> </a>G40.009</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.011\"> </a>G40.011</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.019\"> </a>G40.019</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.101\"> </a>G40.101</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.109\"> </a>G40.109</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.111\"> </a>G40.111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.119\"> </a>G40.119</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.201\"> </a>G40.201</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.209\"> </a>G40.209</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.211\"> </a>G40.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.219\"> </a>G40.219</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.301\"> </a>G40.301</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.309\"> </a>G40.309</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.311\"> </a>G40.311</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.319\"> </a>G40.319</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.401\"> </a>G40.401</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.409\"> </a>G40.409</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.411\"> </a>G40.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.419\"> </a>G40.419</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.42\"> </a>G40.42</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cyclin-Dependent Kinase-Like 5 Deficiency Disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.501\"> </a>G40.501</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic seizures related to external causes, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.509\"> </a>G40.509</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic seizures related to external causes, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.801\"> </a>G40.801</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other epilepsy, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.802\"> </a>G40.802</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other epilepsy, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.803\"> </a>G40.803</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other epilepsy, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.804\"> </a>G40.804</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other epilepsy, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.811\"> </a>G40.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lennox-Gastaut syndrome, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.812\"> </a>G40.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lennox-Gastaut syndrome, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.813\"> </a>G40.813</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lennox-Gastaut syndrome, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.814\"> </a>G40.814</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lennox-Gastaut syndrome, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.821\"> </a>G40.821</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic spasms, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.822\"> </a>G40.822</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic spasms, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.823\"> </a>G40.823</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic spasms, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.824\"> </a>G40.824</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epileptic spasms, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.833\"> </a>G40.833</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Dravet syndrome, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.834\"> </a>G40.834</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Dravet syndrome, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.89\"> </a>G40.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other seizures</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.901\"> </a>G40.901</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epilepsy, unspecified, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.909\"> </a>G40.909</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epilepsy, unspecified, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.911\"> </a>G40.911</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epilepsy, unspecified, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.919\"> </a>G40.919</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epilepsy, unspecified, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.A01\"> </a>G40.A01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Absence epileptic syndrome, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.A09\"> </a>G40.A09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Absence epileptic syndrome, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.A11\"> </a>G40.A11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Absence epileptic syndrome, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.A19\"> </a>G40.A19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Absence epileptic syndrome, intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.B01\"> </a>G40.B01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Juvenile myoclonic epilepsy, not intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.B09\"> </a>G40.B09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Juvenile myoclonic epilepsy, not intractable, without status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.B11\"> </a>G40.B11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Juvenile myoclonic epilepsy, intractable, with status epilepticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G40.B19\"> </a>G40.B19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Juvenile myoclonic epilepsy, intractable, without status epilepticus</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.105.12.1206",
   "version": "20210224",
   "name": "Seizure Disorder",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1867e347-5021-4f8c-82bb-db890ebe13f2",
+    "timestamp": "2022-07-19T15:07:14-04:00",
+    "total": 310,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128613002",
+      "display": "Seizure disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13973009",
+      "display": "Grand mal status (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14401000119109",
+      "display": "Partial frontal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170706008",
+      "display": "Epilepsy associated problems (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170709001",
+      "display": "Epilepsy drug side effect (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191714002",
+      "display": "Dissociative convulsions (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192845009",
+      "display": "Myoclonic encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192979009",
+      "display": "Generalized non-convulsive epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192990004",
+      "display": "Benign myoclonic epilepsy in infancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "192999003",
+      "display": "Partial epilepsy with impairment of consciousness (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193000002",
+      "display": "Temporal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193002005",
+      "display": "Psychosensory epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193003000",
+      "display": "Mesiobasal limbic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193008009",
+      "display": "Somatosensory epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193009001",
+      "display": "Partial epilepsy with autonomic symptoms (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193021002",
+      "display": "Cursive (running) epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19598007",
+      "display": "Generalized epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20121000119105",
+      "display": "Partial occipital lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21391000119102",
+      "display": "Partial parietal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230191005",
+      "display": "Rasmussen syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230381009",
+      "display": "Localization-related epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230389006",
+      "display": "Primary inherited reading epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230390002",
+      "display": "Localization-related symptomatic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230391003",
+      "display": "Amygdalo-hippocampal epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230392005",
+      "display": "Rhinencephalic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230393000",
+      "display": "Lateral temporal epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230394006",
+      "display": "Frontal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230395007",
+      "display": "Supplementary motor epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230396008",
+      "display": "Cingulate epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230397004",
+      "display": "Anterior frontopolar epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230398009",
+      "display": "Orbitofrontal epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230399001",
+      "display": "Dorsolateral epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230400008",
+      "display": "Opercular epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230401007",
+      "display": "Non-progressive Kozhevnikow syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230403005",
+      "display": "Parietal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230404004",
+      "display": "Occipital lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230406002",
+      "display": "Localization-related symptomatic epilepsy with specific precipitant (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230407006",
+      "display": "Hemiplegia-hemiconvulsion-epilepsy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230408001",
+      "display": "Localization-related cryptogenic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230414008",
+      "display": "Epilepsy with grand mal seizures on awakening (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230415009",
+      "display": "Cryptogenic generalized epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230416005",
+      "display": "Cryptogenic West syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230417001",
+      "display": "Symptomatic West syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230418006",
+      "display": "Lennox-Gastaut syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230419003",
+      "display": "Cryptogenic Lennox-Gastaut syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230420009",
+      "display": "Symptomatic Lennox-Gastaut syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230421008",
+      "display": "Myoclonic astatic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230422001",
+      "display": "Myoclonic absence epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230423006",
+      "display": "Unverricht-Lundborg syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230425004",
+      "display": "Lafora disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230426003",
+      "display": "Myoclonic epilepsy with ragged red fibers (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230427007",
+      "display": "Cryptogenic myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230428002",
+      "display": "Idiopathic myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230430000",
+      "display": "Symptomatic myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230432008",
+      "display": "Familial febrile convulsions (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230435005",
+      "display": "Epilepsy undetermined whether focal or generalized (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230437002",
+      "display": "Severe myoclonic epilepsy in infancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230438007",
+      "display": "Acquired epileptic aphasia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230439004",
+      "display": "Epilepsy with continuous spike wave during slow-wave sleep (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230440002",
+      "display": "Secondary reading epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230444006",
+      "display": "Menstrual epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230445007",
+      "display": "Nocturnal epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230448009",
+      "display": "Writing epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230450001",
+      "display": "Eating epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230452009",
+      "display": "Toothbrushing epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230453004",
+      "display": "Decision-making epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230454005",
+      "display": "Aquagenic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230455006",
+      "display": "Self-induced non-photosensitive epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230456007",
+      "display": "Status epilepticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230457003",
+      "display": "Non-convulsive status epilepticus with three per second spike wave (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230458008",
+      "display": "Non-convulsive status epilepticus without three per second spike wave (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23374007",
+      "display": "Atypical absence seizure (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "243857008",
+      "display": "Epilepsy monitoring status (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246549008",
+      "display": "Absence seizure with atonic components (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246550008",
+      "display": "Absence seizure with tonic components (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246551007",
+      "display": "Absence seizure with automatisms (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246552000",
+      "display": "Absence seizure with autonomic components (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267581004",
+      "display": "Progressive myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267592003",
+      "display": "Motor cortex epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278510009",
+      "display": "Localization-related idiopathic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28055006",
+      "display": "West syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290671000119100",
+      "display": "Status epilepticus due to complex partial epileptic seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290681000119102",
+      "display": "Status epilepticus due to refractory complex partial seizures (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290691000119104",
+      "display": "Status epilepticus due to generalized idiopathic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290711000119101",
+      "display": "Status epilepticus due to intractable idiopathic generalized epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290721000119108",
+      "display": "Status epilepticus due to refractory epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290731000119106",
+      "display": "Idiopathic partial status epilepticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290761000119103",
+      "display": "Status epilepticus due to refractory simple partial epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307356008",
+      "display": "Motor epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307357004",
+      "display": "Jacksonian, focal or motor epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314827004",
+      "display": "Epilepsy control good (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314828009",
+      "display": "Epilepsy control poor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "322112361000132104",
+      "display": "Epilepsy due to scarring of brain (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "329991000119104",
+      "display": "Intractable atypical absence epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "352818000",
+      "display": "Tonic-clonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36803009",
+      "display": "Idiopathic generalized epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37356005",
+      "display": "Myoclonic seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39194005",
+      "display": "Visual epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401178003",
+      "display": "Epilepsy care arrangement (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "407616001",
+      "display": "Epilepsy severity (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "407623000",
+      "display": "Emergency epilepsy treatment since last appointment (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "407675009",
+      "display": "Complex partial epileptic seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413101007",
+      "display": "Stress-induced epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422513000",
+      "display": "Epilepsy, not refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42365007",
+      "display": "Atonic seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431101000124102",
+      "display": "Benign myoclonic epilepsy in infancy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431111000124104",
+      "display": "Lennox-Gastaut syndrome, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431121000124107",
+      "display": "Lennox-Gastaut syndrome, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431141000124100",
+      "display": "Myoclonic absence epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431991000124107",
+      "display": "Petit mal status, non-refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432151000124107",
+      "display": "Myoclonic seizure, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432161000124109",
+      "display": "Severe myoclonic epilepsy in infancy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432271000124109",
+      "display": "Tonic seizures, refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432281000124107",
+      "display": "Tonic seizures, non-refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432291000124105",
+      "display": "Temporal lobe epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432471000124108",
+      "display": "Post-traumatic epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432501000124101",
+      "display": "Atonic seizure, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432511000124103",
+      "display": "Atonic seizure, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432561000124100",
+      "display": "Typical absence seizure, non-refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432571000124107",
+      "display": "Typical absence seizure, refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434211000124108",
+      "display": "Grand mal status epilepticus, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434491000124104",
+      "display": "Idiopathic generalized epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434521000124102",
+      "display": "Atypical absence seizure, refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434531000124104",
+      "display": "Atypical absence seizure, non-refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435321000124106",
+      "display": "Acquired epileptic aphasia, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435331000124109",
+      "display": "Acquired epileptic aphasia, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435341000124104",
+      "display": "Rasmussen syndrome, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "436011000124108",
+      "display": "Petit mal status, refractory (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438113009",
+      "display": "Convulsive syncope (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438421000124109",
+      "display": "Myoclonic astatic epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440211000124100",
+      "display": "Generalized convulsive epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44145005",
+      "display": "Benign Rolandic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442151000124108",
+      "display": "Autosomal dominant nocturnal frontal lobe epilepsy, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442161000124105",
+      "display": "Autosomal dominant nocturnal frontal lobe epilepsy, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442511009",
+      "display": "Progressive encephalopathy with edema, hypsarrhythmia and optic atrophy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442512002",
+      "display": "Nonconvulsive status epilepticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444441000124109",
+      "display": "Generalized epilepsy with febrile seizures plus, refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444451000124106",
+      "display": "Generalized epilepsy with febrile seizures plus, non-refractory (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "460731000124105",
+      "display": "Recurrent seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47391000119107",
+      "display": "Primary generalized absence epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51887003",
+      "display": "Tonic seizure (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5321000124109",
+      "display": "Temporal lobe epilepsy with mesial temporal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53521000119106",
+      "display": "First generalized onset seizure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65120008",
+      "display": "Generalized convulsive epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68091000119102",
+      "display": "Intractable absence seizures (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68761002",
+      "display": "Epileptic vertigo (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698021005",
+      "display": "Autosomal dominant nocturnal frontal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698760002",
+      "display": "Generalized non-convulsive absence epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698763000",
+      "display": "Postoperative status epilepticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698764006",
+      "display": "Post infectious grand mal epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698767004",
+      "display": "Post-cerebrovascular accident epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "699688008",
+      "display": "Generalized epilepsy with febrile seizures plus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "702326000",
+      "display": "Progressive myoclonus epilepsy with ataxia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "702344008",
+      "display": "Pitt-Hopkins syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7033004",
+      "display": "Absence status epilepticus (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703524005",
+      "display": "Spinal muscular atrophy with progressive myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "715629001",
+      "display": "Generalized epilepsy and paroxysmal dyskinesia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "716278005",
+      "display": "Jeavons syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "716706009",
+      "display": "Female restricted epilepsy with intellectual disability syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717223008",
+      "display": "X-linked epilepsy with learning disability and behavior disorder syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717225001",
+      "display": "Benign adult familial myoclonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71831005",
+      "display": "Symptomatic generalized epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "719810000",
+      "display": "X-linked intellectual disability with seizure and psoriasis syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720519003",
+      "display": "Atherosclerosis, deafness, diabetes, epilepsy, nephropathy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721088003",
+      "display": "Developmental delay, epilepsy, neonatal diabetes syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721207002",
+      "display": "Seizure, sensorineural deafness, ataxia, intellectual disability, electrolyte imbalance syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722110003",
+      "display": "Osteogenesis imperfecta, retinopathy, seizures, intellectual disability syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722386009",
+      "display": "Celiac disease with epilepsy and cerebral calcification syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722762005",
+      "display": "Ganglioside GM3 synthase deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "723125008",
+      "display": "Epileptic encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "723304001",
+      "display": "Microcephaly, seizure, intellectual disability, heart disease syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "723676007",
+      "display": "Severe intellectual disability, epilepsy, anal anomaly, distal phalangeal hypoplasia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "723926008",
+      "display": "Perceptual disturbances and seizures co-occurrent and due to alcohol withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724274009",
+      "display": "Infant epilepsy with migrant focal crisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724549005",
+      "display": "Epilepsy due to infectious disease of central nervous system (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724576005",
+      "display": "Pyridoxal 5-phosphate dependent epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724668002",
+      "display": "Seizure co-occurrent and due to sedative withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724669005",
+      "display": "Seizure co-occurrent and due to hypnotic withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724670006",
+      "display": "Seizure co-occurrent and due to anxiolytic withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724671005",
+      "display": "Perceptual disturbances and seizures co-occurrent and due to sedative withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724672003",
+      "display": "Perceptual disturbances and seizures co-occurrent and due to hypnotic withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724727001",
+      "display": "Seizure co-occurrent and due to psychoactive substance withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724728006",
+      "display": "Perceptual disturbances and seizures co-occurrent and due to psychoactive substance withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724785007",
+      "display": "Epilepsy due to perinatal stroke (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724786008",
+      "display": "Epilepsy due to perinatal anoxic-ischemic brain injury (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724787004",
+      "display": "Epilepsy due to cerebrovascular accident (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724789001",
+      "display": "Epilepsy due to intracranial tumor (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724988000",
+      "display": "Epilepsy co-occurrent and due to degenerative brain disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724989008",
+      "display": "Epilepsy co-occurrent and due to mesial temporal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724990004",
+      "display": "Epilepsy due to immune disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724991000",
+      "display": "Epilepsy co-occurrent and due to demyelinating disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724992007",
+      "display": "Epilepsy co-occurrent and due to dementia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "725163002",
+      "display": "X-linked spasticity, intellectual disability, epilepsy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "726702005",
+      "display": "Epileptic encephalopathy with global cerebral demyelination (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733031004",
+      "display": "Epilepsy, microcephaly, skeletal dysplasia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733032006",
+      "display": "Epilepsy telangiectasia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733082001",
+      "display": "Early-onset Lafora body disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733195008",
+      "display": "Epilepsy of infancy with migrating focal seizures (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733623005",
+      "display": "Autism spectrum disorder, epilepsy, arthrogryposis syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "734434007",
+      "display": "Pyridoxine-dependent epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735235000",
+      "display": "Seizure co-occurrent and due to drug withdrawal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75023009",
+      "display": "Post-traumatic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763349002",
+      "display": "Progressive myoclonic epilepsy with dystonia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763534009",
+      "display": "Hot water reflex epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763622006",
+      "display": "Thinking epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763632004",
+      "display": "Startle epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763802009",
+      "display": "Micturition induced epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763827002",
+      "display": "Orgasm induced epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "763861000",
+      "display": "Pachygyria, intellectual disability, epilepsy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764453009",
+      "display": "Action myoclonus renal failure syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764522009",
+      "display": "Familial focal epilepsy with variable foci (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "765093009",
+      "display": "Rolandic epilepsy, speech dyspraxia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "765170001",
+      "display": "Sodium voltage-gated channel alpha subunit 8-related epilepsy with encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "765216006",
+      "display": "Audiogenic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766044005",
+      "display": "Acute encephalopathy with biphasic seizures and late reduced diffusion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766815007",
+      "display": "Perioral myoclonia with absences (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "768473009",
+      "display": "Purine rich element binding protein A syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "768555009",
+      "display": "5q31.3 microdeletion syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770405003",
+      "display": "Benign familial mesial temporal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770431001",
+      "display": "Early-onset epileptic encephalopathy and intellectual disability due to glutamate receptor, ionotropic, N-methyl-D-aspartate, subunit 2A mutation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770623004",
+      "display": "Benign occipital lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770643005",
+      "display": "Mesial temporal lobe epilepsy with hippocampal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770678005",
+      "display": "Progressive encephalopathy with edema, hypsarrhythmia, and optic atrophy-like syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770755007",
+      "display": "Intellectual disability, seizures, hypotonia, ophthalmologic, skeletal anomalies syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770758009",
+      "display": "New-onset refractory status epilepticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770898002",
+      "display": "Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to WW domain containing oxidoreductase deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "771141002",
+      "display": "Benign partial epilepsy with secondarily generalized seizures in infancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "771142009",
+      "display": "Cortical dysplasia with focal epilepsy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "771448004",
+      "display": "Autism epilepsy syndrome due to branched chain ketoacid dehydrogenase kinase deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "771469002",
+      "display": "Early-onset spastic ataxia, myoclonic epilepsy, neuropathy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773230003",
+      "display": "Cyclin-dependent kinase-like 5 deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773498006",
+      "display": "Autosomal recessive cerebellar ataxia, epilepsy, intellectual disability syndrome due to TUD deficiency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773548008",
+      "display": "Early-onset epileptic encephalopathy, cortical blindness, intellectual disability, facial dysmorphism syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773643006",
+      "display": "Multiple congenital anomalies, hypotonia, seizures syndrome type 2 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773699009",
+      "display": "Pitt Hopkins-like syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "778001003",
+      "display": "Potassium voltage-gated channel subfamily Q member 2 related epileptic encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "778047006",
+      "display": "Myoclonic epilepsy in non-progressive encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "778063003",
+      "display": "Cryptogenic late-onset epileptic spasms (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "780827006",
+      "display": "Synaptic Ras GTPase activating protein 1- related intellectual disability (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "782825008",
+      "display": "Primary microcephaly, epilepsy, permanent neonatal diabetes syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "783055005",
+      "display": "Progressive myoclonic epilepsy type 5 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "783062001",
+      "display": "Progressive myoclonic epilepsy type 6 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "783064000",
+      "display": "Progressive myoclonic epilepsy type 3 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "783139000",
+      "display": "Progressive myoclonic epilepsy type 8 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "783739005",
+      "display": "Familial temporal lobe epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "784372002",
+      "display": "Familial mesial temporal lobe epilepsy with febrile seizures (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "784377008",
+      "display": "Autosomal dominant epilepsy with auditory features (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "785303004",
+      "display": "Multiple congenital anomalies, hypotonia, seizures syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "785726009",
+      "display": "Hyperekplexia epilepsy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "788417006",
+      "display": "Alopecia, epilepsy, intellectual disability syndrome Moynahan type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "789063000",
+      "display": "Primary hyperaldosteronism, seizures, neurological abnormalities syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79631006",
+      "display": "Absence seizure (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79745005",
+      "display": "Reflex epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82381000119103",
+      "display": "Epileptic dementia with behavioral disturbance (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8291000119107",
+      "display": "Atonic epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84191000119107",
+      "display": "Partial epileptic seizure of temporal lobe with impairment of consciousness (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84757009",
+      "display": "Epilepsy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860804005",
+      "display": "Epilepsy due to infectious encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860806007",
+      "display": "Epilepsy due to infectious meningitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860815000",
+      "display": "Epilepsy due to neonatal central nervous system infection (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.001",
+      "display": "Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.009",
+      "display": "Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.011",
+      "display": "Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.019",
+      "display": "Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.101",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.109",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.111",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.119",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.201",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.209",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.211",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.219",
+      "display": "Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.301",
+      "display": "Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.309",
+      "display": "Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.311",
+      "display": "Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.319",
+      "display": "Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.401",
+      "display": "Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.409",
+      "display": "Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.411",
+      "display": "Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.419",
+      "display": "Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.42",
+      "display": "Cyclin-Dependent Kinase-Like 5 Deficiency Disorder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.501",
+      "display": "Epileptic seizures related to external causes, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.509",
+      "display": "Epileptic seizures related to external causes, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.801",
+      "display": "Other epilepsy, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.802",
+      "display": "Other epilepsy, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.803",
+      "display": "Other epilepsy, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.804",
+      "display": "Other epilepsy, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.811",
+      "display": "Lennox-Gastaut syndrome, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.812",
+      "display": "Lennox-Gastaut syndrome, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.813",
+      "display": "Lennox-Gastaut syndrome, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.814",
+      "display": "Lennox-Gastaut syndrome, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.821",
+      "display": "Epileptic spasms, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.822",
+      "display": "Epileptic spasms, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.823",
+      "display": "Epileptic spasms, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.824",
+      "display": "Epileptic spasms, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.833",
+      "display": "Dravet syndrome, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.834",
+      "display": "Dravet syndrome, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.89",
+      "display": "Other seizures"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.901",
+      "display": "Epilepsy, unspecified, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.909",
+      "display": "Epilepsy, unspecified, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.911",
+      "display": "Epilepsy, unspecified, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.919",
+      "display": "Epilepsy, unspecified, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.A01",
+      "display": "Absence epileptic syndrome, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.A09",
+      "display": "Absence epileptic syndrome, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.A11",
+      "display": "Absence epileptic syndrome, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.A19",
+      "display": "Absence epileptic syndrome, intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.B01",
+      "display": "Juvenile myoclonic epilepsy, not intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.B09",
+      "display": "Juvenile myoclonic epilepsy, not intractable, without status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.B11",
+      "display": "Juvenile myoclonic epilepsy, intractable, with status epilepticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G40.B19",
+      "display": "Juvenile myoclonic epilepsy, intractable, without status epilepticus"
+    } ]
+  }
 }

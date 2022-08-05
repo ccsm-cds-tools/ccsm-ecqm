@@ -5,12 +5,868 @@
     "versionId": "28",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 168 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SP909Z\"> </a>0SP909Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Liner from Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SP90JZ\"> </a>0SP90JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPA0JZ\"> </a>0SPA0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Right Hip Joint, Acetabular Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPB09Z\"> </a>0SPB09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Liner from Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPB0JZ\"> </a>0SPB0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPE0JZ\"> </a>0SPE0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Left Hip Joint, Acetabular Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPR0JZ\"> </a>0SPR0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Right Hip Joint, Femoral Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SPS0JZ\"> </a>0SPS0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Removal of Synthetic Substitute from Left Hip Joint, Femoral Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR9019\"> </a>0SR9019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR901A\"> </a>0SR901A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR901Z\"> </a>0SR901Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR9029\"> </a>0SR9029</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR902A\"> </a>0SR902A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR902Z\"> </a>0SR902Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR9039\"> </a>0SR9039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR903A\"> </a>0SR903A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR903Z\"> </a>0SR903Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR9049\"> </a>0SR9049</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR904A\"> </a>0SR904A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR904Z\"> </a>0SR904Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR907Z\"> </a>0SR907Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR90J9\"> </a>0SR90J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR90JA\"> </a>0SR90JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR90JZ\"> </a>0SR90JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SR90KZ\"> </a>0SR90KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA009\"> </a>0SRA009</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA00A\"> </a>0SRA00A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA00Z\"> </a>0SRA00Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA019\"> </a>0SRA019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA01A\"> </a>0SRA01A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA01Z\"> </a>0SRA01Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA039\"> </a>0SRA039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA03A\"> </a>0SRA03A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA03Z\"> </a>0SRA03Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA07Z\"> </a>0SRA07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA0J9\"> </a>0SRA0J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA0JA\"> </a>0SRA0JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA0JZ\"> </a>0SRA0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRA0KZ\"> </a>0SRA0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Acetabular Surface with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB019\"> </a>0SRB019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB01A\"> </a>0SRB01A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB01Z\"> </a>0SRB01Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB029\"> </a>0SRB029</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB02A\"> </a>0SRB02A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB02Z\"> </a>0SRB02Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB039\"> </a>0SRB039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB03A\"> </a>0SRB03A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB03Z\"> </a>0SRB03Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB049\"> </a>0SRB049</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB04A\"> </a>0SRB04A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB04Z\"> </a>0SRB04Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB07Z\"> </a>0SRB07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB0J9\"> </a>0SRB0J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB0JA\"> </a>0SRB0JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB0JZ\"> </a>0SRB0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRB0KZ\"> </a>0SRB0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE009\"> </a>0SRE009</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE00A\"> </a>0SRE00A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE00Z\"> </a>0SRE00Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE019\"> </a>0SRE019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE01A\"> </a>0SRE01A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE01Z\"> </a>0SRE01Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE039\"> </a>0SRE039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE03A\"> </a>0SRE03A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE03Z\"> </a>0SRE03Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE07Z\"> </a>0SRE07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE0J9\"> </a>0SRE0J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE0JA\"> </a>0SRE0JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE0JZ\"> </a>0SRE0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRE0KZ\"> </a>0SRE0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Acetabular Surface with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR019\"> </a>0SRR019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR01A\"> </a>0SRR01A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR01Z\"> </a>0SRR01Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR039\"> </a>0SRR039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR03A\"> </a>0SRR03A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR03Z\"> </a>0SRR03Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR07Z\"> </a>0SRR07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR0J9\"> </a>0SRR0J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR0JA\"> </a>0SRR0JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR0JZ\"> </a>0SRR0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRR0KZ\"> </a>0SRR0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Right Hip Joint, Femoral Surface with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS019\"> </a>0SRS019</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS01A\"> </a>0SRS01A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS01Z\"> </a>0SRS01Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS039\"> </a>0SRS039</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS03A\"> </a>0SRS03A</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS03Z\"> </a>0SRS03Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS07Z\"> </a>0SRS07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS0J9\"> </a>0SRS0J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Cemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS0JA\"> </a>0SRS0JA</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Uncemented, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS0JZ\"> </a>0SRS0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SRS0KZ\"> </a>0SRS0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Replacement of Left Hip Joint, Femoral Surface with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SU907Z\"> </a>0SU907Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SU909Z\"> </a>0SU909Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SU90BZ\"> </a>0SU90BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SU90JZ\"> </a>0SU90JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SU90KZ\"> </a>0SU90KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUA09Z\"> </a>0SUA09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint, Acetabular Surface with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUA0BZ\"> </a>0SUA0BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint, Acetabular Surface with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUB07Z\"> </a>0SUB07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint with Autologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUB09Z\"> </a>0SUB09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUB0BZ\"> </a>0SUB0BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUB0JZ\"> </a>0SUB0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUB0KZ\"> </a>0SUB0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUE09Z\"> </a>0SUE09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint, Acetabular Surface with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUE0BZ\"> </a>0SUE0BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint, Acetabular Surface with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUR09Z\"> </a>0SUR09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint, Femoral Surface with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUR0BZ\"> </a>0SUR0BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Right Hip Joint, Femoral Surface with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUS09Z\"> </a>0SUS09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint, Femoral Surface with Liner, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SUS0BZ\"> </a>0SUS0BZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Supplement Left Hip Joint, Femoral Surface with Resurfacing Device, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SW907Z\"> </a>0SW907Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Autologous Tissue Substitute in Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SW909Z\"> </a>0SW909Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Liner in Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SW90JZ\"> </a>0SW90JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SW90KZ\"> </a>0SW90KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Nonautologous Tissue Substitute in Right Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWA0JZ\"> </a>0SWA0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Right Hip Joint, Acetabular Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWB07Z\"> </a>0SWB07Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Autologous Tissue Substitute in Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWB09Z\"> </a>0SWB09Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Liner in Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWB0JZ\"> </a>0SWB0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWB0KZ\"> </a>0SWB0KZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Nonautologous Tissue Substitute in Left Hip Joint, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWE0JZ\"> </a>0SWE0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Left Hip Joint, Acetabular Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWR0JZ\"> </a>0SWR0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Right Hip Joint, Femoral Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0SWS0JZ\"> </a>0SWS0JZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Revision of Synthetic Substitute in Left Hip Joint, Femoral Surface, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112727005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112727005\">112727005</a></td><td>http://snomed.info/sct</td><td>Revision of hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112728000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112728000\">112728000</a></td><td>http://snomed.info/sct</td><td>Total revision of hip replacement with use of methyl methacrylate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15036006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15036006\">15036006</a></td><td>http://snomed.info/sct</td><td>Implantation of prosthesis or prosthetic device of acetabulum of hip joint, Aufranc-Turner (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179294005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179294005\">179294005</a></td><td>http://snomed.info/sct</td><td>Conversion to cemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179295006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179295006\">179295006</a></td><td>http://snomed.info/sct</td><td>Revision cemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179304004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179304004\">179304004</a></td><td>http://snomed.info/sct</td><td>Primary uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179305003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179305003\">179305003</a></td><td>http://snomed.info/sct</td><td>Conversion to uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179306002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179306002\">179306002</a></td><td>http://snomed.info/sct</td><td>Revision uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179326003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179326003\">179326003</a></td><td>http://snomed.info/sct</td><td>Primary uncemented hemiarthroplasty of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19954002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19954002\">19954002</a></td><td>http://snomed.info/sct</td><td>Reconstruction of hip with use of methyl methacrylate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265157000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265157000\">265157000</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of hip joint using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265158005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265158005\">265158005</a></td><td>http://snomed.info/sct</td><td>Primary cemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265160007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265160007\">265160007</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of hip joint not using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265161006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265161006\">265161006</a></td><td>http://snomed.info/sct</td><td>Conversion from uncemented total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276178005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276178005\">276178005</a></td><td>http://snomed.info/sct</td><td>Prosthetic uncemented hemiarthroplasty of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307814001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307814001\">307814001</a></td><td>http://snomed.info/sct</td><td>Arthroplasty of hip joint using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307815000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307815000\">307815000</a></td><td>http://snomed.info/sct</td><td>Arthroplasty of hip without cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309853002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309853002\">309853002</a></td><td>http://snomed.info/sct</td><td>Removal of previous uncemented total prosthetic replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314489006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314489006\">314489006</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314491003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314491003\">314491003</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32581000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32581000\">32581000</a></td><td>http://snomed.info/sct</td><td>Partial hip replacement by cup with acetabuloplasty (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340922009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340922009\">340922009</a></td><td>http://snomed.info/sct</td><td>Partial hip replacement by cup (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386649003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386649003\">386649003</a></td><td>http://snomed.info/sct</td><td>Partial hip replacement by prosthesis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426618001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426618001\">426618001</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint using cemented femoral component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426904006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426904006\">426904006</a></td><td>http://snomed.info/sct</td><td>Prosthetic hybrid total replacement of hip joint using cemented acetabular component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427728006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427728006\">427728006</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428622003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428622003\">428622003</a></td><td>http://snomed.info/sct</td><td>Revision of hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429156003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429156003\">429156003</a></td><td>http://snomed.info/sct</td><td>Primary hybrid total prosthetic replacement of hip joint using cemented acetabular component (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-430688009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=430688009\">430688009</a></td><td>http://snomed.info/sct</td><td>Prosthetic arthroplasty of left hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-430694001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=430694001\">430694001</a></td><td>http://snomed.info/sct</td><td>Prosthetic arthroplasty of right hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443435007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443435007\">443435007</a></td><td>http://snomed.info/sct</td><td>Total replacement of right hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444051004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444051004\">444051004</a></td><td>http://snomed.info/sct</td><td>Replacement of bilateral hip joints (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445185007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445185007\">445185007</a></td><td>http://snomed.info/sct</td><td>Resurfacing of head of femur (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447947007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447947007\">447947007</a></td><td>http://snomed.info/sct</td><td>Conversion from previous total prosthetic replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447992000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447992000\">447992000</a></td><td>http://snomed.info/sct</td><td>Conversion from hybrid total prosthetic hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449039004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449039004\">449039004</a></td><td>http://snomed.info/sct</td><td>Conversion to total prosthetic replacement of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450813004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450813004\">450813004</a></td><td>http://snomed.info/sct</td><td>Primary total prosthetic replacement of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47596009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47596009\">47596009</a></td><td>http://snomed.info/sct</td><td>Cup arthroplasty of hip with use of methyl methacrylate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52734007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52734007\">52734007</a></td><td>http://snomed.info/sct</td><td>Total replacement of hip (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53081006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53081006\">53081006</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral, prosthetic replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57589001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57589001\">57589001</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral prosthetic replacement, with allograft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62402000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62402000\">62402000</a></td><td>http://snomed.info/sct</td><td>Revision of total hip replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68491008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68491008\">68491008</a></td><td>http://snomed.info/sct</td><td>Implantation of prosthesis or prosthetic device of acetabulum of hip joint with use of methyl methacrylate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76116002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76116002\">76116002</a></td><td>http://snomed.info/sct</td><td>Implantation of prosthesis or prosthetic device of acetabulum of hip joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76915002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76915002\">76915002</a></td><td>http://snomed.info/sct</td><td>Arthroplasty, acetabular and proximal femoral prosthetic replacement, with autograft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7989006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7989006\">7989006</a></td><td>http://snomed.info/sct</td><td>Removal of prosthesis of joint structures of hip (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.259",
   "version": "20210220",
   "name": "Hip Replacement Surgery",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:03f0b21e-26a0-420f-b490-1646d911a1b6",
+    "timestamp": "2022-07-19T15:05:51-04:00",
+    "total": 168,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SP909Z",
+      "display": "Removal of Liner from Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SP90JZ",
+      "display": "Removal of Synthetic Substitute from Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPA0JZ",
+      "display": "Removal of Synthetic Substitute from Right Hip Joint, Acetabular Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPB09Z",
+      "display": "Removal of Liner from Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPB0JZ",
+      "display": "Removal of Synthetic Substitute from Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPE0JZ",
+      "display": "Removal of Synthetic Substitute from Left Hip Joint, Acetabular Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPR0JZ",
+      "display": "Removal of Synthetic Substitute from Right Hip Joint, Femoral Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SPS0JZ",
+      "display": "Removal of Synthetic Substitute from Left Hip Joint, Femoral Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR9019",
+      "display": "Replacement of Right Hip Joint with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR901A",
+      "display": "Replacement of Right Hip Joint with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR901Z",
+      "display": "Replacement of Right Hip Joint with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR9029",
+      "display": "Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR902A",
+      "display": "Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR902Z",
+      "display": "Replacement of Right Hip Joint with Metal on Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR9039",
+      "display": "Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR903A",
+      "display": "Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR903Z",
+      "display": "Replacement of Right Hip Joint with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR9049",
+      "display": "Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR904A",
+      "display": "Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR904Z",
+      "display": "Replacement of Right Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR907Z",
+      "display": "Replacement of Right Hip Joint with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR90J9",
+      "display": "Replacement of Right Hip Joint with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR90JA",
+      "display": "Replacement of Right Hip Joint with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR90JZ",
+      "display": "Replacement of Right Hip Joint with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SR90KZ",
+      "display": "Replacement of Right Hip Joint with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA009",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA00A",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA00Z",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA019",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA01A",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA01Z",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA039",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA03A",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA03Z",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA07Z",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA0J9",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA0JA",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA0JZ",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRA0KZ",
+      "display": "Replacement of Right Hip Joint, Acetabular Surface with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB019",
+      "display": "Replacement of Left Hip Joint with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB01A",
+      "display": "Replacement of Left Hip Joint with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB01Z",
+      "display": "Replacement of Left Hip Joint with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB029",
+      "display": "Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB02A",
+      "display": "Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB02Z",
+      "display": "Replacement of Left Hip Joint with Metal on Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB039",
+      "display": "Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB03A",
+      "display": "Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB03Z",
+      "display": "Replacement of Left Hip Joint with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB049",
+      "display": "Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB04A",
+      "display": "Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB04Z",
+      "display": "Replacement of Left Hip Joint with Ceramic on Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB07Z",
+      "display": "Replacement of Left Hip Joint with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB0J9",
+      "display": "Replacement of Left Hip Joint with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB0JA",
+      "display": "Replacement of Left Hip Joint with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB0JZ",
+      "display": "Replacement of Left Hip Joint with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRB0KZ",
+      "display": "Replacement of Left Hip Joint with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE009",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE00A",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE00Z",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Polyethylene Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE019",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE01A",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE01Z",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE039",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE03A",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE03Z",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE07Z",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE0J9",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE0JA",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE0JZ",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRE0KZ",
+      "display": "Replacement of Left Hip Joint, Acetabular Surface with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR019",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR01A",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR01Z",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR039",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR03A",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR03Z",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR07Z",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR0J9",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR0JA",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR0JZ",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRR0KZ",
+      "display": "Replacement of Right Hip Joint, Femoral Surface with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS019",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS01A",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS01Z",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Metal Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS039",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS03A",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS03Z",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Ceramic Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS07Z",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS0J9",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Cemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS0JA",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Uncemented, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS0JZ",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SRS0KZ",
+      "display": "Replacement of Left Hip Joint, Femoral Surface with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SU907Z",
+      "display": "Supplement Right Hip Joint with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SU909Z",
+      "display": "Supplement Right Hip Joint with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SU90BZ",
+      "display": "Supplement Right Hip Joint with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SU90JZ",
+      "display": "Supplement Right Hip Joint with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SU90KZ",
+      "display": "Supplement Right Hip Joint with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUA09Z",
+      "display": "Supplement Right Hip Joint, Acetabular Surface with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUA0BZ",
+      "display": "Supplement Right Hip Joint, Acetabular Surface with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUB07Z",
+      "display": "Supplement Left Hip Joint with Autologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUB09Z",
+      "display": "Supplement Left Hip Joint with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUB0BZ",
+      "display": "Supplement Left Hip Joint with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUB0JZ",
+      "display": "Supplement Left Hip Joint with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUB0KZ",
+      "display": "Supplement Left Hip Joint with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUE09Z",
+      "display": "Supplement Left Hip Joint, Acetabular Surface with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUE0BZ",
+      "display": "Supplement Left Hip Joint, Acetabular Surface with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUR09Z",
+      "display": "Supplement Right Hip Joint, Femoral Surface with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUR0BZ",
+      "display": "Supplement Right Hip Joint, Femoral Surface with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUS09Z",
+      "display": "Supplement Left Hip Joint, Femoral Surface with Liner, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SUS0BZ",
+      "display": "Supplement Left Hip Joint, Femoral Surface with Resurfacing Device, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SW907Z",
+      "display": "Revision of Autologous Tissue Substitute in Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SW909Z",
+      "display": "Revision of Liner in Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SW90JZ",
+      "display": "Revision of Synthetic Substitute in Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SW90KZ",
+      "display": "Revision of Nonautologous Tissue Substitute in Right Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWA0JZ",
+      "display": "Revision of Synthetic Substitute in Right Hip Joint, Acetabular Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWB07Z",
+      "display": "Revision of Autologous Tissue Substitute in Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWB09Z",
+      "display": "Revision of Liner in Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWB0JZ",
+      "display": "Revision of Synthetic Substitute in Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWB0KZ",
+      "display": "Revision of Nonautologous Tissue Substitute in Left Hip Joint, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWE0JZ",
+      "display": "Revision of Synthetic Substitute in Left Hip Joint, Acetabular Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWR0JZ",
+      "display": "Revision of Synthetic Substitute in Right Hip Joint, Femoral Surface, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0SWS0JZ",
+      "display": "Revision of Synthetic Substitute in Left Hip Joint, Femoral Surface, Open Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112727005",
+      "display": "Revision of hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112728000",
+      "display": "Total revision of hip replacement with use of methyl methacrylate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15036006",
+      "display": "Implantation of prosthesis or prosthetic device of acetabulum of hip joint, Aufranc-Turner (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179294005",
+      "display": "Conversion to cemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179295006",
+      "display": "Revision cemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179304004",
+      "display": "Primary uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179305003",
+      "display": "Conversion to uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179306002",
+      "display": "Revision uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179326003",
+      "display": "Primary uncemented hemiarthroplasty of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19954002",
+      "display": "Reconstruction of hip with use of methyl methacrylate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265157000",
+      "display": "Total prosthetic replacement of hip joint using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265158005",
+      "display": "Primary cemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265160007",
+      "display": "Total prosthetic replacement of hip joint not using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265161006",
+      "display": "Conversion from uncemented total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276178005",
+      "display": "Prosthetic uncemented hemiarthroplasty of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307814001",
+      "display": "Arthroplasty of hip joint using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307815000",
+      "display": "Arthroplasty of hip without cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309853002",
+      "display": "Removal of previous uncemented total prosthetic replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314489006",
+      "display": "Primary hybrid total replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314491003",
+      "display": "Prosthetic hybrid total replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32581000",
+      "display": "Partial hip replacement by cup with acetabuloplasty (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340922009",
+      "display": "Partial hip replacement by cup (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386649003",
+      "display": "Partial hip replacement by prosthesis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426618001",
+      "display": "Prosthetic hybrid total replacement of hip joint using cemented femoral component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426904006",
+      "display": "Prosthetic hybrid total replacement of hip joint using cemented acetabular component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427728006",
+      "display": "Primary hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428622003",
+      "display": "Revision of hybrid total prosthetic replacement of hip joint using cemented femoral component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429156003",
+      "display": "Primary hybrid total prosthetic replacement of hip joint using cemented acetabular component (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "430688009",
+      "display": "Prosthetic arthroplasty of left hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "430694001",
+      "display": "Prosthetic arthroplasty of right hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443435007",
+      "display": "Total replacement of right hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444051004",
+      "display": "Replacement of bilateral hip joints (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445185007",
+      "display": "Resurfacing of head of femur (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447947007",
+      "display": "Conversion from previous total prosthetic replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447992000",
+      "display": "Conversion from hybrid total prosthetic hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449039004",
+      "display": "Conversion to total prosthetic replacement of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450813004",
+      "display": "Primary total prosthetic replacement of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47596009",
+      "display": "Cup arthroplasty of hip with use of methyl methacrylate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52734007",
+      "display": "Total replacement of hip (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53081006",
+      "display": "Arthroplasty, acetabular and proximal femoral, prosthetic replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57589001",
+      "display": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with allograft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62402000",
+      "display": "Revision of total hip replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68491008",
+      "display": "Implantation of prosthesis or prosthetic device of acetabulum of hip joint with use of methyl methacrylate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76116002",
+      "display": "Implantation of prosthesis or prosthetic device of acetabulum of hip joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76915002",
+      "display": "Arthroplasty, acetabular and proximal femoral prosthetic replacement, with autograft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7989006",
+      "display": "Removal of prosthesis of joint structures of hip (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,48 @@
     "versionId": "3",
     "lastUpdated": "2021-01-04T20:00:46.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128639004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128639004\">128639004</a></td><td>Transitional cell carcinoma, micropapillary (morphologic abnormality)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-255111004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=255111004\">255111004</a></td><td>Squamous cell carcinoma of bladder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278046008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278046008\">278046008</a></td><td>Sarcoma of bladder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59509005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59509005\">59509005</a></td><td>Plasmacytoid cell (morphologic abnormality)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1151.39",
   "version": "20170302",
   "name": "Mixed histology urothelial cell carcinoma for Urology Care",
   "status": "active",
   "date": "2017-03-02T01:00:02-05:00",
   "publisher": "Oregon Urology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:939af36a-2a09-41b0-b834-cae8253d4d49",
+    "timestamp": "2022-07-19T15:05:12-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128639004",
+      "display": "Transitional cell carcinoma, micropapillary (morphologic abnormality)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "255111004",
+      "display": "Squamous cell carcinoma of bladder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278046008",
+      "display": "Sarcoma of bladder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59509005",
+      "display": "Plasmacytoid cell (morphologic abnormality)"
+    } ]
+  }
 }

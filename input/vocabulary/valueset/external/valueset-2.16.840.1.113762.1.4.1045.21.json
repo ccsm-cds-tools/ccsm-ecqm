@@ -5,12 +5,78 @@
     "versionId": "39",
     "lastUpdated": "2022-03-02T18:05:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307521008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307521008\">307521008</a></td><td>http://snomed.info/sct</td><td>Intravenous infusion of thrombolytic (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E03017\"> </a>3E03017</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Peripheral Vein, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E03317\"> </a>3E03317</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E04017\"> </a>3E04017</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Central Vein, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E04317\"> </a>3E04317</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Central Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E05017\"> </a>3E05017</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Peripheral Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E05317\"> </a>3E05317</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Peripheral Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E06017\"> </a>3E06017</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Central Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E06317\"> </a>3E06317</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Other Thrombolytic into Central Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69245005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69245005\">69245005</a></td><td>http://snomed.info/sct</td><td>Intra-arterial infusion of thrombolytic agent (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.21",
   "version": "20210220",
   "name": "Intravenous or Intra-arterial Thrombolytic (t-PA) Therapy",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:63e696dd-0b08-497a-85b6-dc2472f176da",
+    "timestamp": "2022-07-19T15:04:29-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307521008",
+      "display": "Intravenous infusion of thrombolytic (procedure)"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E03017",
+      "display": "Introduction of Other Thrombolytic into Peripheral Vein, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E03317",
+      "display": "Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E04017",
+      "display": "Introduction of Other Thrombolytic into Central Vein, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E04317",
+      "display": "Introduction of Other Thrombolytic into Central Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E05017",
+      "display": "Introduction of Other Thrombolytic into Peripheral Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E05317",
+      "display": "Introduction of Other Thrombolytic into Peripheral Artery, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E06017",
+      "display": "Introduction of Other Thrombolytic into Central Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E06317",
+      "display": "Introduction of Other Thrombolytic into Central Artery, Percutaneous Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69245005",
+      "display": "Intra-arterial infusion of thrombolytic agent (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:04:24.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71486-5\"> </a><a href=\"http://details.loinc.org/LOINC/71486-5.html\">71486-5</a></td><td>Left eye Optic disc or retinal nerve fiber layer structural abnormalities by Ophthalmoscopy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-71487-3\"> </a><a href=\"http://details.loinc.org/LOINC/71487-3.html\">71487-3</a></td><td>Right eye Optic disc or retinal nerve fiber layer structural abnormalities by Ophthalmoscopy</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1334",
   "version": "20210209",
   "name": "Optic Disc Exam for Structural Abnormalities",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9e8ca97f-a67e-4b2c-8bb4-f8722e16bc65",
+    "timestamp": "2022-07-19T15:11:53-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71486-5",
+      "display": "Left eye Optic disc or retinal nerve fiber layer structural abnormalities by Ophthalmoscopy"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "71487-3",
+      "display": "Right eye Optic disc or retinal nerve fiber layer structural abnormalities by Ophthalmoscopy"
+    } ]
+  }
 }

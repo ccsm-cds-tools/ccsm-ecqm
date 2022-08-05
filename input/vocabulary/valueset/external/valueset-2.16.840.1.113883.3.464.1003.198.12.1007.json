@@ -5,12 +5,98 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:02:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179344006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179344006\">179344006</a></td><td>http://snomed.info/sct</td><td>Primary cemented total knee replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179345007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179345007\">179345007</a></td><td>http://snomed.info/sct</td><td>Conversion to cemented total knee replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179351002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179351002\">179351002</a></td><td>http://snomed.info/sct</td><td>Primary uncemented total knee replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-179352009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=179352009\">179352009</a></td><td>http://snomed.info/sct</td><td>Conversion to uncemented total knee replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265170009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265170009\">265170009</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of knee joint using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265172001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265172001\">265172001</a></td><td>http://snomed.info/sct</td><td>Total prosthetic replacement of knee joint not using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-27447\"> </a>27447</td><td>http://www.ama-assn.org/go/cpt</td><td>Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-392237008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=392237008\">392237008</a></td><td>http://snomed.info/sct</td><td>Total arthroplasty of knee, geomedic or polycentric (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443681002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443681002\">443681002</a></td><td>http://snomed.info/sct</td><td>Total replacement of left knee joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443682009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443682009\">443682009</a></td><td>http://snomed.info/sct</td><td>Total replacement of right knee joint (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444463001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444463001\">444463001</a></td><td>http://snomed.info/sct</td><td>Replacement of bilateral knee joints (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609588000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609588000\">609588000</a></td><td>http://snomed.info/sct</td><td>Total knee replacement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764931001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764931001\">764931001</a></td><td>http://snomed.info/sct</td><td>Revision of one component of total prosthetic replacement of knee joint not using cement (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764932008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764932008\">764932008</a></td><td>http://snomed.info/sct</td><td>Revision of one component of total prosthetic replacement of knee joint using cement (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1007",
   "version": "20170504",
   "name": "Primary TKA Procedure",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7a14fc15-9acb-44cb-9925-3d84020364b0",
+    "timestamp": "2022-07-19T15:10:25-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179344006",
+      "display": "Primary cemented total knee replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179345007",
+      "display": "Conversion to cemented total knee replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179351002",
+      "display": "Primary uncemented total knee replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "179352009",
+      "display": "Conversion to uncemented total knee replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265170009",
+      "display": "Total prosthetic replacement of knee joint using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265172001",
+      "display": "Total prosthetic replacement of knee joint not using cement (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "27447",
+      "display": "Arthroplasty, knee, condyle and plateau; medial AND lateral compartments with or without patella resurfacing (total knee arthroplasty)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "392237008",
+      "display": "Total arthroplasty of knee, geomedic or polycentric (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443681002",
+      "display": "Total replacement of left knee joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443682009",
+      "display": "Total replacement of right knee joint (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444463001",
+      "display": "Replacement of bilateral knee joints (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609588000",
+      "display": "Total knee replacement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764931001",
+      "display": "Revision of one component of total prosthetic replacement of knee joint not using cement (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764932008",
+      "display": "Revision of one component of total prosthetic replacement of knee joint using cement (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,258 @@
     "versionId": "5",
     "lastUpdated": "2021-08-04T01:00:41.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 46 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11013005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11013005\">11013005</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class VI (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-196138005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=196138005\">196138005</a></td><td>http://snomed.info/sct</td><td>Lung disease with systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230307005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230307005\">230307005</a></td><td>http://snomed.info/sct</td><td>Chorea in systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239887007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239887007\">239887007</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus with organ/system involvement (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239889005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239889005\">239889005</a></td><td>http://snomed.info/sct</td><td>Bullous systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239890001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239890001\">239890001</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus with multisystem involvement (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25380002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25380002\">25380002</a></td><td>http://snomed.info/sct</td><td>Pericarditis co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-295101000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=295101000119105\">295101000119105</a></td><td>http://snomed.info/sct</td><td>Nephropathy co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-295111000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=295111000119108\">295111000119108</a></td><td>http://snomed.info/sct</td><td>Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-295121000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=295121000119101\">295121000119101</a></td><td>http://snomed.info/sct</td><td>Nephrosis co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307755009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307755009\">307755009</a></td><td>http://snomed.info/sct</td><td>Renal tubulo-interstitial disorder in systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308751000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308751000119106\">308751000119106</a></td><td>http://snomed.info/sct</td><td>Glomerular disease due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309762007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309762007\">309762007</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus with pericarditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36402006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36402006\">36402006</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class IV (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36471000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36471000\">36471000</a></td><td>http://snomed.info/sct</td><td>Dilated cardiomyopathy due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397856003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397856003\">397856003</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus-related syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-402865003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402865003\">402865003</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus-associated antiphospholipid syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-403486000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=403486000\">403486000</a></td><td>http://snomed.info/sct</td><td>Acute systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-403487009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=403487009\">403487009</a></td><td>http://snomed.info/sct</td><td>Fulminating systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-403488004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=403488004\">403488004</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus of childhood (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417303004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417303004\">417303004</a></td><td>http://snomed.info/sct</td><td>Retinal vasculitis due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4676006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4676006\">4676006</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52042003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52042003\">52042003</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class V (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55464009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55464009\">55464009</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68815009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68815009\">68815009</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698694005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698694005\">698694005</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72181000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72181000119109\">72181000119109</a></td><td>http://snomed.info/sct</td><td>Endocarditis due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724767000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724767000\">724767000</a></td><td>http://snomed.info/sct</td><td>Chorea co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-724781003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=724781003\">724781003</a></td><td>http://snomed.info/sct</td><td>Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73286009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73286009\">73286009</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-732960002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=732960002\">732960002</a></td><td>http://snomed.info/sct</td><td>Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76521009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76521009\">76521009</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class III (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773333003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773333003\">773333003</a></td><td>http://snomed.info/sct</td><td>Autosomal systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95332009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95332009\">95332009</a></td><td>http://snomed.info/sct</td><td>Rash of systemic lupus erythematosus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95644001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95644001\">95644001</a></td><td>http://snomed.info/sct</td><td>Systemic lupus erythematosus encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32\"> </a>M32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Systemic lupus erythematosus (SLE)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.1\"> </a>M32.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Systemic lupus erythematosus with organ or system involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.10\"> </a>M32.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Systemic lupus erythematosus, organ or system involvement unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.11\"> </a>M32.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Endocarditis in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.12\"> </a>M32.12</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Pericarditis in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.13\"> </a>M32.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lung involvement in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.14\"> </a>M32.14</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Glomerular disease in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.15\"> </a>M32.15</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Tubulo-interstitial nephropathy in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.19\"> </a>M32.19</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other organ or system involvement in systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.8\"> </a>M32.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other forms of systemic lupus erythematosus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M32.9\"> </a>M32.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Systemic lupus erythematosus, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.215",
   "version": "20210804",
   "name": "Systemic Lupus Erythematosus",
   "status": "active",
   "date": "2021-08-04T01:00:41-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2ade81c1-fbcd-4587-be72-58a4c05e8229",
+    "timestamp": "2022-07-15T19:33:46-04:00",
+    "total": 46,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11013005",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class VI (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "196138005",
+      "display": "Lung disease with systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230307005",
+      "display": "Chorea in systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239887007",
+      "display": "Systemic lupus erythematosus with organ/system involvement (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239889005",
+      "display": "Bullous systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239890001",
+      "display": "Systemic lupus erythematosus with multisystem involvement (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25380002",
+      "display": "Pericarditis co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "295101000119105",
+      "display": "Nephropathy co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "295111000119108",
+      "display": "Nephrotic syndrome co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "295121000119101",
+      "display": "Nephrosis co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307755009",
+      "display": "Renal tubulo-interstitial disorder in systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308751000119106",
+      "display": "Glomerular disease due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309762007",
+      "display": "Systemic lupus erythematosus with pericarditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36402006",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class IV (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36471000",
+      "display": "Dilated cardiomyopathy due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397856003",
+      "display": "Systemic lupus erythematosus-related syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "402865003",
+      "display": "Systemic lupus erythematosus-associated antiphospholipid syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "403486000",
+      "display": "Acute systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "403487009",
+      "display": "Fulminating systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "403488004",
+      "display": "Systemic lupus erythematosus of childhood (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417303004",
+      "display": "Retinal vasculitis due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4676006",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52042003",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class V (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55464009",
+      "display": "Systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68815009",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698694005",
+      "display": "Systemic lupus erythematosus in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72181000119109",
+      "display": "Endocarditis due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724767000",
+      "display": "Chorea co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "724781003",
+      "display": "Demyelination of central nervous system co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73286009",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "732960002",
+      "display": "Secondary autoimmune hemolytic anemia co-occurrent and due to systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76521009",
+      "display": "Systemic lupus erythematosus glomerulonephritis syndrome, World Health Organization class III (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773333003",
+      "display": "Autosomal systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95332009",
+      "display": "Rash of systemic lupus erythematosus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95644001",
+      "display": "Systemic lupus erythematosus encephalitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32",
+      "display": "Systemic lupus erythematosus (SLE)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.1",
+      "display": "Systemic lupus erythematosus with organ or system involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.10",
+      "display": "Systemic lupus erythematosus, organ or system involvement unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.11",
+      "display": "Endocarditis in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.12",
+      "display": "Pericarditis in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.13",
+      "display": "Lung involvement in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.14",
+      "display": "Glomerular disease in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.15",
+      "display": "Tubulo-interstitial nephropathy in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.19",
+      "display": "Other organ or system involvement in systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.8",
+      "display": "Other forms of systemic lupus erythematosus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M32.9",
+      "display": "Systemic lupus erythematosus, unspecified"
+    } ]
+  }
 }

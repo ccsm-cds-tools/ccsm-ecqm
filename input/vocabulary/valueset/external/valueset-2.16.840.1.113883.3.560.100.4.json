@@ -5,12 +5,33 @@
     "versionId": "3",
     "lastUpdated": "2013-03-30T21:55:31.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-21112-8\"> </a><a href=\"http://details.loinc.org/LOINC/21112-8.html\">21112-8</a></td><td>Birth date</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.560.100.4",
   "version": "20130401",
   "name": "birth date",
   "status": "active",
   "date": "2013-03-30T21:55:31-04:00",
   "publisher": "NQF",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ba3163bb-1d59-4a06-b4b8-133dc3ef239a",
+    "timestamp": "2022-07-19T15:13:40-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "21112-8",
+      "display": "Birth date"
+    } ]
+  }
 }

@@ -5,12 +5,63 @@
     "versionId": "17",
     "lastUpdated": "2021-01-18T14:37:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>http://www.ada.org/cdt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0120\"> </a>D0120</td><td>periodic oral evaluation - established patient</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0140\"> </a>D0140</td><td>limited oral evaluation - problem focused</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0145\"> </a>D0145</td><td>oral evaluation for a patient under three years of age and counseling with primary caregiver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0150\"> </a>D0150</td><td>comprehensive oral evaluation - new or established patient</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0160\"> </a>D0160</td><td>detailed and extensive oral evaluation - problem focused, by report</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0170\"> </a>D0170</td><td>re-evaluation - limited, problem focused (established patient; not post-operative visit)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D0180\"> </a>D0180</td><td>comprehensive periodontal evaluation - new or established patient</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.125.12.1003",
   "version": "20170504",
   "name": "Clinical Oral Evaluation",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7a2e20c6-c243-48bf-9f28-bebd05a7086c",
+    "timestamp": "2022-07-19T15:08:54-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0120",
+      "display": "periodic oral evaluation - established patient"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0140",
+      "display": "limited oral evaluation - problem focused"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0145",
+      "display": "oral evaluation for a patient under three years of age and counseling with primary caregiver"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0150",
+      "display": "comprehensive oral evaluation - new or established patient"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0160",
+      "display": "detailed and extensive oral evaluation - problem focused, by report"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0170",
+      "display": "re-evaluation - limited, problem focused (established patient; not post-operative visit)"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D0180",
+      "display": "comprehensive periodontal evaluation - new or established patient"
+    } ]
+  }
 }

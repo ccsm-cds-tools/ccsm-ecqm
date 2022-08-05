@@ -5,12 +5,118 @@
     "versionId": "29",
     "lastUpdated": "2021-02-18T01:00:25.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14357004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14357004\">14357004</a></td><td>http://snomed.info/sct</td><td>Ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15731601000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15731601000119100\">15731601000119100</a></td><td>http://snomed.info/sct</td><td>Anterior ischemic optic neuropathy of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15731641000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15731641000119103\">15731641000119103</a></td><td>http://snomed.info/sct</td><td>Anterior ischemic optic neuropathy of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230508004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230508004\">230508004</a></td><td>http://snomed.info/sct</td><td>Arteritic ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230509007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230509007\">230509007</a></td><td>http://snomed.info/sct</td><td>Non-arteritic ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-334651000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=334651000119101\">334651000119101</a></td><td>http://snomed.info/sct</td><td>Ischemic optic neuropathy of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340251000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340251000119108\">340251000119108</a></td><td>http://snomed.info/sct</td><td>Ischemic optic neuropathy of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-345611000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=345611000119102\">345611000119102</a></td><td>http://snomed.info/sct</td><td>Ischemic optic neuropathy of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404659001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404659001\">404659001</a></td><td>http://snomed.info/sct</td><td>Anterior ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415147002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415147002\">415147002</a></td><td>http://snomed.info/sct</td><td>Posterior ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733506009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733506009\">733506009</a></td><td>http://snomed.info/sct</td><td>Arteritic anterior ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838324008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838324008\">838324008</a></td><td>http://snomed.info/sct</td><td>Autoimmune optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838363001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838363001\">838363001</a></td><td>http://snomed.info/sct</td><td>Arteritic anterior ischemic optic neuropathy due to giant cell arteritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860808008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860808008\">860808008</a></td><td>http://snomed.info/sct</td><td>Idiopathic non-arteritic ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860884007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860884007\">860884007</a></td><td>http://snomed.info/sct</td><td>Idiopathic non-arteritic posterior ischemic optic neuropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.011\"> </a>H47.011</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ischemic optic neuropathy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.012\"> </a>H47.012</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ischemic optic neuropathy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.013\"> </a>H47.013</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ischemic optic neuropathy, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1471",
   "version": "20210218",
   "name": "Other Disorders of Optic Nerve",
   "status": "active",
   "date": "2021-02-18T01:00:25-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d07ea2c3-cf62-4d4b-97a0-60d422bc81e1",
+    "timestamp": "2022-07-19T15:12:38-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14357004",
+      "display": "Ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15731601000119100",
+      "display": "Anterior ischemic optic neuropathy of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15731641000119103",
+      "display": "Anterior ischemic optic neuropathy of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230508004",
+      "display": "Arteritic ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230509007",
+      "display": "Non-arteritic ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "334651000119101",
+      "display": "Ischemic optic neuropathy of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340251000119108",
+      "display": "Ischemic optic neuropathy of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "345611000119102",
+      "display": "Ischemic optic neuropathy of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404659001",
+      "display": "Anterior ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415147002",
+      "display": "Posterior ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733506009",
+      "display": "Arteritic anterior ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838324008",
+      "display": "Autoimmune optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838363001",
+      "display": "Arteritic anterior ischemic optic neuropathy due to giant cell arteritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860808008",
+      "display": "Idiopathic non-arteritic ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860884007",
+      "display": "Idiopathic non-arteritic posterior ischemic optic neuropathy (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.011",
+      "display": "Ischemic optic neuropathy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.012",
+      "display": "Ischemic optic neuropathy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.013",
+      "display": "Ischemic optic neuropathy, bilateral"
+    } ]
+  }
 }

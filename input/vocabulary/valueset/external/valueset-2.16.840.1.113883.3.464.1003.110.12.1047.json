@@ -5,12 +5,38 @@
     "versionId": "27",
     "lastUpdated": "2022-03-02T18:04:44.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434731000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434731000124109\">434731000124109</a></td><td>http://snomed.info/sct</td><td>Rotavirus vaccination, 3 dose schedule (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90680\"> </a>90680</td><td>http://www.ama-assn.org/go/cpt</td><td>Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live, for oral use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1047",
   "version": "20190316",
   "name": "Rotavirus Vaccine (3 dose schedule) Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:bf1513d2-de02-49a0-bf22-781e600c5c24",
+    "timestamp": "2022-07-19T15:07:54-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434731000124109",
+      "display": "Rotavirus vaccination, 3 dose schedule (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90680",
+      "display": "Rotavirus vaccine, pentavalent (RV5), 3 dose schedule, live, for oral use"
+    } ]
+  }
 }

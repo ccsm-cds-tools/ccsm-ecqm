@@ -5,12 +5,58 @@
     "versionId": "5",
     "lastUpdated": "2021-01-04T20:51:52.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12245681000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12245681000119103\">12245681000119103</a></td><td>http://snomed.info/sct</td><td>Postprocedural retention of urine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236648008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236648008\">236648008</a></td><td>http://snomed.info/sct</td><td>Acute retention of urine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267064002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267064002\">267064002</a></td><td>http://snomed.info/sct</td><td>Retention of urine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R33.0\"> </a>R33.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug induced retention of urine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R33.8\"> </a>R33.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other retention of urine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R33.9\"> </a>R33.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retention of urine, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1164.52",
   "version": "20170627",
   "name": "Urinary retention",
   "status": "active",
   "date": "2017-06-27T05:00:03-04:00",
   "publisher": "LUGPA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4cee985d-c169-4307-aa14-797ad99557ba",
+    "timestamp": "2022-07-19T15:05:19-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12245681000119103",
+      "display": "Postprocedural retention of urine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236648008",
+      "display": "Acute retention of urine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267064002",
+      "display": "Retention of urine (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R33.0",
+      "display": "Drug induced retention of urine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R33.8",
+      "display": "Other retention of urine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R33.9",
+      "display": "Retention of urine, unspecified"
+    } ]
+  }
 }

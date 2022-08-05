@@ -5,12 +5,768 @@
     "versionId": "7",
     "lastUpdated": "2022-03-02T18:04:36.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 148 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-0087U\"> </a>0087U</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>mRNA gene expression profiling of genes in heart transplant biopsy tissue to evaluate risk of rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-0088U\"> </a>0088U</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>mRNA gene expression profiling of genes in kidney transplant tissue to evaluate risk of rejection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02Y\"> </a>02Y</td><td>http://www.icd10data.com/icd10pcs</td><td>Heart and Great Vessels, Transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02YA0Z0\"> </a>02YA0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Heart, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02YA0Z1\"> </a>02YA0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Heart, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02YA0Z2\"> </a>02YA0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Heart, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYC0Z0\"> </a>0BYC0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Upper Lung Lobe, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYC0Z1\"> </a>0BYC0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Upper Lung Lobe, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYC0Z2\"> </a>0BYC0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Upper Lung Lobe, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYD0Z0\"> </a>0BYD0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Middle Lung Lobe, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYD0Z1\"> </a>0BYD0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Middle Lung Lobe, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYD0Z2\"> </a>0BYD0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Middle Lung Lobe, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYF0Z0\"> </a>0BYF0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lower Lung Lobe, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYF0Z1\"> </a>0BYF0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lower Lung Lobe, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYF0Z2\"> </a>0BYF0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lower Lung Lobe, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYG0Z0\"> </a>0BYG0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Upper Lung Lobe, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYG0Z1\"> </a>0BYG0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Upper Lung Lobe, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYG0Z2\"> </a>0BYG0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Upper Lung Lobe, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYH0Z0\"> </a>0BYH0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Lung Lingula, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYH0Z1\"> </a>0BYH0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Lung Lingula, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYH0Z2\"> </a>0BYH0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Lung Lingula, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYJ0Z0\"> </a>0BYJ0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lower Lung Lobe, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYJ0Z1\"> </a>0BYJ0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lower Lung Lobe, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYJ0Z2\"> </a>0BYJ0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lower Lung Lobe, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYK0Z0\"> </a>0BYK0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lung, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYK0Z1\"> </a>0BYK0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lung, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYK0Z2\"> </a>0BYK0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Lung, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYL0Z0\"> </a>0BYL0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lung, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYL0Z1\"> </a>0BYL0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lung, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYL0Z2\"> </a>0BYL0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Lung, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYM0Z0\"> </a>0BYM0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Bilateral Lungs, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYM0Z1\"> </a>0BYM0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Bilateral Lungs, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0BYM0Z2\"> </a>0BYM0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Bilateral Lungs, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FY\"> </a>0FY</td><td>http://www.icd10data.com/icd10pcs</td><td>Hepatobiliary System and Pancreas, Transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FY00Z0\"> </a>0FY00Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Liver, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FY00Z1\"> </a>0FY00Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Liver, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FY00Z2\"> </a>0FY00Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Liver, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FYG0Z0\"> </a>0FYG0Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Pancreas, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FYG0Z1\"> </a>0FYG0Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Pancreas, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0FYG0Z2\"> </a>0FYG0Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Pancreas, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY00Z0\"> </a>0TY00Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Kidney, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY00Z1\"> </a>0TY00Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Kidney, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY00Z2\"> </a>0TY00Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Right Kidney, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY10Z0\"> </a>0TY10Z0</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Kidney, Allogeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY10Z1\"> </a>0TY10Z1</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Kidney, Syngeneic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0TY10Z2\"> </a>0TY10Z2</td><td>http://www.icd10data.com/icd10pcs</td><td>Transplantation of Left Kidney, Zooplastic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174425003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174425003\">174425003</a></td><td>http://snomed.info/sct</td><td>Orthotopic liver transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174426002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174426002\">174426002</a></td><td>http://snomed.info/sct</td><td>Heterotopic liver transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174427006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174427006\">174427006</a></td><td>http://snomed.info/sct</td><td>Replacement of previous liver transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174691005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174691005\">174691005</a></td><td>http://snomed.info/sct</td><td>Transplantation of pancreas and duodenum (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174692003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174692003\">174692003</a></td><td>http://snomed.info/sct</td><td>Whole organ pancreatic transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174693008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174693008\">174693008</a></td><td>http://snomed.info/sct</td><td>Transplantation of tail of pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174699007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174699007\">174699007</a></td><td>http://snomed.info/sct</td><td>Excision of transplanted pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174803001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174803001\">174803001</a></td><td>http://snomed.info/sct</td><td>Revision of transplantation of heart and lung (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174809002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174809002\">174809002</a></td><td>http://snomed.info/sct</td><td>Heterotopic allotransplant of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175901007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175901007\">175901007</a></td><td>http://snomed.info/sct</td><td>Live donor renal transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175902000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175902000\">175902000</a></td><td>http://snomed.info/sct</td><td>Cadaveric renal transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175948009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175948009\">175948009</a></td><td>http://snomed.info/sct</td><td>Exploration of renal transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18027006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18027006\">18027006</a></td><td>http://snomed.info/sct</td><td>Transplantation of liver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232657004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232657004\">232657004</a></td><td>http://snomed.info/sct</td><td>Single lung transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232658009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232658009\">232658009</a></td><td>http://snomed.info/sct</td><td>Double lung transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232659001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232659001\">232659001</a></td><td>http://snomed.info/sct</td><td>Double lung transplant as a block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232660006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232660006\">232660006</a></td><td>http://snomed.info/sct</td><td>Bilateral sequential single lung transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232973007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232973007\">232973007</a></td><td>http://snomed.info/sct</td><td>Allotransplant of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232974001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232974001\">232974001</a></td><td>http://snomed.info/sct</td><td>Orthotopic allotransplant of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235458006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235458006\">235458006</a></td><td>http://snomed.info/sct</td><td>Exploration of liver transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236138007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236138007\">236138007</a></td><td>http://snomed.info/sct</td><td>Xenograft renal transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241249008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241249008\">241249008</a></td><td>http://snomed.info/sct</td><td>Renal transplant arteriogram (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241250008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241250008\">241250008</a></td><td>http://snomed.info/sct</td><td>Renal transplant venogram (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241251007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241251007\">241251007</a></td><td>http://snomed.info/sct</td><td>Renal transplant venous sampling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241472007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241472007\">241472007</a></td><td>http://snomed.info/sct</td><td>Ultrasound scan of transplant liver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241474008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241474008\">241474008</a></td><td>http://snomed.info/sct</td><td>Ultrasound scan of transplant pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241484009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241484009\">241484009</a></td><td>http://snomed.info/sct</td><td>Ultrasound scan of transplant kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265550007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265550007\">265550007</a></td><td>http://snomed.info/sct</td><td>Transplant nephrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27280000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27280000\">27280000</a></td><td>http://snomed.info/sct</td><td>Liver transplant with recipient hepatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-277451006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=277451006\">277451006</a></td><td>http://snomed.info/sct</td><td>Part organ pancreatic transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28009009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28009009\">28009009</a></td><td>http://snomed.info/sct</td><td>Liver transplant without recipient hepatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284348003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284348003\">284348003</a></td><td>http://snomed.info/sct</td><td>Excision of rejected transplanted kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308683001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308683001\">308683001</a></td><td>http://snomed.info/sct</td><td>Transluminal right ventricular biopsy after heart transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-313030004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=313030004\">313030004</a></td><td>http://snomed.info/sct</td><td>Donor renal transplantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32413006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32413006\">32413006</a></td><td>http://snomed.info/sct</td><td>Transplantation of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32477003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32477003\">32477003</a></td><td>http://snomed.info/sct</td><td>Heart-lung transplant with recipient cardiectomy-pneumonectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-32851\"> </a>32851</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of lung</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-32852\"> </a>32852</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of lung on heart-lung machine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-32853\"> </a>32853</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of 2 lungs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-32854\"> </a>32854</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of 2 lungs on heart-lung machine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-33935\"> </a>33935</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of donor heart and lung</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-33945\"> </a>33945</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of donor heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419139005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419139005\">419139005</a></td><td>http://snomed.info/sct</td><td>Fluoroscopic angiography of renal transplant with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419224002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419224002\">419224002</a></td><td>http://snomed.info/sct</td><td>Angioplasty of renal transplant using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420106004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420106004\">420106004</a></td><td>http://snomed.info/sct</td><td>Fluoroscopic venography of renal transplant with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426356008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426356008\">426356008</a></td><td>http://snomed.info/sct</td><td>Orthotopic transplantation of whole liver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428645009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428645009\">428645009</a></td><td>http://snomed.info/sct</td><td>Examination of recipient after kidney transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429332008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429332008\">429332008</a></td><td>http://snomed.info/sct</td><td>Transplantation of single lobe of lung (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429933006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429933006\">429933006</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal cutting balloon angioplasty of transplanted renal artery using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-430403008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=430403008\">430403008</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal angioplasty of transplanted renal artery using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431988002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431988002\">431988002</a></td><td>http://snomed.info/sct</td><td>Doppler ultrasonography of transplanted kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433688005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433688005\">433688005</a></td><td>http://snomed.info/sct</td><td>Percutaneous thrombolysis of transplanted renal artery using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433802006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433802006\">433802006</a></td><td>http://snomed.info/sct</td><td>Fluoroscopic angiography of transplanted renal artery using contrast with insertion of stent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440449002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440449002\">440449002</a></td><td>http://snomed.info/sct</td><td>Magnetic resonance angiography of transplanted kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440512006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440512006\">440512006</a></td><td>http://snomed.info/sct</td><td>Biopsy of transplanted kidney using ultrasound guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443578000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443578000\">443578000</a></td><td>http://snomed.info/sct</td><td>Radionuclide imaging of transplanted kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448196000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448196000\">448196000</a></td><td>http://snomed.info/sct</td><td>Fluoroscopic venography of transplanted pancreas using contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450816007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450816007\">450816007</a></td><td>http://snomed.info/sct</td><td>Revision of transplantation of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47058000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47058000\">47058000</a></td><td>http://snomed.info/sct</td><td>Heart transplant with recipient cardiectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-47135\"> </a>47135</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of donor liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-50360\"> </a>50360</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of donor kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-50370\"> </a>50370</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Removal of previously transplanted donor kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52213001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52213001\">52213001</a></td><td>http://snomed.info/sct</td><td>Renal homotransplantation excluding donor and recipient nephrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609301009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609301009\">609301009</a></td><td>http://snomed.info/sct</td><td>Percutaneous thrombolysis of vein of transplanted pancreas using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62438007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62438007\">62438007</a></td><td>http://snomed.info/sct</td><td>Transplantation of pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6471000179103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6471000179103\">6471000179103</a></td><td>http://snomed.info/sct</td><td>Transplantation of kidney and pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6501000179109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6501000179109\">6501000179109</a></td><td>http://snomed.info/sct</td><td>Laparoscopic biopsy of transplanted kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6571000179102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6571000179102\">6571000179102</a></td><td>http://snomed.info/sct</td><td>Percutaneous needle biopsy of transplanted pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6591000179103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6591000179103\">6591000179103</a></td><td>http://snomed.info/sct</td><td>Laparoscopic biopsy of transplanted pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67562009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67562009\">67562009</a></td><td>http://snomed.info/sct</td><td>Heterotransplant of pancreas (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70536003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70536003\">70536003</a></td><td>http://snomed.info/sct</td><td>Transplant of kidney (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-711411006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=711411006\">711411006</a></td><td>http://snomed.info/sct</td><td>Allotransplantation of kidney from beating heart cadaver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-711413009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=711413009\">711413009</a></td><td>http://snomed.info/sct</td><td>Allotransplantation of kidney from non-beating heart cadaver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718030008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718030008\">718030008</a></td><td>http://snomed.info/sct</td><td>Antegrade insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718031007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718031007\">718031007</a></td><td>http://snomed.info/sct</td><td>Retrograde insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718078008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718078008\">718078008</a></td><td>http://snomed.info/sct</td><td>Doppler ultrasonography of transplanted liver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764643003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764643003\">764643003</a></td><td>http://snomed.info/sct</td><td>Removal of nephrostomy tube from transplanted kidney using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-76776\"> </a>76776</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Ultrasound scan of transplanted kidney</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-782655004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=782655004\">782655004</a></td><td>http://snomed.info/sct</td><td>Laparoscopic transplant of kidney using robotic assistance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88039007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88039007\">88039007</a></td><td>http://snomed.info/sct</td><td>Transplant of lung (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B40M0ZZ\"> </a>B40M0ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Plain Radiography of Renal Artery Transplant using High Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B40M1ZZ\"> </a>B40M1ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Plain Radiography of Renal Artery Transplant using Low Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B40MYZZ\"> </a>B40MYZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Plain Radiography of Renal Artery Transplant using Other Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B42M0ZZ\"> </a>B42M0ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B42M1ZZ\"> </a>B42M1ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Renal Artery Transplant using Low Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B42MYZZ\"> </a>B42MYZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Renal Artery Transplant using Other Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B42MZ2Z\"> </a>B42MZ2Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Renal Artery Transplant using Intravascular Optical Coherence</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-B42MZZZ\"> </a>B42MZZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Renal Artery Transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT2900Z\"> </a>BT2900Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast, Unenhanced and Enhanced</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT290ZZ\"> </a>BT290ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT2910Z\"> </a>BT2910Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast, Unenhanced and Enhanced</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT291ZZ\"> </a>BT291ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT29Y0Z\"> </a>BT29Y0Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT29YZZ\"> </a>BT29YZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT29ZZZ\"> </a>BT29ZZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Computerized Tomography (CT Scan) of Kidney Transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT39Y0Z\"> </a>BT39Y0Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT39YZZ\"> </a>BT39YZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT39ZZZ\"> </a>BT39ZZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Magnetic Resonance Imaging (MRI) of Kidney Transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-BT49ZZZ\"> </a>BT49ZZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Ultrasonography of Kidney Transplant</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S2053\"> </a>S2053</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Transplantation of small intestine and liver allografts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S2060\"> </a>S2060</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Lobar lung transplantation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S2065\"> </a>S2065</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Simultaneous pancreas kidney transplantation</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.211",
   "version": "20210803",
   "name": "Solid Organ Transplant Procedure Codes",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1e31f37a-8e3b-4b44-a208-4fa7604e3ce7",
+    "timestamp": "2022-07-15T19:32:33-04:00",
+    "total": 148,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "0087U",
+      "display": "mRNA gene expression profiling of genes in heart transplant biopsy tissue to evaluate risk of rejection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "0088U",
+      "display": "mRNA gene expression profiling of genes in kidney transplant tissue to evaluate risk of rejection"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02Y",
+      "display": "Heart and Great Vessels, Transplantation"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02YA0Z0",
+      "display": "Transplantation of Heart, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02YA0Z1",
+      "display": "Transplantation of Heart, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02YA0Z2",
+      "display": "Transplantation of Heart, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYC0Z0",
+      "display": "Transplantation of Right Upper Lung Lobe, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYC0Z1",
+      "display": "Transplantation of Right Upper Lung Lobe, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYC0Z2",
+      "display": "Transplantation of Right Upper Lung Lobe, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYD0Z0",
+      "display": "Transplantation of Right Middle Lung Lobe, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYD0Z1",
+      "display": "Transplantation of Right Middle Lung Lobe, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYD0Z2",
+      "display": "Transplantation of Right Middle Lung Lobe, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYF0Z0",
+      "display": "Transplantation of Right Lower Lung Lobe, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYF0Z1",
+      "display": "Transplantation of Right Lower Lung Lobe, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYF0Z2",
+      "display": "Transplantation of Right Lower Lung Lobe, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYG0Z0",
+      "display": "Transplantation of Left Upper Lung Lobe, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYG0Z1",
+      "display": "Transplantation of Left Upper Lung Lobe, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYG0Z2",
+      "display": "Transplantation of Left Upper Lung Lobe, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYH0Z0",
+      "display": "Transplantation of Lung Lingula, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYH0Z1",
+      "display": "Transplantation of Lung Lingula, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYH0Z2",
+      "display": "Transplantation of Lung Lingula, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYJ0Z0",
+      "display": "Transplantation of Left Lower Lung Lobe, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYJ0Z1",
+      "display": "Transplantation of Left Lower Lung Lobe, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYJ0Z2",
+      "display": "Transplantation of Left Lower Lung Lobe, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYK0Z0",
+      "display": "Transplantation of Right Lung, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYK0Z1",
+      "display": "Transplantation of Right Lung, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYK0Z2",
+      "display": "Transplantation of Right Lung, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYL0Z0",
+      "display": "Transplantation of Left Lung, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYL0Z1",
+      "display": "Transplantation of Left Lung, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYL0Z2",
+      "display": "Transplantation of Left Lung, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYM0Z0",
+      "display": "Transplantation of Bilateral Lungs, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYM0Z1",
+      "display": "Transplantation of Bilateral Lungs, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0BYM0Z2",
+      "display": "Transplantation of Bilateral Lungs, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FY",
+      "display": "Hepatobiliary System and Pancreas, Transplantation"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FY00Z0",
+      "display": "Transplantation of Liver, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FY00Z1",
+      "display": "Transplantation of Liver, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FY00Z2",
+      "display": "Transplantation of Liver, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FYG0Z0",
+      "display": "Transplantation of Pancreas, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FYG0Z1",
+      "display": "Transplantation of Pancreas, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0FYG0Z2",
+      "display": "Transplantation of Pancreas, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY00Z0",
+      "display": "Transplantation of Right Kidney, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY00Z1",
+      "display": "Transplantation of Right Kidney, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY00Z2",
+      "display": "Transplantation of Right Kidney, Zooplastic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY10Z0",
+      "display": "Transplantation of Left Kidney, Allogeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY10Z1",
+      "display": "Transplantation of Left Kidney, Syngeneic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0TY10Z2",
+      "display": "Transplantation of Left Kidney, Zooplastic, Open Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174425003",
+      "display": "Orthotopic liver transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174426002",
+      "display": "Heterotopic liver transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174427006",
+      "display": "Replacement of previous liver transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174691005",
+      "display": "Transplantation of pancreas and duodenum (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174692003",
+      "display": "Whole organ pancreatic transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174693008",
+      "display": "Transplantation of tail of pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174699007",
+      "display": "Excision of transplanted pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174803001",
+      "display": "Revision of transplantation of heart and lung (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174809002",
+      "display": "Heterotopic allotransplant of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175901007",
+      "display": "Live donor renal transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175902000",
+      "display": "Cadaveric renal transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175948009",
+      "display": "Exploration of renal transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18027006",
+      "display": "Transplantation of liver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232657004",
+      "display": "Single lung transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232658009",
+      "display": "Double lung transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232659001",
+      "display": "Double lung transplant as a block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232660006",
+      "display": "Bilateral sequential single lung transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232973007",
+      "display": "Allotransplant of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232974001",
+      "display": "Orthotopic allotransplant of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235458006",
+      "display": "Exploration of liver transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236138007",
+      "display": "Xenograft renal transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241249008",
+      "display": "Renal transplant arteriogram (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241250008",
+      "display": "Renal transplant venogram (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241251007",
+      "display": "Renal transplant venous sampling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241472007",
+      "display": "Ultrasound scan of transplant liver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241474008",
+      "display": "Ultrasound scan of transplant pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241484009",
+      "display": "Ultrasound scan of transplant kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265550007",
+      "display": "Transplant nephrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27280000",
+      "display": "Liver transplant with recipient hepatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "277451006",
+      "display": "Part organ pancreatic transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28009009",
+      "display": "Liver transplant without recipient hepatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284348003",
+      "display": "Excision of rejected transplanted kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308683001",
+      "display": "Transluminal right ventricular biopsy after heart transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "313030004",
+      "display": "Donor renal transplantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32413006",
+      "display": "Transplantation of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32477003",
+      "display": "Heart-lung transplant with recipient cardiectomy-pneumonectomy (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "32851",
+      "display": "Transplantation of lung"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "32852",
+      "display": "Transplantation of lung on heart-lung machine"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "32853",
+      "display": "Transplantation of 2 lungs"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "32854",
+      "display": "Transplantation of 2 lungs on heart-lung machine"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "33935",
+      "display": "Transplantation of donor heart and lung"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "33945",
+      "display": "Transplantation of donor heart"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419139005",
+      "display": "Fluoroscopic angiography of renal transplant with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419224002",
+      "display": "Angioplasty of renal transplant using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420106004",
+      "display": "Fluoroscopic venography of renal transplant with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426356008",
+      "display": "Orthotopic transplantation of whole liver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428645009",
+      "display": "Examination of recipient after kidney transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429332008",
+      "display": "Transplantation of single lobe of lung (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429933006",
+      "display": "Percutaneous transluminal cutting balloon angioplasty of transplanted renal artery using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "430403008",
+      "display": "Percutaneous transluminal angioplasty of transplanted renal artery using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431988002",
+      "display": "Doppler ultrasonography of transplanted kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433688005",
+      "display": "Percutaneous thrombolysis of transplanted renal artery using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433802006",
+      "display": "Fluoroscopic angiography of transplanted renal artery using contrast with insertion of stent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440449002",
+      "display": "Magnetic resonance angiography of transplanted kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440512006",
+      "display": "Biopsy of transplanted kidney using ultrasound guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443578000",
+      "display": "Radionuclide imaging of transplanted kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448196000",
+      "display": "Fluoroscopic venography of transplanted pancreas using contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450816007",
+      "display": "Revision of transplantation of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47058000",
+      "display": "Heart transplant with recipient cardiectomy (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "47135",
+      "display": "Transplantation of donor liver"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "50360",
+      "display": "Transplantation of donor kidney"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "50370",
+      "display": "Removal of previously transplanted donor kidney"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52213001",
+      "display": "Renal homotransplantation excluding donor and recipient nephrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609301009",
+      "display": "Percutaneous thrombolysis of vein of transplanted pancreas using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62438007",
+      "display": "Transplantation of pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6471000179103",
+      "display": "Transplantation of kidney and pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6501000179109",
+      "display": "Laparoscopic biopsy of transplanted kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6571000179102",
+      "display": "Percutaneous needle biopsy of transplanted pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6591000179103",
+      "display": "Laparoscopic biopsy of transplanted pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67562009",
+      "display": "Heterotransplant of pancreas (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70536003",
+      "display": "Transplant of kidney (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "711411006",
+      "display": "Allotransplantation of kidney from beating heart cadaver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "711413009",
+      "display": "Allotransplantation of kidney from non-beating heart cadaver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718030008",
+      "display": "Antegrade insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718031007",
+      "display": "Retrograde insertion of ureteric stent into ureter of transplanted kidney using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718078008",
+      "display": "Doppler ultrasonography of transplanted liver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764643003",
+      "display": "Removal of nephrostomy tube from transplanted kidney using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "76776",
+      "display": "Ultrasound scan of transplanted kidney"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "782655004",
+      "display": "Laparoscopic transplant of kidney using robotic assistance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88039007",
+      "display": "Transplant of lung (procedure)"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B40M0ZZ",
+      "display": "Plain Radiography of Renal Artery Transplant using High Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B40M1ZZ",
+      "display": "Plain Radiography of Renal Artery Transplant using Low Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B40MYZZ",
+      "display": "Plain Radiography of Renal Artery Transplant using Other Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B42M0ZZ",
+      "display": "Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B42M1ZZ",
+      "display": "Computerized Tomography (CT Scan) of Renal Artery Transplant using Low Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B42MYZZ",
+      "display": "Computerized Tomography (CT Scan) of Renal Artery Transplant using Other Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B42MZ2Z",
+      "display": "Computerized Tomography (CT Scan) of Renal Artery Transplant using Intravascular Optical Coherence"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "B42MZZZ",
+      "display": "Computerized Tomography (CT Scan) of Renal Artery Transplant"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT2900Z",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast, Unenhanced and Enhanced"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT290ZZ",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT2910Z",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast, Unenhanced and Enhanced"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT291ZZ",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT29Y0Z",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT29YZZ",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT29ZZZ",
+      "display": "Computerized Tomography (CT Scan) of Kidney Transplant"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT39Y0Z",
+      "display": "Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT39YZZ",
+      "display": "Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT39ZZZ",
+      "display": "Magnetic Resonance Imaging (MRI) of Kidney Transplant"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "BT49ZZZ",
+      "display": "Ultrasonography of Kidney Transplant"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S2053",
+      "display": "Transplantation of small intestine and liver allografts"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S2060",
+      "display": "Lobar lung transplantation"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S2065",
+      "display": "Simultaneous pancreas kidney transplantation"
+    } ]
+  }
 }

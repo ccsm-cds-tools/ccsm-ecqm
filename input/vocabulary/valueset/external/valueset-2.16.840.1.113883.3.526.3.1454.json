@@ -5,12 +5,348 @@
     "versionId": "32",
     "lastUpdated": "2021-02-14T01:00:31.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 64 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111521006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111521006\">111521006</a></td><td>http://snomed.info/sct</td><td>Corneal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14046000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14046000\">14046000</a></td><td>http://snomed.info/sct</td><td>Cystoid macular retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231918006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231918006\">231918006</a></td><td>http://snomed.info/sct</td><td>Chalcosis of cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231919003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231919003\">231919003</a></td><td>http://snomed.info/sct</td><td>Siderosis of cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232001007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232001007\">232001007</a></td><td>http://snomed.info/sct</td><td>Snail-track retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232002000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232002000\">232002000</a></td><td>http://snomed.info/sct</td><td>Snowflake retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-246877005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=246877005\">246877005</a></td><td>http://snomed.info/sct</td><td>Bulbar conjunctival degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247177004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247177004\">247177004</a></td><td>http://snomed.info/sct</td><td>Chorioretinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247182006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247182006\">247182006</a></td><td>http://snomed.info/sct</td><td>Vitreoretinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247183001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247183001\">247183001</a></td><td>http://snomed.info/sct</td><td>Peripheral snowflake retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25277000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25277000\">25277000</a></td><td>http://snomed.info/sct</td><td>Siderosis of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-264008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=264008\">264008</a></td><td>http://snomed.info/sct</td><td>Blind hypertensive eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-264633009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=264633009\">264633009</a></td><td>http://snomed.info/sct</td><td>Drusen stage macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267611002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267611002\">267611002</a></td><td>http://snomed.info/sct</td><td>Degeneration of macula and posterior pole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267612009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267612009\">267612009</a></td><td>http://snomed.info/sct</td><td>Degeneration of macula due to cyst, hole or pseudohole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267718000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267718000\">267718000</a></td><td>http://snomed.info/sct</td><td>Age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314427006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314427006\">314427006</a></td><td>http://snomed.info/sct</td><td>Drusen plus pigment change stage macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35545005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35545005\">35545005</a></td><td>http://snomed.info/sct</td><td>Secondary pigmentary retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3577000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3577000\">3577000</a></td><td>http://snomed.info/sct</td><td>Retinal lattice degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37075008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37075008\">37075008</a></td><td>http://snomed.info/sct</td><td>Microcystoid retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40787005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40787005\">40787005</a></td><td>http://snomed.info/sct</td><td>Conjunctival degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414173003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414173003\">414173003</a></td><td>http://snomed.info/sct</td><td>Exudative age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414875008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414875008\">414875008</a></td><td>http://snomed.info/sct</td><td>Nonexudative age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417939004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417939004\">417939004</a></td><td>http://snomed.info/sct</td><td>Amyloid corneal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418871005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418871005\">418871005</a></td><td>http://snomed.info/sct</td><td>Spheroidal degeneration of conjunctiva (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428212003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428212003\">428212003</a></td><td>http://snomed.info/sct</td><td>Photoreceptor degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54184008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54184008\">54184008</a></td><td>http://snomed.info/sct</td><td>Senile reticular retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60189009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60189009\">60189009</a></td><td>http://snomed.info/sct</td><td>Vitreous degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61536007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61536007\">61536007</a></td><td>http://snomed.info/sct</td><td>Peripheral retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62585004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62585004\">62585004</a></td><td>http://snomed.info/sct</td><td>Degenerative disorder of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69134001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69134001\">69134001</a></td><td>http://snomed.info/sct</td><td>Paving stone retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71047006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71047006\">71047006</a></td><td>http://snomed.info/sct</td><td>Familial pseudoinflammatory macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95695004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95695004\">95695004</a></td><td>http://snomed.info/sct</td><td>Degeneration of retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95696003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95696003\">95696003</a></td><td>http://snomed.info/sct</td><td>Glaucomatous retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95697007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95697007\">95697007</a></td><td>http://snomed.info/sct</td><td>Generalized retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95699005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95699005\">95699005</a></td><td>http://snomed.info/sct</td><td>Multifocal retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95700006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95700006\">95700006</a></td><td>http://snomed.info/sct</td><td>Sudden acquired retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.21\"> </a>H44.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.22\"> </a>H44.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.23\"> </a>H44.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A1\"> </a>H44.2A1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A2\"> </a>H44.2A2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A3\"> </a>H44.2A3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B1\"> </a>H44.2B1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B2\"> </a>H44.2B2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B3\"> </a>H44.2B3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C1\"> </a>H44.2C1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C2\"> </a>H44.2C2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C3\"> </a>H44.2C3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D1\"> </a>H44.2D1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D2\"> </a>H44.2D2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D3\"> </a>H44.2D3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E1\"> </a>H44.2E1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E2\"> </a>H44.2E2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E3\"> </a>H44.2E3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.311\"> </a>H44.311</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chalcosis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.312\"> </a>H44.312</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chalcosis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.313\"> </a>H44.313</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chalcosis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.321\"> </a>H44.321</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Siderosis of eye, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.322\"> </a>H44.322</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Siderosis of eye, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.323\"> </a>H44.323</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Siderosis of eye, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.391\"> </a>H44.391</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other degenerative disorders of globe, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.392\"> </a>H44.392</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other degenerative disorders of globe, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.393\"> </a>H44.393</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other degenerative disorders of globe, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1454",
   "version": "20210214",
   "name": "Degenerative Disorders of Globe",
   "status": "active",
   "date": "2021-02-14T01:00:31-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:875e19c0-e1c6-4a95-820e-856b197ac03e",
+    "timestamp": "2022-07-19T15:12:25-04:00",
+    "total": 64,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111521006",
+      "display": "Corneal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14046000",
+      "display": "Cystoid macular retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231918006",
+      "display": "Chalcosis of cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231919003",
+      "display": "Siderosis of cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232001007",
+      "display": "Snail-track retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232002000",
+      "display": "Snowflake retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "246877005",
+      "display": "Bulbar conjunctival degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247177004",
+      "display": "Chorioretinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247182006",
+      "display": "Vitreoretinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247183001",
+      "display": "Peripheral snowflake retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25277000",
+      "display": "Siderosis of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "264008",
+      "display": "Blind hypertensive eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "264633009",
+      "display": "Drusen stage macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267611002",
+      "display": "Degeneration of macula and posterior pole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267612009",
+      "display": "Degeneration of macula due to cyst, hole or pseudohole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267718000",
+      "display": "Age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314427006",
+      "display": "Drusen plus pigment change stage macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35545005",
+      "display": "Secondary pigmentary retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3577000",
+      "display": "Retinal lattice degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37075008",
+      "display": "Microcystoid retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40787005",
+      "display": "Conjunctival degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414173003",
+      "display": "Exudative age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414875008",
+      "display": "Nonexudative age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417939004",
+      "display": "Amyloid corneal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418871005",
+      "display": "Spheroidal degeneration of conjunctiva (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428212003",
+      "display": "Photoreceptor degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54184008",
+      "display": "Senile reticular retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60189009",
+      "display": "Vitreous degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61536007",
+      "display": "Peripheral retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62585004",
+      "display": "Degenerative disorder of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69134001",
+      "display": "Paving stone retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71047006",
+      "display": "Familial pseudoinflammatory macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95695004",
+      "display": "Degeneration of retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95696003",
+      "display": "Glaucomatous retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95697007",
+      "display": "Generalized retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95699005",
+      "display": "Multifocal retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95700006",
+      "display": "Sudden acquired retinal degeneration (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.21",
+      "display": "Degenerative myopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.22",
+      "display": "Degenerative myopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.23",
+      "display": "Degenerative myopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A1",
+      "display": "Degenerative myopia with choroidal neovascularization, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A2",
+      "display": "Degenerative myopia with choroidal neovascularization, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A3",
+      "display": "Degenerative myopia with choroidal neovascularization, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B1",
+      "display": "Degenerative myopia with macular hole, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B2",
+      "display": "Degenerative myopia with macular hole, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B3",
+      "display": "Degenerative myopia with macular hole, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C1",
+      "display": "Degenerative myopia with retinal detachment, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C2",
+      "display": "Degenerative myopia with retinal detachment, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C3",
+      "display": "Degenerative myopia with retinal detachment, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D1",
+      "display": "Degenerative myopia with foveoschisis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D2",
+      "display": "Degenerative myopia with foveoschisis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D3",
+      "display": "Degenerative myopia with foveoschisis, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E1",
+      "display": "Degenerative myopia with other maculopathy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E2",
+      "display": "Degenerative myopia with other maculopathy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E3",
+      "display": "Degenerative myopia with other maculopathy, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.311",
+      "display": "Chalcosis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.312",
+      "display": "Chalcosis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.313",
+      "display": "Chalcosis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.321",
+      "display": "Siderosis of eye, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.322",
+      "display": "Siderosis of eye, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.323",
+      "display": "Siderosis of eye, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.391",
+      "display": "Other degenerative disorders of globe, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.392",
+      "display": "Other degenerative disorders of globe, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.393",
+      "display": "Other degenerative disorders of globe, bilateral"
+    } ]
+  }
 }

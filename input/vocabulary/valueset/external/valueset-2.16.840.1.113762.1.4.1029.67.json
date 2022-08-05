@@ -5,12 +5,88 @@
     "versionId": "26",
     "lastUpdated": "2021-06-11T01:01:24.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 12 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16384001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16384001\">16384001</a></td><td>Skilled nursing facility, level 2 care (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18095007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18095007\">18095007</a></td><td>Intermediate care hospital for mentally retarded (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22357001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22357001\">22357001</a></td><td>Skilled nursing facility, level 1 care (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224881003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224881003\">224881003</a></td><td>Charitable nursing home (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310206007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310206007\">310206007</a></td><td>Private nursing home (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32074000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32074000\">32074000</a></td><td>Long term care hospital (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35313001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35313001\">35313001</a></td><td>Skilled nursing facility, level 4 care (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42665001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42665001\">42665001</a></td><td>Nursing home (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-45618002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=45618002\">45618002</a></td><td>Skilled nursing facility (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56109004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56109004\">56109004</a></td><td>Intermediate care hospital (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62480006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62480006\">62480006</a></td><td>Psychiatric hospital (environment)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63997002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63997002\">63997002</a></td><td>Skilled nursing facility, level 3 care (environment)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1029.67",
   "version": "20210611",
   "name": "Other Health Care Facility",
   "status": "active",
   "date": "2021-06-11T01:01:24-04:00",
   "publisher": "Joint Commission",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:3d0a078f-0b46-43d3-912b-641186c1300a",
+    "timestamp": "2022-07-19T15:03:46-04:00",
+    "total": 12,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16384001",
+      "display": "Skilled nursing facility, level 2 care (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18095007",
+      "display": "Intermediate care hospital for mentally retarded (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22357001",
+      "display": "Skilled nursing facility, level 1 care (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224881003",
+      "display": "Charitable nursing home (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310206007",
+      "display": "Private nursing home (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32074000",
+      "display": "Long term care hospital (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35313001",
+      "display": "Skilled nursing facility, level 4 care (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42665001",
+      "display": "Nursing home (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "45618002",
+      "display": "Skilled nursing facility (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56109004",
+      "display": "Intermediate care hospital (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62480006",
+      "display": "Psychiatric hospital (environment)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63997002",
+      "display": "Skilled nursing facility, level 3 care (environment)"
+    } ]
+  }
 }

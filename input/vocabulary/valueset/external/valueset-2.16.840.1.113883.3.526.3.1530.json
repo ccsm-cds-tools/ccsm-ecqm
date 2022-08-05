@@ -5,12 +5,83 @@
     "versionId": "18",
     "lastUpdated": "2022-03-02T18:03:34.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26342005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26342005\">26342005</a></td><td>http://snomed.info/sct</td><td>Medical evaluation for speech, language and/or hearing problems (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41375007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41375007\">41375007</a></td><td>http://snomed.info/sct</td><td>Medical evaluation of hearing problem (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77837000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77837000\">77837000</a></td><td>http://snomed.info/sct</td><td>Medical evaluation of speech, language and hearing problem (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91515000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91515000\">91515000</a></td><td>http://snomed.info/sct</td><td>Special audiologic evaluation for functional hearing loss (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92521\"> </a>92521</td><td>http://www.ama-assn.org/go/cpt</td><td>Evaluation of speech fluency (eg, stuttering, cluttering)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92522\"> </a>92522</td><td>http://www.ama-assn.org/go/cpt</td><td>Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92523\"> </a>92523</td><td>http://www.ama-assn.org/go/cpt</td><td>Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92524\"> </a>92524</td><td>http://www.ama-assn.org/go/cpt</td><td>Behavioral and qualitative analysis of voice and resonance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92540\"> </a>92540</td><td>http://www.ama-assn.org/go/cpt</td><td>Basic vestibular evaluation, includes spontaneous nystagmus test with eccentric gaze fixation nystagmus, with recording, positional nystagmus test, minimum of 4 positions, with recording, optokinetic nystagmus test, bidirectional foveal and peripheral stimulation, with recording, and oscillating tracking test, with recording</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92557\"> </a>92557</td><td>http://www.ama-assn.org/go/cpt</td><td>Comprehensive audiometry threshold evaluation and speech recognition (92553 and 92556 combined)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92625\"> </a>92625</td><td>http://www.ama-assn.org/go/cpt</td><td>Assessment of tinnitus (includes pitch, loudness matching, and masking)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1530",
   "version": "20190315",
   "name": "Speech and Hearing Evaluation",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4e175958-2b4d-452f-a4f4-d11ab1f79648",
+    "timestamp": "2022-07-19T15:12:52-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26342005",
+      "display": "Medical evaluation for speech, language and/or hearing problems (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41375007",
+      "display": "Medical evaluation of hearing problem (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77837000",
+      "display": "Medical evaluation of speech, language and hearing problem (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91515000",
+      "display": "Special audiologic evaluation for functional hearing loss (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92521",
+      "display": "Evaluation of speech fluency (eg, stuttering, cluttering)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92522",
+      "display": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92523",
+      "display": "Evaluation of speech sound production (eg, articulation, phonological process, apraxia, dysarthria); with evaluation of language comprehension and expression (eg, receptive and expressive language)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92524",
+      "display": "Behavioral and qualitative analysis of voice and resonance"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92540",
+      "display": "Basic vestibular evaluation, includes spontaneous nystagmus test with eccentric gaze fixation nystagmus, with recording, positional nystagmus test, minimum of 4 positions, with recording, optokinetic nystagmus test, bidirectional foveal and peripheral stimulation, with recording, and oscillating tracking test, with recording"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92557",
+      "display": "Comprehensive audiometry threshold evaluation and speech recognition (92553 and 92556 combined)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92625",
+      "display": "Assessment of tinnitus (includes pitch, loudness matching, and masking)"
+    } ]
+  }
 }

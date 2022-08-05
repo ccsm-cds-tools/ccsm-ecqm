@@ -5,12 +5,78 @@
     "versionId": "12",
     "lastUpdated": "2021-03-16T15:20:54.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198941007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198941007\">198941007</a></td><td>http://snomed.info/sct</td><td>Hypertension complicating pregnancy, childbirth and the puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24184005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24184005\">24184005</a></td><td>http://snomed.info/sct</td><td>Finding of increased blood pressure (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31992008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31992008\">31992008</a></td><td>http://snomed.info/sct</td><td>Secondary hypertension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371622005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371622005\">371622005</a></td><td>http://snomed.info/sct</td><td>Elevated blood pressure reading without diagnosis of hypertension (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38341003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38341003\">38341003</a></td><td>http://snomed.info/sct</td><td>Hypertensive disorder, systemic arterial (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443482000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443482000\">443482000</a></td><td>http://snomed.info/sct</td><td>Hypertensive urgency (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48146000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48146000\">48146000</a></td><td>http://snomed.info/sct</td><td>Diastolic hypertension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48194001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48194001\">48194001</a></td><td>http://snomed.info/sct</td><td>Pregnancy-induced hypertension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56218007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56218007\">56218007</a></td><td>http://snomed.info/sct</td><td>Systolic hypertension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R03.0\"> </a>R03.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Elevated blood-pressure reading, without diagnosis of hypertension</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.514",
   "version": "20190313",
   "name": "Finding of Elevated Blood Pressure or Hypertension",
   "status": "active",
   "date": "2019-03-13T01:00:10-04:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8422150d-49c7-43a6-9220-5de4a1023736",
+    "timestamp": "2022-07-19T15:04:41-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198941007",
+      "display": "Hypertension complicating pregnancy, childbirth and the puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24184005",
+      "display": "Finding of increased blood pressure (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31992008",
+      "display": "Secondary hypertension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371622005",
+      "display": "Elevated blood pressure reading without diagnosis of hypertension (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38341003",
+      "display": "Hypertensive disorder, systemic arterial (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443482000",
+      "display": "Hypertensive urgency (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48146000",
+      "display": "Diastolic hypertension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48194001",
+      "display": "Pregnancy-induced hypertension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56218007",
+      "display": "Systolic hypertension (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R03.0",
+      "display": "Elevated blood-pressure reading, without diagnosis of hypertension"
+    } ]
+  }
 }

@@ -9,7 +9,7 @@ include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCar
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 include AdultOutpatientEncountersFHIR4_2022 version '3.0.000' called AdultOutpatient
-include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
+include DashboardLibrary version '1.0.0' called Dash
 include CCSMCommonFunctions version '1.0.0' called Common
 
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
@@ -101,13 +101,16 @@ define "Absence of Cervix":
 //As part of refactoring the CQL libraries for better use in both eCQMs and CDS,
 //the lookback period will not have to be customized as below.
 
-define HpvReports:
+define HpvDiagnosticReports:
   Common.CompletedDiagnosticReport(
     Common.LookBack(
       [DiagnosticReport: Dash."HPV Test"],
       22 years
     )
   )
+
+define HpvObservations:
+  [Observation: Dash."HPV Test"]
 
 define CervicalCytologyReports:
   Common.CompletedDiagnosticReport(
@@ -117,30 +120,47 @@ define CervicalCytologyReports:
     )
   )
 
-define SortedCytologyReports:
-  (CervicalCytologyReports) C
+define CytologyObservations:
+  [Observation: Dash."Pap Test"]
+
+define function CollateConclusionCodes(D DiagnosticReport, ObsList List<Observation>):
+  D.conclusionCode union
+  (ObsList) O
+    where 
+      Exists( (D.result ) R where Last(Split(R.reference,'/')) =  O.id ) or
+      Exists( (O.basedOn) oB where AnyTrue((D.basedOn) dB return dB = oB ) ) or
+      C3F.FindDate(O) = Common.DiagnosticReportDate(D)
+    return O.value as FHIR.CodeableConcept
+
+define HpvDiagnosticReportsSummary:
+  (HpvDiagnosticReports) D
   return {
-    riskTableInput: ManagementLibrary.HighestRankedInterpretation(
-      ManagementLibrary.CytologyInterpretation(
-        C.conclusionCode
-      )
-    ),
-    allConclusions: C.conclusionCode,
-    date: Common.DiagnosticReportDate(C)
+    name: 'HPV Test',
+    longName: Common.ConceptText(D.code),
+    riskTableInput: Dash.HighestRankedInterpretation(Dash.HpvInterpretation(CollateConclusionCodes(D,HpvObservations))),
+    allConclusions: (CollateConclusionCodes(D,HpvObservations)) cC,
+    date: Common.DiagnosticReportDate(D),
+    reference: 'DiagnosticReport/' + D.id
   }
+
+define CervicalCytologyReportsSummary:
+  (CervicalCytologyReports) D
+  return {
+    name: 'Cervical Cytology',
+    longName: Common.ConceptText(D.code),
+    riskTableInput: Dash.HighestRankedInterpretation(Dash.CytologyInterpretation(CollateConclusionCodes(D,CytologyObservations))),
+    allConclusions:
+      (CollateConclusionCodes(D,CytologyObservations)) cC,
+    date: Common.DiagnosticReportDate(D),
+    reference: 'DiagnosticReport/' + D.id
+  }
+
+define SortedCytologyReports:
+  (CervicalCytologyReportsSummary) C
   sort by date desc
 
 define SortedHpvReports:
-  (HpvReports) H
-  return {
-    riskTableInput: ManagementLibrary.HighestRankedInterpretation(
-      ManagementLibrary.HpvInterpretation(
-        H.conclusionCode
-      )
-    ),
-    allConclusions: H.conclusionCode,
-    date: Common.DiagnosticReportDate(H)
-  }
+  (HpvDiagnosticReportsSummary) H
   sort by date desc
 
 define NegativeHrHpvTests:

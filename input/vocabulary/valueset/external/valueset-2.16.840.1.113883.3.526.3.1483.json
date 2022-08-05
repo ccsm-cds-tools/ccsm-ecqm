@@ -5,12 +5,53 @@
     "versionId": "27",
     "lastUpdated": "2022-03-02T18:04:17.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422497000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422497000\">422497000</a></td><td>Distance vision 20/20 (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423059004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423059004\">423059004</a></td><td>Distance vision 20/40 (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423364005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423364005\">423364005</a></td><td>Distance vision 20/25 (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423862000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423862000\">423862000</a></td><td>Distance vision 20/15 (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424703005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424703005\">424703005</a></td><td>Distance vision 20/30 (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1483",
   "version": "20210214",
   "name": "Visual Acuity 20/40 or Better",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e2e6f8fb-7638-4e20-b5cb-1c2d51ef2daa",
+    "timestamp": "2022-07-19T15:12:46-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422497000",
+      "display": "Distance vision 20/20 (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423059004",
+      "display": "Distance vision 20/40 (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423364005",
+      "display": "Distance vision 20/25 (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423862000",
+      "display": "Distance vision 20/15 (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424703005",
+      "display": "Distance vision 20/30 (finding)"
+    } ]
+  }
 }

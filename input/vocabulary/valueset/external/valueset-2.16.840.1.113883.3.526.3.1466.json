@@ -5,12 +5,238 @@
     "versionId": "29",
     "lastUpdated": "2021-02-18T01:00:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 42 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111527005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111527005\">111527005</a></td><td>http://snomed.info/sct</td><td>Partial optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1207009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1207009\">1207009</a></td><td>http://snomed.info/sct</td><td>Glaucomatous atrophy of optic disc (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-123615007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=123615007\">123615007</a></td><td>http://snomed.info/sct</td><td>Secondary optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128203003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128203003\">128203003</a></td><td>http://snomed.info/sct</td><td>Hereditary motor and sensory neuropathy with optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194043004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194043004\">194043004</a></td><td>http://snomed.info/sct</td><td>Optic atrophy secondary to retinal disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19448008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19448008\">19448008</a></td><td>http://snomed.info/sct</td><td>Optic atrophy associated with retinal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2065009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2065009\">2065009</a></td><td>http://snomed.info/sct</td><td>Dominant hereditary optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21098003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21098003\">21098003</a></td><td>http://snomed.info/sct</td><td>Primary optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22386003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22386003\">22386003</a></td><td>http://snomed.info/sct</td><td>Syphilitic optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230511003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230511003\">230511003</a></td><td>http://snomed.info/sct</td><td>Optic atrophy secondary to papilledema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239028001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239028001\">239028001</a></td><td>http://snomed.info/sct</td><td>Odontotrichomelic syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24003004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24003004\">24003004</a></td><td>http://snomed.info/sct</td><td>Postinflammatory optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247219000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247219000\">247219000</a></td><td>http://snomed.info/sct</td><td>Atrophy of sector of optic disc (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26360005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26360005\">26360005</a></td><td>http://snomed.info/sct</td><td>Hereditary optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312944002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312944002\">312944002</a></td><td>http://snomed.info/sct</td><td>Compressive optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-348051000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=348051000119102\">348051000119102</a></td><td>http://snomed.info/sct</td><td>Atrophy of right optic nerve following inflammation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-348501000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=348501000119108\">348501000119108</a></td><td>http://snomed.info/sct</td><td>Atrophy of left optic nerve following inflammation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359683002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359683002\">359683002</a></td><td>http://snomed.info/sct</td><td>Complete optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58610003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58610003\">58610003</a></td><td>http://snomed.info/sct</td><td>Leber's optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-680991000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=680991000119108\">680991000119108</a></td><td>http://snomed.info/sct</td><td>Atrophy of bilateral optic nerves following inflammation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70694009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70694009\">70694009</a></td><td>http://snomed.info/sct</td><td>Diabetes mellitus AND insipidus with optic atrophy AND deafness (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-715374003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=715374003\">715374003</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant optic atrophy plus syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717336005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717336005\">717336005</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant optic atrophy classic form (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717975006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717975006\">717975006</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant optic atrophy and peripheral neuropathy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-719517009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=719517009\">719517009</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant optic atrophy and cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76976005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76976005\">76976005</a></td><td>http://snomed.info/sct</td><td>Optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838307002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838307002\">838307002</a></td><td>http://snomed.info/sct</td><td>Childhood-onset autosomal dominant optic atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838345001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838345001\">838345001</a></td><td>http://snomed.info/sct</td><td>Autosomal recessive optic atrophy type 6 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870319003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870319003\">870319003</a></td><td>http://snomed.info/sct</td><td>Optic atrophy due to late syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95774001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95774001\">95774001</a></td><td>http://snomed.info/sct</td><td>Atrophy of optic disc (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95775000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95775000\">95775000</a></td><td>http://snomed.info/sct</td><td>Retrobulbar optic nerve atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.20\"> </a>H47.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified optic atrophy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.211\"> </a>H47.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary optic atrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.212\"> </a>H47.212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary optic atrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.213\"> </a>H47.213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary optic atrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.22\"> </a>H47.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hereditary optic atrophy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.231\"> </a>H47.231</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Glaucomatous optic atrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.232\"> </a>H47.232</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Glaucomatous optic atrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.233\"> </a>H47.233</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Glaucomatous optic atrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.291\"> </a>H47.291</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other optic atrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.292\"> </a>H47.292</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other optic atrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.293\"> </a>H47.293</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other optic atrophy, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1466",
   "version": "20210218",
   "name": "Optic Atrophy",
   "status": "active",
   "date": "2021-02-18T01:00:16-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d252bd34-4e43-430e-a1c7-e5a2f46859e3",
+    "timestamp": "2022-07-19T15:12:34-04:00",
+    "total": 42,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111527005",
+      "display": "Partial optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1207009",
+      "display": "Glaucomatous atrophy of optic disc (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "123615007",
+      "display": "Secondary optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128203003",
+      "display": "Hereditary motor and sensory neuropathy with optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194043004",
+      "display": "Optic atrophy secondary to retinal disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19448008",
+      "display": "Optic atrophy associated with retinal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2065009",
+      "display": "Dominant hereditary optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21098003",
+      "display": "Primary optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22386003",
+      "display": "Syphilitic optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230511003",
+      "display": "Optic atrophy secondary to papilledema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239028001",
+      "display": "Odontotrichomelic syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24003004",
+      "display": "Postinflammatory optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247219000",
+      "display": "Atrophy of sector of optic disc (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26360005",
+      "display": "Hereditary optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312944002",
+      "display": "Compressive optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "348051000119102",
+      "display": "Atrophy of right optic nerve following inflammation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "348501000119108",
+      "display": "Atrophy of left optic nerve following inflammation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359683002",
+      "display": "Complete optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58610003",
+      "display": "Leber's optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "680991000119108",
+      "display": "Atrophy of bilateral optic nerves following inflammation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70694009",
+      "display": "Diabetes mellitus AND insipidus with optic atrophy AND deafness (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "715374003",
+      "display": "Autosomal dominant optic atrophy plus syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717336005",
+      "display": "Autosomal dominant optic atrophy classic form (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717975006",
+      "display": "Autosomal dominant optic atrophy and peripheral neuropathy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "719517009",
+      "display": "Autosomal dominant optic atrophy and cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76976005",
+      "display": "Optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838307002",
+      "display": "Childhood-onset autosomal dominant optic atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838345001",
+      "display": "Autosomal recessive optic atrophy type 6 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870319003",
+      "display": "Optic atrophy due to late syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95774001",
+      "display": "Atrophy of optic disc (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95775000",
+      "display": "Retrobulbar optic nerve atrophy (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.20",
+      "display": "Unspecified optic atrophy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.211",
+      "display": "Primary optic atrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.212",
+      "display": "Primary optic atrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.213",
+      "display": "Primary optic atrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.22",
+      "display": "Hereditary optic atrophy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.231",
+      "display": "Glaucomatous optic atrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.232",
+      "display": "Glaucomatous optic atrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.233",
+      "display": "Glaucomatous optic atrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.291",
+      "display": "Other optic atrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.292",
+      "display": "Other optic atrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.293",
+      "display": "Other optic atrophy, bilateral"
+    } ]
+  }
 }

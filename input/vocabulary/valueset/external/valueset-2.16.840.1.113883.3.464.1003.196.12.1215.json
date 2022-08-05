@@ -5,12 +5,43 @@
     "versionId": "17",
     "lastUpdated": "2021-02-02T15:23:41.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/cvx</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-31\"> </a>31</td><td>hepatitis A vaccine, pediatric dosage, unspecified formulation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-83\"> </a>83</td><td>hepatitis A vaccine, pediatric/adolescent dosage, 2 dose schedule</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-cvx-85\"> </a>85</td><td>hepatitis A vaccine, unspecified formulation</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1215",
   "version": "20170504",
   "name": "Hepatitis A Vaccine",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:41f5475b-ee73-4fa8-9991-8b3b89a6b169",
+    "timestamp": "2022-07-19T15:09:04-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "31",
+      "display": "hepatitis A vaccine, pediatric dosage, unspecified formulation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "83",
+      "display": "hepatitis A vaccine, pediatric/adolescent dosage, 2 dose schedule"
+    }, {
+      "system": "http://hl7.org/fhir/sid/cvx",
+      "version": "20220615",
+      "code": "85",
+      "display": "hepatitis A vaccine, unspecified formulation"
+    } ]
+  }
 }

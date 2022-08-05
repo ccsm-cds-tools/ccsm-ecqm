@@ -5,12 +5,253 @@
     "versionId": "41",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 45 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111513000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111513000\">111513000</a></td><td>http://snomed.info/sct</td><td>Advanced open-angle glaucoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15633281000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15633281000119103\">15633281000119103</a></td><td>http://snomed.info/sct</td><td>Bilateral primary open angle glaucoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15633321000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15633321000119108\">15633321000119108</a></td><td>http://snomed.info/sct</td><td>Primary open angle glaucoma of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15640441000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15640441000119104\">15640441000119104</a></td><td>http://snomed.info/sct</td><td>Primary open angle glaucoma of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50485007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50485007\">50485007</a></td><td>http://snomed.info/sct</td><td>Low tension glaucoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77075001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77075001\">77075001</a></td><td>http://snomed.info/sct</td><td>Primary open angle glaucoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84494001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84494001\">84494001</a></td><td>http://snomed.info/sct</td><td>Open-angle glaucoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.10X0\"> </a>H40.10X0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified open-angle glaucoma, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.10X1\"> </a>H40.10X1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified open-angle glaucoma, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.10X2\"> </a>H40.10X2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified open-angle glaucoma, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.10X3\"> </a>H40.10X3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified open-angle glaucoma, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.10X4\"> </a>H40.10X4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified open-angle glaucoma, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1110\"> </a>H40.1110</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, right eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1111\"> </a>H40.1111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, right eye, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1112\"> </a>H40.1112</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, right eye, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1113\"> </a>H40.1113</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, right eye, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1114\"> </a>H40.1114</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, right eye, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1120\"> </a>H40.1120</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, left eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1121\"> </a>H40.1121</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, left eye, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1122\"> </a>H40.1122</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, left eye, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1123\"> </a>H40.1123</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, left eye, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1124\"> </a>H40.1124</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, left eye, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1130\"> </a>H40.1130</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, bilateral, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1131\"> </a>H40.1131</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, bilateral, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1132\"> </a>H40.1132</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, bilateral, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1133\"> </a>H40.1133</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, bilateral, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1134\"> </a>H40.1134</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary open-angle glaucoma, bilateral, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1210\"> </a>H40.1210</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, right eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1211\"> </a>H40.1211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, right eye, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1212\"> </a>H40.1212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, right eye, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1213\"> </a>H40.1213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, right eye, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1214\"> </a>H40.1214</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, right eye, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1220\"> </a>H40.1220</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, left eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1221\"> </a>H40.1221</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, left eye, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1222\"> </a>H40.1222</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, left eye, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1223\"> </a>H40.1223</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, left eye, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1224\"> </a>H40.1224</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, left eye, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1230\"> </a>H40.1230</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, bilateral, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1231\"> </a>H40.1231</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, bilateral, mild stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1232\"> </a>H40.1232</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, bilateral, moderate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1233\"> </a>H40.1233</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, bilateral, severe stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.1234\"> </a>H40.1234</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Low-tension glaucoma, bilateral, indeterminate stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.151\"> </a>H40.151</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Residual stage of open-angle glaucoma, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.152\"> </a>H40.152</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Residual stage of open-angle glaucoma, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H40.153\"> </a>H40.153</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Residual stage of open-angle glaucoma, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.326",
   "version": "20210209",
   "name": "Primary Open Angle Glaucoma",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:29bff4b9-0171-4f7f-9a85-1f626e433cad",
+    "timestamp": "2022-07-19T15:13:19-04:00",
+    "total": 45,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111513000",
+      "display": "Advanced open-angle glaucoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15633281000119103",
+      "display": "Bilateral primary open angle glaucoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15633321000119108",
+      "display": "Primary open angle glaucoma of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15640441000119104",
+      "display": "Primary open angle glaucoma of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50485007",
+      "display": "Low tension glaucoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77075001",
+      "display": "Primary open angle glaucoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84494001",
+      "display": "Open-angle glaucoma (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.10X0",
+      "display": "Unspecified open-angle glaucoma, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.10X1",
+      "display": "Unspecified open-angle glaucoma, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.10X2",
+      "display": "Unspecified open-angle glaucoma, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.10X3",
+      "display": "Unspecified open-angle glaucoma, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.10X4",
+      "display": "Unspecified open-angle glaucoma, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1110",
+      "display": "Primary open-angle glaucoma, right eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1111",
+      "display": "Primary open-angle glaucoma, right eye, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1112",
+      "display": "Primary open-angle glaucoma, right eye, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1113",
+      "display": "Primary open-angle glaucoma, right eye, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1114",
+      "display": "Primary open-angle glaucoma, right eye, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1120",
+      "display": "Primary open-angle glaucoma, left eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1121",
+      "display": "Primary open-angle glaucoma, left eye, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1122",
+      "display": "Primary open-angle glaucoma, left eye, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1123",
+      "display": "Primary open-angle glaucoma, left eye, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1124",
+      "display": "Primary open-angle glaucoma, left eye, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1130",
+      "display": "Primary open-angle glaucoma, bilateral, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1131",
+      "display": "Primary open-angle glaucoma, bilateral, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1132",
+      "display": "Primary open-angle glaucoma, bilateral, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1133",
+      "display": "Primary open-angle glaucoma, bilateral, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1134",
+      "display": "Primary open-angle glaucoma, bilateral, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1210",
+      "display": "Low-tension glaucoma, right eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1211",
+      "display": "Low-tension glaucoma, right eye, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1212",
+      "display": "Low-tension glaucoma, right eye, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1213",
+      "display": "Low-tension glaucoma, right eye, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1214",
+      "display": "Low-tension glaucoma, right eye, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1220",
+      "display": "Low-tension glaucoma, left eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1221",
+      "display": "Low-tension glaucoma, left eye, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1222",
+      "display": "Low-tension glaucoma, left eye, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1223",
+      "display": "Low-tension glaucoma, left eye, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1224",
+      "display": "Low-tension glaucoma, left eye, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1230",
+      "display": "Low-tension glaucoma, bilateral, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1231",
+      "display": "Low-tension glaucoma, bilateral, mild stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1232",
+      "display": "Low-tension glaucoma, bilateral, moderate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1233",
+      "display": "Low-tension glaucoma, bilateral, severe stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.1234",
+      "display": "Low-tension glaucoma, bilateral, indeterminate stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.151",
+      "display": "Residual stage of open-angle glaucoma, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.152",
+      "display": "Residual stage of open-angle glaucoma, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H40.153",
+      "display": "Residual stage of open-angle glaucoma, bilateral"
+    } ]
+  }
 }

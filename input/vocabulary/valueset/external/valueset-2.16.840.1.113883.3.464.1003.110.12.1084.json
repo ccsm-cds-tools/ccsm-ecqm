@@ -5,12 +5,68 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:05:42.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 8 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-127787002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=127787002\">127787002</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Haemophilus influenzae type B antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170343007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170343007\">170343007</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170344001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170344001\">170344001</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170345000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170345000\">170345000</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170346004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170346004\">170346004</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90647\"> </a>90647</td><td>http://www.ama-assn.org/go/cpt</td><td>Haemophilus influenzae type b vaccine (Hib), PRP-OMP conjugate, 3 dose schedule, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90697\"> </a>90697</td><td>http://www.ama-assn.org/go/cpt</td><td>Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90748\"> </a>90748</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramuscular use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1084",
   "version": "20190315",
   "name": "Hib Vaccine (3 dose schedule) Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:df88397b-88a7-440f-b5e7-c76b0aa02fe0",
+    "timestamp": "2022-07-19T15:08:02-04:00",
+    "total": 8,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "127787002",
+      "display": "Administration of vaccine product containing only Haemophilus influenzae type B antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170343007",
+      "display": "Administration of first dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170344001",
+      "display": "Administration of second dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170345000",
+      "display": "Administration of third dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170346004",
+      "display": "Administration of booster dose of vaccine product containing only Haemophilus influenzae type B antigen (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90647",
+      "display": "Haemophilus influenzae type b vaccine (Hib), PRP-OMP conjugate, 3 dose schedule, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90697",
+      "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90748",
+      "display": "Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramuscular use"
+    } ]
+  }
 }

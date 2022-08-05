@@ -5,12 +5,668 @@
     "versionId": "23",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 128 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10295004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10295004\">10295004</a></td><td>http://snomed.info/sct</td><td>Chronic viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10759111000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10759111000119102\">10759111000119102</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis in mother complicating childbirth (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10759151000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10759151000119101\">10759151000119101</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis in mother complicating pregnancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-109819003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=109819003\">109819003</a></td><td>http://snomed.info/sct</td><td>Obstructive biliary cirrhosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111896003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111896003\">111896003</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis without hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-123717006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=123717006\">123717006</a></td><td>http://snomed.info/sct</td><td>Advanced cirrhosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128302006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128302006\">128302006</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16069000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16069000\">16069000</a></td><td>http://snomed.info/sct</td><td>Toxic noninfectious hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186628001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186628001\">186628001</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to viral hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197268000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197268000\">197268000</a></td><td>http://snomed.info/sct</td><td>Acute and subacute liver necrosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197270009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197270009\">197270009</a></td><td>http://snomed.info/sct</td><td>Acute hepatic failure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197271008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197271008\">197271008</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis - non-infective (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197284004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197284004\">197284004</a></td><td>http://snomed.info/sct</td><td>Chronic active hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197286002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197286002\">197286002</a></td><td>http://snomed.info/sct</td><td>Recurrent hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197352008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197352008\">197352008</a></td><td>http://snomed.info/sct</td><td>Toxic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197359004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197359004\">197359004</a></td><td>http://snomed.info/sct</td><td>Toxic liver disease with chronic persistent hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197360009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197360009\">197360009</a></td><td>http://snomed.info/sct</td><td>Toxic liver disease with chronic lobular hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-197361008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=197361008\">197361008</a></td><td>http://snomed.info/sct</td><td>Toxic liver disease with chronic active hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-199203001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=199203001\">199203001</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis complicating pregnancy, childbirth and the puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19943007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19943007\">19943007</a></td><td>http://snomed.info/sct</td><td>Cirrhosis of liver (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-206372007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=206372007\">206372007</a></td><td>http://snomed.info/sct</td><td>Congenital viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235865005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235865005\">235865005</a></td><td>http://snomed.info/sct</td><td>Hepatitis D superinfection of hepatitis B carrier (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235866006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235866006\">235866006</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235867002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235867002\">235867002</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis E (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235869004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235869004\">235869004</a></td><td>http://snomed.info/sct</td><td>Chronic viral hepatitis B with hepatitis D (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235875008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235875008\">235875008</a></td><td>http://snomed.info/sct</td><td>Alcoholic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235876009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235876009\">235876009</a></td><td>http://snomed.info/sct</td><td>Drug-induced hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235889003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235889003\">235889003</a></td><td>http://snomed.info/sct</td><td>Drug-induced chronic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266468003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266468003\">266468003</a></td><td>http://snomed.info/sct</td><td>Cirrhosis - non-alcoholic (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278929008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278929008\">278929008</a></td><td>http://snomed.info/sct</td><td>Congenital hepatitis C infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307757001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307757001\">307757001</a></td><td>http://snomed.info/sct</td><td>Chronic alcoholic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31005002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31005002\">31005002</a></td><td>http://snomed.info/sct</td><td>Hepatorenal syndrome due to a procedure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-328383001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=328383001\">328383001</a></td><td>http://snomed.info/sct</td><td>Chronic liver disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347891000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347891000119103\">347891000119103</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis C with stage 3 fibrosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370889009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370889009\">370889009</a></td><td>http://snomed.info/sct</td><td>Lymphocytic portal hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3738000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3738000\">3738000</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37871000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37871000\">37871000</a></td><td>http://snomed.info/sct</td><td>Acute hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397575003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397575003\">397575003</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis, type G (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408335007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408335007\">408335007</a></td><td>http://snomed.info/sct</td><td>Autoimmune hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41309000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41309000\">41309000</a></td><td>http://snomed.info/sct</td><td>Alcoholic liver damage (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41889008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41889008\">41889008</a></td><td>http://snomed.info/sct</td><td>Chronic persistent hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420054005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420054005\">420054005</a></td><td>http://snomed.info/sct</td><td>Alcoholic cirrhosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425413006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425413006\">425413006</a></td><td>http://snomed.info/sct</td><td>Drug-induced cirrhosis of liver (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435091000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435091000124105\">435091000124105</a></td><td>http://snomed.info/sct</td><td>Hepatitis with hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435101000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435101000124104\">435101000124104</a></td><td>http://snomed.info/sct</td><td>Chronic viral hepatitis C with hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450880008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450880008\">450880008</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis E (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4846001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4846001\">4846001</a></td><td>http://snomed.info/sct</td><td>Anicteric viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4896000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4896000\">4896000</a></td><td>http://snomed.info/sct</td><td>Acute toxic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50325005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50325005\">50325005</a></td><td>http://snomed.info/sct</td><td>Alcoholic fatty liver (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50711007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50711007\">50711007</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis type C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51292008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51292008\">51292008</a></td><td>http://snomed.info/sct</td><td>Hepatorenal syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57412004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57412004\">57412004</a></td><td>http://snomed.info/sct</td><td>Acute viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58282009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58282009\">58282009</a></td><td>http://snomed.info/sct</td><td>Relapsing viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59927004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59927004\">59927004</a></td><td>http://snomed.info/sct</td><td>Hepatic failure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60037002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60037002\">60037002</a></td><td>http://snomed.info/sct</td><td>Chronic persistent viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62216007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62216007\">62216007</a></td><td>http://snomed.info/sct</td><td>Familial arthrogryposis-cholestatic hepatorenal syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66870002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66870002\">66870002</a></td><td>http://snomed.info/sct</td><td>Chronic active viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-702969000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=702969000\">702969000</a></td><td>http://snomed.info/sct</td><td>Reactivation of hepatitis C viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703866000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703866000\">703866000</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis C with stage 2 fibrosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707341005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707341005\">707341005</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis type D (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708198006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708198006\">708198006</a></td><td>http://snomed.info/sct</td><td>Chronic active hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72445008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72445008\">72445008</a></td><td>http://snomed.info/sct</td><td>Subacute noninfective hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76783007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76783007\">76783007</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79720007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79720007\">79720007</a></td><td>http://snomed.info/sct</td><td>Chronic nonalcoholic liver disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-831000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=831000119103\">831000119103</a></td><td>http://snomed.info/sct</td><td>Cirrhosis of liver due to chronic hepatitis C (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89789003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89789003\">89789003</a></td><td>http://snomed.info/sct</td><td>Chronic aggressive viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95556007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95556007\">95556007</a></td><td>http://snomed.info/sct</td><td>Cholestatic hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9953008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9953008\">9953008</a></td><td>http://snomed.info/sct</td><td>Acute alcoholic liver disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.0\"> </a>B17.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute delta-(super) infection of hepatitis B carrier</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.10\"> </a>B17.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis C without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.11\"> </a>B17.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis C with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.2\"> </a>B17.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute hepatitis E</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.8\"> </a>B17.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other specified acute viral hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B17.9\"> </a>B17.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute viral hepatitis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B18.2\"> </a>B18.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic viral hepatitis C</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B18.8\"> </a>B18.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chronic viral hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B18.9\"> </a>B18.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic viral hepatitis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.0\"> </a>B19.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.20\"> </a>B19.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis C without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.21\"> </a>B19.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis C with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B19.9\"> </a>B19.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified viral hepatitis without hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.0\"> </a>K70.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic fatty liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.10\"> </a>K70.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic hepatitis without ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.11\"> </a>K70.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic hepatitis with ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.2\"> </a>K70.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic fibrosis and sclerosis of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.30\"> </a>K70.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic cirrhosis of liver without ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.31\"> </a>K70.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic cirrhosis of liver with ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.40\"> </a>K70.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic hepatic failure without coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.41\"> </a>K70.41</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic hepatic failure with coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K70.9\"> </a>K70.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Alcoholic liver disease, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.0\"> </a>K71.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with cholestasis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.10\"> </a>K71.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with hepatic necrosis, without coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.11\"> </a>K71.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with hepatic necrosis, with coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.2\"> </a>K71.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with acute hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.3\"> </a>K71.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with chronic persistent hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.4\"> </a>K71.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with chronic lobular hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.50\"> </a>K71.50</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with chronic active hepatitis without ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.51\"> </a>K71.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with chronic active hepatitis with ascites</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.6\"> </a>K71.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with hepatitis, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.7\"> </a>K71.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with fibrosis and cirrhosis of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.8\"> </a>K71.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease with other disorders of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K71.9\"> </a>K71.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic liver disease, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.00\"> </a>K72.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute and subacute hepatic failure without coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.01\"> </a>K72.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute and subacute hepatic failure with coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.10\"> </a>K72.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic hepatic failure without coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.11\"> </a>K72.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic hepatic failure with coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.90\"> </a>K72.90</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic failure, unspecified without coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K72.91\"> </a>K72.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic failure, unspecified with coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K73.0\"> </a>K73.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic persistent hepatitis, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K73.1\"> </a>K73.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic lobular hepatitis, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K73.2\"> </a>K73.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic active hepatitis, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K73.8\"> </a>K73.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other chronic hepatitis, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K73.9\"> </a>K73.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic hepatitis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.00\"> </a>K74.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic fibrosis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.01\"> </a>K74.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic fibrosis, early fibrosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.02\"> </a>K74.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic fibrosis, advanced fibrosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.1\"> </a>K74.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic sclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.2\"> </a>K74.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatic fibrosis with hepatic sclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.3\"> </a>K74.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary biliary cirrhosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.4\"> </a>K74.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Secondary biliary cirrhosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.5\"> </a>K74.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Biliary cirrhosis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.60\"> </a>K74.60</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified cirrhosis of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K74.69\"> </a>K74.69</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other cirrhosis of liver</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K75.4\"> </a>K75.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Autoimmune hepatitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.411\"> </a>O98.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Viral hepatitis complicating pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.412\"> </a>O98.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Viral hepatitis complicating pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.413\"> </a>O98.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Viral hepatitis complicating pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.419\"> </a>O98.419</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Viral hepatitis complicating pregnancy, unspecified trimester</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.42",
   "version": "20210220",
   "name": "Liver Disease",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:50a6d064-d030-414e-99a2-eb974879cc02",
+    "timestamp": "2022-07-19T15:04:36-04:00",
+    "total": 128,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10295004",
+      "display": "Chronic viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10759111000119102",
+      "display": "Viral hepatitis in mother complicating childbirth (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10759151000119101",
+      "display": "Viral hepatitis in mother complicating pregnancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "109819003",
+      "display": "Obstructive biliary cirrhosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111896003",
+      "display": "Viral hepatitis without hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "123717006",
+      "display": "Advanced cirrhosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128302006",
+      "display": "Chronic hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16069000",
+      "display": "Toxic noninfectious hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186628001",
+      "display": "Hepatic coma due to viral hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197268000",
+      "display": "Acute and subacute liver necrosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197270009",
+      "display": "Acute hepatic failure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197271008",
+      "display": "Acute hepatitis - non-infective (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197284004",
+      "display": "Chronic active hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197286002",
+      "display": "Recurrent hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197352008",
+      "display": "Toxic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197359004",
+      "display": "Toxic liver disease with chronic persistent hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197360009",
+      "display": "Toxic liver disease with chronic lobular hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "197361008",
+      "display": "Toxic liver disease with chronic active hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "199203001",
+      "display": "Viral hepatitis complicating pregnancy, childbirth and the puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19943007",
+      "display": "Cirrhosis of liver (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "206372007",
+      "display": "Congenital viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235865005",
+      "display": "Hepatitis D superinfection of hepatitis B carrier (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235866006",
+      "display": "Acute hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235867002",
+      "display": "Acute hepatitis E (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235869004",
+      "display": "Chronic viral hepatitis B with hepatitis D (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235875008",
+      "display": "Alcoholic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235876009",
+      "display": "Drug-induced hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235889003",
+      "display": "Drug-induced chronic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266468003",
+      "display": "Cirrhosis - non-alcoholic (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278929008",
+      "display": "Congenital hepatitis C infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307757001",
+      "display": "Chronic alcoholic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31005002",
+      "display": "Hepatorenal syndrome due to a procedure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "328383001",
+      "display": "Chronic liver disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347891000119103",
+      "display": "Chronic hepatitis C with stage 3 fibrosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370889009",
+      "display": "Lymphocytic portal hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3738000",
+      "display": "Viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37871000",
+      "display": "Acute hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397575003",
+      "display": "Viral hepatitis, type G (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408335007",
+      "display": "Autoimmune hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41309000",
+      "display": "Alcoholic liver damage (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41889008",
+      "display": "Chronic persistent hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420054005",
+      "display": "Alcoholic cirrhosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425413006",
+      "display": "Drug-induced cirrhosis of liver (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435091000124105",
+      "display": "Hepatitis with hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435101000124104",
+      "display": "Chronic viral hepatitis C with hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450880008",
+      "display": "Chronic hepatitis E (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4846001",
+      "display": "Anicteric viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4896000",
+      "display": "Acute toxic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50325005",
+      "display": "Alcoholic fatty liver (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50711007",
+      "display": "Viral hepatitis type C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51292008",
+      "display": "Hepatorenal syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57412004",
+      "display": "Acute viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58282009",
+      "display": "Relapsing viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59927004",
+      "display": "Hepatic failure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60037002",
+      "display": "Chronic persistent viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62216007",
+      "display": "Familial arthrogryposis-cholestatic hepatorenal syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66870002",
+      "display": "Chronic active viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "702969000",
+      "display": "Reactivation of hepatitis C viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703866000",
+      "display": "Chronic hepatitis C with stage 2 fibrosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707341005",
+      "display": "Viral hepatitis type D (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708198006",
+      "display": "Chronic active hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72445008",
+      "display": "Subacute noninfective hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76783007",
+      "display": "Chronic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79720007",
+      "display": "Chronic nonalcoholic liver disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "831000119103",
+      "display": "Cirrhosis of liver due to chronic hepatitis C (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89789003",
+      "display": "Chronic aggressive viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95556007",
+      "display": "Cholestatic hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9953008",
+      "display": "Acute alcoholic liver disease (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.0",
+      "display": "Acute delta-(super) infection of hepatitis B carrier"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.10",
+      "display": "Acute hepatitis C without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.11",
+      "display": "Acute hepatitis C with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.2",
+      "display": "Acute hepatitis E"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.8",
+      "display": "Other specified acute viral hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B17.9",
+      "display": "Acute viral hepatitis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B18.2",
+      "display": "Chronic viral hepatitis C"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B18.8",
+      "display": "Other chronic viral hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B18.9",
+      "display": "Chronic viral hepatitis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.0",
+      "display": "Unspecified viral hepatitis with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.20",
+      "display": "Unspecified viral hepatitis C without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.21",
+      "display": "Unspecified viral hepatitis C with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B19.9",
+      "display": "Unspecified viral hepatitis without hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.0",
+      "display": "Alcoholic fatty liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.10",
+      "display": "Alcoholic hepatitis without ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.11",
+      "display": "Alcoholic hepatitis with ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.2",
+      "display": "Alcoholic fibrosis and sclerosis of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.30",
+      "display": "Alcoholic cirrhosis of liver without ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.31",
+      "display": "Alcoholic cirrhosis of liver with ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.40",
+      "display": "Alcoholic hepatic failure without coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.41",
+      "display": "Alcoholic hepatic failure with coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K70.9",
+      "display": "Alcoholic liver disease, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.0",
+      "display": "Toxic liver disease with cholestasis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.10",
+      "display": "Toxic liver disease with hepatic necrosis, without coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.11",
+      "display": "Toxic liver disease with hepatic necrosis, with coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.2",
+      "display": "Toxic liver disease with acute hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.3",
+      "display": "Toxic liver disease with chronic persistent hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.4",
+      "display": "Toxic liver disease with chronic lobular hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.50",
+      "display": "Toxic liver disease with chronic active hepatitis without ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.51",
+      "display": "Toxic liver disease with chronic active hepatitis with ascites"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.6",
+      "display": "Toxic liver disease with hepatitis, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.7",
+      "display": "Toxic liver disease with fibrosis and cirrhosis of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.8",
+      "display": "Toxic liver disease with other disorders of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K71.9",
+      "display": "Toxic liver disease, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.00",
+      "display": "Acute and subacute hepatic failure without coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.01",
+      "display": "Acute and subacute hepatic failure with coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.10",
+      "display": "Chronic hepatic failure without coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.11",
+      "display": "Chronic hepatic failure with coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.90",
+      "display": "Hepatic failure, unspecified without coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K72.91",
+      "display": "Hepatic failure, unspecified with coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K73.0",
+      "display": "Chronic persistent hepatitis, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K73.1",
+      "display": "Chronic lobular hepatitis, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K73.2",
+      "display": "Chronic active hepatitis, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K73.8",
+      "display": "Other chronic hepatitis, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K73.9",
+      "display": "Chronic hepatitis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.00",
+      "display": "Hepatic fibrosis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.01",
+      "display": "Hepatic fibrosis, early fibrosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.02",
+      "display": "Hepatic fibrosis, advanced fibrosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.1",
+      "display": "Hepatic sclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.2",
+      "display": "Hepatic fibrosis with hepatic sclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.3",
+      "display": "Primary biliary cirrhosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.4",
+      "display": "Secondary biliary cirrhosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.5",
+      "display": "Biliary cirrhosis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.60",
+      "display": "Unspecified cirrhosis of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K74.69",
+      "display": "Other cirrhosis of liver"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K75.4",
+      "display": "Autoimmune hepatitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.411",
+      "display": "Viral hepatitis complicating pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.412",
+      "display": "Viral hepatitis complicating pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.413",
+      "display": "Viral hepatitis complicating pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.419",
+      "display": "Viral hepatitis complicating pregnancy, unspecified trimester"
+    } ]
+  }
 }

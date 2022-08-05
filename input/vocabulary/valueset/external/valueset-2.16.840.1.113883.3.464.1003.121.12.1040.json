@@ -5,12 +5,33 @@
     "versionId": "6",
     "lastUpdated": "2022-03-02T18:04:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-64728-9\"> </a><a href=\"http://details.loinc.org/LOINC/64728-9.html\">64728-9</a></td><td>Have you ever had vaginal intercourse [PhenX]</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.121.12.1040",
   "version": "20170504",
   "name": "Sexually Active",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:09324eee-4ed3-4b29-ba21-70cb822629bd",
+    "timestamp": "2022-07-19T15:08:48-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "64728-9",
+      "display": "Have you ever had vaginal intercourse [PhenX]"
+    } ]
+  }
 }

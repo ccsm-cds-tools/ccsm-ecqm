@@ -5,12 +5,213 @@
     "versionId": "5",
     "lastUpdated": "2020-08-18T10:21:27.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 37 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/icd-10-cm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50\"> </a>K50</td><td>Crohn's disease [regional enteritis]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.0\"> </a>K50.0</td><td>Crohn's disease of small intestine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.00\"> </a>K50.00</td><td>Crohn's disease of small intestine without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.01\"> </a>K50.01</td><td>Crohn's disease of small intestine with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.011\"> </a>K50.011</td><td>Crohn's disease of small intestine with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.012\"> </a>K50.012</td><td>Crohn's disease of small intestine with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.013\"> </a>K50.013</td><td>Crohn's disease of small intestine with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.014\"> </a>K50.014</td><td>Crohn's disease of small intestine with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.018\"> </a>K50.018</td><td>Crohn's disease of small intestine with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.019\"> </a>K50.019</td><td>Crohn's disease of small intestine with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.1\"> </a>K50.1</td><td>Crohn's disease of large intestine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.10\"> </a>K50.10</td><td>Crohn's disease of large intestine without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.11\"> </a>K50.11</td><td>Crohn's disease of large intestine with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.111\"> </a>K50.111</td><td>Crohn's disease of large intestine with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.112\"> </a>K50.112</td><td>Crohn's disease of large intestine with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.113\"> </a>K50.113</td><td>Crohn's disease of large intestine with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.114\"> </a>K50.114</td><td>Crohn's disease of large intestine with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.118\"> </a>K50.118</td><td>Crohn's disease of large intestine with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.119\"> </a>K50.119</td><td>Crohn's disease of large intestine with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.8\"> </a>K50.8</td><td>Crohn's disease of both small and large intestine</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.80\"> </a>K50.80</td><td>Crohn's disease of both small and large intestine without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.81\"> </a>K50.81</td><td>Crohn's disease of both small and large intestine with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.811\"> </a>K50.811</td><td>Crohn's disease of both small and large intestine with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.812\"> </a>K50.812</td><td>Crohn's disease of both small and large intestine with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.813\"> </a>K50.813</td><td>Crohn's disease of both small and large intestine with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.814\"> </a>K50.814</td><td>Crohn's disease of both small and large intestine with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.818\"> </a>K50.818</td><td>Crohn's disease of both small and large intestine with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.819\"> </a>K50.819</td><td>Crohn's disease of both small and large intestine with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.9\"> </a>K50.9</td><td>Crohn's disease, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.90\"> </a>K50.90</td><td>Crohn's disease, unspecified, without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.91\"> </a>K50.91</td><td>Crohn's disease, unspecified, with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.911\"> </a>K50.911</td><td>Crohn's disease, unspecified, with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.912\"> </a>K50.912</td><td>Crohn's disease, unspecified, with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.913\"> </a>K50.913</td><td>Crohn's disease, unspecified, with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.914\"> </a>K50.914</td><td>Crohn's disease, unspecified, with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.918\"> </a>K50.918</td><td>Crohn's disease, unspecified, with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K50.919\"> </a>K50.919</td><td>Crohn's disease, unspecified, with unspecified complications</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.3079",
   "version": "20200714",
   "name": "COVID19 ICD10CM Value Set for Crohn's Disease",
   "status": "active",
   "date": "2020-07-14T01:01:20-04:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:41ad0ac4-e877-4c67-8785-ae894f5367b0",
+    "timestamp": "2022-07-15T19:04:05-04:00",
+    "total": 37,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50",
+      "display": "Crohn's disease [regional enteritis]"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.0",
+      "display": "Crohn's disease of small intestine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.00",
+      "display": "Crohn's disease of small intestine without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.01",
+      "display": "Crohn's disease of small intestine with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.011",
+      "display": "Crohn's disease of small intestine with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.012",
+      "display": "Crohn's disease of small intestine with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.013",
+      "display": "Crohn's disease of small intestine with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.014",
+      "display": "Crohn's disease of small intestine with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.018",
+      "display": "Crohn's disease of small intestine with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.019",
+      "display": "Crohn's disease of small intestine with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.1",
+      "display": "Crohn's disease of large intestine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.10",
+      "display": "Crohn's disease of large intestine without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.11",
+      "display": "Crohn's disease of large intestine with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.111",
+      "display": "Crohn's disease of large intestine with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.112",
+      "display": "Crohn's disease of large intestine with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.113",
+      "display": "Crohn's disease of large intestine with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.114",
+      "display": "Crohn's disease of large intestine with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.118",
+      "display": "Crohn's disease of large intestine with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.119",
+      "display": "Crohn's disease of large intestine with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.8",
+      "display": "Crohn's disease of both small and large intestine"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.80",
+      "display": "Crohn's disease of both small and large intestine without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.81",
+      "display": "Crohn's disease of both small and large intestine with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.811",
+      "display": "Crohn's disease of both small and large intestine with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.812",
+      "display": "Crohn's disease of both small and large intestine with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.813",
+      "display": "Crohn's disease of both small and large intestine with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.814",
+      "display": "Crohn's disease of both small and large intestine with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.818",
+      "display": "Crohn's disease of both small and large intestine with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.819",
+      "display": "Crohn's disease of both small and large intestine with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.9",
+      "display": "Crohn's disease, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.90",
+      "display": "Crohn's disease, unspecified, without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.91",
+      "display": "Crohn's disease, unspecified, with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.911",
+      "display": "Crohn's disease, unspecified, with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.912",
+      "display": "Crohn's disease, unspecified, with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.913",
+      "display": "Crohn's disease, unspecified, with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.914",
+      "display": "Crohn's disease, unspecified, with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.918",
+      "display": "Crohn's disease, unspecified, with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K50.919",
+      "display": "Crohn's disease, unspecified, with unspecified complications"
+    } ]
+  }
 }

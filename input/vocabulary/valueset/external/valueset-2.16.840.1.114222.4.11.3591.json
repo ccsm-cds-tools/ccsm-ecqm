@@ -5,12 +5,838 @@
     "versionId": "14",
     "lastUpdated": "2018-07-18T01:09:05.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 162 concepts</p><p>All codes from system <code>https://nahdo.org/sopt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-1\"> </a>1</td><td>MEDICARE</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-11\"> </a>11</td><td>Medicare Managed Care (Includes Medicare Advantage Plans)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-111\"> </a>111</td><td>Medicare HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-112\"> </a>112</td><td>Medicare PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-113\"> </a>113</td><td>Medicare POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-119\"> </a>119</td><td>Medicare Managed Care Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-12\"> </a>12</td><td>Medicare (Non-managed Care)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-121\"> </a>121</td><td>Medicare FFS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-122\"> </a>122</td><td>Medicare Drug Benefit</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-123\"> </a>123</td><td>Medicare Medical Savings Account (MSA)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-129\"> </a>129</td><td>Medicare Non-managed Care Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-13\"> </a>13</td><td>Medicare Hospice</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-14\"> </a>14</td><td>Dual Eligibility Medicare/Medicaid Organization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-19\"> </a>19</td><td>Medicare Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-191\"> </a>191</td><td>Medicare Pharmacy Benefit Manager</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-2\"> </a>2</td><td>MEDICAID</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-21\"> </a>21</td><td>Medicaid (Managed Care)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-211\"> </a>211</td><td>Medicaid HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-212\"> </a>212</td><td>Medicaid PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-213\"> </a>213</td><td>Medicaid PCCM (Primary Care Case Management)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-219\"> </a>219</td><td>Medicaid Managed Care Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-22\"> </a>22</td><td>Medicaid (Non-managed Care Plan)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-23\"> </a>23</td><td>Medicaid/SCHIP</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-25\"> </a>25</td><td>Medicaid - Out of State</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-26\"> </a>26</td><td>Medicaid - Long Term Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-29\"> </a>29</td><td>Medicaid Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-291\"> </a>291</td><td>Medicaid Pharmacy Benefit Manager</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-299\"> </a>299</td><td>Medicaid - Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3\"> </a>3</td><td>OTHER GOVERNMENT (Federal/State/Local) (excluding Department of Corrections)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-31\"> </a>31</td><td>Department of Defense</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-311\"> </a>311</td><td>TRICARE (CHAMPUS)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3111\"> </a>3111</td><td>TRICARE Prime--HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3112\"> </a>3112</td><td>TRICARE Extra--PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3113\"> </a>3113</td><td>TRICARE Standard - Fee For Service</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3114\"> </a>3114</td><td>TRICARE For Life--Medicare Supplement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3115\"> </a>3115</td><td>TRICARE Reserve Select</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3116\"> </a>3116</td><td>Uniformed Services Family Health Plan (USFHP) -- HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3119\"> </a>3119</td><td>Department of Defense - (other)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-312\"> </a>312</td><td>Military Treatment Facility</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3121\"> </a>3121</td><td>Enrolled Prime--HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3122\"> </a>3122</td><td>Non-enrolled Space Available</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3123\"> </a>3123</td><td>TRICARE For Life (TFL)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-313\"> </a>313</td><td>Dental --Stand Alone</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32\"> </a>32</td><td>Department of Veterans Affairs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-321\"> </a>321</td><td>Veteran care-Care provided to Veterans</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3211\"> </a>3211</td><td>Direct Care-Care provided in VA facilities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3212\"> </a>3212</td><td>Indirect Care-Care provided outside VA facilities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32121\"> </a>32121</td><td>Fee Basis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32122\"> </a>32122</td><td>Foreign Fee/Foreign Medical Program (FMP)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32123\"> </a>32123</td><td>Contract Nursing Home/Community Nursing Home</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32124\"> </a>32124</td><td>State Veterans Home</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32125\"> </a>32125</td><td>Sharing Agreements</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32126\"> </a>32126</td><td>Other Federal Agency</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32127\"> </a>32127</td><td>Dental Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-32128\"> </a>32128</td><td>Vision Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-322\"> </a>322</td><td>Non-veteran care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3221\"> </a>3221</td><td>Civilian Health and Medical Program for the VA (CHAMPVA)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3222\"> </a>3222</td><td>Spina Bifida Health Care Program (SB)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3223\"> </a>3223</td><td>Children of Women Vietnam Veterans (CWVV)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3229\"> </a>3229</td><td>Other non-veteran care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-33\"> </a>33</td><td>Indian Health Service or Tribe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-331\"> </a>331</td><td>Indian Health Service - Regular</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-332\"> </a>332</td><td>Indian Health Service - Contract</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-333\"> </a>333</td><td>Indian Health Service - Managed Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-334\"> </a>334</td><td>Indian Tribe - Sponsored Coverage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-34\"> </a>34</td><td>HRSA Program</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-341\"> </a>341</td><td>Title V (MCH Block Grant)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-342\"> </a>342</td><td>Migrant Health Program</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-343\"> </a>343</td><td>Ryan White Act</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-349\"> </a>349</td><td>Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-35\"> </a>35</td><td>Black Lung</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-36\"> </a>36</td><td>State Government</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-361\"> </a>361</td><td>State SCHIP program (codes for individual states)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-362\"> </a>362</td><td>Specific state programs (list/ local code)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-369\"> </a>369</td><td>State, not otherwise specified (other state)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-37\"> </a>37</td><td>Local Government</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-371\"> </a>371</td><td>Local - Managed care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3711\"> </a>3711</td><td>HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3712\"> </a>3712</td><td>PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3713\"> </a>3713</td><td>POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-372\"> </a>372</td><td>FFS/Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-379\"> </a>379</td><td>Local, not otherwise specified (other local, county)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-38\"> </a>38</td><td>Other Government (Federal, State, Local not specified)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-381\"> </a>381</td><td>Federal, State, Local not specified managed care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3811\"> </a>3811</td><td>Federal, State, Local not specified - HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3812\"> </a>3812</td><td>Federal, State, Local not specified - PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3813\"> </a>3813</td><td>Federal, State, Local not specified - POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-3819\"> </a>3819</td><td>Federal, State, Local not specified - not specified managed care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-382\"> </a>382</td><td>Federal, State, Local not specified - FFS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-389\"> </a>389</td><td>Federal, State, Local not specified - Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-39\"> </a>39</td><td>Other Federal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-391\"> </a>391</td><td>Federal Employee Health Plan - Use when known</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-4\"> </a>4</td><td>DEPARTMENTS OF CORRECTIONS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-41\"> </a>41</td><td>Corrections Federal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-42\"> </a>42</td><td>Corrections State</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-43\"> </a>43</td><td>Corrections Local</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-44\"> </a>44</td><td>Corrections Unknown Level</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-5\"> </a>5</td><td>PRIVATE HEALTH INSURANCE</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-51\"> </a>51</td><td>Managed Care (Private)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-511\"> </a>511</td><td>Commercial Managed Care - HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-512\"> </a>512</td><td>Commercial Managed Care - PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-513\"> </a>513</td><td>Commercial Managed Care - POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-514\"> </a>514</td><td>Exclusive Provider Organization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-515\"> </a>515</td><td>Gatekeeper PPO (GPPO)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-516\"> </a>516</td><td>Commercial Managed Care - Pharmacy Benefit Manager</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-517\"> </a>517</td><td>Commercial Managed Care - Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-519\"> </a>519</td><td>Managed Care, Other (non HMO)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-52\"> </a>52</td><td>Private Health Insurance - Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-521\"> </a>521</td><td>Commercial Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-522\"> </a>522</td><td>Self-insured (ERISA) Administrative Services Only (ASO) plan</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-523\"> </a>523</td><td>Medicare supplemental policy (as second payer)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-524\"> </a>524</td><td>Indemnity Insurance - Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-529\"> </a>529</td><td>Private health insurance--other commercial Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-53\"> </a>53</td><td>Managed Care (private) or private health insurance (indemnity), not otherwise specified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-54\"> </a>54</td><td>Organized Delivery System</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-55\"> </a>55</td><td>Small Employer Purchasing Group</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-56\"> </a>56</td><td>Specialized Stand-Alone Plan</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-561\"> </a>561</td><td>Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-562\"> </a>562</td><td>Vision</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-59\"> </a>59</td><td>Other Private Insurance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-6\"> </a>6</td><td>BLUE CROSS/BLUE SHIELD</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-61\"> </a>61</td><td>BC Managed Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-611\"> </a>611</td><td>BC Managed Care - HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-612\"> </a>612</td><td>BC Managed Care - PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-613\"> </a>613</td><td>BC Managed Care - POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-614\"> </a>614</td><td>BC Managed Care - Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-619\"> </a>619</td><td>BC Managed Care - Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-62\"> </a>62</td><td>BC Insurance Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-621\"> </a>621</td><td>BC Indemnity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-622\"> </a>622</td><td>BC Self-insured (ERISA) Administrative Services Only (ASO)Plan</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-623\"> </a>623</td><td>BC Medicare Supplemental Plan</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-629\"> </a>629</td><td>BC Indemnity - Dental</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-7\"> </a>7</td><td>MANAGED CARE, UNSPECIFIED (to be used only if one can't distinguish public from private)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-71\"> </a>71</td><td>HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-72\"> </a>72</td><td>PPO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-73\"> </a>73</td><td>POS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-79\"> </a>79</td><td>Other Managed Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-8\"> </a>8</td><td>NO PAYMENT from an Organization/Agency/Program/Private Payer Listed</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-81\"> </a>81</td><td>Self-pay (Includes applicants for insurance and Medicaid applicants)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-82\"> </a>82</td><td>No Charge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-821\"> </a>821</td><td>Charity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-822\"> </a>822</td><td>Professional Courtesy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-823\"> </a>823</td><td>Research/Clinical Trial</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-83\"> </a>83</td><td>Refusal to Pay/Bad Debt</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-84\"> </a>84</td><td>Hill Burton Free Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-85\"> </a>85</td><td>Research/Donor</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-89\"> </a>89</td><td>No Payment, Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-9\"> </a>9</td><td>MISCELLANEOUS/OTHER</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-91\"> </a>91</td><td>Foreign National</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-92\"> </a>92</td><td>Other (Non-government)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-93\"> </a>93</td><td>Disability Insurance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-94\"> </a>94</td><td>Long-term Care Insurance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-95\"> </a>95</td><td>Worker's Compensation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-951\"> </a>951</td><td>Worker's Comp HMO</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-953\"> </a>953</td><td>Worker's Comp Fee-for-Service</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-954\"> </a>954</td><td>Worker's Comp Other Managed Care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-959\"> </a>959</td><td>Worker's Comp, Other unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-96\"> </a>96</td><td>Auto Insurance (includes no fault)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-97\"> </a>97</td><td>Legal Liability / Liability Insurance</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-98\"> </a>98</td><td>Other specified but not otherwise classifiable (includes Hospice - Unspecified plan)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-99\"> </a>99</td><td>No Typology Code available for payment source</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-9999\"> </a>9999</td><td>Unavailable / No Payer Specified / Blank</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.114222.4.11.3591",
   "version": "20180718",
   "name": "Payer",
   "status": "active",
   "date": "2018-07-18T01:00:04-04:00",
   "publisher": "HL7 Terminology",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0a9e616c-9334-46aa-9748-3351555f5593",
+    "timestamp": "2022-07-19T15:14:13-04:00",
+    "total": 162,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "1",
+      "display": "MEDICARE"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "11",
+      "display": "Medicare Managed Care (Includes Medicare Advantage Plans)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "111",
+      "display": "Medicare HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "112",
+      "display": "Medicare PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "113",
+      "display": "Medicare POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "119",
+      "display": "Medicare Managed Care Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "12",
+      "display": "Medicare (Non-managed Care)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "121",
+      "display": "Medicare FFS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "122",
+      "display": "Medicare Drug Benefit"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "123",
+      "display": "Medicare Medical Savings Account (MSA)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "129",
+      "display": "Medicare Non-managed Care Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "13",
+      "display": "Medicare Hospice"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "14",
+      "display": "Dual Eligibility Medicare/Medicaid Organization"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "19",
+      "display": "Medicare Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "191",
+      "display": "Medicare Pharmacy Benefit Manager"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "2",
+      "display": "MEDICAID"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "21",
+      "display": "Medicaid (Managed Care)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "211",
+      "display": "Medicaid HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "212",
+      "display": "Medicaid PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "213",
+      "display": "Medicaid PCCM (Primary Care Case Management)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "219",
+      "display": "Medicaid Managed Care Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "22",
+      "display": "Medicaid (Non-managed Care Plan)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "23",
+      "display": "Medicaid/SCHIP"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "25",
+      "display": "Medicaid - Out of State"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "26",
+      "display": "Medicaid - Long Term Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "29",
+      "display": "Medicaid Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "291",
+      "display": "Medicaid Pharmacy Benefit Manager"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "299",
+      "display": "Medicaid - Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3",
+      "display": "OTHER GOVERNMENT (Federal/State/Local) (excluding Department of Corrections)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "31",
+      "display": "Department of Defense"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "311",
+      "display": "TRICARE (CHAMPUS)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3111",
+      "display": "TRICARE Prime--HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3112",
+      "display": "TRICARE Extra--PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3113",
+      "display": "TRICARE Standard - Fee For Service"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3114",
+      "display": "TRICARE For Life--Medicare Supplement"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3115",
+      "display": "TRICARE Reserve Select"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3116",
+      "display": "Uniformed Services Family Health Plan (USFHP) -- HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3119",
+      "display": "Department of Defense - (other)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "312",
+      "display": "Military Treatment Facility"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3121",
+      "display": "Enrolled Prime--HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3122",
+      "display": "Non-enrolled Space Available"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3123",
+      "display": "TRICARE For Life (TFL)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "313",
+      "display": "Dental --Stand Alone"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32",
+      "display": "Department of Veterans Affairs"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "321",
+      "display": "Veteran care-Care provided to Veterans"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3211",
+      "display": "Direct Care-Care provided in VA facilities"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3212",
+      "display": "Indirect Care-Care provided outside VA facilities"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32121",
+      "display": "Fee Basis"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32122",
+      "display": "Foreign Fee/Foreign Medical Program (FMP)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32123",
+      "display": "Contract Nursing Home/Community Nursing Home"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32124",
+      "display": "State Veterans Home"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32125",
+      "display": "Sharing Agreements"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32126",
+      "display": "Other Federal Agency"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32127",
+      "display": "Dental Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "32128",
+      "display": "Vision Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "322",
+      "display": "Non-veteran care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3221",
+      "display": "Civilian Health and Medical Program for the VA (CHAMPVA)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3222",
+      "display": "Spina Bifida Health Care Program (SB)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3223",
+      "display": "Children of Women Vietnam Veterans (CWVV)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3229",
+      "display": "Other non-veteran care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "33",
+      "display": "Indian Health Service or Tribe"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "331",
+      "display": "Indian Health Service - Regular"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "332",
+      "display": "Indian Health Service - Contract"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "333",
+      "display": "Indian Health Service - Managed Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "334",
+      "display": "Indian Tribe - Sponsored Coverage"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "34",
+      "display": "HRSA Program"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "341",
+      "display": "Title V (MCH Block Grant)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "342",
+      "display": "Migrant Health Program"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "343",
+      "display": "Ryan White Act"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "349",
+      "display": "Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "35",
+      "display": "Black Lung"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "36",
+      "display": "State Government"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "361",
+      "display": "State SCHIP program (codes for individual states)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "362",
+      "display": "Specific state programs (list/ local code)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "369",
+      "display": "State, not otherwise specified (other state)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "37",
+      "display": "Local Government"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "371",
+      "display": "Local - Managed care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3711",
+      "display": "HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3712",
+      "display": "PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3713",
+      "display": "POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "372",
+      "display": "FFS/Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "379",
+      "display": "Local, not otherwise specified (other local, county)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "38",
+      "display": "Other Government (Federal, State, Local not specified)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "381",
+      "display": "Federal, State, Local not specified managed care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3811",
+      "display": "Federal, State, Local not specified - HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3812",
+      "display": "Federal, State, Local not specified - PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3813",
+      "display": "Federal, State, Local not specified - POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "3819",
+      "display": "Federal, State, Local not specified - not specified managed care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "382",
+      "display": "Federal, State, Local not specified - FFS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "389",
+      "display": "Federal, State, Local not specified - Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "39",
+      "display": "Other Federal"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "391",
+      "display": "Federal Employee Health Plan - Use when known"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "4",
+      "display": "DEPARTMENTS OF CORRECTIONS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "41",
+      "display": "Corrections Federal"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "42",
+      "display": "Corrections State"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "43",
+      "display": "Corrections Local"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "44",
+      "display": "Corrections Unknown Level"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "5",
+      "display": "PRIVATE HEALTH INSURANCE"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "51",
+      "display": "Managed Care (Private)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "511",
+      "display": "Commercial Managed Care - HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "512",
+      "display": "Commercial Managed Care - PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "513",
+      "display": "Commercial Managed Care - POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "514",
+      "display": "Exclusive Provider Organization"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "515",
+      "display": "Gatekeeper PPO (GPPO)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "516",
+      "display": "Commercial Managed Care - Pharmacy Benefit Manager"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "517",
+      "display": "Commercial Managed Care - Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "519",
+      "display": "Managed Care, Other (non HMO)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "52",
+      "display": "Private Health Insurance - Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "521",
+      "display": "Commercial Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "522",
+      "display": "Self-insured (ERISA) Administrative Services Only (ASO) plan"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "523",
+      "display": "Medicare supplemental policy (as second payer)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "524",
+      "display": "Indemnity Insurance - Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "529",
+      "display": "Private health insurance--other commercial Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "53",
+      "display": "Managed Care (private) or private health insurance (indemnity), not otherwise specified"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "54",
+      "display": "Organized Delivery System"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "55",
+      "display": "Small Employer Purchasing Group"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "56",
+      "display": "Specialized Stand-Alone Plan"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "561",
+      "display": "Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "562",
+      "display": "Vision"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "59",
+      "display": "Other Private Insurance"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "6",
+      "display": "BLUE CROSS/BLUE SHIELD"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "61",
+      "display": "BC Managed Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "611",
+      "display": "BC Managed Care - HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "612",
+      "display": "BC Managed Care - PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "613",
+      "display": "BC Managed Care - POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "614",
+      "display": "BC Managed Care - Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "619",
+      "display": "BC Managed Care - Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "62",
+      "display": "BC Insurance Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "621",
+      "display": "BC Indemnity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "622",
+      "display": "BC Self-insured (ERISA) Administrative Services Only (ASO)Plan"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "623",
+      "display": "BC Medicare Supplemental Plan"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "629",
+      "display": "BC Indemnity - Dental"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "7",
+      "display": "MANAGED CARE, UNSPECIFIED (to be used only if one can't distinguish public from private)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "71",
+      "display": "HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "72",
+      "display": "PPO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "73",
+      "display": "POS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "79",
+      "display": "Other Managed Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "8",
+      "display": "NO PAYMENT from an Organization/Agency/Program/Private Payer Listed"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "81",
+      "display": "Self-pay (Includes applicants for insurance and Medicaid applicants)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "82",
+      "display": "No Charge"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "821",
+      "display": "Charity"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "822",
+      "display": "Professional Courtesy"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "823",
+      "display": "Research/Clinical Trial"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "83",
+      "display": "Refusal to Pay/Bad Debt"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "84",
+      "display": "Hill Burton Free Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "85",
+      "display": "Research/Donor"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "89",
+      "display": "No Payment, Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "9",
+      "display": "MISCELLANEOUS/OTHER"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "91",
+      "display": "Foreign National"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "92",
+      "display": "Other (Non-government)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "93",
+      "display": "Disability Insurance"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "94",
+      "display": "Long-term Care Insurance"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "95",
+      "display": "Worker's Compensation"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "951",
+      "display": "Worker's Comp HMO"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "953",
+      "display": "Worker's Comp Fee-for-Service"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "954",
+      "display": "Worker's Comp Other Managed Care"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "959",
+      "display": "Worker's Comp, Other unspecified"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "96",
+      "display": "Auto Insurance (includes no fault)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "97",
+      "display": "Legal Liability / Liability Insurance"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "98",
+      "display": "Other specified but not otherwise classifiable (includes Hospice - Unspecified plan)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "99",
+      "display": "No Typology Code available for payment source"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "9999",
+      "display": "Unavailable / No Payer Specified / Blank"
+    } ]
+  }
 }

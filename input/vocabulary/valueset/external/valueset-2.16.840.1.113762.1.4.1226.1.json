@@ -5,12 +5,198 @@
     "versionId": "10",
     "lastUpdated": "2021-03-08T01:00:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 34 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231876002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231876002\">231876002</a></td><td>http://snomed.info/sct</td><td>Non-pyogenic granulomatous scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26664005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26664005\">26664005</a></td><td>http://snomed.info/sct</td><td>Scleromalacia perforans (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267660007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267660007\">267660007</a></td><td>http://snomed.info/sct</td><td>Posterior scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27886001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27886001\">27886001</a></td><td>http://snomed.info/sct</td><td>Sclerosing keratitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332981000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332981000119106\">332981000119106</a></td><td>http://snomed.info/sct</td><td>Posterior scleritis of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-338591000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=338591000119103\">338591000119103</a></td><td>http://snomed.info/sct</td><td>Posterior scleritis of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-344361000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=344361000119105\">344361000119105</a></td><td>http://snomed.info/sct</td><td>Posterior scleritis of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410578007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410578007\">410578007</a></td><td>http://snomed.info/sct</td><td>Infective scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416879000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416879000\">416879000</a></td><td>http://snomed.info/sct</td><td>Scleritis due to granulomatosis with polyangiitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417290008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417290008\">417290008</a></td><td>http://snomed.info/sct</td><td>Sclerokeratitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42574005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42574005\">42574005</a></td><td>http://snomed.info/sct</td><td>Scleritis with corneal involvement (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50675000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50675000\">50675000</a></td><td>http://snomed.info/sct</td><td>Scleral abscess (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59165007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59165007\">59165007</a></td><td>http://snomed.info/sct</td><td>Rheumatoid arthritis with scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78370002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78370002\">78370002</a></td><td>http://snomed.info/sct</td><td>Scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91612009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91612009\">91612009</a></td><td>http://snomed.info/sct</td><td>Brawny scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95195003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95195003\">95195003</a></td><td>http://snomed.info/sct</td><td>Nodular scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95680001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95680001\">95680001</a></td><td>http://snomed.info/sct</td><td>Sclerouveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95795006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95795006\">95795006</a></td><td>http://snomed.info/sct</td><td>Superficial scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95796007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95796007\">95796007</a></td><td>http://snomed.info/sct</td><td>Deep scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.021\"> </a>H15.021</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Brawny scleritis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.022\"> </a>H15.022</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Brawny scleritis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.023\"> </a>H15.023</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Brawny scleritis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.031\"> </a>H15.031</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior scleritis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.032\"> </a>H15.032</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior scleritis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.033\"> </a>H15.033</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Posterior scleritis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.041\"> </a>H15.041</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleritis with corneal involvement, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.042\"> </a>H15.042</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleritis with corneal involvement, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.043\"> </a>H15.043</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleritis with corneal involvement, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.051\"> </a>H15.051</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleromalacia perforans, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.052\"> </a>H15.052</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleromalacia perforans, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.053\"> </a>H15.053</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Scleromalacia perforans, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.091\"> </a>H15.091</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other scleritis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.092\"> </a>H15.092</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other scleritis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H15.093\"> </a>H15.093</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other scleritis, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1226.1",
   "version": "20210308",
   "name": "Scleritis",
   "status": "active",
   "date": "2021-03-08T01:00:16-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1eec711c-4068-42f1-8ffc-d678c6d80cea",
+    "timestamp": "2022-07-19T15:05:23-04:00",
+    "total": 34,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231876002",
+      "display": "Non-pyogenic granulomatous scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26664005",
+      "display": "Scleromalacia perforans (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267660007",
+      "display": "Posterior scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27886001",
+      "display": "Sclerosing keratitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332981000119106",
+      "display": "Posterior scleritis of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "338591000119103",
+      "display": "Posterior scleritis of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "344361000119105",
+      "display": "Posterior scleritis of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410578007",
+      "display": "Infective scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416879000",
+      "display": "Scleritis due to granulomatosis with polyangiitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417290008",
+      "display": "Sclerokeratitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42574005",
+      "display": "Scleritis with corneal involvement (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50675000",
+      "display": "Scleral abscess (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59165007",
+      "display": "Rheumatoid arthritis with scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78370002",
+      "display": "Scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91612009",
+      "display": "Brawny scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95195003",
+      "display": "Nodular scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95680001",
+      "display": "Sclerouveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95795006",
+      "display": "Superficial scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95796007",
+      "display": "Deep scleritis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.021",
+      "display": "Brawny scleritis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.022",
+      "display": "Brawny scleritis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.023",
+      "display": "Brawny scleritis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.031",
+      "display": "Posterior scleritis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.032",
+      "display": "Posterior scleritis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.033",
+      "display": "Posterior scleritis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.041",
+      "display": "Scleritis with corneal involvement, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.042",
+      "display": "Scleritis with corneal involvement, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.043",
+      "display": "Scleritis with corneal involvement, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.051",
+      "display": "Scleromalacia perforans, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.052",
+      "display": "Scleromalacia perforans, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.053",
+      "display": "Scleromalacia perforans, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.091",
+      "display": "Other scleritis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.092",
+      "display": "Other scleritis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H15.093",
+      "display": "Other scleritis, bilateral"
+    } ]
+  }
 }

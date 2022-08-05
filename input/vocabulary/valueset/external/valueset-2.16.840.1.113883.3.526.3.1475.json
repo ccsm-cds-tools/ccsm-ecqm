@@ -5,12 +5,168 @@
     "versionId": "29",
     "lastUpdated": "2021-02-18T01:00:25.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 28 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111523009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111523009\">111523009</a></td><td>http://snomed.info/sct</td><td>Acute hydrops keratoconus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193844000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193844000\">193844000</a></td><td>http://snomed.info/sct</td><td>Keratoconus, stable condition (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314758008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314758008\">314758008</a></td><td>http://snomed.info/sct</td><td>Posterior keratoconus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-334551000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=334551000119102\">334551000119102</a></td><td>http://snomed.info/sct</td><td>Unstable keratoconus of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-334561000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=334561000119100\">334561000119100</a></td><td>http://snomed.info/sct</td><td>Stable keratoconus of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-334571000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=334571000119106\">334571000119106</a></td><td>http://snomed.info/sct</td><td>Keratoconus of right cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340151000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340151000119101\">340151000119101</a></td><td>http://snomed.info/sct</td><td>Unstable keratoconus of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340161000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340161000119104\">340161000119104</a></td><td>http://snomed.info/sct</td><td>Stable keratoconus of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-340171000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=340171000119105\">340171000119105</a></td><td>http://snomed.info/sct</td><td>Keratoconus of left cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-345511000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=345511000119103\">345511000119103</a></td><td>http://snomed.info/sct</td><td>Unstable keratoconus of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-345521000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=345521000119105\">345521000119105</a></td><td>http://snomed.info/sct</td><td>Stable keratoconus of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-345531000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=345531000119108\">345531000119108</a></td><td>http://snomed.info/sct</td><td>Keratoconus of bilateral corneas (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-348371000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=348371000119109\">348371000119109</a></td><td>http://snomed.info/sct</td><td>Acute hydrops keratoconus of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-348821000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=348821000119101\">348821000119101</a></td><td>http://snomed.info/sct</td><td>Acute hydrops keratoconus of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-349321000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=349321000119104\">349321000119104</a></td><td>http://snomed.info/sct</td><td>Acute hydrops keratoconus of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63216003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63216003\">63216003</a></td><td>http://snomed.info/sct</td><td>Congenital keratoconus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65636009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65636009\">65636009</a></td><td>http://snomed.info/sct</td><td>Keratoconus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-700281002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=700281002\">700281002</a></td><td>http://snomed.info/sct</td><td>Unstable keratoconus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75340008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75340008\">75340008</a></td><td>http://snomed.info/sct</td><td>Congenital keratoconus posticus circumscriptus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.601\"> </a>H18.601</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unspecified, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.602\"> </a>H18.602</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unspecified, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.603\"> </a>H18.603</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unspecified, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.611\"> </a>H18.611</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, stable, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.612\"> </a>H18.612</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, stable, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.613\"> </a>H18.613</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, stable, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.621\"> </a>H18.621</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unstable, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.622\"> </a>H18.622</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unstable, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.623\"> </a>H18.623</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Keratoconus, unstable, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1475",
   "version": "20210218",
   "name": "Prior Penetrating Keratoplasty",
   "status": "active",
   "date": "2021-02-18T01:00:25-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9e25cecd-95e3-497d-8fdf-77dfeff47611",
+    "timestamp": "2022-07-19T15:12:40-04:00",
+    "total": 28,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111523009",
+      "display": "Acute hydrops keratoconus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193844000",
+      "display": "Keratoconus, stable condition (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314758008",
+      "display": "Posterior keratoconus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "334551000119102",
+      "display": "Unstable keratoconus of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "334561000119100",
+      "display": "Stable keratoconus of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "334571000119106",
+      "display": "Keratoconus of right cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340151000119101",
+      "display": "Unstable keratoconus of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340161000119104",
+      "display": "Stable keratoconus of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "340171000119105",
+      "display": "Keratoconus of left cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "345511000119103",
+      "display": "Unstable keratoconus of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "345521000119105",
+      "display": "Stable keratoconus of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "345531000119108",
+      "display": "Keratoconus of bilateral corneas (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "348371000119109",
+      "display": "Acute hydrops keratoconus of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "348821000119101",
+      "display": "Acute hydrops keratoconus of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "349321000119104",
+      "display": "Acute hydrops keratoconus of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63216003",
+      "display": "Congenital keratoconus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65636009",
+      "display": "Keratoconus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "700281002",
+      "display": "Unstable keratoconus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75340008",
+      "display": "Congenital keratoconus posticus circumscriptus (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.601",
+      "display": "Keratoconus, unspecified, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.602",
+      "display": "Keratoconus, unspecified, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.603",
+      "display": "Keratoconus, unspecified, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.611",
+      "display": "Keratoconus, stable, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.612",
+      "display": "Keratoconus, stable, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.613",
+      "display": "Keratoconus, stable, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.621",
+      "display": "Keratoconus, unstable, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.622",
+      "display": "Keratoconus, unstable, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.623",
+      "display": "Keratoconus, unstable, bilateral"
+    } ]
+  }
 }

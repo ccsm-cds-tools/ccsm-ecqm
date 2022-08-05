@@ -5,12 +5,183 @@
     "versionId": "34",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 31 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16320791000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16320791000119106\">16320791000119106</a></td><td>http://snomed.info/sct</td><td>Myopic macular degeneration of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16837461000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16837461000119106\">16837461000119106</a></td><td>http://snomed.info/sct</td><td>Neovascularization of choroid of right eye due to degenerative myopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16837521000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16837521000119102\">16837521000119102</a></td><td>http://snomed.info/sct</td><td>Neovascularization of choroid of left eye due to degenerative myopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232072004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232072004\">232072004</a></td><td>http://snomed.info/sct</td><td>Forster-Fuchs' spot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232135007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232135007\">232135007</a></td><td>http://snomed.info/sct</td><td>Index myopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312898002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312898002\">312898002</a></td><td>http://snomed.info/sct</td><td>Myopic macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-32022003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=32022003\">32022003</a></td><td>http://snomed.info/sct</td><td>Degenerative progressive high myopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-335471000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=335471000119108\">335471000119108</a></td><td>http://snomed.info/sct</td><td>Degenerative progressive high myopia of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34187009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34187009\">34187009</a></td><td>http://snomed.info/sct</td><td>Severe myopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346481000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346481000119100\">346481000119100</a></td><td>http://snomed.info/sct</td><td>Neovascularization of bilateral corneas (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62585004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62585004\">62585004</a></td><td>http://snomed.info/sct</td><td>Degenerative disorder of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-846621001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=846621001\">846621001</a></td><td>http://snomed.info/sct</td><td>Degenerative myopia of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.21\"> </a>H44.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.22\"> </a>H44.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.23\"> </a>H44.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A1\"> </a>H44.2A1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A2\"> </a>H44.2A2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2A3\"> </a>H44.2A3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with choroidal neovascularization, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B1\"> </a>H44.2B1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B2\"> </a>H44.2B2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2B3\"> </a>H44.2B3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with macular hole, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C1\"> </a>H44.2C1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C2\"> </a>H44.2C2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2C3\"> </a>H44.2C3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with retinal detachment, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D1\"> </a>H44.2D1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D2\"> </a>H44.2D2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2D3\"> </a>H44.2D3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with foveoschisis, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E1\"> </a>H44.2E1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E2\"> </a>H44.2E2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.2E3\"> </a>H44.2E3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Degenerative myopia with other maculopathy, bilateral eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.30\"> </a>H44.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified degenerative disorder of globe</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1432",
   "version": "20210218",
   "name": "Pathologic Myopia",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:16911ab6-80fa-438e-aff0-a81842238c7e",
+    "timestamp": "2022-07-19T15:12:12-04:00",
+    "total": 31,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16320791000119106",
+      "display": "Myopic macular degeneration of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16837461000119106",
+      "display": "Neovascularization of choroid of right eye due to degenerative myopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16837521000119102",
+      "display": "Neovascularization of choroid of left eye due to degenerative myopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232072004",
+      "display": "Forster-Fuchs' spot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232135007",
+      "display": "Index myopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312898002",
+      "display": "Myopic macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "32022003",
+      "display": "Degenerative progressive high myopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "335471000119108",
+      "display": "Degenerative progressive high myopia of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34187009",
+      "display": "Severe myopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346481000119100",
+      "display": "Neovascularization of bilateral corneas (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62585004",
+      "display": "Degenerative disorder of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "846621001",
+      "display": "Degenerative myopia of left eye (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.21",
+      "display": "Degenerative myopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.22",
+      "display": "Degenerative myopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.23",
+      "display": "Degenerative myopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A1",
+      "display": "Degenerative myopia with choroidal neovascularization, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A2",
+      "display": "Degenerative myopia with choroidal neovascularization, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2A3",
+      "display": "Degenerative myopia with choroidal neovascularization, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B1",
+      "display": "Degenerative myopia with macular hole, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B2",
+      "display": "Degenerative myopia with macular hole, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2B3",
+      "display": "Degenerative myopia with macular hole, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C1",
+      "display": "Degenerative myopia with retinal detachment, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C2",
+      "display": "Degenerative myopia with retinal detachment, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2C3",
+      "display": "Degenerative myopia with retinal detachment, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D1",
+      "display": "Degenerative myopia with foveoschisis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D2",
+      "display": "Degenerative myopia with foveoschisis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2D3",
+      "display": "Degenerative myopia with foveoschisis, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E1",
+      "display": "Degenerative myopia with other maculopathy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E2",
+      "display": "Degenerative myopia with other maculopathy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.2E3",
+      "display": "Degenerative myopia with other maculopathy, bilateral eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.30",
+      "display": "Unspecified degenerative disorder of globe"
+    } ]
+  }
 }

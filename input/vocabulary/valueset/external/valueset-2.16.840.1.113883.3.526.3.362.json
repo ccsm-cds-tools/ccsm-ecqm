@@ -5,12 +5,368 @@
     "versionId": "25",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 68 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11641008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11641008\">11641008</a></td><td>http://snomed.info/sct</td><td>Millers' asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12428000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12428000\">12428000</a></td><td>http://snomed.info/sct</td><td>Intrinsic asthma without status asthmaticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13151001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13151001\">13151001</a></td><td>http://snomed.info/sct</td><td>Flax-dressers' disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195949008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195949008\">195949008</a></td><td>http://snomed.info/sct</td><td>Chronic asthmatic bronchitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195967001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195967001\">195967001</a></td><td>http://snomed.info/sct</td><td>Asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195977004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195977004\">195977004</a></td><td>http://snomed.info/sct</td><td>Mixed asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225057002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225057002\">225057002</a></td><td>http://snomed.info/sct</td><td>Brittle asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233672007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233672007\">233672007</a></td><td>http://snomed.info/sct</td><td>Byssinosis grade 3 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233678006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233678006\">233678006</a></td><td>http://snomed.info/sct</td><td>Childhood asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233679003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233679003\">233679003</a></td><td>http://snomed.info/sct</td><td>Late onset asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233683003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233683003\">233683003</a></td><td>http://snomed.info/sct</td><td>Hay fever with asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233688007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233688007\">233688007</a></td><td>http://snomed.info/sct</td><td>Sulfite-induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266361008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266361008\">266361008</a></td><td>http://snomed.info/sct</td><td>Non-allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281239006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281239006\">281239006</a></td><td>http://snomed.info/sct</td><td>Exacerbation of asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31387002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31387002\">31387002</a></td><td>http://snomed.info/sct</td><td>Exercise-induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370218001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370218001\">370218001</a></td><td>http://snomed.info/sct</td><td>Mild asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370219009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370219009\">370219009</a></td><td>http://snomed.info/sct</td><td>Moderate asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370220003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370220003\">370220003</a></td><td>http://snomed.info/sct</td><td>Occasional asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-370221004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=370221004\">370221004</a></td><td>http://snomed.info/sct</td><td>Severe asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-389145006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=389145006\">389145006</a></td><td>http://snomed.info/sct</td><td>Allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405944004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405944004\">405944004</a></td><td>http://snomed.info/sct</td><td>Asthmatic bronchitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-407674008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=407674008\">407674008</a></td><td>http://snomed.info/sct</td><td>Aspirin-induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-409663006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=409663006\">409663006</a></td><td>http://snomed.info/sct</td><td>Cough variant asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423889005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423889005\">423889005</a></td><td>http://snomed.info/sct</td><td>Non-immunoglobulin E mediated allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424199006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424199006\">424199006</a></td><td>http://snomed.info/sct</td><td>Substance induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424643009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424643009\">424643009</a></td><td>http://snomed.info/sct</td><td>Immunoglobulin E-mediated allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425969006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425969006\">425969006</a></td><td>http://snomed.info/sct</td><td>Exacerbation of intermittent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426656000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426656000\">426656000</a></td><td>http://snomed.info/sct</td><td>Severe persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426979002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426979002\">426979002</a></td><td>http://snomed.info/sct</td><td>Mild persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427295004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427295004\">427295004</a></td><td>http://snomed.info/sct</td><td>Moderate persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427603009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427603009\">427603009</a></td><td>http://snomed.info/sct</td><td>Intermittent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427679007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427679007\">427679007</a></td><td>http://snomed.info/sct</td><td>Mild intermittent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442025000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442025000\">442025000</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic asthmatic bronchitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55570000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55570000\">55570000</a></td><td>http://snomed.info/sct</td><td>Asthma without status asthmaticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56968009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56968009\">56968009</a></td><td>http://snomed.info/sct</td><td>Asthma caused by wood dust (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59786004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59786004\">59786004</a></td><td>http://snomed.info/sct</td><td>Weavers' cough (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63088003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63088003\">63088003</a></td><td>http://snomed.info/sct</td><td>Allergic asthma without status asthmaticus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707445000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707445000\">707445000</a></td><td>http://snomed.info/sct</td><td>Exacerbation of mild persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707446004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707446004\">707446004</a></td><td>http://snomed.info/sct</td><td>Exacerbation of moderate persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707447008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707447008\">707447008</a></td><td>http://snomed.info/sct</td><td>Exacerbation of severe persistent asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708090002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708090002\">708090002</a></td><td>http://snomed.info/sct</td><td>Acute severe exacerbation of asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708093000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708093000\">708093000</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708094006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708094006\">708094006</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of intrinsic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708095007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708095007\">708095007</a></td><td>http://snomed.info/sct</td><td>Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708096008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708096008\">708096008</a></td><td>http://snomed.info/sct</td><td>Acute severe exacerbation of intrinsic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-762521001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=762521001\">762521001</a></td><td>http://snomed.info/sct</td><td>Exacerbation of allergic asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-782520007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=782520007\">782520007</a></td><td>http://snomed.info/sct</td><td>Exacerbation of allergic asthma due to infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85761009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85761009\">85761009</a></td><td>http://snomed.info/sct</td><td>Byssinosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-92807009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=92807009\">92807009</a></td><td>http://snomed.info/sct</td><td>Chemical-induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93432008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93432008\">93432008</a></td><td>http://snomed.info/sct</td><td>Drug-induced asthma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.20\"> </a>J45.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild intermittent asthma, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.21\"> </a>J45.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild intermittent asthma with (acute) exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.22\"> </a>J45.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild intermittent asthma with status asthmaticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.30\"> </a>J45.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild persistent asthma, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.31\"> </a>J45.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild persistent asthma with (acute) exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.32\"> </a>J45.32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Mild persistent asthma with status asthmaticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.40\"> </a>J45.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Moderate persistent asthma, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.41\"> </a>J45.41</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Moderate persistent asthma with (acute) exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.42\"> </a>J45.42</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Moderate persistent asthma with status asthmaticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.50\"> </a>J45.50</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Severe persistent asthma, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.51\"> </a>J45.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Severe persistent asthma with (acute) exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.52\"> </a>J45.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Severe persistent asthma with status asthmaticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.901\"> </a>J45.901</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified asthma with (acute) exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.902\"> </a>J45.902</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified asthma with status asthmaticus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.909\"> </a>J45.909</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified asthma, uncomplicated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.990\"> </a>J45.990</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exercise induced bronchospasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.991\"> </a>J45.991</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cough variant asthma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J45.998\"> </a>J45.998</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other asthma</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.362",
   "version": "20200306",
   "name": "Asthma",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:394d01d9-c3ab-4670-bca6-bb0c83ad69b8",
+    "timestamp": "2022-07-19T15:13:22-04:00",
+    "total": 68,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11641008",
+      "display": "Millers' asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12428000",
+      "display": "Intrinsic asthma without status asthmaticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13151001",
+      "display": "Flax-dressers' disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195949008",
+      "display": "Chronic asthmatic bronchitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195967001",
+      "display": "Asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195977004",
+      "display": "Mixed asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225057002",
+      "display": "Brittle asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233672007",
+      "display": "Byssinosis grade 3 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233678006",
+      "display": "Childhood asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233679003",
+      "display": "Late onset asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233683003",
+      "display": "Hay fever with asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233688007",
+      "display": "Sulfite-induced asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266361008",
+      "display": "Non-allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281239006",
+      "display": "Exacerbation of asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31387002",
+      "display": "Exercise-induced asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370218001",
+      "display": "Mild asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370219009",
+      "display": "Moderate asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370220003",
+      "display": "Occasional asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "370221004",
+      "display": "Severe asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "389145006",
+      "display": "Allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405944004",
+      "display": "Asthmatic bronchitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "407674008",
+      "display": "Aspirin-induced asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "409663006",
+      "display": "Cough variant asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423889005",
+      "display": "Non-immunoglobulin E mediated allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424199006",
+      "display": "Substance induced asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424643009",
+      "display": "Immunoglobulin E-mediated allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425969006",
+      "display": "Exacerbation of intermittent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426656000",
+      "display": "Severe persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426979002",
+      "display": "Mild persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427295004",
+      "display": "Moderate persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427603009",
+      "display": "Intermittent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427679007",
+      "display": "Mild intermittent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442025000",
+      "display": "Acute exacerbation of chronic asthmatic bronchitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55570000",
+      "display": "Asthma without status asthmaticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56968009",
+      "display": "Asthma caused by wood dust (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59786004",
+      "display": "Weavers' cough (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63088003",
+      "display": "Allergic asthma without status asthmaticus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707445000",
+      "display": "Exacerbation of mild persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707446004",
+      "display": "Exacerbation of moderate persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707447008",
+      "display": "Exacerbation of severe persistent asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708090002",
+      "display": "Acute severe exacerbation of asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708093000",
+      "display": "Acute exacerbation of immunoglobulin E-mediated allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708094006",
+      "display": "Acute exacerbation of intrinsic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708095007",
+      "display": "Acute severe exacerbation of immunoglobin E-mediated allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708096008",
+      "display": "Acute severe exacerbation of intrinsic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "762521001",
+      "display": "Exacerbation of allergic asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "782520007",
+      "display": "Exacerbation of allergic asthma due to infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85761009",
+      "display": "Byssinosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "92807009",
+      "display": "Chemical-induced asthma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93432008",
+      "display": "Drug-induced asthma (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.20",
+      "display": "Mild intermittent asthma, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.21",
+      "display": "Mild intermittent asthma with (acute) exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.22",
+      "display": "Mild intermittent asthma with status asthmaticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.30",
+      "display": "Mild persistent asthma, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.31",
+      "display": "Mild persistent asthma with (acute) exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.32",
+      "display": "Mild persistent asthma with status asthmaticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.40",
+      "display": "Moderate persistent asthma, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.41",
+      "display": "Moderate persistent asthma with (acute) exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.42",
+      "display": "Moderate persistent asthma with status asthmaticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.50",
+      "display": "Severe persistent asthma, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.51",
+      "display": "Severe persistent asthma with (acute) exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.52",
+      "display": "Severe persistent asthma with status asthmaticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.901",
+      "display": "Unspecified asthma with (acute) exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.902",
+      "display": "Unspecified asthma with status asthmaticus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.909",
+      "display": "Unspecified asthma, uncomplicated"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.990",
+      "display": "Exercise induced bronchospasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.991",
+      "display": "Cough variant asthma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J45.998",
+      "display": "Other asthma"
+    } ]
+  }
 }

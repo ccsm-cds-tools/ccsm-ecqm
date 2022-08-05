@@ -5,12 +5,58 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:03:36.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234723000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234723000\">234723000</a></td><td>http://snomed.info/sct</td><td>Topical application of fluoride - tooth (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-313042009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=313042009\">313042009</a></td><td>http://snomed.info/sct</td><td>Application of dental fluoride varnish (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35889000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35889000\">35889000</a></td><td>http://snomed.info/sct</td><td>Topical application of fluoride excluding prophylaxis, child (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70468009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70468009\">70468009</a></td><td>http://snomed.info/sct</td><td>Topical application of fluoride including prophylaxis, child (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D1206\"> </a>D1206</td><td>http://www.ada.org/cdt</td><td>topical application of fluoride varnish</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ada.org-cdt-D1208\"> </a>D1208</td><td>http://www.ada.org/cdt</td><td>topical application of fluoride - excluding varnish</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.125.12.1002",
   "version": "20210928",
   "name": "Fluoride Varnish Application for Children",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7f5bb35b-19d2-46b2-9a54-3f7502db3b22",
+    "timestamp": "2022-07-19T15:08:53-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234723000",
+      "display": "Topical application of fluoride - tooth (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "313042009",
+      "display": "Application of dental fluoride varnish (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35889000",
+      "display": "Topical application of fluoride excluding prophylaxis, child (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70468009",
+      "display": "Topical application of fluoride including prophylaxis, child (procedure)"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D1206",
+      "display": "topical application of fluoride varnish"
+    }, {
+      "system": "http://www.ada.org/cdt",
+      "version": "2022",
+      "code": "D1208",
+      "display": "topical application of fluoride - excluding varnish"
+    } ]
+  }
 }

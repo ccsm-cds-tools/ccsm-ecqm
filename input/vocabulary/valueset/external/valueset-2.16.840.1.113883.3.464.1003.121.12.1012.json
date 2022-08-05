@@ -5,12 +5,43 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:03:23.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-59574-4\"> </a><a href=\"http://details.loinc.org/LOINC/59574-4.html\">59574-4</a></td><td>Body mass index (BMI) [Percentile]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-59575-1\"> </a><a href=\"http://details.loinc.org/LOINC/59575-1.html\">59575-1</a></td><td>Body mass index (BMI) [Percentile] Per age</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-59576-9\"> </a><a href=\"http://details.loinc.org/LOINC/59576-9.html\">59576-9</a></td><td>Body mass index (BMI) [Percentile] Per age and sex</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.121.12.1012",
   "version": "20170504",
   "name": "BMI percentile",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:243745e9-a4f9-443e-bdde-3a81403001c6",
+    "timestamp": "2022-07-19T15:08:43-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "59574-4",
+      "display": "Body mass index (BMI) [Percentile]"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "59575-1",
+      "display": "Body mass index (BMI) [Percentile] Per age"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "59576-9",
+      "display": "Body mass index (BMI) [Percentile] Per age and sex"
+    } ]
+  }
 }

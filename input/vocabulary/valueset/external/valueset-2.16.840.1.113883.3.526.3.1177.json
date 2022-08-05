@@ -5,12 +5,138 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:03:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 22 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293962009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293962009\">293962009</a></td><td>Allergy to beta adrenergic receptor antagonist (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293963004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293963004\">293963004</a></td><td>Allergy to beta-1 adrenergic receptor antagonist (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293964005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293964005\">293964005</a></td><td>Allergy to acebutolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293965006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293965006\">293965006</a></td><td>Allergy to atenolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293966007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293966007\">293966007</a></td><td>Allergy to betaxolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293967003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293967003\">293967003</a></td><td>Allergy to bisoprolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293968008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293968008\">293968008</a></td><td>Allergy to celiprolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293969000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293969000\">293969000</a></td><td>Allergy to esmolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293970004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293970004\">293970004</a></td><td>Allergy to metoprolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293972007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293972007\">293972007</a></td><td>Allergy to nadolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293973002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293973002\">293973002</a></td><td>Allergy to pindolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293974008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293974008\">293974008</a></td><td>Allergy to carvedilol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293975009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293975009\">293975009</a></td><td>Allergy to metipranolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293976005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293976005\">293976005</a></td><td>Allergy to carteolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293977001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293977001\">293977001</a></td><td>Allergy to labetalol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293978006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293978006\">293978006</a></td><td>Allergy to levobunolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293979003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293979003\">293979003</a></td><td>Allergy to oxprenolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293980000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293980000\">293980000</a></td><td>Allergy to penbutolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293981001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293981001\">293981001</a></td><td>Allergy to practolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293982008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293982008\">293982008</a></td><td>Allergy to propranolol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293983003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293983003\">293983003</a></td><td>Allergy to sotalol (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-293984009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=293984009\">293984009</a></td><td>Allergy to timolol (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1177",
   "version": "20170504",
   "name": "Allergy to Beta Blocker Therapy",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c2f62661-af5e-469f-8bf4-eeaa81d93e3d",
+    "timestamp": "2022-07-19T15:11:28-04:00",
+    "total": 22,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293962009",
+      "display": "Allergy to beta adrenergic receptor antagonist (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293963004",
+      "display": "Allergy to beta-1 adrenergic receptor antagonist (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293964005",
+      "display": "Allergy to acebutolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293965006",
+      "display": "Allergy to atenolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293966007",
+      "display": "Allergy to betaxolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293967003",
+      "display": "Allergy to bisoprolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293968008",
+      "display": "Allergy to celiprolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293969000",
+      "display": "Allergy to esmolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293970004",
+      "display": "Allergy to metoprolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293972007",
+      "display": "Allergy to nadolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293973002",
+      "display": "Allergy to pindolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293974008",
+      "display": "Allergy to carvedilol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293975009",
+      "display": "Allergy to metipranolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293976005",
+      "display": "Allergy to carteolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293977001",
+      "display": "Allergy to labetalol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293978006",
+      "display": "Allergy to levobunolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293979003",
+      "display": "Allergy to oxprenolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293980000",
+      "display": "Allergy to penbutolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293981001",
+      "display": "Allergy to practolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293982008",
+      "display": "Allergy to propranolol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293983003",
+      "display": "Allergy to sotalol (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "293984009",
+      "display": "Allergy to timolol (finding)"
+    } ]
+  }
 }

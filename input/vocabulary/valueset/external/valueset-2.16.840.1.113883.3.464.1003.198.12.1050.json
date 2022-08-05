@@ -5,12 +5,413 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:06:20.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 77 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10002003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10002003\">10002003</a></td><td>http://snomed.info/sct</td><td>Resection of stomach fundus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10869008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10869008\">10869008</a></td><td>http://snomed.info/sct</td><td>Hemigastrectomy with vagotomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112860004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112860004\">112860004</a></td><td>http://snomed.info/sct</td><td>Hemigastrectomy by abdominal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116175006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116175006\">116175006</a></td><td>http://snomed.info/sct</td><td>Proximal subtotal gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173560002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173560002\">173560002</a></td><td>http://snomed.info/sct</td><td>Esophagogastrectomy and anastomosis of esophagus to transposed jejunum (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173714001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173714001\">173714001</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy and excision of surrounding tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173715000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173715000\">173715000</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy and interposition of jejunum (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173716004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173716004\">173716004</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy and anastomosis of esophagus to transposed jejunum (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173720000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173720000\">173720000</a></td><td>http://snomed.info/sct</td><td>Partial gastrectomy and anastomosis of stomach to transposed jejunum (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173722008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173722008\">173722008</a></td><td>http://snomed.info/sct</td><td>Maki's pylorus-preserving gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-173794002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=173794002\">173794002</a></td><td>http://snomed.info/sct</td><td>Pyloromyotomy and wedge resection (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21538007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21538007\">21538007</a></td><td>http://snomed.info/sct</td><td>Distal subtotal gastrectomy with vagotomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235165007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235165007\">235165007</a></td><td>http://snomed.info/sct</td><td>Partial esophagectomy and total gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235214008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235214008\">235214008</a></td><td>http://snomed.info/sct</td><td>Billroth I partial gastrectomy - Horsley modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235215009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235215009\">235215009</a></td><td>http://snomed.info/sct</td><td>Billroth I partial gastrectomy - von Haberer-Finney modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235216005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235216005\">235216005</a></td><td>http://snomed.info/sct</td><td>Billroth I partial gastrectomy - von Haberer modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235217001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235217001\">235217001</a></td><td>http://snomed.info/sct</td><td>Billroth I partial gastrectomy - Schoemaker modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235218006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235218006\">235218006</a></td><td>http://snomed.info/sct</td><td>Billroth II partial gastrectomy - Moynihan modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235219003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235219003\">235219003</a></td><td>http://snomed.info/sct</td><td>Billroth II partial gastrectomy - Balfour modification (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24431004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24431004\">24431004</a></td><td>http://snomed.info/sct</td><td>Esophagoduodenostomy with complete gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24506003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24506003\">24506003</a></td><td>http://snomed.info/sct</td><td>Esophagogastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24883002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24883002\">24883002</a></td><td>http://snomed.info/sct</td><td>Biliopancreatic bypass to ileum with partial gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26452005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26452005\">26452005</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265340005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265340005\">265340005</a></td><td>http://snomed.info/sct</td><td>Partial esophagectomy and proximal gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265459006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265459006\">265459006</a></td><td>http://snomed.info/sct</td><td>Pancreaticoduodenectomy with distal gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26565004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26565004\">26565004</a></td><td>http://snomed.info/sct</td><td>Polya operation, gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275007007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275007007\">275007007</a></td><td>http://snomed.info/sct</td><td>Ivor Lewis partial esophagogastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275162000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275162000\">275162000</a></td><td>http://snomed.info/sct</td><td>Hofmeister valved gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275194005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275194005\">275194005</a></td><td>http://snomed.info/sct</td><td>Bancroft partial gastrectomy and esophagogastrostomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287809004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287809004\">287809004</a></td><td>http://snomed.info/sct</td><td>Total gastroduodenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287816003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287816003\">287816003</a></td><td>http://snomed.info/sct</td><td>Radical gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287818002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287818002\">287818002</a></td><td>http://snomed.info/sct</td><td>Partial gastroduodenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287819005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287819005\">287819005</a></td><td>http://snomed.info/sct</td><td>Pylorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287821000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287821000\">287821000</a></td><td>http://snomed.info/sct</td><td>Cardiectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307303006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307303006\">307303006</a></td><td>http://snomed.info/sct</td><td>Billroth I gastric antrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307304000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307304000\">307304000</a></td><td>http://snomed.info/sct</td><td>Polya gastric antrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359575000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359575000\">359575000</a></td><td>http://snomed.info/sct</td><td>Gastrectomy with jejunal transposition (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359579006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359579006\">359579006</a></td><td>http://snomed.info/sct</td><td>Partial gastrectomy with jejunal transposition (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40234006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40234006\">40234006</a></td><td>http://snomed.info/sct</td><td>Hemigastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427074001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427074001\">427074001</a></td><td>http://snomed.info/sct</td><td>Laparoscopic sleeve gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427980007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427980007\">427980007</a></td><td>http://snomed.info/sct</td><td>Sleeve gastrectomy with duodenal switch (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-430715008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=430715008\">430715008</a></td><td>http://snomed.info/sct</td><td>Bariatric operative procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43117\"> </a>43117</td><td>http://www.ama-assn.org/go/cpt</td><td>Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with thoracic esophagogastrostomy, with or without pyloroplasty (Ivor Lewis)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43118\"> </a>43118</td><td>http://www.ama-assn.org/go/cpt</td><td>Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43121\"> </a>43121</td><td>http://www.ama-assn.org/go/cpt</td><td>Partial esophagectomy, distal two-thirds, with thoracotomy only, with or without proximal gastrectomy, with thoracic esophagogastrostomy, with or without pyloroplasty</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43122\"> </a>43122</td><td>http://www.ama-assn.org/go/cpt</td><td>Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with esophagogastrostomy, with or without pyloroplasty</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43123\"> </a>43123</td><td>http://www.ama-assn.org/go/cpt</td><td>Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43344006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43344006\">43344006</a></td><td>http://snomed.info/sct</td><td>Hofmeister operation, gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43620\"> </a>43620</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, total; with esophagoenterostomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43621\"> </a>43621</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, total; with Roux-en-Y reconstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43622\"> </a>43622</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, total; with formation of intestinal pouch, any type</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43631\"> </a>43631</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, partial, distal; with gastroduodenostomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43632\"> </a>43632</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, partial, distal; with gastrojejunostomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43633\"> </a>43633</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, partial, distal; with Roux-en-Y reconstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43634\"> </a>43634</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastrectomy, partial, distal; with formation of intestinal pouch</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43775\"> </a>43775</td><td>http://www.ama-assn.org/go/cpt</td><td>Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438338008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438338008\">438338008</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy with extended lymphadenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-43845\"> </a>43845</td><td>http://www.ama-assn.org/go/cpt</td><td>Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-439878001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=439878001\">439878001</a></td><td>http://snomed.info/sct</td><td>Completion gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445831005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445831005\">445831005</a></td><td>http://snomed.info/sct</td><td>Partial excision of stomach and jejunal transposition and excision of intestine (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445983004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445983004\">445983004</a></td><td>http://snomed.info/sct</td><td>Endoscopic excision of mucosa of stomach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446650001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446650001\">446650001</a></td><td>http://snomed.info/sct</td><td>Excision of mucosa of stomach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46936007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46936007\">46936007</a></td><td>http://snomed.info/sct</td><td>Hemigastrectomy by thoracic approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-48150\"> </a>48150</td><td>http://www.ama-assn.org/go/cpt</td><td>Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); with pancreatojejunostomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-48152\"> </a>48152</td><td>http://www.ama-assn.org/go/cpt</td><td>Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); without pancreatojejunostomy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49209004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49209004\">49209004</a></td><td>http://snomed.info/sct</td><td>Subtotal gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53442002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53442002\">53442002</a></td><td>http://snomed.info/sct</td><td>Excision of stomach structure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68342003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68342003\">68342003</a></td><td>http://snomed.info/sct</td><td>Ramstedt operation, pyloromyotomy with wedge resection (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83371007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83371007\">83371007</a></td><td>http://snomed.info/sct</td><td>Proximal subtotal gastrectomy by abdominal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83857006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83857006\">83857006</a></td><td>http://snomed.info/sct</td><td>Gastroduodenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83985009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83985009\">83985009</a></td><td>http://snomed.info/sct</td><td>Resection of stomach with gastrojejunal anastomosis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85217002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85217002\">85217002</a></td><td>http://snomed.info/sct</td><td>Distal subtotal gastrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87604009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87604009\">87604009</a></td><td>http://snomed.info/sct</td><td>Sleeve resection of stomach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90063003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90063003\">90063003</a></td><td>http://snomed.info/sct</td><td>Pyloric antrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90410003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90410003\">90410003</a></td><td>http://snomed.info/sct</td><td>Wedge resection of stomach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-9102008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=9102008\">9102008</a></td><td>http://snomed.info/sct</td><td>Proximal subtotal gastrectomy by thoracic approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91621005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91621005\">91621005</a></td><td>http://snomed.info/sct</td><td>Total gastrectomy with intestinal interposition (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1050",
   "version": "20180310",
   "name": "Gastric Bypass Surgery",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:849b7a19-2dfe-4014-bb99-f35e8b72adff",
+    "timestamp": "2022-07-19T15:10:34-04:00",
+    "total": 77,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10002003",
+      "display": "Resection of stomach fundus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10869008",
+      "display": "Hemigastrectomy with vagotomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112860004",
+      "display": "Hemigastrectomy by abdominal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116175006",
+      "display": "Proximal subtotal gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173560002",
+      "display": "Esophagogastrectomy and anastomosis of esophagus to transposed jejunum (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173714001",
+      "display": "Total gastrectomy and excision of surrounding tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173715000",
+      "display": "Total gastrectomy and interposition of jejunum (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173716004",
+      "display": "Total gastrectomy and anastomosis of esophagus to transposed jejunum (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173720000",
+      "display": "Partial gastrectomy and anastomosis of stomach to transposed jejunum (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173722008",
+      "display": "Maki's pylorus-preserving gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "173794002",
+      "display": "Pyloromyotomy and wedge resection (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21538007",
+      "display": "Distal subtotal gastrectomy with vagotomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235165007",
+      "display": "Partial esophagectomy and total gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235214008",
+      "display": "Billroth I partial gastrectomy - Horsley modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235215009",
+      "display": "Billroth I partial gastrectomy - von Haberer-Finney modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235216005",
+      "display": "Billroth I partial gastrectomy - von Haberer modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235217001",
+      "display": "Billroth I partial gastrectomy - Schoemaker modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235218006",
+      "display": "Billroth II partial gastrectomy - Moynihan modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235219003",
+      "display": "Billroth II partial gastrectomy - Balfour modification (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24431004",
+      "display": "Esophagoduodenostomy with complete gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24506003",
+      "display": "Esophagogastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24883002",
+      "display": "Biliopancreatic bypass to ileum with partial gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26452005",
+      "display": "Total gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265340005",
+      "display": "Partial esophagectomy and proximal gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265459006",
+      "display": "Pancreaticoduodenectomy with distal gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26565004",
+      "display": "Polya operation, gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275007007",
+      "display": "Ivor Lewis partial esophagogastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275162000",
+      "display": "Hofmeister valved gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275194005",
+      "display": "Bancroft partial gastrectomy and esophagogastrostomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287809004",
+      "display": "Total gastroduodenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287816003",
+      "display": "Radical gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287818002",
+      "display": "Partial gastroduodenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287819005",
+      "display": "Pylorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287821000",
+      "display": "Cardiectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307303006",
+      "display": "Billroth I gastric antrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307304000",
+      "display": "Polya gastric antrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359575000",
+      "display": "Gastrectomy with jejunal transposition (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359579006",
+      "display": "Partial gastrectomy with jejunal transposition (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40234006",
+      "display": "Hemigastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427074001",
+      "display": "Laparoscopic sleeve gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427980007",
+      "display": "Sleeve gastrectomy with duodenal switch (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "430715008",
+      "display": "Bariatric operative procedure (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43117",
+      "display": "Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with thoracic esophagogastrostomy, with or without pyloroplasty (Ivor Lewis)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43118",
+      "display": "Partial esophagectomy, distal two-thirds, with thoracotomy and separate abdominal incision, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43121",
+      "display": "Partial esophagectomy, distal two-thirds, with thoracotomy only, with or without proximal gastrectomy, with thoracic esophagogastrostomy, with or without pyloroplasty"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43122",
+      "display": "Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with esophagogastrostomy, with or without pyloroplasty"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43123",
+      "display": "Partial esophagectomy, thoracoabdominal or abdominal approach, with or without proximal gastrectomy; with colon interposition or small intestine reconstruction, including intestine mobilization, preparation, and anastomosis(es)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43344006",
+      "display": "Hofmeister operation, gastrectomy (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43620",
+      "display": "Gastrectomy, total; with esophagoenterostomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43621",
+      "display": "Gastrectomy, total; with Roux-en-Y reconstruction"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43622",
+      "display": "Gastrectomy, total; with formation of intestinal pouch, any type"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43631",
+      "display": "Gastrectomy, partial, distal; with gastroduodenostomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43632",
+      "display": "Gastrectomy, partial, distal; with gastrojejunostomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43633",
+      "display": "Gastrectomy, partial, distal; with Roux-en-Y reconstruction"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43634",
+      "display": "Gastrectomy, partial, distal; with formation of intestinal pouch"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43775",
+      "display": "Laparoscopy, surgical, gastric restrictive procedure; longitudinal gastrectomy (ie, sleeve gastrectomy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438338008",
+      "display": "Total gastrectomy with extended lymphadenectomy (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "43845",
+      "display": "Gastric restrictive procedure with partial gastrectomy, pylorus-preserving duodenoileostomy and ileoileostomy (50 to 100 cm common channel) to limit absorption (biliopancreatic diversion with duodenal switch)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "439878001",
+      "display": "Completion gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445831005",
+      "display": "Partial excision of stomach and jejunal transposition and excision of intestine (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445983004",
+      "display": "Endoscopic excision of mucosa of stomach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446650001",
+      "display": "Excision of mucosa of stomach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46936007",
+      "display": "Hemigastrectomy by thoracic approach (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "48150",
+      "display": "Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); with pancreatojejunostomy"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "48152",
+      "display": "Pancreatectomy, proximal subtotal with total duodenectomy, partial gastrectomy, choledochoenterostomy and gastrojejunostomy (Whipple-type procedure); without pancreatojejunostomy"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49209004",
+      "display": "Subtotal gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53442002",
+      "display": "Excision of stomach structure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68342003",
+      "display": "Ramstedt operation, pyloromyotomy with wedge resection (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83371007",
+      "display": "Proximal subtotal gastrectomy by abdominal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83857006",
+      "display": "Gastroduodenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83985009",
+      "display": "Resection of stomach with gastrojejunal anastomosis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85217002",
+      "display": "Distal subtotal gastrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87604009",
+      "display": "Sleeve resection of stomach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90063003",
+      "display": "Pyloric antrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90410003",
+      "display": "Wedge resection of stomach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "9102008",
+      "display": "Proximal subtotal gastrectomy by thoracic approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91621005",
+      "display": "Total gastrectomy with intestinal interposition (procedure)"
+    } ]
+  }
 }

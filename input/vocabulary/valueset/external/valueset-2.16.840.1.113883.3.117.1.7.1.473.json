@@ -5,12 +5,113 @@
     "versionId": "38",
     "lastUpdated": "2022-02-12T01:02:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 17 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183932001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183932001\">183932001</a></td><td>Procedure contraindicated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183964008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183964008\">183964008</a></td><td>Treatment not indicated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183966005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183966005\">183966005</a></td><td>Drug treatment not indicated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266721009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266721009\">266721009</a></td><td>Absent response to treatment (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31438003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31438003\">31438003</a></td><td>Drug resistance (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35688006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35688006\">35688006</a></td><td>Complication of medical care (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-407563006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=407563006\">407563006</a></td><td>Treatment not tolerated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410529002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410529002\">410529002</a></td><td>Not needed (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410534003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410534003\">410534003</a></td><td>Not indicated (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410536001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410536001\">410536001</a></td><td>Contraindicated (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416098002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416098002\">416098002</a></td><td>Allergy to drug (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419511003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419511003\">419511003</a></td><td>Propensity to adverse reactions to drug (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428024001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428024001\">428024001</a></td><td>Clinical trial participant (person)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428119001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428119001\">428119001</a></td><td>Procedure not indicated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59037007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59037007\">59037007</a></td><td>Intolerance to drug (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62014003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62014003\">62014003</a></td><td>Adverse reaction caused by drug (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79899007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79899007\">79899007</a></td><td>Drug interaction (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.473",
   "version": "20220212",
   "name": "Medical Reason",
   "status": "active",
   "date": "2022-02-12T01:02:18-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:1dbfa3f4-11d2-4b09-a1f5-cd806df79ea1",
+    "timestamp": "2022-07-19T15:06:10-04:00",
+    "total": 17,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183932001",
+      "display": "Procedure contraindicated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183964008",
+      "display": "Treatment not indicated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183966005",
+      "display": "Drug treatment not indicated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266721009",
+      "display": "Absent response to treatment (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31438003",
+      "display": "Drug resistance (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35688006",
+      "display": "Complication of medical care (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "407563006",
+      "display": "Treatment not tolerated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410529002",
+      "display": "Not needed (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410534003",
+      "display": "Not indicated (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410536001",
+      "display": "Contraindicated (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416098002",
+      "display": "Allergy to drug (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419511003",
+      "display": "Propensity to adverse reactions to drug (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428024001",
+      "display": "Clinical trial participant (person)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428119001",
+      "display": "Procedure not indicated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59037007",
+      "display": "Intolerance to drug (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62014003",
+      "display": "Adverse reaction caused by drug (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79899007",
+      "display": "Drug interaction (finding)"
+    } ]
+  }
 }

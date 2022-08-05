@@ -5,12 +5,143 @@
     "versionId": "11",
     "lastUpdated": "2021-02-24T01:00:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 23 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99504\"> </a>99504</td><td>http://www.ama-assn.org/go/cpt</td><td>Home visit for mechanical ventilation care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-99509\"> </a>99509</td><td>http://www.ama-assn.org/go/cpt</td><td>Home visit for assistance with activities of daily living and personal care</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0162\"> </a>G0162</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Skilled services by a registered nurse (rn) for management and evaluation of the plan of care; each 15 minutes (the patient's underlying condition or complication requires an rn to ensure that essential non-skilled care achieves its purpose in the home health or hospice setting)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0299\"> </a>G0299</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Direct skilled nursing services of a registered nurse (rn) in the home health or hospice setting, each 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0300\"> </a>G0300</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Direct skilled nursing services of a licensed practical nurse (lpn) in the home health or hospice setting, each 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0493\"> </a>G0493</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Skilled services of a registered nurse (rn) for the observation and assessment of the patient's condition, each 15 minutes (the change in the patient's condition requires skilled nursing personnel to identify and evaluate the patient's need for possible modification of treatment in the home health or hospice setting)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0494\"> </a>G0494</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Skilled services of a licensed practical nurse (lpn) for the observation and assessment of the patient's condition, each 15 minutes (the change in the patient's condition requires skilled nursing personnel to identify and evaluate the patient's need for possible modification of treatment in the home health or hospice setting)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S0271\"> </a>S0271</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Physician management of patient home care, hospice monthly case rate (per 30 days)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S0311\"> </a>S0311</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Comprehensive management and care coordination for advanced illness, per calendar month</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9123\"> </a>S9123</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nursing care, in the home; by registered nurse, per hour (use for general nursing care only, not to be used when cpt codes 99500-99602 can be used)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9124\"> </a>S9124</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nursing care, in the home; by licensed practical nurse, per hour</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1000\"> </a>T1000</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Private duty / independent nursing service(s) - licensed, up to 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1001\"> </a>T1001</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nursing assessment / evaluation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1002\"> </a>T1002</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Rn services, up to 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1003\"> </a>T1003</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Lpn/lvn services, up to 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1004\"> </a>T1004</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Services of a qualified nursing aide, up to 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1005\"> </a>T1005</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Respite care services, up to 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1019\"> </a>T1019</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Personal care services, per 15 minutes, not for an inpatient or resident of a hospital, nursing facility, icf/mr or imd, part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1020\"> </a>T1020</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Personal care services, per diem, not for an inpatient or resident of a hospital, nursing facility, icf/mr or imd, part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1021\"> </a>T1021</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Home health aide or certified nurse assistant, per visit</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1022\"> </a>T1022</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Contracted home health agency services, all services provided under contract, per day</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1030\"> </a>T1030</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nursing care, in the home, by registered nurse, per diem</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-T1031\"> </a>T1031</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nursing care, in the home, by licensed practical nurse, per diem</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1088",
   "version": "20210224",
   "name": "Frailty Encounter",
   "status": "active",
   "date": "2021-02-24T01:00:28-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7678189c-a034-448f-aef6-9e14ad9a4818",
+    "timestamp": "2022-07-19T15:06:54-04:00",
+    "total": 23,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99504",
+      "display": "Home visit for mechanical ventilation care"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "99509",
+      "display": "Home visit for assistance with activities of daily living and personal care"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0162",
+      "display": "Skilled services by a registered nurse (rn) for management and evaluation of the plan of care; each 15 minutes (the patient's underlying condition or complication requires an rn to ensure that essential non-skilled care achieves its purpose in the home health or hospice setting)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0299",
+      "display": "Direct skilled nursing services of a registered nurse (rn) in the home health or hospice setting, each 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0300",
+      "display": "Direct skilled nursing services of a licensed practical nurse (lpn) in the home health or hospice setting, each 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0493",
+      "display": "Skilled services of a registered nurse (rn) for the observation and assessment of the patient's condition, each 15 minutes (the change in the patient's condition requires skilled nursing personnel to identify and evaluate the patient's need for possible modification of treatment in the home health or hospice setting)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0494",
+      "display": "Skilled services of a licensed practical nurse (lpn) for the observation and assessment of the patient's condition, each 15 minutes (the change in the patient's condition requires skilled nursing personnel to identify and evaluate the patient's need for possible modification of treatment in the home health or hospice setting)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S0271",
+      "display": "Physician management of patient home care, hospice monthly case rate (per 30 days)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S0311",
+      "display": "Comprehensive management and care coordination for advanced illness, per calendar month"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9123",
+      "display": "Nursing care, in the home; by registered nurse, per hour (use for general nursing care only, not to be used when cpt codes 99500-99602 can be used)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9124",
+      "display": "Nursing care, in the home; by licensed practical nurse, per hour"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1000",
+      "display": "Private duty / independent nursing service(s) - licensed, up to 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1001",
+      "display": "Nursing assessment / evaluation"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1002",
+      "display": "Rn services, up to 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1003",
+      "display": "Lpn/lvn services, up to 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1004",
+      "display": "Services of a qualified nursing aide, up to 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1005",
+      "display": "Respite care services, up to 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1019",
+      "display": "Personal care services, per 15 minutes, not for an inpatient or resident of a hospital, nursing facility, icf/mr or imd, part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1020",
+      "display": "Personal care services, per diem, not for an inpatient or resident of a hospital, nursing facility, icf/mr or imd, part of the individualized plan of treatment (code may not be used to identify services provided by home health aide or certified nurse assistant)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1021",
+      "display": "Home health aide or certified nurse assistant, per visit"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1022",
+      "display": "Contracted home health agency services, all services provided under contract, per day"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1030",
+      "display": "Nursing care, in the home, by registered nurse, per diem"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "T1031",
+      "display": "Nursing care, in the home, by licensed practical nurse, per diem"
+    } ]
+  }
 }

@@ -5,12 +5,113 @@
     "versionId": "17",
     "lastUpdated": "2021-01-11T13:41:20.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 17 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1532007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1532007\">1532007</a></td><td>http://snomed.info/sct</td><td>Viral pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195655000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195655000\">195655000</a></td><td>http://snomed.info/sct</td><td>Acute gangrenous pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195656004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195656004\">195656004</a></td><td>http://snomed.info/sct</td><td>Acute phlegmonous pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195657008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195657008\">195657008</a></td><td>http://snomed.info/sct</td><td>Acute ulcerative pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195658003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195658003\">195658003</a></td><td>http://snomed.info/sct</td><td>Acute bacterial pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195659006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195659006\">195659006</a></td><td>http://snomed.info/sct</td><td>Acute pneumococcal pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195660001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195660001\">195660001</a></td><td>http://snomed.info/sct</td><td>Acute staphylococcal pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195662009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195662009\">195662009</a></td><td>http://snomed.info/sct</td><td>Acute viral pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232399005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232399005\">232399005</a></td><td>http://snomed.info/sct</td><td>Acute herpes simplex pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232400003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232400003\">232400003</a></td><td>http://snomed.info/sct</td><td>Acute herpes zoster pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-363746003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=363746003\">363746003</a></td><td>http://snomed.info/sct</td><td>Acute pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40766000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40766000\">40766000</a></td><td>http://snomed.info/sct</td><td>Enteroviral lymphonodular pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43878008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43878008\">43878008</a></td><td>http://snomed.info/sct</td><td>Streptococcal sore throat (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58031004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58031004\">58031004</a></td><td>http://snomed.info/sct</td><td>Suppurative pharyngitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J02.0\"> </a>J02.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Streptococcal pharyngitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J02.8\"> </a>J02.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute pharyngitis due to other specified organisms</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-J02.9\"> </a>J02.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute pharyngitis, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.102.12.1011",
   "version": "20170504",
   "name": "Acute Pharyngitis",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7ae19898-8481-4959-8811-3c4696b50866",
+    "timestamp": "2022-07-19T15:06:57-04:00",
+    "total": 17,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1532007",
+      "display": "Viral pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195655000",
+      "display": "Acute gangrenous pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195656004",
+      "display": "Acute phlegmonous pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195657008",
+      "display": "Acute ulcerative pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195658003",
+      "display": "Acute bacterial pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195659006",
+      "display": "Acute pneumococcal pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195660001",
+      "display": "Acute staphylococcal pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195662009",
+      "display": "Acute viral pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232399005",
+      "display": "Acute herpes simplex pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232400003",
+      "display": "Acute herpes zoster pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "363746003",
+      "display": "Acute pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40766000",
+      "display": "Enteroviral lymphonodular pharyngitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43878008",
+      "display": "Streptococcal sore throat (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58031004",
+      "display": "Suppurative pharyngitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J02.0",
+      "display": "Streptococcal pharyngitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J02.8",
+      "display": "Acute pharyngitis due to other specified organisms"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "J02.9",
+      "display": "Acute pharyngitis, unspecified"
+    } ]
+  }
 }

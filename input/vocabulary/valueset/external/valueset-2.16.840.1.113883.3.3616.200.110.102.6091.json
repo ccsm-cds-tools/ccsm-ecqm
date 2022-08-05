@@ -5,12 +5,183 @@
     "versionId": "5",
     "lastUpdated": "2020-08-18T10:21:27.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 31 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10743231000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10743231000119101\">10743231000119101</a></td><td>Stenosis of small intestine co-occurrent and due to Crohn's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1085751000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1085751000119100\">1085751000119100</a></td><td>Abscess of intestine co-occurrent and due to Crohn's disease of large intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1085801000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1085801000119106\">1085801000119106</a></td><td>Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1085851000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1085851000119105\">1085851000119105</a></td><td>Abscess of intestine co-occurrent and due to Crohn's disease of small intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1085901000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1085901000119101\">1085901000119101</a></td><td>Abscess of intestine co-occurrent and due to Crohn's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-196578009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=196578009\">196578009</a></td><td>Crohn's disease of oral soft tissues (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-196977009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=196977009\">196977009</a></td><td>Crohn's disease of terminal ileum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234999001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234999001\">234999001</a></td><td>Crohn's disease of gingivae (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235607002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235607002\">235607002</a></td><td>Crohn's disease of esophagus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235664007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235664007\">235664007</a></td><td>Crohn's disease of stomach (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34000006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34000006\">34000006</a></td><td>Crohn's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38106008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38106008\">38106008</a></td><td>Crohn's disease of ileum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3815005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3815005\">3815005</a></td><td>Crohn's disease of rectum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397172008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397172008\">397172008</a></td><td>Gastrointestinal Crohn's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397173003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397173003\">397173003</a></td><td>Crohn's disease of intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414153008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414153008\">414153008</a></td><td>Exacerbation of Crohn's disease of large intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414154002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414154002\">414154002</a></td><td>Exacerbation of Crohn's disease of small intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426549001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426549001\">426549001</a></td><td>Crohn's disease in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50440006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50440006\">50440006</a></td><td>Crohn's disease of colon (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56287005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56287005\">56287005</a></td><td>Crohn's disease of duodenum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56689002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56689002\">56689002</a></td><td>Crohn's disease of small intestine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61424003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61424003\">61424003</a></td><td>Crohn's disease of pylorus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70622003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70622003\">70622003</a></td><td>Crohn's disease of pyloric antrum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71833008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71833008\">71833008</a></td><td>Crohn's disease of small and large intestines (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-721702009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=721702009\">721702009</a></td><td>Crohn disease of anal canal (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-722850002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=722850002\">722850002</a></td><td>Crohn's disease of gastrointestinal anastomosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733157003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733157003\">733157003</a></td><td>Crohn disease of appendix (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-737195007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=737195007\">737195007</a></td><td>Crohn disease of upper gastrointestinal tract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7620006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7620006\">7620006</a></td><td>Crohn's disease of large bowel (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8161000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8161000119106\">8161000119106</a></td><td>Arthritis co-occurrent and due to Crohn's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91390005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91390005\">91390005</a></td><td>Crohn's disease of jejunum (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.6091",
   "version": "20200710",
   "name": "COVID19 SNOMED Value Set for Crohn's Disease",
   "status": "active",
   "date": "2020-07-10T01:00:36-04:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:797d7675-e60b-49ad-b2a7-9321a29082b2",
+    "timestamp": "2022-07-15T19:34:17-04:00",
+    "total": 31,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10743231000119101",
+      "display": "Stenosis of small intestine co-occurrent and due to Crohn's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1085751000119100",
+      "display": "Abscess of intestine co-occurrent and due to Crohn's disease of large intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1085801000119106",
+      "display": "Abscess of intestine co-occurrent and due to Crohn's disease of small and large intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1085851000119105",
+      "display": "Abscess of intestine co-occurrent and due to Crohn's disease of small intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1085901000119101",
+      "display": "Abscess of intestine co-occurrent and due to Crohn's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "196578009",
+      "display": "Crohn's disease of oral soft tissues (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "196977009",
+      "display": "Crohn's disease of terminal ileum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234999001",
+      "display": "Crohn's disease of gingivae (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235607002",
+      "display": "Crohn's disease of esophagus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235664007",
+      "display": "Crohn's disease of stomach (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34000006",
+      "display": "Crohn's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38106008",
+      "display": "Crohn's disease of ileum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3815005",
+      "display": "Crohn's disease of rectum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397172008",
+      "display": "Gastrointestinal Crohn's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397173003",
+      "display": "Crohn's disease of intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414153008",
+      "display": "Exacerbation of Crohn's disease of large intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414154002",
+      "display": "Exacerbation of Crohn's disease of small intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426549001",
+      "display": "Crohn's disease in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50440006",
+      "display": "Crohn's disease of colon (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56287005",
+      "display": "Crohn's disease of duodenum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56689002",
+      "display": "Crohn's disease of small intestine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61424003",
+      "display": "Crohn's disease of pylorus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70622003",
+      "display": "Crohn's disease of pyloric antrum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71833008",
+      "display": "Crohn's disease of small and large intestines (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "721702009",
+      "display": "Crohn disease of anal canal (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "722850002",
+      "display": "Crohn's disease of gastrointestinal anastomosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733157003",
+      "display": "Crohn disease of appendix (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "737195007",
+      "display": "Crohn disease of upper gastrointestinal tract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7620006",
+      "display": "Crohn's disease of large bowel (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8161000119106",
+      "display": "Arthritis co-occurrent and due to Crohn's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91390005",
+      "display": "Crohn's disease of jejunum (disorder)"
+    } ]
+  }
 }

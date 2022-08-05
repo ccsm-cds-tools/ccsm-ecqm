@@ -5,12 +5,513 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:05:12.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 97 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10492003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10492003\">10492003</a></td><td>http://snomed.info/sct</td><td>Radionuclide therapy for glandular suppression (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-113120007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=113120007\">113120007</a></td><td>http://snomed.info/sct</td><td>Interstitial brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116244007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116244007\">116244007</a></td><td>http://snomed.info/sct</td><td>Enucleation of prostate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-118161009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=118161009\">118161009</a></td><td>http://snomed.info/sct</td><td>Laser enucleation of the prostate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-118162002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=118162002\">118162002</a></td><td>http://snomed.info/sct</td><td>Laser enucleation of the prostate with intravesical morcellation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-118163007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=118163007\">118163007</a></td><td>http://snomed.info/sct</td><td>Open enucleation of the prostate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14473006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14473006\">14473006</a></td><td>http://snomed.info/sct</td><td>Surface brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-168922004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=168922004\">168922004</a></td><td>http://snomed.info/sct</td><td>Interstitial contrast radiology (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169327006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169327006\">169327006</a></td><td>http://snomed.info/sct</td><td>Radium contact therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169328001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169328001\">169328001</a></td><td>http://snomed.info/sct</td><td>Beta source contact therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169329009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169329009\">169329009</a></td><td>http://snomed.info/sct</td><td>Mold technique gamma/beta (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169340001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169340001\">169340001</a></td><td>http://snomed.info/sct</td><td>Internal metabolic radiotherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169349000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169349000\">169349000</a></td><td>http://snomed.info/sct</td><td>Internal radiotherapy - unsealed source (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169359004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169359004\">169359004</a></td><td>http://snomed.info/sct</td><td>Internal radiotherapy - permanent seeds (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176106009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176106009\">176106009</a></td><td>http://snomed.info/sct</td><td>Radical cystoprostatourethrectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176258007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176258007\">176258007</a></td><td>http://snomed.info/sct</td><td>Open prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176260009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176260009\">176260009</a></td><td>http://snomed.info/sct</td><td>Transvesical two stage prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176261008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176261008\">176261008</a></td><td>http://snomed.info/sct</td><td>Radical prostatectomy without pelvic node excision (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176262001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176262001\">176262001</a></td><td>http://snomed.info/sct</td><td>Radical prostatectomy with pelvic node sampling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176263006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176263006\">176263006</a></td><td>http://snomed.info/sct</td><td>Radical prostatectomy with pelvic lymphadenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176267007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176267007\">176267007</a></td><td>http://snomed.info/sct</td><td>Open excision of prostatic lesion (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176288003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176288003\">176288003</a></td><td>http://snomed.info/sct</td><td>Transurethral laser prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19149007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19149007\">19149007</a></td><td>http://snomed.info/sct</td><td>Subtotal retropubic prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21190008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21190008\">21190008</a></td><td>http://snomed.info/sct</td><td>Two stage subtotal suprapubic prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21372000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21372000\">21372000</a></td><td>http://snomed.info/sct</td><td>Radium therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228677009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228677009\">228677009</a></td><td>http://snomed.info/sct</td><td>Cesium 137 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228684001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228684001\">228684001</a></td><td>http://snomed.info/sct</td><td>Iridium 192 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228688003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228688003\">228688003</a></td><td>http://snomed.info/sct</td><td>Californium 252 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228690002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228690002\">228690002</a></td><td>http://snomed.info/sct</td><td>Iodine 125 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228692005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228692005\">228692005</a></td><td>http://snomed.info/sct</td><td>Radon 222 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228693000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228693000\">228693000</a></td><td>http://snomed.info/sct</td><td>Ruthenium 106 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228694006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228694006\">228694006</a></td><td>http://snomed.info/sct</td><td>Strontium 90 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228695007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228695007\">228695007</a></td><td>http://snomed.info/sct</td><td>Tantalum 182 brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228697004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228697004\">228697004</a></td><td>http://snomed.info/sct</td><td>Yttrium 90 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228698009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228698009\">228698009</a></td><td>http://snomed.info/sct</td><td>Iodine 131 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228699001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228699001\">228699001</a></td><td>http://snomed.info/sct</td><td>Phosphorus 32 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228701001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228701001\">228701001</a></td><td>http://snomed.info/sct</td><td>Strontium 89 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-228702008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=228702008\">228702008</a></td><td>http://snomed.info/sct</td><td>Gold 198 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236252003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236252003\">236252003</a></td><td>http://snomed.info/sct</td><td>Revision of transurethral prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24242005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24242005\">24242005</a></td><td>http://snomed.info/sct</td><td>Cobalt-60 therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26294005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26294005\">26294005</a></td><td>http://snomed.info/sct</td><td>Radical prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-271291003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=271291003\">271291003</a></td><td>http://snomed.info/sct</td><td>Temporary implant radiotherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27877006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27877006\">27877006</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of periprostatic tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28579000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28579000\">28579000</a></td><td>http://snomed.info/sct</td><td>Radical retropubic prostatectomy with lymph node biopsy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30426000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30426000\">30426000</a></td><td>http://snomed.info/sct</td><td>Subtotal prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312235007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312235007\">312235007</a></td><td>http://snomed.info/sct</td><td>Radiolabeled antibody therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314202001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314202001\">314202001</a></td><td>http://snomed.info/sct</td><td>Endoscopic resection of prostate using an electrotome (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359922007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359922007\">359922007</a></td><td>http://snomed.info/sct</td><td>Excisional periprostatic biopsy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359926005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359926005\">359926005</a></td><td>http://snomed.info/sct</td><td>Excision of periprostatic tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36253005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36253005\">36253005</a></td><td>http://snomed.info/sct</td><td>Suprapubic prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37851009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37851009\">37851009</a></td><td>http://snomed.info/sct</td><td>Radical perineal prostatectomy with bilateral pelvic lymphadenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-384691004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=384691004\">384691004</a></td><td>http://snomed.info/sct</td><td>Intraluminal brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-384692006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=384692006\">384692006</a></td><td>http://snomed.info/sct</td><td>Intracavitary brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38915000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38915000\">38915000</a></td><td>http://snomed.info/sct</td><td>Radionuclide therapy for gland ablation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-394902000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=394902000\">394902000</a></td><td>http://snomed.info/sct</td><td>High dose brachytherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-394918006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=394918006\">394918006</a></td><td>http://snomed.info/sct</td><td>Iodine seed radiotherapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399124002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399124002\">399124002</a></td><td>http://snomed.info/sct</td><td>Unsealed radionuclide procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399180008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399180008\">399180008</a></td><td>http://snomed.info/sct</td><td>Interstitial radioactive colloid therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399315003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399315003\">399315003</a></td><td>http://snomed.info/sct</td><td>Radionuclide therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41371003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41371003\">41371003</a></td><td>http://snomed.info/sct</td><td>Perineal prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41416003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41416003\">41416003</a></td><td>http://snomed.info/sct</td><td>Radical retropubic prostatectomy with bilateral pelvic lymphadenectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427541000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427541000119103\">427541000119103</a></td><td>http://snomed.info/sct</td><td>Intravenous radionuclide therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427985002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427985002\">427985002</a></td><td>http://snomed.info/sct</td><td>Endoscopic excision of prostate using laser (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433224001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433224001\">433224001</a></td><td>http://snomed.info/sct</td><td>Radionuclide rhenium 186 hydroxyethylidene diphosphonate therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440093006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440093006\">440093006</a></td><td>http://snomed.info/sct</td><td>Insertion of radioactive implant into interstitial tissue using ultrasound guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440094000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440094000\">440094000</a></td><td>http://snomed.info/sct</td><td>Insertion of radioactive implant into interstitial tissue of prostate with transperineal insertion of catheter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55810\"> </a>55810</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, perineal radical</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55812\"> </a>55812</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic lymphadenectomy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55815\"> </a>55815</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, perineal radical; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55840\"> </a>55840</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, retropubic radical, with or without nerve sparing</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55842\"> </a>55842</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, retropubic radical, with or without nerve sparing; with lymph node biopsy(s) (limited pelvic lymphadenectomy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55845\"> </a>55845</td><td>http://www.ama-assn.org/go/cpt</td><td>Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55866\"> </a>55866</td><td>http://www.ama-assn.org/go/cpt</td><td>Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-55875\"> </a>55875</td><td>http://www.ama-assn.org/go/cpt</td><td>Transperineal placement of needles or catheters into prostate for interstitial radioelement application, with or without cystoscopy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57525009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57525009\">57525009</a></td><td>http://snomed.info/sct</td><td>Subtotal perineal prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62867004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62867004\">62867004</a></td><td>http://snomed.info/sct</td><td>External beam radiation therapy with radioactive cesium (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65381004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65381004\">65381004</a></td><td>http://snomed.info/sct</td><td>Intra-articular radionuclide therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-65551008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=65551008\">65551008</a></td><td>http://snomed.info/sct</td><td>Radical retropubic prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67598001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67598001\">67598001</a></td><td>http://snomed.info/sct</td><td>Retropubic prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68986004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68986004\">68986004</a></td><td>http://snomed.info/sct</td><td>Transurethral resection of prostate, first stage of two stages (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72388004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72388004\">72388004</a></td><td>http://snomed.info/sct</td><td>Radical perineal prostatectomy with lymph node biopsy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-764675000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=764675000\">764675000</a></td><td>http://snomed.info/sct</td><td>Radionuclide imaging using samarium (153-Sm) lexidronam (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77427\"> </a>77427</td><td>http://www.ama-assn.org/go/cpt</td><td>Radiation treatment management, 5 treatments</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77435\"> </a>77435</td><td>http://www.ama-assn.org/go/cpt</td><td>Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77613002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77613002\">77613002</a></td><td>http://snomed.info/sct</td><td>External beam radiation therapy with iodine-125 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77772\"> </a>77772</td><td>http://www.ama-assn.org/go/cpt</td><td>Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; over 12 channels</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77778\"> </a>77778</td><td>http://www.ama-assn.org/go/cpt</td><td>Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77799\"> </a>77799</td><td>http://www.ama-assn.org/go/cpt</td><td>Unlisted procedure, clinical brachytherapy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81232004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81232004\">81232004</a></td><td>http://snomed.info/sct</td><td>Radical cystoprostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83154001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83154001\">83154001</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of prostate (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84755001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84755001\">84755001</a></td><td>http://snomed.info/sct</td><td>Radiation therapy treatment management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85768003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85768003\">85768003</a></td><td>http://snomed.info/sct</td><td>Excision of median bar of prostate by transurethral approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87795007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87795007\">87795007</a></td><td>http://snomed.info/sct</td><td>Complete transurethral resection of prostate, including control of postoperative bleeding (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8782006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8782006\">8782006</a></td><td>http://snomed.info/sct</td><td>Radical perineal prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90199006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90199006\">90199006</a></td><td>http://snomed.info/sct</td><td>Transurethral prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90470006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90470006\">90470006</a></td><td>http://snomed.info/sct</td><td>Prostatectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91531008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91531008\">91531008</a></td><td>http://snomed.info/sct</td><td>One stage subtotal suprapubic prostatectomy (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.398",
   "version": "20170504",
   "name": "Prostate Cancer Treatment",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:37df1a59-8ff0-48c8-b235-98fae51ad62f",
+    "timestamp": "2022-07-19T15:13:31-04:00",
+    "total": 97,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10492003",
+      "display": "Radionuclide therapy for glandular suppression (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "113120007",
+      "display": "Interstitial brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116244007",
+      "display": "Enucleation of prostate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "118161009",
+      "display": "Laser enucleation of the prostate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "118162002",
+      "display": "Laser enucleation of the prostate with intravesical morcellation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "118163007",
+      "display": "Open enucleation of the prostate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14473006",
+      "display": "Surface brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "168922004",
+      "display": "Interstitial contrast radiology (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169327006",
+      "display": "Radium contact therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169328001",
+      "display": "Beta source contact therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169329009",
+      "display": "Mold technique gamma/beta (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169340001",
+      "display": "Internal metabolic radiotherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169349000",
+      "display": "Internal radiotherapy - unsealed source (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169359004",
+      "display": "Internal radiotherapy - permanent seeds (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176106009",
+      "display": "Radical cystoprostatourethrectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176258007",
+      "display": "Open prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176260009",
+      "display": "Transvesical two stage prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176261008",
+      "display": "Radical prostatectomy without pelvic node excision (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176262001",
+      "display": "Radical prostatectomy with pelvic node sampling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176263006",
+      "display": "Radical prostatectomy with pelvic lymphadenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176267007",
+      "display": "Open excision of prostatic lesion (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176288003",
+      "display": "Transurethral laser prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19149007",
+      "display": "Subtotal retropubic prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21190008",
+      "display": "Two stage subtotal suprapubic prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21372000",
+      "display": "Radium therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228677009",
+      "display": "Cesium 137 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228684001",
+      "display": "Iridium 192 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228688003",
+      "display": "Californium 252 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228690002",
+      "display": "Iodine 125 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228692005",
+      "display": "Radon 222 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228693000",
+      "display": "Ruthenium 106 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228694006",
+      "display": "Strontium 90 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228695007",
+      "display": "Tantalum 182 brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228697004",
+      "display": "Yttrium 90 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228698009",
+      "display": "Iodine 131 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228699001",
+      "display": "Phosphorus 32 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228701001",
+      "display": "Strontium 89 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "228702008",
+      "display": "Gold 198 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236252003",
+      "display": "Revision of transurethral prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24242005",
+      "display": "Cobalt-60 therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26294005",
+      "display": "Radical prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "271291003",
+      "display": "Temporary implant radiotherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27877006",
+      "display": "Excision of lesion of periprostatic tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28579000",
+      "display": "Radical retropubic prostatectomy with lymph node biopsy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30426000",
+      "display": "Subtotal prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312235007",
+      "display": "Radiolabeled antibody therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314202001",
+      "display": "Endoscopic resection of prostate using an electrotome (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359922007",
+      "display": "Excisional periprostatic biopsy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359926005",
+      "display": "Excision of periprostatic tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36253005",
+      "display": "Suprapubic prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37851009",
+      "display": "Radical perineal prostatectomy with bilateral pelvic lymphadenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "384691004",
+      "display": "Intraluminal brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "384692006",
+      "display": "Intracavitary brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38915000",
+      "display": "Radionuclide therapy for gland ablation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "394902000",
+      "display": "High dose brachytherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "394918006",
+      "display": "Iodine seed radiotherapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399124002",
+      "display": "Unsealed radionuclide procedure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399180008",
+      "display": "Interstitial radioactive colloid therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399315003",
+      "display": "Radionuclide therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41371003",
+      "display": "Perineal prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41416003",
+      "display": "Radical retropubic prostatectomy with bilateral pelvic lymphadenectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427541000119103",
+      "display": "Intravenous radionuclide therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427985002",
+      "display": "Endoscopic excision of prostate using laser (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433224001",
+      "display": "Radionuclide rhenium 186 hydroxyethylidene diphosphonate therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440093006",
+      "display": "Insertion of radioactive implant into interstitial tissue using ultrasound guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440094000",
+      "display": "Insertion of radioactive implant into interstitial tissue of prostate with transperineal insertion of catheter (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55810",
+      "display": "Prostatectomy, perineal radical"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55812",
+      "display": "Prostatectomy, perineal radical; with lymph node biopsy(s) (limited pelvic lymphadenectomy)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55815",
+      "display": "Prostatectomy, perineal radical; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric and obturator nodes"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55840",
+      "display": "Prostatectomy, retropubic radical, with or without nerve sparing"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55842",
+      "display": "Prostatectomy, retropubic radical, with or without nerve sparing; with lymph node biopsy(s) (limited pelvic lymphadenectomy)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55845",
+      "display": "Prostatectomy, retropubic radical, with or without nerve sparing; with bilateral pelvic lymphadenectomy, including external iliac, hypogastric, and obturator nodes"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55866",
+      "display": "Laparoscopy, surgical prostatectomy, retropubic radical, including nerve sparing, includes robotic assistance, when performed"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "55875",
+      "display": "Transperineal placement of needles or catheters into prostate for interstitial radioelement application, with or without cystoscopy"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57525009",
+      "display": "Subtotal perineal prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62867004",
+      "display": "External beam radiation therapy with radioactive cesium (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65381004",
+      "display": "Intra-articular radionuclide therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "65551008",
+      "display": "Radical retropubic prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67598001",
+      "display": "Retropubic prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68986004",
+      "display": "Transurethral resection of prostate, first stage of two stages (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72388004",
+      "display": "Radical perineal prostatectomy with lymph node biopsy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "764675000",
+      "display": "Radionuclide imaging using samarium (153-Sm) lexidronam (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77427",
+      "display": "Radiation treatment management, 5 treatments"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77435",
+      "display": "Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77613002",
+      "display": "External beam radiation therapy with iodine-125 (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77772",
+      "display": "Remote afterloading high dose rate radionuclide interstitial or intracavitary brachytherapy, includes basic dosimetry, when performed; over 12 channels"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77778",
+      "display": "Interstitial radiation source application, complex, includes supervision, handling, loading of radiation source, when performed"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77799",
+      "display": "Unlisted procedure, clinical brachytherapy"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81232004",
+      "display": "Radical cystoprostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83154001",
+      "display": "Excision of lesion of prostate (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84755001",
+      "display": "Radiation therapy treatment management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85768003",
+      "display": "Excision of median bar of prostate by transurethral approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87795007",
+      "display": "Complete transurethral resection of prostate, including control of postoperative bleeding (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8782006",
+      "display": "Radical perineal prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90199006",
+      "display": "Transurethral prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90470006",
+      "display": "Prostatectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91531008",
+      "display": "One stage subtotal suprapubic prostatectomy (procedure)"
+    } ]
+  }
 }

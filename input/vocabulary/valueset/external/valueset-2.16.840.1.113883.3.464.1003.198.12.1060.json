@@ -5,12 +5,53 @@
     "versionId": "16",
     "lastUpdated": "2022-03-02T18:05:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-20479-2\"> </a><a href=\"http://details.loinc.org/LOINC/20479-2.html\">20479-2</a></td><td>Measles virus IgG Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-35275-7\"> </a><a href=\"http://details.loinc.org/LOINC/35275-7.html\">35275-7</a></td><td>Measles virus IgG Ab [Presence] in Serum by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-40648-8\"> </a><a href=\"http://details.loinc.org/LOINC/40648-8.html\">40648-8</a></td><td>Measles virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41132-2\"> </a><a href=\"http://details.loinc.org/LOINC/41132-2.html\">41132-2</a></td><td>Measles virus IgG Ab [Presence] in Cerebral spinal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-53536-9\"> </a><a href=\"http://details.loinc.org/LOINC/53536-9.html\">53536-9</a></td><td>Measles virus IgG Ab [Presence] in Body fluid by Immunoassay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1060",
   "version": "20170504",
   "name": "Measles Antibody Test (IgG Antibody presence)",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ce2bf4ab-c820-4b54-a52f-6156b1031976",
+    "timestamp": "2022-07-19T15:10:36-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "20479-2",
+      "display": "Measles virus IgG Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "35275-7",
+      "display": "Measles virus IgG Ab [Presence] in Serum by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "40648-8",
+      "display": "Measles virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41132-2",
+      "display": "Measles virus IgG Ab [Presence] in Cerebral spinal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "53536-9",
+      "display": "Measles virus IgG Ab [Presence] in Body fluid by Immunoassay"
+    } ]
+  }
 }

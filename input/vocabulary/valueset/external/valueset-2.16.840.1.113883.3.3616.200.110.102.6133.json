@@ -5,12 +5,153 @@
     "versionId": "10",
     "lastUpdated": "2020-12-22T01:00:33.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 25 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19944001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19944001\">19944001</a></td><td>Autologous bone marrow transplant without purging (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234331007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234331007\">234331007</a></td><td>Syngeneic bone marrow transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234332000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234332000\">234332000</a></td><td>T-cell depleted allogeneic bone marrow graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234333005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234333005\">234333005</a></td><td>Imperfect T-cell depleted allogeneic bone marrow graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234334004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234334004\">234334004</a></td><td>Allogeneic related bone marrow transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234335003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234335003\">234335003</a></td><td>Allogeneic unrelated bone marrow transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234336002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234336002\">234336002</a></td><td>Hemopoietic stem cell transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23719005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23719005\">23719005</a></td><td>Transplantation of bone marrow (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278256002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278256002\">278256002</a></td><td>Cord cell transfusion (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278257006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278257006\">278257006</a></td><td>Peripheral blood stem cell graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425563003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425563003\">425563003</a></td><td>Grafting of cord blood to bone marrow (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425843001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425843001\">425843001</a></td><td>Allogeneic peripheral blood stem cell transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425983008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425983008\">425983008</a></td><td>Autologous peripheral blood stem cell transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426425001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426425001\">426425001</a></td><td>Allograft of bone marrow from sibling donor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427423003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427423003\">427423003</a></td><td>Allograft of bone marrow from matched unrelated donor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427615008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427615008\">427615008</a></td><td>Allograft of cord blood to bone marrow (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442557006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442557006\">442557006</a></td><td>Grafting of bone marrow using allograft from unmatched unrelated donor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445757003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445757003\">445757003</a></td><td>Allogeneic bone marrow transplantation without purging (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446253009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446253009\">446253009</a></td><td>Allogeneic bone marrow transplantation with purging (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46280001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46280001\">46280001</a></td><td>Autologous bone marrow transplant with purging (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58390007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58390007\">58390007</a></td><td>Allogeneic bone marrow transplantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58776007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58776007\">58776007</a></td><td>Autologous bone marrow transplant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698075004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698075004\">698075004</a></td><td>Syngeneic peripheral blood stem cell transplantation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-709115004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=709115004\">709115004</a></td><td>Transplantation of autologous hematopoietic stem cell (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-711429001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=711429001\">711429001</a></td><td>Transplantation of autologous progenitor cell (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.6133",
   "version": "20201222",
   "name": "COVID19 SNOMED Value Set for Hemopoietic Stem Cell Transplantation",
   "status": "active",
   "date": "2020-12-22T01:00:34-05:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ca622976-54c8-4620-8ac2-f40f93854349",
+    "timestamp": "2022-07-15T19:34:04-04:00",
+    "total": 25,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19944001",
+      "display": "Autologous bone marrow transplant without purging (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234331007",
+      "display": "Syngeneic bone marrow transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234332000",
+      "display": "T-cell depleted allogeneic bone marrow graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234333005",
+      "display": "Imperfect T-cell depleted allogeneic bone marrow graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234334004",
+      "display": "Allogeneic related bone marrow transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234335003",
+      "display": "Allogeneic unrelated bone marrow transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234336002",
+      "display": "Hemopoietic stem cell transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23719005",
+      "display": "Transplantation of bone marrow (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278256002",
+      "display": "Cord cell transfusion (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278257006",
+      "display": "Peripheral blood stem cell graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425563003",
+      "display": "Grafting of cord blood to bone marrow (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425843001",
+      "display": "Allogeneic peripheral blood stem cell transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425983008",
+      "display": "Autologous peripheral blood stem cell transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426425001",
+      "display": "Allograft of bone marrow from sibling donor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427423003",
+      "display": "Allograft of bone marrow from matched unrelated donor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427615008",
+      "display": "Allograft of cord blood to bone marrow (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442557006",
+      "display": "Grafting of bone marrow using allograft from unmatched unrelated donor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445757003",
+      "display": "Allogeneic bone marrow transplantation without purging (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446253009",
+      "display": "Allogeneic bone marrow transplantation with purging (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46280001",
+      "display": "Autologous bone marrow transplant with purging (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58390007",
+      "display": "Allogeneic bone marrow transplantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58776007",
+      "display": "Autologous bone marrow transplant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698075004",
+      "display": "Syngeneic peripheral blood stem cell transplantation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "709115004",
+      "display": "Transplantation of autologous hematopoietic stem cell (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "711429001",
+      "display": "Transplantation of autologous progenitor cell (procedure)"
+    } ]
+  }
 }

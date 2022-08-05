@@ -5,12 +5,38 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:04:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24484000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24484000\">24484000</a></td><td>Severe (severity modifier) (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-6736007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=6736007\">6736007</a></td><td>Moderate (severity modifier) (qualifier value)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1092",
   "version": "20170504",
   "name": "Moderate or Severe",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:dbc1435c-8517-4347-a300-778a180f5390",
+    "timestamp": "2022-07-19T15:11:18-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24484000",
+      "display": "Severe (severity modifier) (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "6736007",
+      "display": "Moderate (severity modifier) (qualifier value)"
+    } ]
+  }
 }

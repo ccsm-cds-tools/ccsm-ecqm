@@ -5,12 +5,33 @@
     "versionId": "9",
     "lastUpdated": "2022-03-02T18:04:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-11287-0\"> </a><a href=\"http://details.loinc.org/LOINC/11287-0.html\">11287-0</a></td><td>Alcoholic drinks per drinking day - Reported</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.106.12.1018",
   "version": "20180310",
   "name": "Average Number of Drinks per Drinking Day",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:760dd64b-b1cd-47cd-b972-6dad3da2743d",
+    "timestamp": "2022-07-19T15:07:20-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "11287-0",
+      "display": "Alcoholic drinks per drinking day - Reported"
+    } ]
+  }
 }

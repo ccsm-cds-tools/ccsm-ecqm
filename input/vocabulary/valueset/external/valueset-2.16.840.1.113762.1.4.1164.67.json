@@ -5,12 +5,73 @@
     "versionId": "5",
     "lastUpdated": "2021-01-04T20:35:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238136002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238136002\">238136002</a></td><td>http://snomed.info/sct</td><td>Morbid obesity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408512008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408512008\">408512008</a></td><td>http://snomed.info/sct</td><td>Body mass index 40+ - severely obese (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.01\"> </a>E66.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Morbid (severe) obesity due to excess calories</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E66.2\"> </a>E66.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Morbid (severe) obesity with alveolar hypoventilation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z68.41\"> </a>Z68.41</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Body mass index [BMI] 40.0-44.9, adult</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z68.42\"> </a>Z68.42</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Body mass index [BMI] 45.0-49.9, adult</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z68.43\"> </a>Z68.43</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Body mass index [BMI] 50.0-59.9, adult</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z68.44\"> </a>Z68.44</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Body mass index [BMI] 60.0-69.9, adult</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z68.45\"> </a>Z68.45</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Body mass index [BMI] 70 or greater, adult</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1164.67",
   "version": "20180427",
   "name": "Morbid Obesity",
   "status": "active",
   "date": "2018-04-27T01:00:04-04:00",
   "publisher": "LUGPA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7c642e21-f7d2-4114-9058-86203864b61a",
+    "timestamp": "2022-07-19T15:05:21-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238136002",
+      "display": "Morbid obesity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408512008",
+      "display": "Body mass index 40+ - severely obese (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.01",
+      "display": "Morbid (severe) obesity due to excess calories"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E66.2",
+      "display": "Morbid (severe) obesity with alveolar hypoventilation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z68.41",
+      "display": "Body mass index [BMI] 40.0-44.9, adult"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z68.42",
+      "display": "Body mass index [BMI] 45.0-49.9, adult"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z68.43",
+      "display": "Body mass index [BMI] 50.0-59.9, adult"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z68.44",
+      "display": "Body mass index [BMI] 60.0-69.9, adult"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z68.45",
+      "display": "Body mass index [BMI] 70 or greater, adult"
+    } ]
+  }
 }

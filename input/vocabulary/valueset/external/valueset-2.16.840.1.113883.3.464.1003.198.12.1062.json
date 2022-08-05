@@ -5,12 +5,53 @@
     "versionId": "15",
     "lastUpdated": "2022-03-02T18:02:48.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-22415-4\"> </a><a href=\"http://details.loinc.org/LOINC/22415-4.html\">22415-4</a></td><td>Mumps virus IgG Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-39011-2\"> </a><a href=\"http://details.loinc.org/LOINC/39011-2.html\">39011-2</a></td><td>Mumps virus IgG Ab [Presence] in Cerebral spinal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-40737-9\"> </a><a href=\"http://details.loinc.org/LOINC/40737-9.html\">40737-9</a></td><td>Mumps virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6476-6\"> </a><a href=\"http://details.loinc.org/LOINC/6476-6.html\">6476-6</a></td><td>Mumps virus IgG Ab [Presence] in Serum by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-74422-7\"> </a><a href=\"http://details.loinc.org/LOINC/74422-7.html\">74422-7</a></td><td>Mumps virus IgG Ab [Presence] in Body fluid by Immunoassay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1062",
   "version": "20170504",
   "name": "Mumps Antibody Test (IgG Antibody presence)",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8125eb25-ed65-41c6-ad5d-b898ae860ef7",
+    "timestamp": "2022-07-19T15:10:41-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "22415-4",
+      "display": "Mumps virus IgG Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "39011-2",
+      "display": "Mumps virus IgG Ab [Presence] in Cerebral spinal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "40737-9",
+      "display": "Mumps virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6476-6",
+      "display": "Mumps virus IgG Ab [Presence] in Serum by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "74422-7",
+      "display": "Mumps virus IgG Ab [Presence] in Body fluid by Immunoassay"
+    } ]
+  }
 }

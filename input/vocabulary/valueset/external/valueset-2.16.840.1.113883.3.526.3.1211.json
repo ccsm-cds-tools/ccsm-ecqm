@@ -5,12 +5,93 @@
     "versionId": "24",
     "lastUpdated": "2022-03-02T18:06:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 13 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609534005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609534005\">609534005</a></td><td>Non-allergic hypersensitivity to losartan (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609537003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609537003\">609537003</a></td><td>Non-allergic hypersensitivity to angiotensin-converting enzyme inhibitor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609538008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609538008\">609538008</a></td><td>Non-allergic hypersensitivity to captopril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609539000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609539000\">609539000</a></td><td>Non-allergic hypersensitivity to cilazapril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609540003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609540003\">609540003</a></td><td>Non-allergic hypersensitivity to enalapril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609541004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609541004\">609541004</a></td><td>Non-allergic hypersensitivity to fosinopril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609542006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609542006\">609542006</a></td><td>Non-allergic hypersensitivity to lisinopril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609543001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609543001\">609543001</a></td><td>Non-allergic hypersensitivity to perindopril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609544007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609544007\">609544007</a></td><td>Non-allergic hypersensitivity to quinapril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609545008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609545008\">609545008</a></td><td>Non-allergic hypersensitivity to ramipril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609546009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609546009\">609546009</a></td><td>Non-allergic hypersensitivity to trandolapril (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609549002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609549002\">609549002</a></td><td>Non-allergic hypersensitivity to angiotensin II receptor antagonist (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609550002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609550002\">609550002</a></td><td>History of angiotensin converting enzyme inhibitor pseudoallergy (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1211",
   "version": "20170908",
   "name": "Allergy to ACE Inhibitor or ARB",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e5b34a31-9f89-4c8f-a14b-f6cc10b6667f",
+    "timestamp": "2022-07-19T15:11:35-04:00",
+    "total": 13,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609534005",
+      "display": "Non-allergic hypersensitivity to losartan (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609537003",
+      "display": "Non-allergic hypersensitivity to angiotensin-converting enzyme inhibitor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609538008",
+      "display": "Non-allergic hypersensitivity to captopril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609539000",
+      "display": "Non-allergic hypersensitivity to cilazapril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609540003",
+      "display": "Non-allergic hypersensitivity to enalapril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609541004",
+      "display": "Non-allergic hypersensitivity to fosinopril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609542006",
+      "display": "Non-allergic hypersensitivity to lisinopril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609543001",
+      "display": "Non-allergic hypersensitivity to perindopril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609544007",
+      "display": "Non-allergic hypersensitivity to quinapril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609545008",
+      "display": "Non-allergic hypersensitivity to ramipril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609546009",
+      "display": "Non-allergic hypersensitivity to trandolapril (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609549002",
+      "display": "Non-allergic hypersensitivity to angiotensin II receptor antagonist (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609550002",
+      "display": "History of angiotensin converting enzyme inhibitor pseudoallergy (situation)"
+    } ]
+  }
 }

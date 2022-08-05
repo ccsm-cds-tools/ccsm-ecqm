@@ -5,12 +5,43 @@
     "versionId": "2",
     "lastUpdated": "2021-02-02T15:10:09.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994521\"> </a>994521</td><td>12 HR orphenadrine citrate 100 MG Extended Release Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994528\"> </a>994528</td><td>aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-994535\"> </a>994535</td><td>aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1302",
   "version": "20170504",
   "name": "Orphenadrine",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:50ea8700-f348-42c0-acad-d625a9455e53",
+    "timestamp": "2022-07-19T15:09:23-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994521",
+      "display": "12 HR orphenadrine citrate 100 MG Extended Release Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994528",
+      "display": "aspirin 385 MG / caffeine 30 MG / orphenadrine citrate 25 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "994535",
+      "display": "aspirin 770 MG / caffeine 60 MG / orphenadrine citrate 50 MG Oral Tablet"
+    } ]
+  }
 }

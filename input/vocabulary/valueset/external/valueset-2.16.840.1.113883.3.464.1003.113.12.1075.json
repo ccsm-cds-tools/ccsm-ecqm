@@ -5,12 +5,718 @@
     "versionId": "6",
     "lastUpdated": "2021-02-10T12:31:09.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 138 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102492002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102492002\">102492002</a></td><td>http://snomed.info/sct</td><td>Failure to maintain weight (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102568007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102568007\">102568007</a></td><td>http://snomed.info/sct</td><td>Paresis of lower extremity (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102891000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102891000\">102891000</a></td><td>http://snomed.info/sct</td><td>Age-related cognitive decline (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105501005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105501005\">105501005</a></td><td>http://snomed.info/sct</td><td>Dependence on enabling machine or device (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105503008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105503008\">105503008</a></td><td>http://snomed.info/sct</td><td>Dependence on wheelchair (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105504002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105504002\">105504002</a></td><td>http://snomed.info/sct</td><td>Dependence on walking stick (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-126013009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=126013009\">126013009</a></td><td>http://snomed.info/sct</td><td>Subjective muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-127378008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=127378008\">127378008</a></td><td>http://snomed.info/sct</td><td>Bilateral paresis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-135834002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=135834002\">135834002</a></td><td>http://snomed.info/sct</td><td>Pseudoparalysis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13791008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13791008\">13791008</a></td><td>http://snomed.info/sct</td><td>Asthenia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-152921000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=152921000119101\">152921000119101</a></td><td>http://snomed.info/sct</td><td>Dependence on respiratory device (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15634971000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15634971000119107\">15634971000119107</a></td><td>http://snomed.info/sct</td><td>Weakness of bilateral upper limbs (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16018391000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16018391000119104\">16018391000119104</a></td><td>http://snomed.info/sct</td><td>Paresis of left lower limb (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16018431000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16018431000119109\">16018431000119109</a></td><td>http://snomed.info/sct</td><td>Paresis of right lower limb (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160681005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160681005\">160681005</a></td><td>http://snomed.info/sct</td><td>Mobile outside with aid (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160683008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160683008\">160683008</a></td><td>http://snomed.info/sct</td><td>Needs walking aid in home (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160684002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160684002\">160684002</a></td><td>http://snomed.info/sct</td><td>Confined to chair (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160685001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160685001\">160685001</a></td><td>http://snomed.info/sct</td><td>Bed-ridden (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160692006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160692006\">160692006</a></td><td>http://snomed.info/sct</td><td>Mobility very poor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160693001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160693001\">160693001</a></td><td>http://snomed.info/sct</td><td>Mobility poor (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160734000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160734000\">160734000</a></td><td>http://snomed.info/sct</td><td>Lives in a nursing home (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-160737007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=160737007\">160737007</a></td><td>http://snomed.info/sct</td><td>Lives in an old peoples home (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-161832001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=161832001\">161832001</a></td><td>http://snomed.info/sct</td><td>Weight decreasing (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-161873000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=161873000\">161873000</a></td><td>http://snomed.info/sct</td><td>Heavy legs (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-161874006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=161874006\">161874006</a></td><td>http://snomed.info/sct</td><td>Heavy feeling (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-162236007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=162236007\">162236007</a></td><td>http://snomed.info/sct</td><td>Weakness present (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-162239000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=162239000\">162239000</a></td><td>http://snomed.info/sct</td><td>Abdominal weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16419651000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16419651000119103\">16419651000119103</a></td><td>http://snomed.info/sct</td><td>Dependence on biphasic positive airway pressure ventilation due to central sleep apnea syndrome (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-165243005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=165243005\">165243005</a></td><td>http://snomed.info/sct</td><td>Independent in wheelchair (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-165244004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=165244004\">165244004</a></td><td>http://snomed.info/sct</td><td>Minimal help in wheelchair (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18726006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18726006\">18726006</a></td><td>http://snomed.info/sct</td><td>Senile asthenia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20940004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20940004\">20940004</a></td><td>http://snomed.info/sct</td><td>Spinal hemiparesis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22090007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22090007\">22090007</a></td><td>http://snomed.info/sct</td><td>Scissoring gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22325002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22325002\">22325002</a></td><td>http://snomed.info/sct</td><td>Abnormal gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-224960004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=224960004\">224960004</a></td><td>http://snomed.info/sct</td><td>Tired (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22631008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22631008\">22631008</a></td><td>http://snomed.info/sct</td><td>Unsteady when walking (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23042008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23042008\">23042008</a></td><td>http://snomed.info/sct</td><td>Spinal paraparesis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238108007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238108007\">238108007</a></td><td>http://snomed.info/sct</td><td>Cachexia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248269005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248269005\">248269005</a></td><td>http://snomed.info/sct</td><td>Tired on least exertion (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248278004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248278004\">248278004</a></td><td>http://snomed.info/sct</td><td>Attacks of weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248279007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248279007\">248279007</a></td><td>http://snomed.info/sct</td><td>Frailty (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249888000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249888000\">249888000</a></td><td>http://snomed.info/sct</td><td>Weakness of sternomastoid (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249937002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249937002\">249937002</a></td><td>http://snomed.info/sct</td><td>Truncal muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249938007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249938007\">249938007</a></td><td>http://snomed.info/sct</td><td>Weakness of back (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249939004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249939004\">249939004</a></td><td>http://snomed.info/sct</td><td>Proximal muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249940002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249940002\">249940002</a></td><td>http://snomed.info/sct</td><td>Shoulder girdle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249941003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249941003\">249941003</a></td><td>http://snomed.info/sct</td><td>Pelvic girdle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249942005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249942005\">249942005</a></td><td>http://snomed.info/sct</td><td>Distal muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249943000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249943000\">249943000</a></td><td>http://snomed.info/sct</td><td>Weakness of distal arms and legs (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-249946008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=249946008\">249946008</a></td><td>http://snomed.info/sct</td><td>Pyramidal type muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250002000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250002000\">250002000</a></td><td>http://snomed.info/sct</td><td>Rapid fatigue of gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250003005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250003005\">250003005</a></td><td>http://snomed.info/sct</td><td>Low level sensorimotor gait disorder (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250015009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250015009\">250015009</a></td><td>http://snomed.info/sct</td><td>Arthritic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250029005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250029005\">250029005</a></td><td>http://snomed.info/sct</td><td>Sensory ataxic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250032008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250032008\">250032008</a></td><td>http://snomed.info/sct</td><td>Vestibular ataxic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250033003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250033003\">250033003</a></td><td>http://snomed.info/sct</td><td>Visual ataxic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250034009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250034009\">250034009</a></td><td>http://snomed.info/sct</td><td>Middle level sensorimotor gait disorder (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250038007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250038007\">250038007</a></td><td>http://snomed.info/sct</td><td>Retropulsion when walking (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250043000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250043000\">250043000</a></td><td>http://snomed.info/sct</td><td>High level sensorimotor gait disorder (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250044006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250044006\">250044006</a></td><td>http://snomed.info/sct</td><td>Cautious gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250045007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250045007\">250045007</a></td><td>http://snomed.info/sct</td><td>Tottering gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250048009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250048009\">250048009</a></td><td>http://snomed.info/sct</td><td>Frontal ataxia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250052009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250052009\">250052009</a></td><td>http://snomed.info/sct</td><td>Petren's gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250054005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250054005\">250054005</a></td><td>http://snomed.info/sct</td><td>Frontal gait disorder (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-250991000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=250991000119100\">250991000119100</a></td><td>http://snomed.info/sct</td><td>Stumbling gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25136009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25136009\">25136009</a></td><td>http://snomed.info/sct</td><td>Ataxic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-262285001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=262285001\">262285001</a></td><td>http://snomed.info/sct</td><td>Weight decreased (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26544005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26544005\">26544005</a></td><td>http://snomed.info/sct</td><td>Muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267024001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267024001\">267024001</a></td><td>http://snomed.info/sct</td><td>Abnormal weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267032009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267032009\">267032009</a></td><td>http://snomed.info/sct</td><td>Tired all the time (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-271795006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=271795006\">271795006</a></td><td>http://snomed.info/sct</td><td>Malaise and fatigue (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275313006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275313006\">275313006</a></td><td>http://snomed.info/sct</td><td>Dragging leg (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284529003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284529003\">284529003</a></td><td>http://snomed.info/sct</td><td>Cardiac cachexia (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-298283006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=298283006\">298283006</a></td><td>http://snomed.info/sct</td><td>Hand muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-300948004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=300948004\">300948004</a></td><td>http://snomed.info/sct</td><td>Quadriceps weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309249007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309249007\">309249007</a></td><td>http://snomed.info/sct</td><td>Calf muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309257005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309257005\">309257005</a></td><td>http://snomed.info/sct</td><td>Excessive weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312444006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312444006\">312444006</a></td><td>http://snomed.info/sct</td><td>Spastic paraparesis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-365884000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=365884000\">365884000</a></td><td>http://snomed.info/sct</td><td>Cerebellar ataxic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-367391008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=367391008\">367391008</a></td><td>http://snomed.info/sct</td><td>Malaise (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371028005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371028005\">371028005</a></td><td>http://snomed.info/sct</td><td>Spastic paresis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-373931001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=373931001\">373931001</a></td><td>http://snomed.info/sct</td><td>Sensation of heaviness in limbs (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397776000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397776000\">397776000</a></td><td>http://snomed.info/sct</td><td>Festinating gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404904002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404904002\">404904002</a></td><td>http://snomed.info/sct</td><td>Frail elderly (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413121008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413121008\">413121008</a></td><td>http://snomed.info/sct</td><td>Dependent on helper pushing wheelchair (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41786007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41786007\">41786007</a></td><td>http://snomed.info/sct</td><td>Neurological muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418073009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418073009\">418073009</a></td><td>http://snomed.info/sct</td><td>Pseudoparalysis due to generalized arthritis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422868009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422868009\">422868009</a></td><td>http://snomed.info/sct</td><td>Unexplained weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426977000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426977000\">426977000</a></td><td>http://snomed.info/sct</td><td>Recent weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428116008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428116008\">428116008</a></td><td>http://snomed.info/sct</td><td>Multifactorial gait problem (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428264009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428264009\">428264009</a></td><td>http://snomed.info/sct</td><td>Painful gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429091008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429091008\">429091008</a></td><td>http://snomed.info/sct</td><td>Dependence on biphasic positive airway pressure ventilation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429487005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429487005\">429487005</a></td><td>http://snomed.info/sct</td><td>Dependence on continuous positive airway pressure ventilation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43005009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43005009\">43005009</a></td><td>http://snomed.info/sct</td><td>Shuffling gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431524008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431524008\">431524008</a></td><td>http://snomed.info/sct</td><td>Abnormal gait due to impairment of balance (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432559006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432559006\">432559006</a></td><td>http://snomed.info/sct</td><td>Abnormal gait due to muscle weakness (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442099003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442099003\">442099003</a></td><td>http://snomed.info/sct</td><td>Psychogenic fatigue (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444042007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444042007\">444042007</a></td><td>http://snomed.info/sct</td><td>Excessive postexertional fatigue (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444932008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444932008\">444932008</a></td><td>http://snomed.info/sct</td><td>Dependence on ventilator (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4468000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4468000\">4468000</a></td><td>http://snomed.info/sct</td><td>Oppenheim's gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448765001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448765001\">448765001</a></td><td>http://snomed.info/sct</td><td>Unintentional weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50314001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50314001\">50314001</a></td><td>http://snomed.info/sct</td><td>Partial bilateral paresis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60631000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60631000119109\">60631000119109</a></td><td>http://snomed.info/sct</td><td>Dependence on home ventilator (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60651000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60651000119103\">60651000119103</a></td><td>http://snomed.info/sct</td><td>Dependence on continuous supplemental oxygen (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67141003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67141003\">67141003</a></td><td>http://snomed.info/sct</td><td>Antalgic gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69161000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69161000119103\">69161000119103</a></td><td>http://snomed.info/sct</td><td>Functional gait abnormality (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713512009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713512009\">713512009</a></td><td>http://snomed.info/sct</td><td>Muscle weakness of upper limb (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713514005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713514005\">713514005</a></td><td>http://snomed.info/sct</td><td>Muscle weakness of limb (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713568000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713568000\">713568000</a></td><td>http://snomed.info/sct</td><td>Occasionally tired (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713655003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713655003\">713655003</a></td><td>http://snomed.info/sct</td><td>Dependence on non-invasive ventilation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78119002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78119002\">78119002</a></td><td>http://snomed.info/sct</td><td>Complete bilateral paresis (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-784317004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=784317004\">784317004</a></td><td>http://snomed.info/sct</td><td>Fatigue due to chemotherapy (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-784318009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=784318009\">784318009</a></td><td>http://snomed.info/sct</td><td>Fatigue due to radiation therapy (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78691002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78691002\">78691002</a></td><td>http://snomed.info/sct</td><td>Staggering gait (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-788876001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=788876001\">788876001</a></td><td>http://snomed.info/sct</td><td>Cachexia due to malignant neoplastic disease (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-788900007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=788900007\">788900007</a></td><td>http://snomed.info/sct</td><td>Dependence on artificial heart (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79021000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79021000119104\">79021000119104</a></td><td>http://snomed.info/sct</td><td>Dependence on aspirator (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79031000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79031000119101\">79031000119101</a></td><td>http://snomed.info/sct</td><td>Dependence on respirator (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84229001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84229001\">84229001</a></td><td>http://snomed.info/sct</td><td>Fatigue (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8510008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8510008\">8510008</a></td><td>http://snomed.info/sct</td><td>Reduced mobility (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85711000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85711000119103\">85711000119103</a></td><td>http://snomed.info/sct</td><td>Stumbling due to lack of coordination (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89201000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89201000119106\">89201000119106</a></td><td>http://snomed.info/sct</td><td>Dependence on supplemental oxygen when ambulating (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89362005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89362005\">89362005</a></td><td>http://snomed.info/sct</td><td>Weight loss (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-931000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=931000119107\">931000119107</a></td><td>http://snomed.info/sct</td><td>Dependence on supplemental oxygen (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R26.0\"> </a>R26.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Ataxic gait</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R26.1\"> </a>R26.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Paralytic gait</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R26.2\"> </a>R26.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Difficulty in walking, not elsewhere classified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R26.89\"> </a>R26.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other abnormalities of gait and mobility</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R26.9\"> </a>R26.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified abnormalities of gait and mobility</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R41.81\"> </a>R41.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related cognitive decline</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R53.1\"> </a>R53.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Weakness</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R53.81\"> </a>R53.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other malaise</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R53.83\"> </a>R53.83</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other fatigue</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R54\"> </a>R54</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Age-related physical debility</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R62.7\"> </a>R62.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Adult failure to thrive</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R63.4\"> </a>R63.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Abnormal weight loss</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R63.6\"> </a>R63.6</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Underweight</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-R64\"> </a>R64</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cachexia</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1075",
   "version": "20190315",
   "name": "Frailty Symptom",
   "status": "active",
   "date": "2019-03-15T01:00:14-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:b97e1f6b-67ae-4079-8029-dde6614bd4f7",
+    "timestamp": "2022-07-19T15:08:29-04:00",
+    "total": 138,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102492002",
+      "display": "Failure to maintain weight (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102568007",
+      "display": "Paresis of lower extremity (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102891000",
+      "display": "Age-related cognitive decline (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105501005",
+      "display": "Dependence on enabling machine or device (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105503008",
+      "display": "Dependence on wheelchair (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105504002",
+      "display": "Dependence on walking stick (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "126013009",
+      "display": "Subjective muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "127378008",
+      "display": "Bilateral paresis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "135834002",
+      "display": "Pseudoparalysis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13791008",
+      "display": "Asthenia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "152921000119101",
+      "display": "Dependence on respiratory device (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15634971000119107",
+      "display": "Weakness of bilateral upper limbs (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16018391000119104",
+      "display": "Paresis of left lower limb (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16018431000119109",
+      "display": "Paresis of right lower limb (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160681005",
+      "display": "Mobile outside with aid (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160683008",
+      "display": "Needs walking aid in home (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160684002",
+      "display": "Confined to chair (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160685001",
+      "display": "Bed-ridden (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160692006",
+      "display": "Mobility very poor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160693001",
+      "display": "Mobility poor (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160734000",
+      "display": "Lives in a nursing home (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "160737007",
+      "display": "Lives in an old peoples home (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "161832001",
+      "display": "Weight decreasing (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "161873000",
+      "display": "Heavy legs (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "161874006",
+      "display": "Heavy feeling (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "162236007",
+      "display": "Weakness present (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "162239000",
+      "display": "Abdominal weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16419651000119103",
+      "display": "Dependence on biphasic positive airway pressure ventilation due to central sleep apnea syndrome (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "165243005",
+      "display": "Independent in wheelchair (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "165244004",
+      "display": "Minimal help in wheelchair (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18726006",
+      "display": "Senile asthenia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20940004",
+      "display": "Spinal hemiparesis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22090007",
+      "display": "Scissoring gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22325002",
+      "display": "Abnormal gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "224960004",
+      "display": "Tired (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22631008",
+      "display": "Unsteady when walking (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23042008",
+      "display": "Spinal paraparesis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238108007",
+      "display": "Cachexia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248269005",
+      "display": "Tired on least exertion (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248278004",
+      "display": "Attacks of weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248279007",
+      "display": "Frailty (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249888000",
+      "display": "Weakness of sternomastoid (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249937002",
+      "display": "Truncal muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249938007",
+      "display": "Weakness of back (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249939004",
+      "display": "Proximal muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249940002",
+      "display": "Shoulder girdle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249941003",
+      "display": "Pelvic girdle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249942005",
+      "display": "Distal muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249943000",
+      "display": "Weakness of distal arms and legs (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "249946008",
+      "display": "Pyramidal type muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250002000",
+      "display": "Rapid fatigue of gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250003005",
+      "display": "Low level sensorimotor gait disorder (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250015009",
+      "display": "Arthritic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250029005",
+      "display": "Sensory ataxic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250032008",
+      "display": "Vestibular ataxic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250033003",
+      "display": "Visual ataxic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250034009",
+      "display": "Middle level sensorimotor gait disorder (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250038007",
+      "display": "Retropulsion when walking (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250043000",
+      "display": "High level sensorimotor gait disorder (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250044006",
+      "display": "Cautious gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250045007",
+      "display": "Tottering gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250048009",
+      "display": "Frontal ataxia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250052009",
+      "display": "Petren's gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250054005",
+      "display": "Frontal gait disorder (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "250991000119100",
+      "display": "Stumbling gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25136009",
+      "display": "Ataxic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "262285001",
+      "display": "Weight decreased (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26544005",
+      "display": "Muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267024001",
+      "display": "Abnormal weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267032009",
+      "display": "Tired all the time (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "271795006",
+      "display": "Malaise and fatigue (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275313006",
+      "display": "Dragging leg (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284529003",
+      "display": "Cardiac cachexia (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "298283006",
+      "display": "Hand muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "300948004",
+      "display": "Quadriceps weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309249007",
+      "display": "Calf muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309257005",
+      "display": "Excessive weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312444006",
+      "display": "Spastic paraparesis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "365884000",
+      "display": "Cerebellar ataxic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "367391008",
+      "display": "Malaise (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371028005",
+      "display": "Spastic paresis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "373931001",
+      "display": "Sensation of heaviness in limbs (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397776000",
+      "display": "Festinating gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404904002",
+      "display": "Frail elderly (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413121008",
+      "display": "Dependent on helper pushing wheelchair (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41786007",
+      "display": "Neurological muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418073009",
+      "display": "Pseudoparalysis due to generalized arthritis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422868009",
+      "display": "Unexplained weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426977000",
+      "display": "Recent weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428116008",
+      "display": "Multifactorial gait problem (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428264009",
+      "display": "Painful gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429091008",
+      "display": "Dependence on biphasic positive airway pressure ventilation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429487005",
+      "display": "Dependence on continuous positive airway pressure ventilation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43005009",
+      "display": "Shuffling gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431524008",
+      "display": "Abnormal gait due to impairment of balance (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432559006",
+      "display": "Abnormal gait due to muscle weakness (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442099003",
+      "display": "Psychogenic fatigue (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444042007",
+      "display": "Excessive postexertional fatigue (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444932008",
+      "display": "Dependence on ventilator (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4468000",
+      "display": "Oppenheim's gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448765001",
+      "display": "Unintentional weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50314001",
+      "display": "Partial bilateral paresis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60631000119109",
+      "display": "Dependence on home ventilator (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60651000119103",
+      "display": "Dependence on continuous supplemental oxygen (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67141003",
+      "display": "Antalgic gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69161000119103",
+      "display": "Functional gait abnormality (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713512009",
+      "display": "Muscle weakness of upper limb (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713514005",
+      "display": "Muscle weakness of limb (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713568000",
+      "display": "Occasionally tired (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713655003",
+      "display": "Dependence on non-invasive ventilation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78119002",
+      "display": "Complete bilateral paresis (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "784317004",
+      "display": "Fatigue due to chemotherapy (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "784318009",
+      "display": "Fatigue due to radiation therapy (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78691002",
+      "display": "Staggering gait (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "788876001",
+      "display": "Cachexia due to malignant neoplastic disease (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "788900007",
+      "display": "Dependence on artificial heart (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79021000119104",
+      "display": "Dependence on aspirator (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79031000119101",
+      "display": "Dependence on respirator (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84229001",
+      "display": "Fatigue (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8510008",
+      "display": "Reduced mobility (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85711000119103",
+      "display": "Stumbling due to lack of coordination (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89201000119106",
+      "display": "Dependence on supplemental oxygen when ambulating (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89362005",
+      "display": "Weight loss (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "931000119107",
+      "display": "Dependence on supplemental oxygen (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R26.0",
+      "display": "Ataxic gait"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R26.1",
+      "display": "Paralytic gait"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R26.2",
+      "display": "Difficulty in walking, not elsewhere classified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R26.89",
+      "display": "Other abnormalities of gait and mobility"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R26.9",
+      "display": "Unspecified abnormalities of gait and mobility"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R41.81",
+      "display": "Age-related cognitive decline"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R53.1",
+      "display": "Weakness"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R53.81",
+      "display": "Other malaise"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R53.83",
+      "display": "Other fatigue"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R54",
+      "display": "Age-related physical debility"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R62.7",
+      "display": "Adult failure to thrive"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R63.4",
+      "display": "Abnormal weight loss"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R63.6",
+      "display": "Underweight"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "R64",
+      "display": "Cachexia"
+    } ]
+  }
 }

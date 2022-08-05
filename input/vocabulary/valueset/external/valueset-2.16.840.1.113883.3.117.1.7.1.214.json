@@ -5,12 +5,53 @@
     "versionId": "30",
     "lastUpdated": "2021-03-17T16:02:34.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428411000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428411000124104\">428411000124104</a></td><td>Intermittent pneumatic compression boot (physical object)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428421000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428421000124107\">428421000124107</a></td><td>Intermittent pneumatic compression sleeve (physical object)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442111003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442111003\">442111003</a></td><td>Intermittent pneumatic compression stockings (physical object)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-469317002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=469317002\">469317002</a></td><td>Intermittent venous compression system pump (physical object)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-469365001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=469365001\">469365001</a></td><td>Intermittent venous compression system (physical object)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.214",
   "version": "20210220",
   "name": "Intermittent pneumatic compression devices (IPC)",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:bf142d78-65bf-4b47-a2ab-48fe7c737a92",
+    "timestamp": "2022-07-19T15:05:36-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428411000124104",
+      "display": "Intermittent pneumatic compression boot (physical object)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428421000124107",
+      "display": "Intermittent pneumatic compression sleeve (physical object)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442111003",
+      "display": "Intermittent pneumatic compression stockings (physical object)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "469317002",
+      "display": "Intermittent venous compression system pump (physical object)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "469365001",
+      "display": "Intermittent venous compression system (physical object)"
+    } ]
+  }
 }

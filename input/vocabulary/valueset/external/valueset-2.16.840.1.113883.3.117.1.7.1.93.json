@@ -5,12 +5,108 @@
     "versionId": "34",
     "lastUpdated": "2021-03-17T15:49:07.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105480006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105480006\">105480006</a></td><td>Procedure declined by patient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182890002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182890002\">182890002</a></td><td>Patient requests alternative treatment (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182895007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182895007\">182895007</a></td><td>Drug declined by patient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182896008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182896008\">182896008</a></td><td>Drug declined by patient - dislikes taste (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182897004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182897004\">182897004</a></td><td>Drug declined by patient - side effects (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182898009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182898009\">182898009</a></td><td>Drug declined by patient - inconvenient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182900006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182900006\">182900006</a></td><td>Drug declined by patient - patient beliefs (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182901005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182901005\">182901005</a></td><td>Drug declined by patient - alternative therapy (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-182903008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=182903008\">182903008</a></td><td>Drug declined by patient - reason unknown (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183945002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183945002\">183945002</a></td><td>Procedure declined for religious reason (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183946001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183946001\">183946001</a></td><td>Procedure declined - uncooperative (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183948000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183948000\">183948000</a></td><td>Procedure declined by parent (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275936005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275936005\">275936005</a></td><td>Patient noncompliance - general (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406149000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406149000\">406149000</a></td><td>Medication declined (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416432009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416432009\">416432009</a></td><td>Procedure not wanted (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443390004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443390004\">443390004</a></td><td>Refused (qualifier value)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.93",
   "version": "20210220",
   "name": "Patient Refusal",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2f39a4f5-3293-4345-bd48-6b868a46877c",
+    "timestamp": "2022-07-19T15:06:12-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105480006",
+      "display": "Procedure declined by patient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182890002",
+      "display": "Patient requests alternative treatment (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182895007",
+      "display": "Drug declined by patient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182896008",
+      "display": "Drug declined by patient - dislikes taste (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182897004",
+      "display": "Drug declined by patient - side effects (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182898009",
+      "display": "Drug declined by patient - inconvenient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182900006",
+      "display": "Drug declined by patient - patient beliefs (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182901005",
+      "display": "Drug declined by patient - alternative therapy (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "182903008",
+      "display": "Drug declined by patient - reason unknown (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183945002",
+      "display": "Procedure declined for religious reason (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183946001",
+      "display": "Procedure declined - uncooperative (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183948000",
+      "display": "Procedure declined by parent (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275936005",
+      "display": "Patient noncompliance - general (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406149000",
+      "display": "Medication declined (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416432009",
+      "display": "Procedure not wanted (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443390004",
+      "display": "Refused (qualifier value)"
+    } ]
+  }
 }

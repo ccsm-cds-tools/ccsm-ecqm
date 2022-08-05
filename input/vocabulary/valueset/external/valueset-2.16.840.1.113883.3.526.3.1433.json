@@ -5,12 +5,98 @@
     "versionId": "33",
     "lastUpdated": "2021-03-14T06:43:50.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 14 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15987871000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15987871000119100\">15987871000119100</a></td><td>http://snomed.info/sct</td><td>Congenital coloboma of right lens (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15987911000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15987911000119102\">15987911000119102</a></td><td>http://snomed.info/sct</td><td>Congenital coloboma of left lens (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-204134008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=204134008\">204134008</a></td><td>http://snomed.info/sct</td><td>Coloboma of lens (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33521009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33521009\">33521009</a></td><td>http://snomed.info/sct</td><td>Congenital anomaly of lens shape (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416671000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416671000\">416671000</a></td><td>http://snomed.info/sct</td><td>Microspherophakia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418653000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418653000\">418653000</a></td><td>http://snomed.info/sct</td><td>Secondary lens coloboma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419544009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419544009\">419544009</a></td><td>http://snomed.info/sct</td><td>Primary lens coloboma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-773690008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=773690008\">773690008</a></td><td>http://snomed.info/sct</td><td>Microcornea, posterior megalolenticonus, persistent fetal vasculature, coloboma syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-840458000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=840458000\">840458000</a></td><td>http://snomed.info/sct</td><td>Coloboma of bilateral lenses (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95482000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95482000\">95482000</a></td><td>http://snomed.info/sct</td><td>Posterior lenticonus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95483005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95483005\">95483005</a></td><td>http://snomed.info/sct</td><td>Posterior lentiglobus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q12.2\"> </a>Q12.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Coloboma of lens</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q12.4\"> </a>Q12.4</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Spherophakia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Q12.8\"> </a>Q12.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other congenital lens malformations</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1433",
   "version": "20210314",
   "name": "Posterior Lenticonus",
   "status": "active",
   "date": "2021-03-14T06:43:50-04:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:efec1c90-f5ae-432b-aa22-0924cc046769",
+    "timestamp": "2022-07-19T15:12:13-04:00",
+    "total": 14,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15987871000119100",
+      "display": "Congenital coloboma of right lens (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15987911000119102",
+      "display": "Congenital coloboma of left lens (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "204134008",
+      "display": "Coloboma of lens (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33521009",
+      "display": "Congenital anomaly of lens shape (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416671000",
+      "display": "Microspherophakia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418653000",
+      "display": "Secondary lens coloboma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419544009",
+      "display": "Primary lens coloboma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "773690008",
+      "display": "Microcornea, posterior megalolenticonus, persistent fetal vasculature, coloboma syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "840458000",
+      "display": "Coloboma of bilateral lenses (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95482000",
+      "display": "Posterior lenticonus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95483005",
+      "display": "Posterior lentiglobus (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q12.2",
+      "display": "Coloboma of lens"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q12.4",
+      "display": "Spherophakia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Q12.8",
+      "display": "Other congenital lens malformations"
+    } ]
+  }
 }

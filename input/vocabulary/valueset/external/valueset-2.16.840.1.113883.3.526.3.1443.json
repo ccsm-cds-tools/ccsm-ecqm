@@ -5,12 +5,118 @@
     "versionId": "29",
     "lastUpdated": "2021-02-19T01:00:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193598007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193598007\">193598007</a></td><td>http://snomed.info/sct</td><td>Partial resolved traumatic cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231967008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231967008\">231967008</a></td><td>http://snomed.info/sct</td><td>Concussion cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231968003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231968003\">231968003</a></td><td>http://snomed.info/sct</td><td>Cataract following rupture of capsule (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-34361001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=34361001\">34361001</a></td><td>http://snomed.info/sct</td><td>Traumatic cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8656007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8656007\">8656007</a></td><td>http://snomed.info/sct</td><td>Total traumatic cataract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-866114005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=866114005\">866114005</a></td><td>http://snomed.info/sct</td><td>Localized cataract opacities due to and following traumatic injury (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.101\"> </a>H26.101</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified traumatic cataract, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.102\"> </a>H26.102</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified traumatic cataract, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.103\"> </a>H26.103</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified traumatic cataract, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.111\"> </a>H26.111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localized traumatic opacities, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.112\"> </a>H26.112</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localized traumatic opacities, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.113\"> </a>H26.113</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Localized traumatic opacities, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.121\"> </a>H26.121</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Partially resolved traumatic cataract, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.122\"> </a>H26.122</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Partially resolved traumatic cataract, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.123\"> </a>H26.123</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Partially resolved traumatic cataract, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.131\"> </a>H26.131</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Total traumatic cataract, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.132\"> </a>H26.132</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Total traumatic cataract, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H26.133\"> </a>H26.133</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Total traumatic cataract, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1443",
   "version": "20210219",
   "name": "Traumatic Cataract",
   "status": "active",
   "date": "2021-02-19T01:00:28-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:aaead74a-5d2d-4d58-ab3a-d973a95d4b35",
+    "timestamp": "2022-07-19T15:12:15-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193598007",
+      "display": "Partial resolved traumatic cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231967008",
+      "display": "Concussion cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231968003",
+      "display": "Cataract following rupture of capsule (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "34361001",
+      "display": "Traumatic cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8656007",
+      "display": "Total traumatic cataract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "866114005",
+      "display": "Localized cataract opacities due to and following traumatic injury (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.101",
+      "display": "Unspecified traumatic cataract, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.102",
+      "display": "Unspecified traumatic cataract, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.103",
+      "display": "Unspecified traumatic cataract, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.111",
+      "display": "Localized traumatic opacities, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.112",
+      "display": "Localized traumatic opacities, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.113",
+      "display": "Localized traumatic opacities, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.121",
+      "display": "Partially resolved traumatic cataract, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.122",
+      "display": "Partially resolved traumatic cataract, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.123",
+      "display": "Partially resolved traumatic cataract, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.131",
+      "display": "Total traumatic cataract, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.132",
+      "display": "Total traumatic cataract, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H26.133",
+      "display": "Total traumatic cataract, bilateral"
+    } ]
+  }
 }

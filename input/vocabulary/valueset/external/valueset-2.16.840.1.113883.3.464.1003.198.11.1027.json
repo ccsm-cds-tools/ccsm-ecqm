@@ -5,12 +5,208 @@
     "versionId": "31",
     "lastUpdated": "2022-02-10T01:02:25.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 36 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116140006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116140006\">116140006</a></td><td>Total hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116142003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116142003\">116142003</a></td><td>Radical hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116143008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116143008\">116143008</a></td><td>Total abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116144002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116144002\">116144002</a></td><td>Total abdominal hysterectomy with bilateral salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176697007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176697007\">176697007</a></td><td>Repair of vaginal prolapse and amputation of cervix uteri (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236888001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236888001\">236888001</a></td><td>Laparoscopic total hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236891001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236891001\">236891001</a></td><td>Laparoscopic radical hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24293001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24293001\">24293001</a></td><td>Excision of cervical stump by abdominal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28301000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28301000\">28301000</a></td><td>Manchester-Fothergill operation on uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287924009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287924009\">287924009</a></td><td>Excision of cervix stump (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307771009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307771009\">307771009</a></td><td>Radical abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35955002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35955002\">35955002</a></td><td>Radical vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361222003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361222003\">361222003</a></td><td>Wertheim-Meigs abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361223008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361223008\">361223008</a></td><td>Wertheim operation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387626007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387626007\">387626007</a></td><td>Amputation of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414575003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414575003\">414575003</a></td><td>Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41566006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41566006\">41566006</a></td><td>Excision of cervical stump by vaginal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440383008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440383008\">440383008</a></td><td>Radical amputation of cervix with bilateral total pelvic lymphadenectomy and paraaortic lymph node biopsy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446446002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446446002\">446446002</a></td><td>Total abdominal hysterectomy and removal of vaginal cuff (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446679008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446679008\">446679008</a></td><td>Total laparoscopic excision of uterus by abdominal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447771005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447771005\">447771005</a></td><td>Abdominal hysterectomy and excision of periuterine tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46226009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46226009\">46226009</a></td><td>Cervicectomy with synchronous colporrhaphy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708877008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708877008\">708877008</a></td><td>Laparoscopic total hysterectomy using robotic assistance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-708878003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=708878003\">708878003</a></td><td>Laparoscopic radical hysterectomy using robotic assistance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-739671004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=739671004\">739671004</a></td><td>Total hysterectomy with left oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-739672006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=739672006\">739672006</a></td><td>Total hysterectomy with right oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-739673001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=739673001\">739673001</a></td><td>Total hysterectomy with left salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-739674007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=739674007\">739674007</a></td><td>Total hysterectomy with right salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-740514001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=740514001\">740514001</a></td><td>Total hysterectomy with right salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-740515000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=740515000\">740515000</a></td><td>Total hysterectomy with left salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-767610009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=767610009\">767610009</a></td><td>Total hysterectomy via vaginal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-767611008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=767611008\">767611008</a></td><td>Total abdominal hysterectomy using intrafascial technique (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-767612001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=767612001\">767612001</a></td><td>Total hysterectomy via vaginal approach using intrafascial technique (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82418001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82418001\">82418001</a></td><td>Manchester operation on uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86477000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86477000\">86477000</a></td><td>Total hysterectomy with removal of both tubes and ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88144003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88144003\">88144003</a></td><td>Removal of ectopic interstitial uterine pregnancy requiring total hysterectomy (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1027",
   "version": "20220210",
   "name": "Hysterectomy with No Residual Cervix",
   "status": "active",
   "date": "2022-02-10T01:02:25-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:608dce7d-d362-471c-aa52-c68d808a8955",
+    "timestamp": "2022-07-15T19:34:00-04:00",
+    "total": 36,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116140006",
+      "display": "Total hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116142003",
+      "display": "Radical hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116143008",
+      "display": "Total abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116144002",
+      "display": "Total abdominal hysterectomy with bilateral salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176697007",
+      "display": "Repair of vaginal prolapse and amputation of cervix uteri (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236888001",
+      "display": "Laparoscopic total hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236891001",
+      "display": "Laparoscopic radical hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24293001",
+      "display": "Excision of cervical stump by abdominal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28301000",
+      "display": "Manchester-Fothergill operation on uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287924009",
+      "display": "Excision of cervix stump (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307771009",
+      "display": "Radical abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35955002",
+      "display": "Radical vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361222003",
+      "display": "Wertheim-Meigs abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361223008",
+      "display": "Wertheim operation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387626007",
+      "display": "Amputation of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414575003",
+      "display": "Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41566006",
+      "display": "Excision of cervical stump by vaginal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440383008",
+      "display": "Radical amputation of cervix with bilateral total pelvic lymphadenectomy and paraaortic lymph node biopsy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446446002",
+      "display": "Total abdominal hysterectomy and removal of vaginal cuff (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446679008",
+      "display": "Total laparoscopic excision of uterus by abdominal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447771005",
+      "display": "Abdominal hysterectomy and excision of periuterine tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46226009",
+      "display": "Cervicectomy with synchronous colporrhaphy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708877008",
+      "display": "Laparoscopic total hysterectomy using robotic assistance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "708878003",
+      "display": "Laparoscopic radical hysterectomy using robotic assistance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "739671004",
+      "display": "Total hysterectomy with left oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "739672006",
+      "display": "Total hysterectomy with right oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "739673001",
+      "display": "Total hysterectomy with left salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "739674007",
+      "display": "Total hysterectomy with right salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "740514001",
+      "display": "Total hysterectomy with right salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "740515000",
+      "display": "Total hysterectomy with left salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "767610009",
+      "display": "Total hysterectomy via vaginal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "767611008",
+      "display": "Total abdominal hysterectomy using intrafascial technique (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "767612001",
+      "display": "Total hysterectomy via vaginal approach using intrafascial technique (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82418001",
+      "display": "Manchester operation on uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86477000",
+      "display": "Total hysterectomy with removal of both tubes and ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88144003",
+      "display": "Removal of ectopic interstitial uterine pregnancy requiring total hysterectomy (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "7",
     "lastUpdated": "2021-03-25T13:13:44.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://www.ama-assn.org/go/cpt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90660\"> </a>90660</td><td>Influenza virus vaccine, trivalent, live (LAIV3), for intranasal use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90672\"> </a>90672</td><td>Influenza virus vaccine, quadrivalent, live (LAIV4), for intranasal use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1088",
   "version": "20210224",
   "name": "Influenza Virus LAIV Procedure",
   "status": "active",
   "date": "2021-02-24T01:00:28-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ba78469b-2cf0-4d27-8b49-0ff69c97df89",
+    "timestamp": "2022-07-19T15:08:06-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90660",
+      "display": "Influenza virus vaccine, trivalent, live (LAIV3), for intranasal use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90672",
+      "display": "Influenza virus vaccine, quadrivalent, live (LAIV4), for intranasal use"
+    } ]
+  }
 }

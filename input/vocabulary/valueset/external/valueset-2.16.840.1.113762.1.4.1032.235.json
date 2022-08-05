@@ -5,12 +5,83 @@
     "versionId": "6",
     "lastUpdated": "2022-03-23T12:13:24.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 11 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103639009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103639009\">103639009</a></td><td>Atypical glandular cells of uncertain significance, probably benign (morphologic abnormality)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-125155008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=125155008\">125155008</a></td><td>Endometrial cells, cytologically benign, in a postmenopausal woman (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-126481000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=126481000119106\">126481000119106</a></td><td>Vaginal Papanicolaou smear unsatisfactory for evaluation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-412716005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=412716005\">412716005</a></td><td>Cervical smear transformation zone cells absent (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416033009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416033009\">416033009</a></td><td>Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441087007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441087007\">441087007</a></td><td>Atypical squamous cells of undetermined significance on cervical Papanicolaou smear (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441088002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441088002\">441088002</a></td><td>Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441219009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441219009\">441219009</a></td><td>Atypical glandular cells on cervical Papanicolaou smear (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447760009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447760009\">447760009</a></td><td>Endocervical adenocarcinoma in situ (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62051000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62051000119105\">62051000119105</a></td><td>Low grade squamous intraepithelial lesion on cervical Papanicolaou smear (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62061000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62061000119107\">62061000119107</a></td><td>High grade squamous intraepithelial lesion on cervical Papanicolaou smear (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.235",
   "version": "20210804",
   "name": "Abnormal results of Cervical Cytology Test",
   "status": "active",
   "date": "2021-08-04T01:00:41-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:47b5ed40-4609-4716-94d5-c2f7175ac480",
+    "timestamp": "2022-07-15T19:33:38-04:00",
+    "total": 11,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103639009",
+      "display": "Atypical glandular cells of uncertain significance, probably benign (morphologic abnormality)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "125155008",
+      "display": "Endometrial cells, cytologically benign, in a postmenopausal woman (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "126481000119106",
+      "display": "Vaginal Papanicolaou smear unsatisfactory for evaluation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "412716005",
+      "display": "Cervical smear transformation zone cells absent (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416033009",
+      "display": "Cervicovaginal cytology: High grade squamous intraepithelial lesion or carcinoma (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441087007",
+      "display": "Atypical squamous cells of undetermined significance on cervical Papanicolaou smear (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441088002",
+      "display": "Atypical squamous cells on cervical Papanicolaou smear cannot exclude high grade squamous intraepithelial lesion (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441219009",
+      "display": "Atypical glandular cells on cervical Papanicolaou smear (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447760009",
+      "display": "Endocervical adenocarcinoma in situ (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62051000119105",
+      "display": "Low grade squamous intraepithelial lesion on cervical Papanicolaou smear (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62061000119107",
+      "display": "High grade squamous intraepithelial lesion on cervical Papanicolaou smear (finding)"
+    } ]
+  }
 }

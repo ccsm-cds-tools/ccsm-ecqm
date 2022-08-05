@@ -5,12 +5,108 @@
     "versionId": "17",
     "lastUpdated": "2021-01-13T13:25:36.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105801000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105801000119103\">105801000119103</a></td><td>http://snomed.info/sct</td><td>Immunity to hepatitis A by positive serology (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111879004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111879004\">111879004</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis A without hepatic coma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16060001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16060001\">16060001</a></td><td>http://snomed.info/sct</td><td>Hepatic coma due to viral hepatitis A (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-165997004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=165997004\">165997004</a></td><td>http://snomed.info/sct</td><td>Hepatitis A test positive (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18917003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18917003\">18917003</a></td><td>http://snomed.info/sct</td><td>Acute fulminating type A viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-206373002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=206373002\">206373002</a></td><td>http://snomed.info/sct</td><td>Congenital hepatitis A infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25102003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25102003\">25102003</a></td><td>http://snomed.info/sct</td><td>Acute type A viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278971009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278971009\">278971009</a></td><td>http://snomed.info/sct</td><td>Hepatitis A immune (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310875001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310875001\">310875001</a></td><td>http://snomed.info/sct</td><td>Hepatitis A - current infection (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40468003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40468003\">40468003</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis, type A (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424758008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424758008\">424758008</a></td><td>http://snomed.info/sct</td><td>Viral hepatitis A without hepatic coma, without hepatitis delta (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428030001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428030001\">428030001</a></td><td>http://snomed.info/sct</td><td>History of hepatitis A (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43634002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43634002\">43634002</a></td><td>http://snomed.info/sct</td><td>Relapsing type A viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79031007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79031007\">79031007</a></td><td>http://snomed.info/sct</td><td>Anicteric type A viral hepatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B15.0\"> </a>B15.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatitis A with hepatic coma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B15.9\"> </a>B15.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hepatitis A without hepatic coma</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1024",
   "version": "20170504",
   "name": "Hepatitis A",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c3768a8d-4365-4102-bbba-d929c0510a60",
+    "timestamp": "2022-07-19T15:07:42-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105801000119103",
+      "display": "Immunity to hepatitis A by positive serology (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111879004",
+      "display": "Viral hepatitis A without hepatic coma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16060001",
+      "display": "Hepatic coma due to viral hepatitis A (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "165997004",
+      "display": "Hepatitis A test positive (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18917003",
+      "display": "Acute fulminating type A viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "206373002",
+      "display": "Congenital hepatitis A infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25102003",
+      "display": "Acute type A viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278971009",
+      "display": "Hepatitis A immune (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310875001",
+      "display": "Hepatitis A - current infection (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40468003",
+      "display": "Viral hepatitis, type A (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424758008",
+      "display": "Viral hepatitis A without hepatic coma, without hepatitis delta (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428030001",
+      "display": "History of hepatitis A (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43634002",
+      "display": "Relapsing type A viral hepatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79031007",
+      "display": "Anicteric type A viral hepatitis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B15.0",
+      "display": "Hepatitis A with hepatic coma"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B15.9",
+      "display": "Hepatitis A without hepatic coma"
+    } ]
+  }
 }

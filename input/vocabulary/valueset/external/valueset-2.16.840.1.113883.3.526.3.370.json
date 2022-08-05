@@ -5,12 +5,148 @@
     "versionId": "22",
     "lastUpdated": "2021-02-02T18:02:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 24 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195506001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195506001\">195506001</a></td><td>http://snomed.info/sct</td><td>Idiopathic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200113008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200113008\">200113008</a></td><td>http://snomed.info/sct</td><td>Maternal hypotension syndrome with antenatal problem (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200114002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200114002\">200114002</a></td><td>http://snomed.info/sct</td><td>Maternal hypotension syndrome with postnatal problem (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230664009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230664009\">230664009</a></td><td>http://snomed.info/sct</td><td>Sympathotonic orthostatic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234171009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234171009\">234171009</a></td><td>http://snomed.info/sct</td><td>Drug-induced hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-271870002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=271870002\">271870002</a></td><td>http://snomed.info/sct</td><td>Low blood pressure reading (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-286963007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=286963007\">286963007</a></td><td>http://snomed.info/sct</td><td>Idiopathic chronic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371073003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371073003\">371073003</a></td><td>http://snomed.info/sct</td><td>Postural orthostatic tachycardia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408667000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408667000\">408667000</a></td><td>http://snomed.info/sct</td><td>Hemodialysis-associated hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408668005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408668005\">408668005</a></td><td>http://snomed.info/sct</td><td>Iatrogenic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429561008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429561008\">429561008</a></td><td>http://snomed.info/sct</td><td>Exertional hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-45007003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=45007003\">45007003</a></td><td>http://snomed.info/sct</td><td>Low blood pressure (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61933008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61933008\">61933008</a></td><td>http://snomed.info/sct</td><td>Hyperadrenergic postural hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70247006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70247006\">70247006</a></td><td>http://snomed.info/sct</td><td>Hypoadrenergic postural hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75181005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75181005\">75181005</a></td><td>http://snomed.info/sct</td><td>Chronic orthostatic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77545000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77545000\">77545000</a></td><td>http://snomed.info/sct</td><td>Chronic hypotension (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88887003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88887003\">88887003</a></td><td>http://snomed.info/sct</td><td>Maternal hypotension syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.0\"> </a>I95.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Idiopathic hypotension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.1\"> </a>I95.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Orthostatic hypotension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.2\"> </a>I95.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotension due to drugs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.3\"> </a>I95.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotension of hemodialysis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.81\"> </a>I95.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Postprocedural hypotension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.89\"> </a>I95.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other hypotension</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I95.9\"> </a>I95.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotension, unspecified</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.370",
   "version": "20200306",
   "name": "Hypotension",
   "status": "active",
   "date": "2020-03-06T01:00:20-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:355a0164-9e47-4444-a94c-85dc424f3712",
+    "timestamp": "2022-07-19T15:13:26-04:00",
+    "total": 24,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195506001",
+      "display": "Idiopathic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200113008",
+      "display": "Maternal hypotension syndrome with antenatal problem (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200114002",
+      "display": "Maternal hypotension syndrome with postnatal problem (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230664009",
+      "display": "Sympathotonic orthostatic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234171009",
+      "display": "Drug-induced hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "271870002",
+      "display": "Low blood pressure reading (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "286963007",
+      "display": "Idiopathic chronic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371073003",
+      "display": "Postural orthostatic tachycardia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408667000",
+      "display": "Hemodialysis-associated hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408668005",
+      "display": "Iatrogenic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429561008",
+      "display": "Exertional hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "45007003",
+      "display": "Low blood pressure (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61933008",
+      "display": "Hyperadrenergic postural hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70247006",
+      "display": "Hypoadrenergic postural hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75181005",
+      "display": "Chronic orthostatic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77545000",
+      "display": "Chronic hypotension (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88887003",
+      "display": "Maternal hypotension syndrome (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.0",
+      "display": "Idiopathic hypotension"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.1",
+      "display": "Orthostatic hypotension"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.2",
+      "display": "Hypotension due to drugs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.3",
+      "display": "Hypotension of hemodialysis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.81",
+      "display": "Postprocedural hypotension"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.89",
+      "display": "Other hypotension"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I95.9",
+      "display": "Hypotension, unspecified"
+    } ]
+  }
 }

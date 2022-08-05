@@ -5,12 +5,913 @@
     "versionId": "32",
     "lastUpdated": "2022-03-02T18:02:58.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 177 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U500ZZ\"> </a>0U500ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Right Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U510ZZ\"> </a>0U510ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Left Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U520ZZ\"> </a>0U520ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Bilateral Ovaries, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U540ZZ\"> </a>0U540ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Uterine Supporting Structure, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U550ZZ\"> </a>0U550ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Right Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U557ZZ\"> </a>0U557ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Right Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U558ZZ\"> </a>0U558ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U560ZZ\"> </a>0U560ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Left Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U567ZZ\"> </a>0U567ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Left Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U568ZZ\"> </a>0U568ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U570ZZ\"> </a>0U570ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Bilateral Fallopian Tubes, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U577ZZ\"> </a>0U577ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U578ZZ\"> </a>0U578ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U800ZZ\"> </a>0U800ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Division of Right Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U810ZZ\"> </a>0U810ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Division of Left Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U820ZZ\"> </a>0U820ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Division of Bilateral Ovaries, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0U840ZZ\"> </a>0U840ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Division of Uterine Supporting Structure, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB00ZZ\"> </a>0UB00ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB07ZZ\"> </a>0UB07ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Ovary, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB08ZZ\"> </a>0UB08ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB10ZZ\"> </a>0UB10ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB17ZZ\"> </a>0UB17ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Ovary, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB18ZZ\"> </a>0UB18ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB20ZZ\"> </a>0UB20ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Ovaries, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB27ZZ\"> </a>0UB27ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Ovaries, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB28ZZ\"> </a>0UB28ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB40ZZ\"> </a>0UB40ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Uterine Supporting Structure, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB47ZZ\"> </a>0UB47ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Uterine Supporting Structure, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB48ZZ\"> </a>0UB48ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB50ZZ\"> </a>0UB50ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB57ZZ\"> </a>0UB57ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB58ZZ\"> </a>0UB58ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB60ZZ\"> </a>0UB60ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB67ZZ\"> </a>0UB67ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB68ZZ\"> </a>0UB68ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB70ZZ\"> </a>0UB70ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Fallopian Tubes, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB77ZZ\"> </a>0UB77ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UB78ZZ\"> </a>0UB78ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT00ZZ\"> </a>0UT00ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT07ZZ\"> </a>0UT07ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Ovary, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT08ZZ\"> </a>0UT08ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Ovary, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT10ZZ\"> </a>0UT10ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Ovary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT17ZZ\"> </a>0UT17ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Ovary, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT18ZZ\"> </a>0UT18ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Ovary, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT20ZZ\"> </a>0UT20ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Ovaries, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT27ZZ\"> </a>0UT27ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Ovaries, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT28ZZ\"> </a>0UT28ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT40ZZ\"> </a>0UT40ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterine Supporting Structure, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT47ZZ\"> </a>0UT47ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterine Supporting Structure, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT48ZZ\"> </a>0UT48ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT50ZZ\"> </a>0UT50ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT57ZZ\"> </a>0UT57ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT58ZZ\"> </a>0UT58ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT60ZZ\"> </a>0UT60ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Fallopian Tube, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT67ZZ\"> </a>0UT67ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Fallopian Tube, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT68ZZ\"> </a>0UT68ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT70ZZ\"> </a>0UT70ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Fallopian Tubes, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT77ZZ\"> </a>0UT77ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT78ZZ\"> </a>0UT78ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT90ZZ\"> </a>0UT90ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterus, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT97ZZ\"> </a>0UT97ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterus, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UT98ZZ\"> </a>0UT98ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Uterus, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UTC0ZZ\"> </a>0UTC0ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Cervix, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UTC7ZZ\"> </a>0UTC7ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Cervix, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0UTC8ZZ\"> </a>0UTC8ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Cervix, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-10T20ZZ\"> </a>10T20ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Products of Conception, Ectopic, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-10T27ZZ\"> </a>10T27ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-10T28ZZ\"> </a>10T28ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112918004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112918004\">112918004</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with colpo-urethrocystopexy, Marshall-Marchetti-Krantz type (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116028008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116028008\">116028008</a></td><td>http://snomed.info/sct</td><td>Salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116141005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116141005\">116141005</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116142003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116142003\">116142003</a></td><td>http://snomed.info/sct</td><td>Radical hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116143008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116143008\">116143008</a></td><td>http://snomed.info/sct</td><td>Total abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116144002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116144002\">116144002</a></td><td>http://snomed.info/sct</td><td>Total abdominal hysterectomy with bilateral salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116167000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116167000\">116167000</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of ovary in fragments (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-116173004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=116173004\">116173004</a></td><td>http://snomed.info/sct</td><td>Wedge resection of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-118865002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=118865002\">118865002</a></td><td>http://snomed.info/sct</td><td>Procedure on round ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-120053002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=120053002\">120053002</a></td><td>http://snomed.info/sct</td><td>Fallopian tube excision (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-120064004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=120064004\">120064004</a></td><td>http://snomed.info/sct</td><td>Ovary destructive procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13254001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13254001\">13254001</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy with colpo-urethrocystopexy, Marshall-Marchetti-Krantz type (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15306005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15306005\">15306005</a></td><td>http://snomed.info/sct</td><td>Electrocoagulation of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1689004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1689004\">1689004</a></td><td>http://snomed.info/sct</td><td>Local excision of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176914002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176914002\">176914002</a></td><td>http://snomed.info/sct</td><td>Right salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176915001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176915001\">176915001</a></td><td>http://snomed.info/sct</td><td>Left salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176916000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176916000\">176916000</a></td><td>http://snomed.info/sct</td><td>Right salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176917009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176917009\">176917009</a></td><td>http://snomed.info/sct</td><td>Left salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-177018009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=177018009\">177018009</a></td><td>http://snomed.info/sct</td><td>Open destruction of lesion of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-177019001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=177019001\">177019001</a></td><td>http://snomed.info/sct</td><td>Open cauterization of lesion of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-177046006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=177046006\">177046006</a></td><td>http://snomed.info/sct</td><td>Endoscopic extirpation of lesion of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-177055009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=177055009\">177055009</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of broad ligament of uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-177056005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=177056005\">177056005</a></td><td>http://snomed.info/sct</td><td>Destruction of lesion of broad ligament of uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-214173000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=214173000\">214173000</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of uterine ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-223306006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=223306006\">223306006</a></td><td>http://snomed.info/sct</td><td>Electrocoagulation of broad ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22699007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22699007\">22699007</a></td><td>http://snomed.info/sct</td><td>Partial salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23575009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23575009\">23575009</a></td><td>http://snomed.info/sct</td><td>Local destruction of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236889009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236889009\">236889009</a></td><td>http://snomed.info/sct</td><td>Laparoscopic supracervical hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236932009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236932009\">236932009</a></td><td>http://snomed.info/sct</td><td>Multicauterization of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236935006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236935006\">236935006</a></td><td>http://snomed.info/sct</td><td>Evacuation of broad ligament hematoma (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236987005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236987005\">236987005</a></td><td>http://snomed.info/sct</td><td>Emergency cesarean hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236988000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236988000\">236988000</a></td><td>http://snomed.info/sct</td><td>Elective cesarean hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25344002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25344002\">25344002</a></td><td>http://snomed.info/sct</td><td>Fimbriectomy of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25811000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25811000\">25811000</a></td><td>http://snomed.info/sct</td><td>Total excision of bilateral fallopian tubes (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265056007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265056007\">265056007</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27185000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27185000\">27185000</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with partial colpectomy and repair of enterocele (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276189003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276189003\">276189003</a></td><td>http://snomed.info/sct</td><td>Excision of broad ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287931008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287931008\">287931008</a></td><td>http://snomed.info/sct</td><td>Fallopian tube cornual resection (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287935004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287935004\">287935004</a></td><td>http://snomed.info/sct</td><td>Partial excision of bilateral fallopian tubes (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287945002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287945002\">287945002</a></td><td>http://snomed.info/sct</td><td>Resection of bilateral fallopian tubes (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29529008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29529008\">29529008</a></td><td>http://snomed.info/sct</td><td>Supracervical hysterectomy with removal of both tubes and ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29672006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29672006\">29672006</a></td><td>http://snomed.info/sct</td><td>Partial oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29827000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29827000\">29827000</a></td><td>http://snomed.info/sct</td><td>Excision of bilateral fallopian tubes and ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-300897007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=300897007\">300897007</a></td><td>http://snomed.info/sct</td><td>Total salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30160001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30160001\">30160001</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with total colpectomy and repair of enterocele (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30172007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30172007\">30172007</a></td><td>http://snomed.info/sct</td><td>Electrocoagulation of round ligament of uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302190000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302190000\">302190000</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy and right salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302191001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302191001\">302191001</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy and left salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302376006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302376006\">302376006</a></td><td>http://snomed.info/sct</td><td>Right oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302377002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302377002\">302377002</a></td><td>http://snomed.info/sct</td><td>Left oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307771009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307771009\">307771009</a></td><td>http://snomed.info/sct</td><td>Radical abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309879006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309879006\">309879006</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterocolpectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309880009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309880009\">309880009</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterocolpectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315059002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315059002\">315059002</a></td><td>http://snomed.info/sct</td><td>Laparoscopic salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315060007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315060007\">315060007</a></td><td>http://snomed.info/sct</td><td>Open salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33015000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33015000\">33015000</a></td><td>http://snomed.info/sct</td><td>Laparoscopy with fulguration of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35887003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35887003\">35887003</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35955002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35955002\">35955002</a></td><td>http://snomed.info/sct</td><td>Radical vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359971002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359971002\">359971002</a></td><td>http://snomed.info/sct</td><td>Ward-Mayo operation for vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359974005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359974005\">359974005</a></td><td>http://snomed.info/sct</td><td>Tuffier operation for vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359977003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359977003\">359977003</a></td><td>http://snomed.info/sct</td><td>Mayo operation for vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359980002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359980002\">359980002</a></td><td>http://snomed.info/sct</td><td>Vaginal panhysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359983000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359983000\">359983000</a></td><td>http://snomed.info/sct</td><td>Heaney operation for vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361222003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361222003\">361222003</a></td><td>http://snomed.info/sct</td><td>Wertheim-Meigs abdominal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361223008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361223008\">361223008</a></td><td>http://snomed.info/sct</td><td>Wertheim operation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387739000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387739000\">387739000</a></td><td>http://snomed.info/sct</td><td>Enucleation of ovarian cyst (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387740003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387740003\">387740003</a></td><td>http://snomed.info/sct</td><td>Removal of ovarian cyst (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387741004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387741004\">387741004</a></td><td>http://snomed.info/sct</td><td>Excision of cyst of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41058005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41058005\">41058005</a></td><td>http://snomed.info/sct</td><td>Salpingectomy for tubal ectopic pregnancy by abdominal approach (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41059002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41059002\">41059002</a></td><td>http://snomed.info/sct</td><td>Cesarean hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413144006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413144006\">413144006</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy with conservation of ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413145007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413145007\">413145007</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with conservation of ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41393008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41393008\">41393008</a></td><td>http://snomed.info/sct</td><td>Excision of cyst of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414575003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414575003\">414575003</a></td><td>http://snomed.info/sct</td><td>Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42349006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42349006\">42349006</a></td><td>http://snomed.info/sct</td><td>Excision of cyst of broad ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431316002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431316002\">431316002</a></td><td>http://snomed.info/sct</td><td>Laparoscopic subtotal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43791001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43791001\">43791001</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with total colpectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441820006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441820006\">441820006</a></td><td>http://snomed.info/sct</td><td>Laparoscopy assisted vaginal hysterectomy with bilateral salpingo-oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4443002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4443002\">4443002</a></td><td>http://snomed.info/sct</td><td>Decortication of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445912000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445912000\">445912000</a></td><td>http://snomed.info/sct</td><td>Excision of fallopian tube and surgical removal of ectopic pregnancy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44619000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44619000\">44619000</a></td><td>http://snomed.info/sct</td><td>Wedge resection of bilateral ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446446002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446446002\">446446002</a></td><td>http://snomed.info/sct</td><td>Total abdominal hysterectomy and removal of vaginal cuff (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-446526009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=446526009\">446526009</a></td><td>http://snomed.info/sct</td><td>Debulking of neoplasm of ovary (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-447771005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=447771005\">447771005</a></td><td>http://snomed.info/sct</td><td>Abdominal hysterectomy and excision of periuterine tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44793005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44793005\">44793005</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448539002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448539002\">448539002</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy and excision of periuterine tissue (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47045001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47045001\">47045001</a></td><td>http://snomed.info/sct</td><td>Excision of lesion of round ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49493009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49493009\">49493009</a></td><td>http://snomed.info/sct</td><td>Resection of cornua of bilateral fallopian tubes (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54080001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54080001\">54080001</a></td><td>http://snomed.info/sct</td><td>Cauterization of broad ligament of uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54490004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54490004\">54490004</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with repair of enterocele (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60158005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60158005\">60158005</a></td><td>http://snomed.info/sct</td><td>Bisection of bilateral ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62692004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62692004\">62692004</a></td><td>http://snomed.info/sct</td><td>Partial salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63516002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63516002\">63516002</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with colpo-urethrocystopexy, Pereyra type (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63596003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63596003\">63596003</a></td><td>http://snomed.info/sct</td><td>Laparoscopic treatment of ectopic pregnancy with salpingectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-66169000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=66169000\">66169000</a></td><td>http://snomed.info/sct</td><td>Excision of hydrocele of round ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71225000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71225000\">71225000</a></td><td>http://snomed.info/sct</td><td>Excision of uterine ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75835007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75835007\">75835007</a></td><td>http://snomed.info/sct</td><td>Laparoscopic-assisted vaginal hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76876009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76876009\">76876009</a></td><td>http://snomed.info/sct</td><td>Excision of bilateral ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77902002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77902002\">77902002</a></td><td>http://snomed.info/sct</td><td>Vaginal hysterectomy with partial colpectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-784191009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=784191009\">784191009</a></td><td>http://snomed.info/sct</td><td>Classic intrafascial supracervical hysterectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82269004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82269004\">82269004</a></td><td>http://snomed.info/sct</td><td>Cauterization of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83152002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83152002\">83152002</a></td><td>http://snomed.info/sct</td><td>Oophorectomy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83416007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83416007\">83416007</a></td><td>http://snomed.info/sct</td><td>Cauterization of round ligament of uterus (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84093003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84093003\">84093003</a></td><td>http://snomed.info/sct</td><td>Electrocoagulation of fallopian tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8550006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8550006\">8550006</a></td><td>http://snomed.info/sct</td><td>Partial bilateral salpingectomy for sterilization (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85855000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85855000\">85855000</a></td><td>http://snomed.info/sct</td><td>Partial bilateral salpingectomy for sterilization by endoscopy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86477000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86477000\">86477000</a></td><td>http://snomed.info/sct</td><td>Total hysterectomy with removal of both tubes and ovaries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87102007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87102007\">87102007</a></td><td>http://snomed.info/sct</td><td>Excision of round ligament (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89325008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89325008\">89325008</a></td><td>http://snomed.info/sct</td><td>Cauterization of ovary (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.257",
   "version": "20210220",
   "name": "Gynecological Surgery",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ef4c2fee-5093-4046-a148-31d24a88b6e2",
+    "timestamp": "2022-07-19T15:05:49-04:00",
+    "total": 177,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U500ZZ",
+      "display": "Destruction of Right Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U510ZZ",
+      "display": "Destruction of Left Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U520ZZ",
+      "display": "Destruction of Bilateral Ovaries, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U540ZZ",
+      "display": "Destruction of Uterine Supporting Structure, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U550ZZ",
+      "display": "Destruction of Right Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U557ZZ",
+      "display": "Destruction of Right Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U558ZZ",
+      "display": "Destruction of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U560ZZ",
+      "display": "Destruction of Left Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U567ZZ",
+      "display": "Destruction of Left Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U568ZZ",
+      "display": "Destruction of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U570ZZ",
+      "display": "Destruction of Bilateral Fallopian Tubes, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U577ZZ",
+      "display": "Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U578ZZ",
+      "display": "Destruction of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U800ZZ",
+      "display": "Division of Right Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U810ZZ",
+      "display": "Division of Left Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U820ZZ",
+      "display": "Division of Bilateral Ovaries, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0U840ZZ",
+      "display": "Division of Uterine Supporting Structure, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB00ZZ",
+      "display": "Excision of Right Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB07ZZ",
+      "display": "Excision of Right Ovary, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB08ZZ",
+      "display": "Excision of Right Ovary, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB10ZZ",
+      "display": "Excision of Left Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB17ZZ",
+      "display": "Excision of Left Ovary, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB18ZZ",
+      "display": "Excision of Left Ovary, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB20ZZ",
+      "display": "Excision of Bilateral Ovaries, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB27ZZ",
+      "display": "Excision of Bilateral Ovaries, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB28ZZ",
+      "display": "Excision of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB40ZZ",
+      "display": "Excision of Uterine Supporting Structure, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB47ZZ",
+      "display": "Excision of Uterine Supporting Structure, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB48ZZ",
+      "display": "Excision of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB50ZZ",
+      "display": "Excision of Right Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB57ZZ",
+      "display": "Excision of Right Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB58ZZ",
+      "display": "Excision of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB60ZZ",
+      "display": "Excision of Left Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB67ZZ",
+      "display": "Excision of Left Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB68ZZ",
+      "display": "Excision of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB70ZZ",
+      "display": "Excision of Bilateral Fallopian Tubes, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB77ZZ",
+      "display": "Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UB78ZZ",
+      "display": "Excision of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT00ZZ",
+      "display": "Resection of Right Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT07ZZ",
+      "display": "Resection of Right Ovary, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT08ZZ",
+      "display": "Resection of Right Ovary, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT10ZZ",
+      "display": "Resection of Left Ovary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT17ZZ",
+      "display": "Resection of Left Ovary, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT18ZZ",
+      "display": "Resection of Left Ovary, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT20ZZ",
+      "display": "Resection of Bilateral Ovaries, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT27ZZ",
+      "display": "Resection of Bilateral Ovaries, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT28ZZ",
+      "display": "Resection of Bilateral Ovaries, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT40ZZ",
+      "display": "Resection of Uterine Supporting Structure, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT47ZZ",
+      "display": "Resection of Uterine Supporting Structure, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT48ZZ",
+      "display": "Resection of Uterine Supporting Structure, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT50ZZ",
+      "display": "Resection of Right Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT57ZZ",
+      "display": "Resection of Right Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT58ZZ",
+      "display": "Resection of Right Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT60ZZ",
+      "display": "Resection of Left Fallopian Tube, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT67ZZ",
+      "display": "Resection of Left Fallopian Tube, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT68ZZ",
+      "display": "Resection of Left Fallopian Tube, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT70ZZ",
+      "display": "Resection of Bilateral Fallopian Tubes, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT77ZZ",
+      "display": "Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT78ZZ",
+      "display": "Resection of Bilateral Fallopian Tubes, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT90ZZ",
+      "display": "Resection of Uterus, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT97ZZ",
+      "display": "Resection of Uterus, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UT98ZZ",
+      "display": "Resection of Uterus, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UTC0ZZ",
+      "display": "Resection of Cervix, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UTC7ZZ",
+      "display": "Resection of Cervix, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0UTC8ZZ",
+      "display": "Resection of Cervix, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "10T20ZZ",
+      "display": "Resection of Products of Conception, Ectopic, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "10T27ZZ",
+      "display": "Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "10T28ZZ",
+      "display": "Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112918004",
+      "display": "Vaginal hysterectomy with colpo-urethrocystopexy, Marshall-Marchetti-Krantz type (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116028008",
+      "display": "Salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116141005",
+      "display": "Abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116142003",
+      "display": "Radical hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116143008",
+      "display": "Total abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116144002",
+      "display": "Total abdominal hysterectomy with bilateral salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116167000",
+      "display": "Excision of lesion of ovary in fragments (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "116173004",
+      "display": "Wedge resection of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "118865002",
+      "display": "Procedure on round ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "120053002",
+      "display": "Fallopian tube excision (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "120064004",
+      "display": "Ovary destructive procedure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13254001",
+      "display": "Abdominal hysterectomy with colpo-urethrocystopexy, Marshall-Marchetti-Krantz type (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15306005",
+      "display": "Electrocoagulation of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1689004",
+      "display": "Local excision of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176914002",
+      "display": "Right salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176915001",
+      "display": "Left salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176916000",
+      "display": "Right salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176917009",
+      "display": "Left salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "177018009",
+      "display": "Open destruction of lesion of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "177019001",
+      "display": "Open cauterization of lesion of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "177046006",
+      "display": "Endoscopic extirpation of lesion of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "177055009",
+      "display": "Excision of lesion of broad ligament of uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "177056005",
+      "display": "Destruction of lesion of broad ligament of uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "214173000",
+      "display": "Excision of lesion of uterine ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "223306006",
+      "display": "Electrocoagulation of broad ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22699007",
+      "display": "Partial salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23575009",
+      "display": "Local destruction of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236889009",
+      "display": "Laparoscopic supracervical hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236932009",
+      "display": "Multicauterization of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236935006",
+      "display": "Evacuation of broad ligament hematoma (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236987005",
+      "display": "Emergency cesarean hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236988000",
+      "display": "Elective cesarean hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25344002",
+      "display": "Fimbriectomy of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25811000",
+      "display": "Total excision of bilateral fallopian tubes (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265056007",
+      "display": "Vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27185000",
+      "display": "Vaginal hysterectomy with partial colpectomy and repair of enterocele (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276189003",
+      "display": "Excision of broad ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287931008",
+      "display": "Fallopian tube cornual resection (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287935004",
+      "display": "Partial excision of bilateral fallopian tubes (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287945002",
+      "display": "Resection of bilateral fallopian tubes (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29529008",
+      "display": "Supracervical hysterectomy with removal of both tubes and ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29672006",
+      "display": "Partial oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29827000",
+      "display": "Excision of bilateral fallopian tubes and ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "300897007",
+      "display": "Total salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30160001",
+      "display": "Vaginal hysterectomy with total colpectomy and repair of enterocele (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30172007",
+      "display": "Electrocoagulation of round ligament of uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302190000",
+      "display": "Abdominal hysterectomy and right salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302191001",
+      "display": "Abdominal hysterectomy and left salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302376006",
+      "display": "Right oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302377002",
+      "display": "Left oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307771009",
+      "display": "Radical abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309879006",
+      "display": "Abdominal hysterocolpectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309880009",
+      "display": "Vaginal hysterocolpectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315059002",
+      "display": "Laparoscopic salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315060007",
+      "display": "Open salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33015000",
+      "display": "Laparoscopy with fulguration of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35887003",
+      "display": "Excision of lesion of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35955002",
+      "display": "Radical vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359971002",
+      "display": "Ward-Mayo operation for vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359974005",
+      "display": "Tuffier operation for vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359977003",
+      "display": "Mayo operation for vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359980002",
+      "display": "Vaginal panhysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359983000",
+      "display": "Heaney operation for vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361222003",
+      "display": "Wertheim-Meigs abdominal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361223008",
+      "display": "Wertheim operation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387739000",
+      "display": "Enucleation of ovarian cyst (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387740003",
+      "display": "Removal of ovarian cyst (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387741004",
+      "display": "Excision of cyst of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41058005",
+      "display": "Salpingectomy for tubal ectopic pregnancy by abdominal approach (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41059002",
+      "display": "Cesarean hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413144006",
+      "display": "Abdominal hysterectomy with conservation of ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413145007",
+      "display": "Vaginal hysterectomy with conservation of ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41393008",
+      "display": "Excision of cyst of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414575003",
+      "display": "Laparoscopic total abdominal hysterectomy and bilateral salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42349006",
+      "display": "Excision of cyst of broad ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431316002",
+      "display": "Laparoscopic subtotal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43791001",
+      "display": "Vaginal hysterectomy with total colpectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441820006",
+      "display": "Laparoscopy assisted vaginal hysterectomy with bilateral salpingo-oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4443002",
+      "display": "Decortication of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445912000",
+      "display": "Excision of fallopian tube and surgical removal of ectopic pregnancy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44619000",
+      "display": "Wedge resection of bilateral ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446446002",
+      "display": "Total abdominal hysterectomy and removal of vaginal cuff (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "446526009",
+      "display": "Debulking of neoplasm of ovary (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "447771005",
+      "display": "Abdominal hysterectomy and excision of periuterine tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44793005",
+      "display": "Excision of lesion of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448539002",
+      "display": "Vaginal hysterectomy and excision of periuterine tissue (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47045001",
+      "display": "Excision of lesion of round ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49493009",
+      "display": "Resection of cornua of bilateral fallopian tubes (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54080001",
+      "display": "Cauterization of broad ligament of uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54490004",
+      "display": "Vaginal hysterectomy with repair of enterocele (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60158005",
+      "display": "Bisection of bilateral ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62692004",
+      "display": "Partial salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63516002",
+      "display": "Vaginal hysterectomy with colpo-urethrocystopexy, Pereyra type (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63596003",
+      "display": "Laparoscopic treatment of ectopic pregnancy with salpingectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "66169000",
+      "display": "Excision of hydrocele of round ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71225000",
+      "display": "Excision of uterine ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75835007",
+      "display": "Laparoscopic-assisted vaginal hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76876009",
+      "display": "Excision of bilateral ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77902002",
+      "display": "Vaginal hysterectomy with partial colpectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "784191009",
+      "display": "Classic intrafascial supracervical hysterectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82269004",
+      "display": "Cauterization of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83152002",
+      "display": "Oophorectomy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83416007",
+      "display": "Cauterization of round ligament of uterus (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84093003",
+      "display": "Electrocoagulation of fallopian tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8550006",
+      "display": "Partial bilateral salpingectomy for sterilization (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85855000",
+      "display": "Partial bilateral salpingectomy for sterilization by endoscopy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86477000",
+      "display": "Total hysterectomy with removal of both tubes and ovaries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87102007",
+      "display": "Excision of round ligament (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89325008",
+      "display": "Cauterization of ovary (procedure)"
+    } ]
+  }
 }

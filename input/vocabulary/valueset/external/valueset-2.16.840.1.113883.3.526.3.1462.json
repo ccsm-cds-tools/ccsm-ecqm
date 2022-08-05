@@ -5,12 +5,138 @@
     "versionId": "29",
     "lastUpdated": "2021-02-14T01:00:31.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 22 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193466003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193466003\">193466003</a></td><td>http://snomed.info/sct</td><td>Partial circumpapillary choroid dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19871000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19871000\">19871000</a></td><td>http://snomed.info/sct</td><td>Total generalized choroidal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231996009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231996009\">231996009</a></td><td>http://snomed.info/sct</td><td>Central areolar choroidal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231997000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231997000\">231997000</a></td><td>http://snomed.info/sct</td><td>Peripapillary choroidal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247200005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247200005\">247200005</a></td><td>http://snomed.info/sct</td><td>Choroidal atrophy (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24950005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24950005\">24950005</a></td><td>http://snomed.info/sct</td><td>Partial generalized choroidal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312918002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312918002\">312918002</a></td><td>http://snomed.info/sct</td><td>Choroidal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314467007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314467007\">314467007</a></td><td>http://snomed.info/sct</td><td>Gyrate atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-41250005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=41250005\">41250005</a></td><td>http://snomed.info/sct</td><td>Diffuse choroidal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59753003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59753003\">59753003</a></td><td>http://snomed.info/sct</td><td>Total circumpapillary dystrophy of choroid (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-715984007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=715984007\">715984007</a></td><td>http://snomed.info/sct</td><td>Cerebellar ataxia with hypogonadism and choroidal dystrophy syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-717761005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=717761005\">717761005</a></td><td>http://snomed.info/sct</td><td>Choroideremia with deafness and obesity syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720850008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720850008\">720850008</a></td><td>http://snomed.info/sct</td><td>Choroidal atrophy and alopecia syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733110004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733110004\">733110004</a></td><td>http://snomed.info/sct</td><td>Van den Bosch syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74469006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74469006\">74469006</a></td><td>http://snomed.info/sct</td><td>Hereditary choroidal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75241009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75241009\">75241009</a></td><td>http://snomed.info/sct</td><td>Choroideremia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-92820007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=92820007\">92820007</a></td><td>http://snomed.info/sct</td><td>Circumpapillary dystrophy of choroid (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.20\"> </a>H31.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hereditary choroidal dystrophy, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.21\"> </a>H31.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Choroideremia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.22\"> </a>H31.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Choroidal dystrophy (central areolar) (generalized) (peripapillary)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.23\"> </a>H31.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Gyrate atrophy, choroid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H31.29\"> </a>H31.29</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other hereditary choroidal dystrophy</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1462",
   "version": "20210214",
   "name": "Hereditary Choroidal Dystrophies",
   "status": "active",
   "date": "2021-02-14T01:00:31-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:06d742fb-13a8-44bf-b3f8-c9a29a7ace8b",
+    "timestamp": "2022-07-19T15:12:31-04:00",
+    "total": 22,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193466003",
+      "display": "Partial circumpapillary choroid dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19871000",
+      "display": "Total generalized choroidal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231996009",
+      "display": "Central areolar choroidal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231997000",
+      "display": "Peripapillary choroidal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247200005",
+      "display": "Choroidal atrophy (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24950005",
+      "display": "Partial generalized choroidal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312918002",
+      "display": "Choroidal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314467007",
+      "display": "Gyrate atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "41250005",
+      "display": "Diffuse choroidal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59753003",
+      "display": "Total circumpapillary dystrophy of choroid (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "715984007",
+      "display": "Cerebellar ataxia with hypogonadism and choroidal dystrophy syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "717761005",
+      "display": "Choroideremia with deafness and obesity syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720850008",
+      "display": "Choroidal atrophy and alopecia syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733110004",
+      "display": "Van den Bosch syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74469006",
+      "display": "Hereditary choroidal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75241009",
+      "display": "Choroideremia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "92820007",
+      "display": "Circumpapillary dystrophy of choroid (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.20",
+      "display": "Hereditary choroidal dystrophy, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.21",
+      "display": "Choroideremia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.22",
+      "display": "Choroidal dystrophy (central areolar) (generalized) (peripapillary)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.23",
+      "display": "Gyrate atrophy, choroid"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H31.29",
+      "display": "Other hereditary choroidal dystrophy"
+    } ]
+  }
 }

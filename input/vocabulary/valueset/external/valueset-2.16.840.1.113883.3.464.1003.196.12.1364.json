@@ -5,12 +5,88 @@
     "versionId": "2",
     "lastUpdated": "2021-02-02T15:51:28.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 12 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665459\"> </a>1665459</td><td>2 ML ketorolac tromethamine 30 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665461\"> </a>1665461</td><td>1 ML ketorolac tromethamine 30 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665675\"> </a>1665675</td><td>1 ML ketorolac tromethamine 15 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665679\"> </a>1665679</td><td>1 ML ketorolac tromethamine 30 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1665682\"> </a>1665682</td><td>2 ML ketorolac tromethamine 30 MG/ML Cartridge</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-1797855\"> </a>1797855</td><td>ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-834022\"> </a>834022</td><td>ketorolac tromethamine 10 MG Oral Tablet</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860092\"> </a>860092</td><td>1 ML ketorolac tromethamine 15 MG/ML Injection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860096\"> </a>860096</td><td>ketorolac tromethamine 30 MG/ML Injectable Solution</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860113\"> </a>860113</td><td>1 ML ketorolac tromethamine 15 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860114\"> </a>860114</td><td>1 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-860115\"> </a>860115</td><td>2 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1364",
   "version": "20170504",
   "name": "Ketorolac Tromethamine",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e9902087-3b8d-481d-abd6-41c5c08f8ad5",
+    "timestamp": "2022-07-19T15:09:47-04:00",
+    "total": 12,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665459",
+      "display": "2 ML ketorolac tromethamine 30 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665461",
+      "display": "1 ML ketorolac tromethamine 30 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665675",
+      "display": "1 ML ketorolac tromethamine 15 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665679",
+      "display": "1 ML ketorolac tromethamine 30 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1665682",
+      "display": "2 ML ketorolac tromethamine 30 MG/ML Cartridge"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "1797855",
+      "display": "ketorolac tromethamine 15.8 MG/ACTUAT Metered Dose Nasal Spray"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "834022",
+      "display": "ketorolac tromethamine 10 MG Oral Tablet"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860092",
+      "display": "1 ML ketorolac tromethamine 15 MG/ML Injection"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860096",
+      "display": "ketorolac tromethamine 30 MG/ML Injectable Solution"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860113",
+      "display": "1 ML ketorolac tromethamine 15 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860114",
+      "display": "1 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "860115",
+      "display": "2 ML ketorolac tromethamine 30 MG/ML Prefilled Syringe"
+    } ]
+  }
 }

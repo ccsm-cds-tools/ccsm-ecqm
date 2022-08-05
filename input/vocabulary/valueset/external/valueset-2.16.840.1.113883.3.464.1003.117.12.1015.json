@@ -5,12 +5,328 @@
     "versionId": "9",
     "lastUpdated": "2021-01-13T15:12:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 60 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-190255006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=190255006\">190255006</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis from ectopic thyroid nodule with no crisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-190256007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=190256007\">190256007</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis from ectopic thyroid nodule with crisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193214009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193214009\">193214009</a></td><td>http://snomed.info/sct</td><td>Myasthenic syndrome due to thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-22350004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=22350004\">22350004</a></td><td>http://snomed.info/sct</td><td>T&gt;3&lt; thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237499004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237499004\">237499004</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to Graves' disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237501007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237501007\">237501007</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to acute thyroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237503005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237503005\">237503005</a></td><td>http://snomed.info/sct</td><td>Borderline thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237505003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237505003\">237505003</a></td><td>http://snomed.info/sct</td><td>Apathetic thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237506002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237506002\">237506002</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis in pregnancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237507006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237507006\">237507006</a></td><td>http://snomed.info/sct</td><td>Human chorionic gonadotrophin-induced thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237508001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237508001\">237508001</a></td><td>http://snomed.info/sct</td><td>Iatrogenic thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237509009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237509009\">237509009</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis on thyroxine therapy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237510004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237510004\">237510004</a></td><td>http://snomed.info/sct</td><td>Iodine-induced thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237512007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237512007\">237512007</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to thyrotropin-secreting pituitary adenoma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-237538007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=237538007\">237538007</a></td><td>http://snomed.info/sct</td><td>Chronic thyroiditis with transient thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.00\"> </a>242.00</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic diffuse goiter without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.01\"> </a>242.01</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic diffuse goiter with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.10\"> </a>242.10</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic uninodular goiter without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.11\"> </a>242.11</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic uninodular goiter with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.20\"> </a>242.20</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic multinodular goiter without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.21\"> </a>242.21</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic multinodular goiter with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.30\"> </a>242.30</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic nodular goiter, unspecified type, without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.31\"> </a>242.31</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Toxic nodular goiter, unspecified type, with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.40\"> </a>242.40</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.41\"> </a>242.41</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.80\"> </a>242.80</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.81\"> </a>242.81</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis of other specified origin with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.90\"> </a>242.90</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-242.91\"> </a>242.91</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25008002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25008002\">25008002</a></td><td>http://snomed.info/sct</td><td>Hyperthyroidism due to struma ovarii (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26389007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26389007\">26389007</a></td><td>http://snomed.info/sct</td><td>Toxic multinodular goiter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267374005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267374005\">267374005</a></td><td>http://snomed.info/sct</td><td>Toxic diffuse goiter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27538003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27538003\">27538003</a></td><td>http://snomed.info/sct</td><td>Hyperthyroidism with Hashimoto disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-286909009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=286909009\">286909009</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis with or without goiter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-360353005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=360353005\">360353005</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to pituitary thyroid hormone resistance (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-360358001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=360358001\">360358001</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to overproduction of thyroid stimulating hormone (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-360361000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=360361000\">360361000</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis due to inappropriate thyroid stimulating hormone secretion (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431588009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431588009\">431588009</a></td><td>http://snomed.info/sct</td><td>Radionuclide iodine 131 therapy for thyrotoxicosis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4997005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4997005\">4997005</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis factitia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62052002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62052002\">62052002</a></td><td>http://snomed.info/sct</td><td>Hyperthyroidism caused by amiodarone (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68437005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68437005\">68437005</a></td><td>http://snomed.info/sct</td><td>Thyrotoxic myopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-73869005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=73869005\">73869005</a></td><td>http://snomed.info/sct</td><td>Toxic uninodular goiter (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87232008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87232008\">87232008</a></td><td>http://snomed.info/sct</td><td>Hyperthyroidism due to ectopic thyroid nodule (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88740003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88740003\">88740003</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis factitia with thyrotoxic crisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-89719007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=89719007\">89719007</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis without goiter or other cause (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90739004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90739004\">90739004</a></td><td>http://snomed.info/sct</td><td>Thyrotoxicosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.00\"> </a>E05.00</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.01\"> </a>E05.01</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.10\"> </a>E05.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.11\"> </a>E05.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.20\"> </a>E05.20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.21\"> </a>E05.21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.30\"> </a>E05.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.31\"> </a>E05.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.40\"> </a>E05.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis factitia without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.41\"> </a>E05.41</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis factitia with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.80\"> </a>E05.80</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other thyrotoxicosis without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.81\"> </a>E05.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other thyrotoxicosis with thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.90\"> </a>E05.90</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis, unspecified without thyrotoxic crisis or storm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E05.91\"> </a>E05.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thyrotoxicosis, unspecified with thyrotoxic crisis or storm</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.117.12.1015",
   "version": "20180310",
   "name": "Hyperthyroidism",
   "status": "active",
   "date": "2018-03-10T01:00:08-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7c8124ac-b7d8-4b89-b7e5-340452e83859",
+    "timestamp": "2022-07-19T15:08:35-04:00",
+    "total": 60,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "190255006",
+      "display": "Thyrotoxicosis from ectopic thyroid nodule with no crisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "190256007",
+      "display": "Thyrotoxicosis from ectopic thyroid nodule with crisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193214009",
+      "display": "Myasthenic syndrome due to thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "22350004",
+      "display": "T>3< thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237499004",
+      "display": "Thyrotoxicosis due to Graves' disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237501007",
+      "display": "Thyrotoxicosis due to acute thyroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237503005",
+      "display": "Borderline thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237505003",
+      "display": "Apathetic thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237506002",
+      "display": "Thyrotoxicosis in pregnancy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237507006",
+      "display": "Human chorionic gonadotrophin-induced thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237508001",
+      "display": "Iatrogenic thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237509009",
+      "display": "Thyrotoxicosis on thyroxine therapy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237510004",
+      "display": "Iodine-induced thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237512007",
+      "display": "Thyrotoxicosis due to thyrotropin-secreting pituitary adenoma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "237538007",
+      "display": "Chronic thyroiditis with transient thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.00",
+      "display": "Toxic diffuse goiter without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.01",
+      "display": "Toxic diffuse goiter with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.10",
+      "display": "Toxic uninodular goiter without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.11",
+      "display": "Toxic uninodular goiter with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.20",
+      "display": "Toxic multinodular goiter without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.21",
+      "display": "Toxic multinodular goiter with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.30",
+      "display": "Toxic nodular goiter, unspecified type, without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.31",
+      "display": "Toxic nodular goiter, unspecified type, with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.40",
+      "display": "Thyrotoxicosis from ectopic thyroid nodule without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.41",
+      "display": "Thyrotoxicosis from ectopic thyroid nodule with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.80",
+      "display": "Thyrotoxicosis of other specified origin without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.81",
+      "display": "Thyrotoxicosis of other specified origin with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.90",
+      "display": "Thyrotoxicosis without mention of goiter or other cause, and without mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "242.91",
+      "display": "Thyrotoxicosis without mention of goiter or other cause, with mention of thyrotoxic crisis or storm"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25008002",
+      "display": "Hyperthyroidism due to struma ovarii (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26389007",
+      "display": "Toxic multinodular goiter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267374005",
+      "display": "Toxic diffuse goiter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27538003",
+      "display": "Hyperthyroidism with Hashimoto disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "286909009",
+      "display": "Thyrotoxicosis with or without goiter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "360353005",
+      "display": "Thyrotoxicosis due to pituitary thyroid hormone resistance (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "360358001",
+      "display": "Thyrotoxicosis due to overproduction of thyroid stimulating hormone (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "360361000",
+      "display": "Thyrotoxicosis due to inappropriate thyroid stimulating hormone secretion (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431588009",
+      "display": "Radionuclide iodine 131 therapy for thyrotoxicosis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4997005",
+      "display": "Thyrotoxicosis factitia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62052002",
+      "display": "Hyperthyroidism caused by amiodarone (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68437005",
+      "display": "Thyrotoxic myopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "73869005",
+      "display": "Toxic uninodular goiter (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87232008",
+      "display": "Hyperthyroidism due to ectopic thyroid nodule (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88740003",
+      "display": "Thyrotoxicosis factitia with thyrotoxic crisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "89719007",
+      "display": "Thyrotoxicosis without goiter or other cause (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90739004",
+      "display": "Thyrotoxicosis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.00",
+      "display": "Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.01",
+      "display": "Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.10",
+      "display": "Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.11",
+      "display": "Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.20",
+      "display": "Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.21",
+      "display": "Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.30",
+      "display": "Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.31",
+      "display": "Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.40",
+      "display": "Thyrotoxicosis factitia without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.41",
+      "display": "Thyrotoxicosis factitia with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.80",
+      "display": "Other thyrotoxicosis without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.81",
+      "display": "Other thyrotoxicosis with thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.90",
+      "display": "Thyrotoxicosis, unspecified without thyrotoxic crisis or storm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E05.91",
+      "display": "Thyrotoxicosis, unspecified with thyrotoxic crisis or storm"
+    } ]
+  }
 }

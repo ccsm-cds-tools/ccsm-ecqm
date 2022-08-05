@@ -5,12 +5,93 @@
     "versionId": "22",
     "lastUpdated": "2021-03-16T18:52:16.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 13 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-254900004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=254900004\">254900004</a></td><td>http://snomed.info/sct</td><td>Carcinoma of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278060005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278060005\">278060005</a></td><td>http://snomed.info/sct</td><td>Endometrioid carcinoma of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314969001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314969001\">314969001</a></td><td>http://snomed.info/sct</td><td>Local recurrence of malignant tumor of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369485004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369485004\">369485004</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving prostate by direct extension from bladder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-369486003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=369486003\">369486003</a></td><td>http://snomed.info/sct</td><td>Malignant tumor involving prostate by separate metastasis from bladder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-396198006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=396198006\">396198006</a></td><td>http://snomed.info/sct</td><td>Small cell carcinoma of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399068003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399068003\">399068003</a></td><td>http://snomed.info/sct</td><td>Malignant tumor of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399490008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399490008\">399490008</a></td><td>http://snomed.info/sct</td><td>Adenocarcinoma of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399590005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399590005\">399590005</a></td><td>http://snomed.info/sct</td><td>Squamous cell carcinoma of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427492003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427492003\">427492003</a></td><td>http://snomed.info/sct</td><td>Hormone refractory prostate cancer (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-93974005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=93974005\">93974005</a></td><td>http://snomed.info/sct</td><td>Primary malignant neoplasm of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-94503003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=94503003\">94503003</a></td><td>http://snomed.info/sct</td><td>Secondary malignant neoplasm of prostate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-C61\"> </a>C61</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Malignant neoplasm of prostate</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.319",
   "version": "20200306",
   "name": "Prostate Cancer",
   "status": "active",
   "date": "2020-03-06T01:00:20-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:edef1e7c-ef6d-43da-8f75-c8b69c8c3e2a",
+    "timestamp": "2022-07-19T15:13:17-04:00",
+    "total": 13,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "254900004",
+      "display": "Carcinoma of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278060005",
+      "display": "Endometrioid carcinoma of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314969001",
+      "display": "Local recurrence of malignant tumor of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369485004",
+      "display": "Malignant tumor involving prostate by direct extension from bladder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "369486003",
+      "display": "Malignant tumor involving prostate by separate metastasis from bladder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "396198006",
+      "display": "Small cell carcinoma of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399068003",
+      "display": "Malignant tumor of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399490008",
+      "display": "Adenocarcinoma of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399590005",
+      "display": "Squamous cell carcinoma of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427492003",
+      "display": "Hormone refractory prostate cancer (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "93974005",
+      "display": "Primary malignant neoplasm of prostate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "94503003",
+      "display": "Secondary malignant neoplasm of prostate (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "C61",
+      "display": "Malignant neoplasm of prostate"
+    } ]
+  }
 }

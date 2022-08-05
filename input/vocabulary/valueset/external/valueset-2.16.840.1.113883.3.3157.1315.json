@@ -5,12 +5,58 @@
     "versionId": "9",
     "lastUpdated": "2020-07-15T01:00:42.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><p>All codes from system <code>http://www.ama-assn.org/go/cpt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57452\"> </a>57452</td><td>Colposcopy of the cervix including upper/adjacent vagina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57454\"> </a>57454</td><td>Colposcopy of the cervix including upper/adjacent vagina; with biopsy(s) of the cervix and endocervical curettage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57455\"> </a>57455</td><td>Colposcopy of the cervix including upper/adjacent vagina; with biopsy(s) of the cervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57456\"> </a>57456</td><td>Colposcopy of the cervix including upper/adjacent vagina; with endocervical curettage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57460\"> </a>57460</td><td>Colposcopy of the cervix including upper/adjacent vagina; with loop electrode biopsy(s) of the cervix</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-57461\"> </a>57461</td><td>Colposcopy of the cervix including upper/adjacent vagina; with loop electrode conization of the cervix</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3157.1315",
   "version": "20200715",
   "name": "Surgery Female Genital System Cervix Uteri",
   "status": "active",
   "date": "2020-07-15T01:00:42-04:00",
   "publisher": "Lewin EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:53a4654b-fc8f-48be-9739-d5c81b7cf564",
+    "timestamp": "2022-07-15T19:34:27-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57452",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57454",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina; with biopsy(s) of the cervix and endocervical curettage"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57455",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina; with biopsy(s) of the cervix"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57456",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina; with endocervical curettage"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57460",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina; with loop electrode biopsy(s) of the cervix"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "57461",
+      "display": "Colposcopy of the cervix including upper/adjacent vagina; with loop electrode conization of the cervix"
+    } ]
+  }
 }

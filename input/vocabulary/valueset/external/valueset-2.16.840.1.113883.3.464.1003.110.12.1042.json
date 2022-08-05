@@ -5,12 +5,153 @@
     "versionId": "24",
     "lastUpdated": "2022-03-02T18:04:30.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 25 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16584000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16584000\">16584000</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Hepatitis B virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170370000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170370000\">170370000</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Hepatitis B virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170371001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170371001\">170371001</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Hepatitis B virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170372008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170372008\">170372008</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Hepatitis B virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170373003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170373003\">170373003</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Hepatitis B virus antigen (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170434002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170434002\">170434002</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170435001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170435001\">170435001</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Hepatitis A and B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170436000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170436000\">170436000</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170437009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170437009\">170437009</a></td><td>http://snomed.info/sct</td><td>Administration of booster dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312868009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312868009\">312868009</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-396456003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=396456003\">396456003</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only acellular Bordetella pertussis and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E0234Z\"> </a>3E0234Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-572561000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=572561000119108\">572561000119108</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770608009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770608009\">770608009</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770616000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770616000\">770616000</a></td><td>http://snomed.info/sct</td><td>Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770617009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770617009\">770617009</a></td><td>http://snomed.info/sct</td><td>Administration of second dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-770618004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=770618004\">770618004</a></td><td>http://snomed.info/sct</td><td>Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-786846001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=786846001\">786846001</a></td><td>http://snomed.info/sct</td><td>Administration of vaccine product containing only Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90697\"> </a>90697</td><td>http://www.ama-assn.org/go/cpt</td><td>Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90723\"> </a>90723</td><td>http://www.ama-assn.org/go/cpt</td><td>Diphtheria, tetanus toxoids, acellular pertussis vaccine, hepatitis B, and inactivated poliovirus vaccine (DTaP-HepB-IPV), for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90740\"> </a>90740</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 3 dose schedule, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90744\"> </a>90744</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis B vaccine (HepB), pediatric/adolescent dosage, 3 dose schedule, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90747\"> </a>90747</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 4 dose schedule, for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90748\"> </a>90748</td><td>http://www.ama-assn.org/go/cpt</td><td>Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramuscular use</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-99.55\"> </a>99.55</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Prophylactic administration of vaccine against other diseases</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1042",
   "version": "20190315",
   "name": "Hepatitis B Vaccine Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:3edc4147-1991-4910-a42f-8bfc9696deaf",
+    "timestamp": "2022-07-19T15:07:50-04:00",
+    "total": 25,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16584000",
+      "display": "Administration of vaccine product containing only Hepatitis B virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170370000",
+      "display": "Administration of first dose of vaccine product containing only Hepatitis B virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170371001",
+      "display": "Administration of second dose of vaccine product containing only Hepatitis B virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170372008",
+      "display": "Administration of third dose of vaccine product containing only Hepatitis B virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170373003",
+      "display": "Administration of booster dose of vaccine product containing only Hepatitis B virus antigen (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170434002",
+      "display": "Administration of first dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170435001",
+      "display": "Administration of second dose of vaccine product containing only Hepatitis A and B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170436000",
+      "display": "Administration of third dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170437009",
+      "display": "Administration of booster dose of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312868009",
+      "display": "Administration of vaccine product containing only Hepatitis A and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "396456003",
+      "display": "Administration of vaccine product containing only acellular Bordetella pertussis and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E0234Z",
+      "display": "Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "572561000119108",
+      "display": "Administration of vaccine product containing only acellular Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Hepatitis B virus and inactivated whole Human poliovirus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770608009",
+      "display": "Administration of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770616000",
+      "display": "Administration of first dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770617009",
+      "display": "Administration of second dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "770618004",
+      "display": "Administration of third dose of vaccine product containing only Bordetella pertussis and Clostridium tetani and Corynebacterium diphtheriae and Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "786846001",
+      "display": "Administration of vaccine product containing only Haemophilus influenzae type B and Hepatitis B virus antigens (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90697",
+      "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, inactivated poliovirus vaccine, Haemophilus influenzae type b PRP-OMP conjugate vaccine, and hepatitis B vaccine (DTaP-IPV-Hib-HepB), for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90723",
+      "display": "Diphtheria, tetanus toxoids, acellular pertussis vaccine, hepatitis B, and inactivated poliovirus vaccine (DTaP-HepB-IPV), for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90740",
+      "display": "Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 3 dose schedule, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90744",
+      "display": "Hepatitis B vaccine (HepB), pediatric/adolescent dosage, 3 dose schedule, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90747",
+      "display": "Hepatitis B vaccine (HepB), dialysis or immunosuppressed patient dosage, 4 dose schedule, for intramuscular use"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90748",
+      "display": "Hepatitis B and Haemophilus influenzae type b vaccine (Hib-HepB), for intramuscular use"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "99.55",
+      "display": "Prophylactic administration of vaccine against other diseases"
+    } ]
+  }
 }

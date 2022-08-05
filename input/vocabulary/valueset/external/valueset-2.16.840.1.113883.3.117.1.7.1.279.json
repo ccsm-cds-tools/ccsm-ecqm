@@ -5,12 +5,568 @@
     "versionId": "46",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 108 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1001000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1001000119102\">1001000119102</a></td><td>http://snomed.info/sct</td><td>Pulmonary embolism with pulmonary infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11029002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11029002\">11029002</a></td><td>http://snomed.info/sct</td><td>Pulmonary apoplexy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128053003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128053003\">128053003</a></td><td>http://snomed.info/sct</td><td>Deep venous thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128055005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128055005\">128055005</a></td><td>http://snomed.info/sct</td><td>Deep venous thrombosis of pelvic vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-132251000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=132251000119101\">132251000119101</a></td><td>http://snomed.info/sct</td><td>Acute deep venous thrombosis of popliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-132291000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=132291000119106\">132291000119106</a></td><td>http://snomed.info/sct</td><td>Acute deep venous thrombosis of femoral vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-132301000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=132301000119107\">132301000119107</a></td><td>http://snomed.info/sct</td><td>Acute deep venous thrombosis of iliofemoral vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-134399007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=134399007\">134399007</a></td><td>http://snomed.info/sct</td><td>Deep vein thrombosis of leg related to air travel (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16750002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16750002\">16750002</a></td><td>http://snomed.info/sct</td><td>Deep thrombophlebitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1748006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1748006\">1748006</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of deep femoral vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194883006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194883006\">194883006</a></td><td>http://snomed.info/sct</td><td>Postoperative pulmonary embolus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195405004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195405004\">195405004</a></td><td>http://snomed.info/sct</td><td>Phlebitis of popliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195408002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195408002\">195408002</a></td><td>http://snomed.info/sct</td><td>Phlebitis of the posterior tibial vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195410000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195410000\">195410000</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of the femoral vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195411001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195411001\">195411001</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of the popliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195421009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195421009\">195421009</a></td><td>http://snomed.info/sct</td><td>Phlebitis of the common iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195422002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195422002\">195422002</a></td><td>http://snomed.info/sct</td><td>Phlebitis of the internal iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195423007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195423007\">195423007</a></td><td>http://snomed.info/sct</td><td>Phlebitis of the external iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195425000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195425000\">195425000</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of the common iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195426004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195426004\">195426004</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of the internal iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195427008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195427008\">195427008</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of the external iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195437003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195437003\">195437003</a></td><td>http://snomed.info/sct</td><td>Embolism and thrombosis of the vena cava (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-213220000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=213220000\">213220000</a></td><td>http://snomed.info/sct</td><td>Postoperative deep vein thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233935004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233935004\">233935004</a></td><td>http://snomed.info/sct</td><td>Pulmonary thromboembolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233936003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233936003\">233936003</a></td><td>http://snomed.info/sct</td><td>Acute massive pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234044007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234044007\">234044007</a></td><td>http://snomed.info/sct</td><td>Iliofemoral deep vein thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-234049002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=234049002\">234049002</a></td><td>http://snomed.info/sct</td><td>Venous embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-25114006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=25114006\">25114006</a></td><td>http://snomed.info/sct</td><td>Phlebitis of deep veins of lower extremity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281595001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281595001\">281595001</a></td><td>http://snomed.info/sct</td><td>Thrombosis of inferior vena cava (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312584000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312584000\">312584000</a></td><td>http://snomed.info/sct</td><td>Thrombosis of vein of trunk (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312588002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312588002\">312588002</a></td><td>http://snomed.info/sct</td><td>Phlebitis of lower limb vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31295000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31295000\">31295000</a></td><td>http://snomed.info/sct</td><td>Phlebitis of iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35979000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35979000\">35979000</a></td><td>http://snomed.info/sct</td><td>Phlebitis of femoropopliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40198004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40198004\">40198004</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of deep veins of lower extremity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404223003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404223003\">404223003</a></td><td>http://snomed.info/sct</td><td>Deep venous thrombosis of lower extremity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427775006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427775006\">427775006</a></td><td>http://snomed.info/sct</td><td>Deep venous thrombosis of profunda femoris vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427776007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427776007\">427776007</a></td><td>http://snomed.info/sct</td><td>Thrombosis of the popliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42861008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42861008\">42861008</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of iliac vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429098002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429098002\">429098002</a></td><td>http://snomed.info/sct</td><td>Thromboembolism of vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441746000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441746000\">441746000</a></td><td>http://snomed.info/sct</td><td>Infarction of lung due to iatrogenic pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444325005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444325005\">444325005</a></td><td>http://snomed.info/sct</td><td>Deep vein thrombosis of bilateral lower extremities (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-46253008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=46253008\">46253008</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of lower extremities (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50817002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50817002\">50817002</a></td><td>http://snomed.info/sct</td><td>Embolism of vena cava (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52496006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52496006\">52496006</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of femoropopliteal vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57834008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57834008\">57834008</a></td><td>http://snomed.info/sct</td><td>Pulmonary artery thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58309001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58309001\">58309001</a></td><td>http://snomed.info/sct</td><td>Phlebitis of tibial vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59282003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59282003\">59282003</a></td><td>http://snomed.info/sct</td><td>Pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64662007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64662007\">64662007</a></td><td>http://snomed.info/sct</td><td>Pulmonary infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69357003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69357003\">69357003</a></td><td>http://snomed.info/sct</td><td>Pulmonary thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7387004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7387004\">7387004</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of tibial vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74315008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74315008\">74315008</a></td><td>http://snomed.info/sct</td><td>Pulmonary microemboli (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77892009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77892009\">77892009</a></td><td>http://snomed.info/sct</td><td>Pulmonary venous thrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83727005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83727005\">83727005</a></td><td>http://snomed.info/sct</td><td>Hemorrhagic pulmonary infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83938003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83938003\">83938003</a></td><td>http://snomed.info/sct</td><td>Thrombosis of vena cava (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95448006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95448006\">95448006</a></td><td>http://snomed.info/sct</td><td>Thrombosis of pelvic vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95449003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95449003\">95449003</a></td><td>http://snomed.info/sct</td><td>Thrombophlebitis of pelvic vein (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.02\"> </a>I26.02</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Saddle embolus of pulmonary artery with acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.09\"> </a>I26.09</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other pulmonary embolism with acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.92\"> </a>I26.92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Saddle embolus of pulmonary artery without acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.93\"> </a>I26.93</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Single subsegmental pulmonary embolism without acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.94\"> </a>I26.94</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Multiple subsegmental pulmonary emboli without acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I26.99\"> </a>I26.99</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other pulmonary embolism without acute cor pulmonale</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.10\"> </a>I80.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.11\"> </a>I80.11</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of right femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.12\"> </a>I80.12</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of left femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.13\"> </a>I80.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of femoral vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.201\"> </a>I80.201</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.202\"> </a>I80.202</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.203\"> </a>I80.203</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.209\"> </a>I80.209</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.211\"> </a>I80.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of right iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.212\"> </a>I80.212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of left iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.213\"> </a>I80.213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of iliac vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.219\"> </a>I80.219</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.221\"> </a>I80.221</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of right popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.222\"> </a>I80.222</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of left popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.223\"> </a>I80.223</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of popliteal vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.229\"> </a>I80.229</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.291\"> </a>I80.291</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of other deep vessels of right lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.292\"> </a>I80.292</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of other deep vessels of left lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.293\"> </a>I80.293</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.299\"> </a>I80.299</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.3\"> </a>I80.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of lower extremities, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I80.9\"> </a>I80.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Phlebitis and thrombophlebitis of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.220\"> </a>I82.220</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of inferior vena cava</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.290\"> </a>I82.290</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of other thoracic veins</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.401\"> </a>I82.401</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of right lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.402\"> </a>I82.402</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of left lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.403\"> </a>I82.403</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.409\"> </a>I82.409</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.411\"> </a>I82.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of right femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.412\"> </a>I82.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of left femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.413\"> </a>I82.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of femoral vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.419\"> </a>I82.419</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified femoral vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.421\"> </a>I82.421</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of right iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.422\"> </a>I82.422</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of left iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.423\"> </a>I82.423</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of iliac vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.429\"> </a>I82.429</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified iliac vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.431\"> </a>I82.431</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of right popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.432\"> </a>I82.432</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of left popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.433\"> </a>I82.433</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of popliteal vein, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.439\"> </a>I82.439</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified popliteal vein</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.4Y1\"> </a>I82.4Y1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.4Y2\"> </a>I82.4Y2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.4Y3\"> </a>I82.4Y3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.4Y9\"> </a>I82.4Y9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.890\"> </a>I82.890</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of other specified veins</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I82.90\"> </a>I82.90</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Acute embolism and thrombosis of unspecified vein</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.279",
   "version": "20210220",
   "name": "Venous Thromboembolism",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f2c7f66d-4d48-470f-a6bb-91f4c4808c7e",
+    "timestamp": "2022-07-19T15:05:59-04:00",
+    "total": 108,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1001000119102",
+      "display": "Pulmonary embolism with pulmonary infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11029002",
+      "display": "Pulmonary apoplexy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128053003",
+      "display": "Deep venous thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128055005",
+      "display": "Deep venous thrombosis of pelvic vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "132251000119101",
+      "display": "Acute deep venous thrombosis of popliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "132291000119106",
+      "display": "Acute deep venous thrombosis of femoral vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "132301000119107",
+      "display": "Acute deep venous thrombosis of iliofemoral vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "134399007",
+      "display": "Deep vein thrombosis of leg related to air travel (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16750002",
+      "display": "Deep thrombophlebitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1748006",
+      "display": "Thrombophlebitis of deep femoral vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194883006",
+      "display": "Postoperative pulmonary embolus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195405004",
+      "display": "Phlebitis of popliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195408002",
+      "display": "Phlebitis of the posterior tibial vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195410000",
+      "display": "Thrombophlebitis of the femoral vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195411001",
+      "display": "Thrombophlebitis of the popliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195421009",
+      "display": "Phlebitis of the common iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195422002",
+      "display": "Phlebitis of the internal iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195423007",
+      "display": "Phlebitis of the external iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195425000",
+      "display": "Thrombophlebitis of the common iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195426004",
+      "display": "Thrombophlebitis of the internal iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195427008",
+      "display": "Thrombophlebitis of the external iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195437003",
+      "display": "Embolism and thrombosis of the vena cava (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "213220000",
+      "display": "Postoperative deep vein thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233935004",
+      "display": "Pulmonary thromboembolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233936003",
+      "display": "Acute massive pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234044007",
+      "display": "Iliofemoral deep vein thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "234049002",
+      "display": "Venous embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "25114006",
+      "display": "Phlebitis of deep veins of lower extremity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281595001",
+      "display": "Thrombosis of inferior vena cava (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312584000",
+      "display": "Thrombosis of vein of trunk (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312588002",
+      "display": "Phlebitis of lower limb vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31295000",
+      "display": "Phlebitis of iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35979000",
+      "display": "Phlebitis of femoropopliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40198004",
+      "display": "Thrombophlebitis of deep veins of lower extremity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404223003",
+      "display": "Deep venous thrombosis of lower extremity (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427775006",
+      "display": "Deep venous thrombosis of profunda femoris vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427776007",
+      "display": "Thrombosis of the popliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42861008",
+      "display": "Thrombophlebitis of iliac vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429098002",
+      "display": "Thromboembolism of vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441746000",
+      "display": "Infarction of lung due to iatrogenic pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444325005",
+      "display": "Deep vein thrombosis of bilateral lower extremities (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "46253008",
+      "display": "Thrombophlebitis of lower extremities (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50817002",
+      "display": "Embolism of vena cava (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52496006",
+      "display": "Thrombophlebitis of femoropopliteal vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57834008",
+      "display": "Pulmonary artery thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58309001",
+      "display": "Phlebitis of tibial vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59282003",
+      "display": "Pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64662007",
+      "display": "Pulmonary infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69357003",
+      "display": "Pulmonary thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7387004",
+      "display": "Thrombophlebitis of tibial vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74315008",
+      "display": "Pulmonary microemboli (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77892009",
+      "display": "Pulmonary venous thrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83727005",
+      "display": "Hemorrhagic pulmonary infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83938003",
+      "display": "Thrombosis of vena cava (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95448006",
+      "display": "Thrombosis of pelvic vein (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95449003",
+      "display": "Thrombophlebitis of pelvic vein (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.02",
+      "display": "Saddle embolus of pulmonary artery with acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.09",
+      "display": "Other pulmonary embolism with acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.92",
+      "display": "Saddle embolus of pulmonary artery without acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.93",
+      "display": "Single subsegmental pulmonary embolism without acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.94",
+      "display": "Multiple subsegmental pulmonary emboli without acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I26.99",
+      "display": "Other pulmonary embolism without acute cor pulmonale"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.10",
+      "display": "Phlebitis and thrombophlebitis of unspecified femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.11",
+      "display": "Phlebitis and thrombophlebitis of right femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.12",
+      "display": "Phlebitis and thrombophlebitis of left femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.13",
+      "display": "Phlebitis and thrombophlebitis of femoral vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.201",
+      "display": "Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.202",
+      "display": "Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.203",
+      "display": "Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.209",
+      "display": "Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.211",
+      "display": "Phlebitis and thrombophlebitis of right iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.212",
+      "display": "Phlebitis and thrombophlebitis of left iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.213",
+      "display": "Phlebitis and thrombophlebitis of iliac vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.219",
+      "display": "Phlebitis and thrombophlebitis of unspecified iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.221",
+      "display": "Phlebitis and thrombophlebitis of right popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.222",
+      "display": "Phlebitis and thrombophlebitis of left popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.223",
+      "display": "Phlebitis and thrombophlebitis of popliteal vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.229",
+      "display": "Phlebitis and thrombophlebitis of unspecified popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.291",
+      "display": "Phlebitis and thrombophlebitis of other deep vessels of right lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.292",
+      "display": "Phlebitis and thrombophlebitis of other deep vessels of left lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.293",
+      "display": "Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.299",
+      "display": "Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.3",
+      "display": "Phlebitis and thrombophlebitis of lower extremities, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I80.9",
+      "display": "Phlebitis and thrombophlebitis of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.220",
+      "display": "Acute embolism and thrombosis of inferior vena cava"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.290",
+      "display": "Acute embolism and thrombosis of other thoracic veins"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.401",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of right lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.402",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of left lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.403",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.409",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.411",
+      "display": "Acute embolism and thrombosis of right femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.412",
+      "display": "Acute embolism and thrombosis of left femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.413",
+      "display": "Acute embolism and thrombosis of femoral vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.419",
+      "display": "Acute embolism and thrombosis of unspecified femoral vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.421",
+      "display": "Acute embolism and thrombosis of right iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.422",
+      "display": "Acute embolism and thrombosis of left iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.423",
+      "display": "Acute embolism and thrombosis of iliac vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.429",
+      "display": "Acute embolism and thrombosis of unspecified iliac vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.431",
+      "display": "Acute embolism and thrombosis of right popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.432",
+      "display": "Acute embolism and thrombosis of left popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.433",
+      "display": "Acute embolism and thrombosis of popliteal vein, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.439",
+      "display": "Acute embolism and thrombosis of unspecified popliteal vein"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.4Y1",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.4Y2",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.4Y3",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.4Y9",
+      "display": "Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.890",
+      "display": "Acute embolism and thrombosis of other specified veins"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I82.90",
+      "display": "Acute embolism and thrombosis of unspecified vein"
+    } ]
+  }
 }

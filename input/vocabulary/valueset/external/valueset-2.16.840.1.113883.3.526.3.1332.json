@@ -5,12 +5,38 @@
     "versionId": "23",
     "lastUpdated": "2022-03-02T18:03:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-113024001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=113024001\">113024001</a></td><td>Assessment and interpretation of higher cerebral function, cognitive testing (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4719001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4719001\">4719001</a></td><td>Psychologic cognitive testing and assessment (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1332",
   "version": "20170504",
   "name": "Cognitive Assessment",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Academy of Neurology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4849935c-a23e-4ac6-8fc7-b5c15a4d5380",
+    "timestamp": "2022-07-19T15:11:51-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "113024001",
+      "display": "Assessment and interpretation of higher cerebral function, cognitive testing (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4719001",
+      "display": "Psychologic cognitive testing and assessment (procedure)"
+    } ]
+  }
 }

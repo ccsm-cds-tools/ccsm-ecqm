@@ -5,12 +5,33 @@
     "versionId": "29",
     "lastUpdated": "2021-03-17T16:12:35.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442023007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442023007\">442023007</a></td><td>Venous foot pump, device (physical object)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.230",
   "version": "20210220",
   "name": "Venous foot pumps (VFP)",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5b8266a8-6c0e-486d-babf-7e0277cbfcfe",
+    "timestamp": "2022-07-19T15:05:43-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442023007",
+      "display": "Venous foot pump, device (physical object)"
+    } ]
+  }
 }

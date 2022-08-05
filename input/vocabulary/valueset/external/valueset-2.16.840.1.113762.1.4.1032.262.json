@@ -5,12 +5,38 @@
     "versionId": "5",
     "lastUpdated": "2022-03-29T01:02:20.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-165324008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=165324008\">165324008</a></td><td>Biopsy result normal (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309162003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309162003\">309162003</a></td><td>Normal histology findings (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.262",
   "version": "20220329",
   "name": "Normal Histology Finding",
   "status": "active",
   "date": "2022-03-29T01:02:20-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6e6040b8-729e-45c5-bad7-1cbd352eb0f2",
+    "timestamp": "2022-07-15T19:50:54-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "165324008",
+      "display": "Biopsy result normal (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309162003",
+      "display": "Normal histology findings (finding)"
+    } ]
+  }
 }

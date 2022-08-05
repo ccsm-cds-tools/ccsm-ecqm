@@ -5,12 +5,53 @@
     "versionId": "20",
     "lastUpdated": "2022-03-02T18:05:56.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-3137-7\"> </a><a href=\"http://details.loinc.org/LOINC/3137-7.html\">3137-7</a></td><td>Body height Measured</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8302-2\"> </a><a href=\"http://details.loinc.org/LOINC/8302-2.html\">8302-2</a></td><td>Body height</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8306-3\"> </a><a href=\"http://details.loinc.org/LOINC/8306-3.html\">8306-3</a></td><td>Body height --lying</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8307-1\"> </a><a href=\"http://details.loinc.org/LOINC/8307-1.html\">8307-1</a></td><td>Body height --preoperative</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8308-9\"> </a><a href=\"http://details.loinc.org/LOINC/8308-9.html\">8308-9</a></td><td>Body height --standing</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.121.12.1014",
   "version": "20170504",
   "name": "Height",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:dad6ac8f-4299-46dc-9cb8-4a299b989923",
+    "timestamp": "2022-07-19T15:08:44-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "3137-7",
+      "display": "Body height Measured"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8302-2",
+      "display": "Body height"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8306-3",
+      "display": "Body height --lying"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8307-1",
+      "display": "Body height --preoperative"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8308-9",
+      "display": "Body height --standing"
+    } ]
+  }
 }

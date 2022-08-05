@@ -5,12 +5,53 @@
     "versionId": "37",
     "lastUpdated": "2021-03-17T15:59:25.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-34714-6\"> </a><a href=\"http://details.loinc.org/LOINC/34714-6.html\">34714-6</a></td><td>INR in Blood by Coagulation assay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-38875-1\"> </a><a href=\"http://details.loinc.org/LOINC/38875-1.html\">38875-1</a></td><td>INR in Platelet poor plasma or blood by Coagulation assay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46418-0\"> </a><a href=\"http://details.loinc.org/LOINC/46418-0.html\">46418-0</a></td><td>INR in Capillary blood by Coagulation assay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-52129-4\"> </a><a href=\"http://details.loinc.org/LOINC/52129-4.html\">52129-4</a></td><td>INR in Platelet poor plasma by Coagulation assay --post heparin neutralization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6301-6\"> </a><a href=\"http://details.loinc.org/LOINC/6301-6.html\">6301-6</a></td><td>INR in Platelet poor plasma by Coagulation assay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.213",
   "version": "20210220",
   "name": "INR",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4682ad27-ab9c-4666-be23-86c1f8647e90",
+    "timestamp": "2022-07-19T15:05:35-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "34714-6",
+      "display": "INR in Blood by Coagulation assay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "38875-1",
+      "display": "INR in Platelet poor plasma or blood by Coagulation assay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46418-0",
+      "display": "INR in Capillary blood by Coagulation assay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "52129-4",
+      "display": "INR in Platelet poor plasma by Coagulation assay --post heparin neutralization"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6301-6",
+      "display": "INR in Platelet poor plasma by Coagulation assay"
+    } ]
+  }
 }

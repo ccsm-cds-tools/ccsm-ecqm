@@ -5,12 +5,668 @@
     "versionId": "17",
     "lastUpdated": "2021-02-22T01:00:19.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 128 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-042\"> </a>042</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Human immunodeficiency virus [HIV] disease</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-079.53\"> </a>079.53</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Human immunodeficiency virus, type 2 [HIV-2]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10755671000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10755671000119100\">10755671000119100</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus in mother complicating childbirth (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111880001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111880001\">111880001</a></td><td>http://snomed.info/sct</td><td>Acute human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186706006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186706006\">186706006</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection constitutional disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186707002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186707002\">186707002</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection with neurological disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186708007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186708007\">186708007</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection with secondary clinical infectious disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230180003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230180003\">230180003</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus leukoencephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230598008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230598008\">230598008</a></td><td>http://snomed.info/sct</td><td>Neuropathy caused by human immunodeficiency virus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-235726002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=235726002\">235726002</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus enteropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-236406007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=236406007\">236406007</a></td><td>http://snomed.info/sct</td><td>Acquired immune deficiency syndrome-related nephropathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240103002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240103002\">240103002</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus myopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276665006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276665006\">276665006</a></td><td>http://snomed.info/sct</td><td>Congenital acquired immune deficiency syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281388009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281388009\">281388009</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus-related sclerosing cholangitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315019000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315019000\">315019000</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection with aseptic meningitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397763006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397763006\">397763006</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus encephalopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398329009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398329009\">398329009</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus encephalitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-402901009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402901009\">402901009</a></td><td>http://snomed.info/sct</td><td>Oral hairy leukoplakia associated with human immunodeficiency virus disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405631006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405631006\">405631006</a></td><td>http://snomed.info/sct</td><td>Pediatric human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-40780007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=40780007\">40780007</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus I infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414376003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414376003\">414376003</a></td><td>http://snomed.info/sct</td><td>Hairy leukoplakia of tongue associated with human immunodeficiency virus disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414604009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414604009\">414604009</a></td><td>http://snomed.info/sct</td><td>Leukoplakia of tongue associated with human immunodeficiency virus disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420721002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420721002\">420721002</a></td><td>http://snomed.info/sct</td><td>Acquired immunodeficiency syndrome-associated disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442134007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442134007\">442134007</a></td><td>http://snomed.info/sct</td><td>Hepatitis B associated with Human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442537007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442537007\">442537007</a></td><td>http://snomed.info/sct</td><td>Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48794007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48794007\">48794007</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection with infectious mononucleosis-like syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-52079000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=52079000\">52079000</a></td><td>http://snomed.info/sct</td><td>Congenital human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62479008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62479008\">62479008</a></td><td>http://snomed.info/sct</td><td>Acquired immune deficiency syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713260006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713260006\">713260006</a></td><td>http://snomed.info/sct</td><td>Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713275003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713275003\">713275003</a></td><td>http://snomed.info/sct</td><td>Splenomegaly co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713278001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713278001\">713278001</a></td><td>http://snomed.info/sct</td><td>Neuralgia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713297001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713297001\">713297001</a></td><td>http://snomed.info/sct</td><td>Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713298006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713298006\">713298006</a></td><td>http://snomed.info/sct</td><td>Heart disease co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713299003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713299003\">713299003</a></td><td>http://snomed.info/sct</td><td>Disorder of eye proper co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713300006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713300006\">713300006</a></td><td>http://snomed.info/sct</td><td>Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713316008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713316008\">713316008</a></td><td>http://snomed.info/sct</td><td>Eruption of skin co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713318009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713318009\">713318009</a></td><td>http://snomed.info/sct</td><td>Myocarditis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713320007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713320007\">713320007</a></td><td>http://snomed.info/sct</td><td>Radiculitis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713325002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713325002\">713325002</a></td><td>http://snomed.info/sct</td><td>Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713339002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713339002\">713339002</a></td><td>http://snomed.info/sct</td><td>Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713340000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713340000\">713340000</a></td><td>http://snomed.info/sct</td><td>Disorder of skin co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713341001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713341001\">713341001</a></td><td>http://snomed.info/sct</td><td>Myelitis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713342008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713342008\">713342008</a></td><td>http://snomed.info/sct</td><td>Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713349004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713349004\">713349004</a></td><td>http://snomed.info/sct</td><td>Anemia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713444005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713444005\">713444005</a></td><td>http://snomed.info/sct</td><td>Hemophagocytic syndrome with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713445006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713445006\">713445006</a></td><td>http://snomed.info/sct</td><td>Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713446007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713446007\">713446007</a></td><td>http://snomed.info/sct</td><td>Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713483007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713483007\">713483007</a></td><td>http://snomed.info/sct</td><td>Reticulosarcoma co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713484001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713484001\">713484001</a></td><td>http://snomed.info/sct</td><td>Disorder of respiratory system co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713487008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713487008\">713487008</a></td><td>http://snomed.info/sct</td><td>Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713488003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713488003\">713488003</a></td><td>http://snomed.info/sct</td><td>Presenile dementia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713489006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713489006\">713489006</a></td><td>http://snomed.info/sct</td><td>Polyneuropathy co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713490002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713490002\">713490002</a></td><td>http://snomed.info/sct</td><td>Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713491003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713491003\">713491003</a></td><td>http://snomed.info/sct</td><td>Organic brain syndrome co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713497004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713497004\">713497004</a></td><td>http://snomed.info/sct</td><td>Candidiasis of mouth co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713503007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713503007\">713503007</a></td><td>http://snomed.info/sct</td><td>Disorder of spinal cord co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713504001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713504001\">713504001</a></td><td>http://snomed.info/sct</td><td>Disorder of kidney co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713505000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713505000\">713505000</a></td><td>http://snomed.info/sct</td><td>Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713506004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713506004\">713506004</a></td><td>http://snomed.info/sct</td><td>Neuritis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713507008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713507008\">713507008</a></td><td>http://snomed.info/sct</td><td>Lymphadenopathy co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713508003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713508003\">713508003</a></td><td>http://snomed.info/sct</td><td>Aplastic anemia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713510001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713510001\">713510001</a></td><td>http://snomed.info/sct</td><td>Enlargement of liver co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713511002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713511002\">713511002</a></td><td>http://snomed.info/sct</td><td>Acute endocarditis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713523008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713523008\">713523008</a></td><td>http://snomed.info/sct</td><td>Cardiomyopathy co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713526000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713526000\">713526000</a></td><td>http://snomed.info/sct</td><td>Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713527009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713527009\">713527009</a></td><td>http://snomed.info/sct</td><td>Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713530002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713530002\">713530002</a></td><td>http://snomed.info/sct</td><td>Agranulocytosis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713531003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713531003\">713531003</a></td><td>http://snomed.info/sct</td><td>Visual impairment co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713532005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713532005\">713532005</a></td><td>http://snomed.info/sct</td><td>Infective arthritis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713533000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713533000\">713533000</a></td><td>http://snomed.info/sct</td><td>Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713543002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713543002\">713543002</a></td><td>http://snomed.info/sct</td><td>Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713544008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713544008\">713544008</a></td><td>http://snomed.info/sct</td><td>Bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713545009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713545009\">713545009</a></td><td>http://snomed.info/sct</td><td>Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713546005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713546005\">713546005</a></td><td>http://snomed.info/sct</td><td>Isosporiasis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713570009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713570009\">713570009</a></td><td>http://snomed.info/sct</td><td>Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713571008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713571008\">713571008</a></td><td>http://snomed.info/sct</td><td>Disorder of central nervous system co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713572001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713572001\">713572001</a></td><td>http://snomed.info/sct</td><td>Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713695001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713695001\">713695001</a></td><td>http://snomed.info/sct</td><td>Nephrotic syndrome co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713696000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713696000\">713696000</a></td><td>http://snomed.info/sct</td><td>Renal failure syndrome co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713718006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713718006\">713718006</a></td><td>http://snomed.info/sct</td><td>Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713722001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713722001\">713722001</a></td><td>http://snomed.info/sct</td><td>Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713729005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713729005\">713729005</a></td><td>http://snomed.info/sct</td><td>Infection caused by Coccidia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713730000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713730000\">713730000</a></td><td>http://snomed.info/sct</td><td>Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713731001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713731001\">713731001</a></td><td>http://snomed.info/sct</td><td>Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713732008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713732008\">713732008</a></td><td>http://snomed.info/sct</td><td>Infection caused by Aspergillus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713733003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713733003\">713733003</a></td><td>http://snomed.info/sct</td><td>Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713734009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713734009\">713734009</a></td><td>http://snomed.info/sct</td><td>Infection caused by Dermatophyte co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713844000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713844000\">713844000</a></td><td>http://snomed.info/sct</td><td>Dementia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713845004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713845004\">713845004</a></td><td>http://snomed.info/sct</td><td>Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713880000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713880000\">713880000</a></td><td>http://snomed.info/sct</td><td>Opportunistic mycosis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713881001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713881001\">713881001</a></td><td>http://snomed.info/sct</td><td>Infection caused by Microsporidia co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713887002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713887002\">713887002</a></td><td>http://snomed.info/sct</td><td>Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713897006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713897006\">713897006</a></td><td>http://snomed.info/sct</td><td>Burkitt lymphoma co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713964006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713964006\">713964006</a></td><td>http://snomed.info/sct</td><td>Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713967004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713967004\">713967004</a></td><td>http://snomed.info/sct</td><td>Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-714083007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=714083007\">714083007</a></td><td>http://snomed.info/sct</td><td>Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-714464009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=714464009\">714464009</a></td><td>http://snomed.info/sct</td><td>Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733834006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733834006\">733834006</a></td><td>http://snomed.info/sct</td><td>Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733835007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733835007\">733835007</a></td><td>http://snomed.info/sct</td><td>Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79019005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79019005\">79019005</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus II infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-795.71\"> </a>795.71</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Nonspecific serologic evidence of human immunodeficiency virus [HIV]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81000119104\">81000119104</a></td><td>http://snomed.info/sct</td><td>Symptomatic human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838338001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838338001\">838338001</a></td><td>http://snomed.info/sct</td><td>Bacterial infection due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-838377003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=838377003\">838377003</a></td><td>http://snomed.info/sct</td><td>Chronic hepatitis C co-occurrent with human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-840442003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=840442003\">840442003</a></td><td>http://snomed.info/sct</td><td>Encephalitis caused by human immunodeficiency virus type 2 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-840498003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=840498003\">840498003</a></td><td>http://snomed.info/sct</td><td>Encephalitis caused by human immunodeficiency virus type 1 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860871003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860871003\">860871003</a></td><td>http://snomed.info/sct</td><td>Eosinophilic folliculitis due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-860872005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=860872005\">860872005</a></td><td>http://snomed.info/sct</td><td>Esophagitis due to human immunodeficiency virus disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86406008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86406008\">86406008</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-866044006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=866044006\">866044006</a></td><td>http://snomed.info/sct</td><td>Mycosis due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870271009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870271009\">870271009</a></td><td>http://snomed.info/sct</td><td>Pruritus due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870328002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870328002\">870328002</a></td><td>http://snomed.info/sct</td><td>Papular pruritic eruption of skin due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870344006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870344006\">870344006</a></td><td>http://snomed.info/sct</td><td>Seborrheic dermatitis due to human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87117006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87117006\">87117006</a></td><td>http://snomed.info/sct</td><td>Human immunodeficiency virus infection with acute lymphadenitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90681000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90681000119107\">90681000119107</a></td><td>http://snomed.info/sct</td><td>Asymptomatic human immunodeficiency virus A1 infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90691000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90691000119105\">90691000119105</a></td><td>http://snomed.info/sct</td><td>Asymptomatic human immunodeficiency virus A2 infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91947003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91947003\">91947003</a></td><td>http://snomed.info/sct</td><td>Asymptomatic human immunodeficiency virus infection (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-91948008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=91948008\">91948008</a></td><td>http://snomed.info/sct</td><td>Asymptomatic human immunodeficiency virus infection in pregnancy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B20\"> </a>B20</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-B97.35\"> </a>B97.35</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.711\"> </a>O98.711</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.712\"> </a>O98.712</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.713\"> </a>O98.713</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.719\"> </a>O98.719</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating pregnancy, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.72\"> </a>O98.72</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating childbirth</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O98.73\"> </a>O98.73</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Human immunodeficiency virus [HIV] disease complicating the puerperium</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-V08\"> </a>V08</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Asymptomatic human immunodeficiency virus [HIV] infection status</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z21\"> </a>Z21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Asymptomatic human immunodeficiency virus [HIV] infection status</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1056.54",
   "version": "20210222",
   "name": "Indicators of Human Immunodeficiency Virus (HIV)",
   "status": "active",
   "date": "2021-02-22T01:00:19-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:3c6b3bfd-7ff8-4e07-af8d-0d64cdb0d14d",
+    "timestamp": "2022-07-19T15:04:45-04:00",
+    "total": 128,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "042",
+      "display": "Human immunodeficiency virus [HIV] disease"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "079.53",
+      "display": "Human immunodeficiency virus, type 2 [HIV-2]"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10755671000119100",
+      "display": "Human immunodeficiency virus in mother complicating childbirth (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111880001",
+      "display": "Acute human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186706006",
+      "display": "Human immunodeficiency virus infection constitutional disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186707002",
+      "display": "Human immunodeficiency virus infection with neurological disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186708007",
+      "display": "Human immunodeficiency virus infection with secondary clinical infectious disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230180003",
+      "display": "Human immunodeficiency virus leukoencephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230598008",
+      "display": "Neuropathy caused by human immunodeficiency virus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "235726002",
+      "display": "Human immunodeficiency virus enteropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "236406007",
+      "display": "Acquired immune deficiency syndrome-related nephropathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240103002",
+      "display": "Human immunodeficiency virus myopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276665006",
+      "display": "Congenital acquired immune deficiency syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281388009",
+      "display": "Human immunodeficiency virus-related sclerosing cholangitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315019000",
+      "display": "Human immunodeficiency virus infection with aseptic meningitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397763006",
+      "display": "Human immunodeficiency virus encephalopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398329009",
+      "display": "Human immunodeficiency virus encephalitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "402901009",
+      "display": "Oral hairy leukoplakia associated with human immunodeficiency virus disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405631006",
+      "display": "Pediatric human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "40780007",
+      "display": "Human immunodeficiency virus I infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414376003",
+      "display": "Hairy leukoplakia of tongue associated with human immunodeficiency virus disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414604009",
+      "display": "Leukoplakia of tongue associated with human immunodeficiency virus disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420721002",
+      "display": "Acquired immunodeficiency syndrome-associated disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442134007",
+      "display": "Hepatitis B associated with Human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442537007",
+      "display": "Non-Hodgkin lymphoma associated with Human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48794007",
+      "display": "Human immunodeficiency virus infection with infectious mononucleosis-like syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "52079000",
+      "display": "Congenital human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62479008",
+      "display": "Acquired immune deficiency syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713260006",
+      "display": "Subacute adenoviral encephalitis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713275003",
+      "display": "Splenomegaly co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713278001",
+      "display": "Neuralgia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713297001",
+      "display": "Candidiasis of esophagus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713298006",
+      "display": "Heart disease co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713299003",
+      "display": "Disorder of eye proper co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713300006",
+      "display": "Disorder of gastrointestinal tract co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713316008",
+      "display": "Eruption of skin co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713318009",
+      "display": "Myocarditis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713320007",
+      "display": "Radiculitis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713325002",
+      "display": "Primary cerebral lymphoma co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713339002",
+      "display": "Infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713340000",
+      "display": "Disorder of skin co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713341001",
+      "display": "Myelitis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713342008",
+      "display": "Infection caused by Salmonella co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713349004",
+      "display": "Anemia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713444005",
+      "display": "Hemophagocytic syndrome with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713445006",
+      "display": "Disseminated infection caused by Strongyloides co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713446007",
+      "display": "Chronic infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713483007",
+      "display": "Reticulosarcoma co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713484001",
+      "display": "Disorder of respiratory system co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713487008",
+      "display": "Progressive multifocal leukoencephalopathy co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713488003",
+      "display": "Presenile dementia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713489006",
+      "display": "Polyneuropathy co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713490002",
+      "display": "Infection caused by Pneumocystis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713491003",
+      "display": "Organic brain syndrome co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713497004",
+      "display": "Candidiasis of mouth co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713503007",
+      "display": "Disorder of spinal cord co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713504001",
+      "display": "Disorder of kidney co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713505000",
+      "display": "Gastrointestinal malabsorption syndrome co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713506004",
+      "display": "Neuritis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713507008",
+      "display": "Lymphadenopathy co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713508003",
+      "display": "Aplastic anemia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713510001",
+      "display": "Enlargement of liver co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713511002",
+      "display": "Acute endocarditis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713523008",
+      "display": "Cardiomyopathy co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713526000",
+      "display": "Recurrent bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713527009",
+      "display": "Disorder of peripheral nervous system co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713530002",
+      "display": "Agranulocytosis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713531003",
+      "display": "Visual impairment co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713532005",
+      "display": "Infective arthritis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713533000",
+      "display": "Acquired hemolytic anemia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713543002",
+      "display": "Demyelinating disease of central nervous system co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713544008",
+      "display": "Bacterial pneumonia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713545009",
+      "display": "Infection caused by Nocardia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713546005",
+      "display": "Isosporiasis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713570009",
+      "display": "Infectious gastroenteritis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713571008",
+      "display": "Disorder of central nervous system co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713572001",
+      "display": "Malignant neoplastic disease co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713695001",
+      "display": "Nephrotic syndrome co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713696000",
+      "display": "Renal failure syndrome co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713718006",
+      "display": "Diffuse non-Hodgkin immunoblastic lymphoma co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713722001",
+      "display": "Infection caused by Cytomegalovirus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713729005",
+      "display": "Infection caused by Coccidia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713730000",
+      "display": "Infection caused by herpes simplex virus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713731001",
+      "display": "Pyrexia of unknown origin co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713732008",
+      "display": "Infection caused by Aspergillus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713733003",
+      "display": "Infection caused by herpes zoster virus co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713734009",
+      "display": "Infection caused by Dermatophyte co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713844000",
+      "display": "Dementia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713845004",
+      "display": "Infection caused by Cryptosporidium co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713880000",
+      "display": "Opportunistic mycosis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713881001",
+      "display": "Infection caused by Microsporidia co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713887002",
+      "display": "Focal segmental glomerulosclerosis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713897006",
+      "display": "Burkitt lymphoma co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713964006",
+      "display": "Multidermatomal infection caused by Herpes zoster co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713967004",
+      "display": "Disseminated atypical infection caused by Mycobacterium co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "714083007",
+      "display": "Recurrent salmonella sepsis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "714464009",
+      "display": "Immune reconstitution inflammatory syndrome caused by human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733834006",
+      "display": "Invasive carcinoma of uterine cervix co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733835007",
+      "display": "Extrapulmonary tuberculosis co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79019005",
+      "display": "Human immunodeficiency virus II infection (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "795.71",
+      "display": "Nonspecific serologic evidence of human immunodeficiency virus [HIV]"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81000119104",
+      "display": "Symptomatic human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838338001",
+      "display": "Bacterial infection due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "838377003",
+      "display": "Chronic hepatitis C co-occurrent with human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "840442003",
+      "display": "Encephalitis caused by human immunodeficiency virus type 2 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "840498003",
+      "display": "Encephalitis caused by human immunodeficiency virus type 1 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860871003",
+      "display": "Eosinophilic folliculitis due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "860872005",
+      "display": "Esophagitis due to human immunodeficiency virus disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86406008",
+      "display": "Human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "866044006",
+      "display": "Mycosis due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870271009",
+      "display": "Pruritus due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870328002",
+      "display": "Papular pruritic eruption of skin due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870344006",
+      "display": "Seborrheic dermatitis due to human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87117006",
+      "display": "Human immunodeficiency virus infection with acute lymphadenitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90681000119107",
+      "display": "Asymptomatic human immunodeficiency virus A1 infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90691000119105",
+      "display": "Asymptomatic human immunodeficiency virus A2 infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91947003",
+      "display": "Asymptomatic human immunodeficiency virus infection (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "91948008",
+      "display": "Asymptomatic human immunodeficiency virus infection in pregnancy (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B20",
+      "display": "Human immunodeficiency virus [HIV] disease"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "B97.35",
+      "display": "Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.711",
+      "display": "Human immunodeficiency virus [HIV] disease complicating pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.712",
+      "display": "Human immunodeficiency virus [HIV] disease complicating pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.713",
+      "display": "Human immunodeficiency virus [HIV] disease complicating pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.719",
+      "display": "Human immunodeficiency virus [HIV] disease complicating pregnancy, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.72",
+      "display": "Human immunodeficiency virus [HIV] disease complicating childbirth"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O98.73",
+      "display": "Human immunodeficiency virus [HIV] disease complicating the puerperium"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "V08",
+      "display": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z21",
+      "display": "Asymptomatic human immunodeficiency virus [HIV] infection status"
+    } ]
+  }
 }

@@ -5,12 +5,273 @@
     "versionId": "30",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 49 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128473001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128473001\">128473001</a></td><td>http://snomed.info/sct</td><td>Uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16553002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16553002\">16553002</a></td><td>http://snomed.info/sct</td><td>Choroiditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-186854007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=186854007\">186854007</a></td><td>http://snomed.info/sct</td><td>Uveitis due to secondary syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231947004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231947004\">231947004</a></td><td>http://snomed.info/sct</td><td>Idiopathic inflammation of anterior uveal tract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314029000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314029000\">314029000</a></td><td>http://snomed.info/sct</td><td>Tuberculous uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314429009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314429009\">314429009</a></td><td>http://snomed.info/sct</td><td>Intermediate uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-33382000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=33382000\">33382000</a></td><td>http://snomed.info/sct</td><td>Panophthalmitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336541000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336541000119107\">336541000119107</a></td><td>http://snomed.info/sct</td><td>Acute anterior uveitis of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-342151000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=342151000119100\">342151000119100</a></td><td>http://snomed.info/sct</td><td>Acute anterior uveitis of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347311000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347311000119100\">347311000119100</a></td><td>http://snomed.info/sct</td><td>Acute anterior uveitis of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398155003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398155003\">398155003</a></td><td>http://snomed.info/sct</td><td>Chronic anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410473001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410473001\">410473001</a></td><td>http://snomed.info/sct</td><td>Lyme uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410476009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410476009\">410476009</a></td><td>http://snomed.info/sct</td><td>Uveitis due to leptospirosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410477000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410477000\">410477000</a></td><td>http://snomed.info/sct</td><td>Infective uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410494003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410494003\">410494003</a></td><td>http://snomed.info/sct</td><td>Lens-induced uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410501000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410501000\">410501000</a></td><td>http://snomed.info/sct</td><td>Drug-induced uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410692006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410692006\">410692006</a></td><td>http://snomed.info/sct</td><td>Anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413716003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413716003\">413716003</a></td><td>http://snomed.info/sct</td><td>Brucellosis uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413851004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413851004\">413851004</a></td><td>http://snomed.info/sct</td><td>Cidofovir-induced anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414600000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414600000\">414600000</a></td><td>http://snomed.info/sct</td><td>Lepromatous anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414689001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414689001\">414689001</a></td><td>http://snomed.info/sct</td><td>Metipranolol-induced anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414996002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414996002\">414996002</a></td><td>http://snomed.info/sct</td><td>Pamidronic acid-induced uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415344002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415344002\">415344002</a></td><td>http://snomed.info/sct</td><td>Rifabutin-induced anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415359008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415359008\">415359008</a></td><td>http://snomed.info/sct</td><td>Sarcoid uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416666007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416666007\">416666007</a></td><td>http://snomed.info/sct</td><td>Anterior uveitis due to juvenile idiopathic arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417321001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417321001\">417321001</a></td><td>http://snomed.info/sct</td><td>Human T-cell Lymphoma Virus Type -1 associated uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418839003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418839003\">418839003</a></td><td>http://snomed.info/sct</td><td>Tubulointerstitial nephritis with uveitis syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428676003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428676003\">428676003</a></td><td>http://snomed.info/sct</td><td>Uveitis caused by ranibizumab (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43363007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43363007\">43363007</a></td><td>http://snomed.info/sct</td><td>Posterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-444248002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=444248002\">444248002</a></td><td>http://snomed.info/sct</td><td>Chronic inflammation of uveal tract (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4927003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4927003\">4927003</a></td><td>http://snomed.info/sct</td><td>Acute anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64015001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64015001\">64015001</a></td><td>http://snomed.info/sct</td><td>Subacute anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733317009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733317009\">733317009</a></td><td>http://snomed.info/sct</td><td>Primary anterior uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75315001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75315001\">75315001</a></td><td>http://snomed.info/sct</td><td>Sympathetic uveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75614007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75614007\">75614007</a></td><td>http://snomed.info/sct</td><td>Panuveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-766933000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=766933000\">766933000</a></td><td>http://snomed.info/sct</td><td>Idiopathic panuveitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870199008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870199008\">870199008</a></td><td>http://snomed.info/sct</td><td>Non-infectious uveitis of posterior segment of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870273007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870273007\">870273007</a></td><td>http://snomed.info/sct</td><td>Posterior uveitis due to late syphilis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870329005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870329005\">870329005</a></td><td>http://snomed.info/sct</td><td>Panuveitis caused by virus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870331001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870331001\">870331001</a></td><td>http://snomed.info/sct</td><td>Panuveitis caused by Treponema pallidum (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870332008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870332008\">870332008</a></td><td>http://snomed.info/sct</td><td>Panuveitis caused by Herpesvirus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870333003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870333003\">870333003</a></td><td>http://snomed.info/sct</td><td>Panuveitis caused by Mycobacterium tuberculosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-870335005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=870335005\">870335005</a></td><td>http://snomed.info/sct</td><td>Panuveitis caused by Borrelia burgdorferi (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.111\"> </a>H44.111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Panuveitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.112\"> </a>H44.112</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Panuveitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.113\"> </a>H44.113</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Panuveitis, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.131\"> </a>H44.131</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sympathetic uveitis, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.132\"> </a>H44.132</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sympathetic uveitis, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.133\"> </a>H44.133</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Sympathetic uveitis, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1444",
   "version": "20210219",
   "name": "Uveitis",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:14a501a8-04ec-4aea-acb4-c5b80b63dafc",
+    "timestamp": "2022-07-19T15:12:16-04:00",
+    "total": 49,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128473001",
+      "display": "Uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16553002",
+      "display": "Choroiditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "186854007",
+      "display": "Uveitis due to secondary syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231947004",
+      "display": "Idiopathic inflammation of anterior uveal tract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314029000",
+      "display": "Tuberculous uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314429009",
+      "display": "Intermediate uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "33382000",
+      "display": "Panophthalmitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336541000119107",
+      "display": "Acute anterior uveitis of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "342151000119100",
+      "display": "Acute anterior uveitis of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347311000119100",
+      "display": "Acute anterior uveitis of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398155003",
+      "display": "Chronic anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410473001",
+      "display": "Lyme uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410476009",
+      "display": "Uveitis due to leptospirosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410477000",
+      "display": "Infective uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410494003",
+      "display": "Lens-induced uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410501000",
+      "display": "Drug-induced uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410692006",
+      "display": "Anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413716003",
+      "display": "Brucellosis uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413851004",
+      "display": "Cidofovir-induced anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414600000",
+      "display": "Lepromatous anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414689001",
+      "display": "Metipranolol-induced anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414996002",
+      "display": "Pamidronic acid-induced uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415344002",
+      "display": "Rifabutin-induced anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415359008",
+      "display": "Sarcoid uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416666007",
+      "display": "Anterior uveitis due to juvenile idiopathic arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417321001",
+      "display": "Human T-cell Lymphoma Virus Type -1 associated uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418839003",
+      "display": "Tubulointerstitial nephritis with uveitis syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428676003",
+      "display": "Uveitis caused by ranibizumab (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43363007",
+      "display": "Posterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "444248002",
+      "display": "Chronic inflammation of uveal tract (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4927003",
+      "display": "Acute anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64015001",
+      "display": "Subacute anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733317009",
+      "display": "Primary anterior uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75315001",
+      "display": "Sympathetic uveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75614007",
+      "display": "Panuveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "766933000",
+      "display": "Idiopathic panuveitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870199008",
+      "display": "Non-infectious uveitis of posterior segment of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870273007",
+      "display": "Posterior uveitis due to late syphilis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870329005",
+      "display": "Panuveitis caused by virus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870331001",
+      "display": "Panuveitis caused by Treponema pallidum (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870332008",
+      "display": "Panuveitis caused by Herpesvirus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870333003",
+      "display": "Panuveitis caused by Mycobacterium tuberculosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "870335005",
+      "display": "Panuveitis caused by Borrelia burgdorferi (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.111",
+      "display": "Panuveitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.112",
+      "display": "Panuveitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.113",
+      "display": "Panuveitis, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.131",
+      "display": "Sympathetic uveitis, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.132",
+      "display": "Sympathetic uveitis, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.133",
+      "display": "Sympathetic uveitis, bilateral"
+    } ]
+  }
 }

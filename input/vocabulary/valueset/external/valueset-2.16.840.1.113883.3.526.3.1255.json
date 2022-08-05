@@ -5,12 +5,33 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:05:34.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-315640000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=315640000\">315640000</a></td><td>Influenza vaccination declined (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1255",
   "version": "20170504",
   "name": "Influenza Vaccination Declined",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e5afedec-cbf4-438a-adf5-f0e28ca12141",
+    "timestamp": "2022-07-19T15:11:43-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "315640000",
+      "display": "Influenza vaccination declined (situation)"
+    } ]
+  }
 }

@@ -5,12 +5,788 @@
     "versionId": "19",
     "lastUpdated": "2022-02-19T01:07:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 152 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111482003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111482003\">111482003</a></td><td>http://snomed.info/sct</td><td>Subchronic schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111483008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111483008\">111483008</a></td><td>http://snomed.info/sct</td><td>Catatonic schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-111484002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=111484002\">111484002</a></td><td>http://snomed.info/sct</td><td>Undifferentiated schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-12939007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=12939007\">12939007</a></td><td>http://snomed.info/sct</td><td>Chronic disorganized schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14291003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14291003\">14291003</a></td><td>http://snomed.info/sct</td><td>Subchronic disorganized schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-16990005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=16990005\">16990005</a></td><td>http://snomed.info/sct</td><td>Subchronic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191526005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191526005\">191526005</a></td><td>http://snomed.info/sct</td><td>Schizophrenic disorders (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191527001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191527001\">191527001</a></td><td>http://snomed.info/sct</td><td>Simple schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191531007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191531007\">191531007</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191542003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191542003\">191542003</a></td><td>http://snomed.info/sct</td><td>Catatonic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191547009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191547009\">191547009</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of subchronic catatonic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191548004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191548004\">191548004</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic catatonic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191554003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191554003\">191554003</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of subchronic paranoid schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191555002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191555002\">191555002</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic paranoid schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191559008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191559008\">191559008</a></td><td>http://snomed.info/sct</td><td>Latent schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191561004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191561004\">191561004</a></td><td>http://snomed.info/sct</td><td>Subchronic latent schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191562006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191562006\">191562006</a></td><td>http://snomed.info/sct</td><td>Chronic latent schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191563001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191563001\">191563001</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of subchronic latent schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191564007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191564007\">191564007</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic latent schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191567000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191567000\">191567000</a></td><td>http://snomed.info/sct</td><td>Schizoaffective schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191569002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191569002\">191569002</a></td><td>http://snomed.info/sct</td><td>Subchronic schizoaffective schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191570001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191570001\">191570001</a></td><td>http://snomed.info/sct</td><td>Chronic schizoaffective schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191571002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191571002\">191571002</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of subchronic schizoaffective schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191572009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191572009\">191572009</a></td><td>http://snomed.info/sct</td><td>Acute exacerbation of chronic schizoaffective schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191574005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191574005\">191574005</a></td><td>http://snomed.info/sct</td><td>Schizoaffective schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191577003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191577003\">191577003</a></td><td>http://snomed.info/sct</td><td>Cenesthopathic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-191680007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=191680007\">191680007</a></td><td>http://snomed.info/sct</td><td>Psychogenic paranoid psychosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231437006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231437006\">231437006</a></td><td>http://snomed.info/sct</td><td>Reactive psychoses (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231489001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231489001\">231489001</a></td><td>http://snomed.info/sct</td><td>Acute transient psychotic disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247804008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247804008\">247804008</a></td><td>http://snomed.info/sct</td><td>Schizophrenic prodrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26025008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26025008\">26025008</a></td><td>http://snomed.info/sct</td><td>Residual schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-268617001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=268617001\">268617001</a></td><td>http://snomed.info/sct</td><td>Acute schizophrenic episode (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-268624000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=268624000\">268624000</a></td><td>http://snomed.info/sct</td><td>Acute paranoid reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270901009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270901009\">270901009</a></td><td>http://snomed.info/sct</td><td>Schizoaffective disorder, mixed type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-271428004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=271428004\">271428004</a></td><td>http://snomed.info/sct</td><td>Schizoaffective disorder, manic type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27387000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27387000\">27387000</a></td><td>http://snomed.info/sct</td><td>Subchronic disorganized schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-274952002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=274952002\">274952002</a></td><td>http://snomed.info/sct</td><td>Borderline schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-278853003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=278853003\">278853003</a></td><td>http://snomed.info/sct</td><td>Acute schizophrenia-like psychotic disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.00\"> </a>295.00</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.01\"> </a>295.01</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.02\"> </a>295.02</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.03\"> </a>295.03</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.04\"> </a>295.04</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.05\"> </a>295.05</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Simple type schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.10\"> </a>295.10</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.11\"> </a>295.11</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.12\"> </a>295.12</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.13\"> </a>295.13</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.14\"> </a>295.14</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.15\"> </a>295.15</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Disorganized type schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.20\"> </a>295.20</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.21\"> </a>295.21</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.22\"> </a>295.22</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.23\"> </a>295.23</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.24\"> </a>295.24</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.25\"> </a>295.25</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Catatonic type schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.30\"> </a>295.30</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.31\"> </a>295.31</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.32\"> </a>295.32</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.33\"> </a>295.33</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.34\"> </a>295.34</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.35\"> </a>295.35</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Paranoid type schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.40\"> </a>295.40</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.41\"> </a>295.41</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.42\"> </a>295.42</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.43\"> </a>295.43</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.44\"> </a>295.44</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.45\"> </a>295.45</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophreniform disorder, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.50\"> </a>295.50</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.51\"> </a>295.51</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.52\"> </a>295.52</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.53\"> </a>295.53</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.54\"> </a>295.54</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.55\"> </a>295.55</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Latent schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.60\"> </a>295.60</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.61\"> </a>295.61</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.62\"> </a>295.62</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.63\"> </a>295.63</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.64\"> </a>295.64</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.65\"> </a>295.65</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizophrenic disorders, residual type, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.70\"> </a>295.70</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.71\"> </a>295.71</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.72\"> </a>295.72</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.73\"> </a>295.73</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.74\"> </a>295.74</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.75\"> </a>295.75</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Schizoaffective disorder, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.80\"> </a>295.80</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.81\"> </a>295.81</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.82\"> </a>295.82</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.83\"> </a>295.83</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.84\"> </a>295.84</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.85\"> </a>295.85</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other specified types of schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.90\"> </a>295.90</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.91\"> </a>295.91</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, subchronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.92\"> </a>295.92</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, chronic</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.93\"> </a>295.93</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, subchronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.94\"> </a>295.94</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, chronic with acute exacerbation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-295.95\"> </a>295.95</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified schizophrenia, in remission</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29599000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29599000\">29599000</a></td><td>http://snomed.info/sct</td><td>Chronic undifferentiated schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-298.0\"> </a>298.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Depressive type psychosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-298.1\"> </a>298.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Excitative type psychosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-298.4\"> </a>298.4</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Psychogenic paranoid psychosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-298.8\"> </a>298.8</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other and unspecified reactive psychosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-298.9\"> </a>298.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Unspecified psychosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30336007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30336007\">30336007</a></td><td>http://snomed.info/sct</td><td>Chronic residual schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31027006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31027006\">31027006</a></td><td>http://snomed.info/sct</td><td>Schizotypal personality disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31373002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31373002\">31373002</a></td><td>http://snomed.info/sct</td><td>Disorganized schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-31658008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=31658008\">31658008</a></td><td>http://snomed.info/sct</td><td>Chronic paranoid schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35218008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35218008\">35218008</a></td><td>http://snomed.info/sct</td><td>Chronic disorganized schizophrenia with acute exacerbation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35252006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35252006\">35252006</a></td><td>http://snomed.info/sct</td><td>Disorganized schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36158005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36158005\">36158005</a></td><td>http://snomed.info/sct</td><td>Schizophreniform disorder with good prognostic features (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38368003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38368003\">38368003</a></td><td>http://snomed.info/sct</td><td>Schizoaffective disorder, bipolar type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39610001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39610001\">39610001</a></td><td>http://snomed.info/sct</td><td>Undifferentiated schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416340002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416340002\">416340002</a></td><td>http://snomed.info/sct</td><td>Late onset schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-42868002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=42868002\">42868002</a></td><td>http://snomed.info/sct</td><td>Subchronic catatonic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441704009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441704009\">441704009</a></td><td>http://snomed.info/sct</td><td>Affective psychosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441833000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441833000\">441833000</a></td><td>http://snomed.info/sct</td><td>Lethal catatonia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4926007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4926007\">4926007</a></td><td>http://snomed.info/sct</td><td>Schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51133006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51133006\">51133006</a></td><td>http://snomed.info/sct</td><td>Residual schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5464005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5464005\">5464005</a></td><td>http://snomed.info/sct</td><td>Brief reactive psychosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55736003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55736003\">55736003</a></td><td>http://snomed.info/sct</td><td>Schizophreniform disorder without good prognostic features (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58214004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58214004\">58214004</a></td><td>http://snomed.info/sct</td><td>Schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63181006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63181006\">63181006</a></td><td>http://snomed.info/sct</td><td>Paranoid schizophrenia in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64905009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64905009\">64905009</a></td><td>http://snomed.info/sct</td><td>Paranoid schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68890003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68890003\">68890003</a></td><td>http://snomed.info/sct</td><td>Schizoaffective disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68995007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68995007\">68995007</a></td><td>http://snomed.info/sct</td><td>Chronic catatonic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7025000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7025000\">7025000</a></td><td>http://snomed.info/sct</td><td>Subchronic undifferentiated schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70814008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70814008\">70814008</a></td><td>http://snomed.info/sct</td><td>Subchronic residual schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71103003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71103003\">71103003</a></td><td>http://snomed.info/sct</td><td>Chronic residual schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-76566000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=76566000\">76566000</a></td><td>http://snomed.info/sct</td><td>Subchronic residual schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79204003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79204003\">79204003</a></td><td>http://snomed.info/sct</td><td>Chronic undifferentiated schizophrenia with acute exacerbations (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-79866005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=79866005\">79866005</a></td><td>http://snomed.info/sct</td><td>Subchronic paranoid schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-83746006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=83746006\">83746006</a></td><td>http://snomed.info/sct</td><td>Chronic schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84760002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84760002\">84760002</a></td><td>http://snomed.info/sct</td><td>Schizoaffective disorder, depressive type (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85861002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85861002\">85861002</a></td><td>http://snomed.info/sct</td><td>Subchronic undifferentiated schizophrenia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-88975006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=88975006\">88975006</a></td><td>http://snomed.info/sct</td><td>Schizophreniform disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.0\"> </a>F20.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Paranoid schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.1\"> </a>F20.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorganized schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.2\"> </a>F20.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Catatonic schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.3\"> </a>F20.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Undifferentiated schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.5\"> </a>F20.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Residual schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.81\"> </a>F20.81</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizophreniform disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.89\"> </a>F20.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other schizophrenia</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F20.9\"> </a>F20.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizophrenia, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F21\"> </a>F21</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizotypal disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F23\"> </a>F23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Brief psychotic disorder</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F25.0\"> </a>F25.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizoaffective disorder, bipolar type</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F25.1\"> </a>F25.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizoaffective disorder, depressive type</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F25.8\"> </a>F25.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other schizoaffective disorders</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F25.9\"> </a>F25.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Schizoaffective disorder, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F28\"> </a>F28</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other psychotic disorder not due to a substance or known physiological condition</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-F29\"> </a>F29</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified psychosis not due to a substance or known physiological condition</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.105.12.1104",
   "version": "20220219",
   "name": "Schizophrenia or Psychotic Disorder",
   "status": "active",
   "date": "2022-02-19T01:07:29-05:00",
   "publisher": "MNCM Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2e5c37ef-a895-42ce-aeee-f395bd576d1f",
+    "timestamp": "2022-07-19T15:07:08-04:00",
+    "total": 152,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111482003",
+      "display": "Subchronic schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111483008",
+      "display": "Catatonic schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "111484002",
+      "display": "Undifferentiated schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "12939007",
+      "display": "Chronic disorganized schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14291003",
+      "display": "Subchronic disorganized schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "16990005",
+      "display": "Subchronic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191526005",
+      "display": "Schizophrenic disorders (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191527001",
+      "display": "Simple schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191531007",
+      "display": "Acute exacerbation of chronic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191542003",
+      "display": "Catatonic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191547009",
+      "display": "Acute exacerbation of subchronic catatonic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191548004",
+      "display": "Acute exacerbation of chronic catatonic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191554003",
+      "display": "Acute exacerbation of subchronic paranoid schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191555002",
+      "display": "Acute exacerbation of chronic paranoid schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191559008",
+      "display": "Latent schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191561004",
+      "display": "Subchronic latent schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191562006",
+      "display": "Chronic latent schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191563001",
+      "display": "Acute exacerbation of subchronic latent schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191564007",
+      "display": "Acute exacerbation of chronic latent schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191567000",
+      "display": "Schizoaffective schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191569002",
+      "display": "Subchronic schizoaffective schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191570001",
+      "display": "Chronic schizoaffective schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191571002",
+      "display": "Acute exacerbation of subchronic schizoaffective schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191572009",
+      "display": "Acute exacerbation of chronic schizoaffective schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191574005",
+      "display": "Schizoaffective schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191577003",
+      "display": "Cenesthopathic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "191680007",
+      "display": "Psychogenic paranoid psychosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231437006",
+      "display": "Reactive psychoses (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231489001",
+      "display": "Acute transient psychotic disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247804008",
+      "display": "Schizophrenic prodrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26025008",
+      "display": "Residual schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "268617001",
+      "display": "Acute schizophrenic episode (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "268624000",
+      "display": "Acute paranoid reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270901009",
+      "display": "Schizoaffective disorder, mixed type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "271428004",
+      "display": "Schizoaffective disorder, manic type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27387000",
+      "display": "Subchronic disorganized schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "274952002",
+      "display": "Borderline schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "278853003",
+      "display": "Acute schizophrenia-like psychotic disorder (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.00",
+      "display": "Simple type schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.01",
+      "display": "Simple type schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.02",
+      "display": "Simple type schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.03",
+      "display": "Simple type schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.04",
+      "display": "Simple type schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.05",
+      "display": "Simple type schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.10",
+      "display": "Disorganized type schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.11",
+      "display": "Disorganized type schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.12",
+      "display": "Disorganized type schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.13",
+      "display": "Disorganized type schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.14",
+      "display": "Disorganized type schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.15",
+      "display": "Disorganized type schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.20",
+      "display": "Catatonic type schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.21",
+      "display": "Catatonic type schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.22",
+      "display": "Catatonic type schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.23",
+      "display": "Catatonic type schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.24",
+      "display": "Catatonic type schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.25",
+      "display": "Catatonic type schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.30",
+      "display": "Paranoid type schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.31",
+      "display": "Paranoid type schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.32",
+      "display": "Paranoid type schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.33",
+      "display": "Paranoid type schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.34",
+      "display": "Paranoid type schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.35",
+      "display": "Paranoid type schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.40",
+      "display": "Schizophreniform disorder, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.41",
+      "display": "Schizophreniform disorder, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.42",
+      "display": "Schizophreniform disorder, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.43",
+      "display": "Schizophreniform disorder, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.44",
+      "display": "Schizophreniform disorder, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.45",
+      "display": "Schizophreniform disorder, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.50",
+      "display": "Latent schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.51",
+      "display": "Latent schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.52",
+      "display": "Latent schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.53",
+      "display": "Latent schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.54",
+      "display": "Latent schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.55",
+      "display": "Latent schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.60",
+      "display": "Schizophrenic disorders, residual type, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.61",
+      "display": "Schizophrenic disorders, residual type, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.62",
+      "display": "Schizophrenic disorders, residual type, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.63",
+      "display": "Schizophrenic disorders, residual type, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.64",
+      "display": "Schizophrenic disorders, residual type, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.65",
+      "display": "Schizophrenic disorders, residual type, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.70",
+      "display": "Schizoaffective disorder, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.71",
+      "display": "Schizoaffective disorder, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.72",
+      "display": "Schizoaffective disorder, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.73",
+      "display": "Schizoaffective disorder, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.74",
+      "display": "Schizoaffective disorder, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.75",
+      "display": "Schizoaffective disorder, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.80",
+      "display": "Other specified types of schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.81",
+      "display": "Other specified types of schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.82",
+      "display": "Other specified types of schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.83",
+      "display": "Other specified types of schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.84",
+      "display": "Other specified types of schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.85",
+      "display": "Other specified types of schizophrenia, in remission"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.90",
+      "display": "Unspecified schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.91",
+      "display": "Unspecified schizophrenia, subchronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.92",
+      "display": "Unspecified schizophrenia, chronic"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.93",
+      "display": "Unspecified schizophrenia, subchronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.94",
+      "display": "Unspecified schizophrenia, chronic with acute exacerbation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "295.95",
+      "display": "Unspecified schizophrenia, in remission"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29599000",
+      "display": "Chronic undifferentiated schizophrenia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "298.0",
+      "display": "Depressive type psychosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "298.1",
+      "display": "Excitative type psychosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "298.4",
+      "display": "Psychogenic paranoid psychosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "298.8",
+      "display": "Other and unspecified reactive psychosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "298.9",
+      "display": "Unspecified psychosis"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30336007",
+      "display": "Chronic residual schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31027006",
+      "display": "Schizotypal personality disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31373002",
+      "display": "Disorganized schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "31658008",
+      "display": "Chronic paranoid schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35218008",
+      "display": "Chronic disorganized schizophrenia with acute exacerbation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35252006",
+      "display": "Disorganized schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36158005",
+      "display": "Schizophreniform disorder with good prognostic features (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38368003",
+      "display": "Schizoaffective disorder, bipolar type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39610001",
+      "display": "Undifferentiated schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416340002",
+      "display": "Late onset schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "42868002",
+      "display": "Subchronic catatonic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441704009",
+      "display": "Affective psychosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441833000",
+      "display": "Lethal catatonia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4926007",
+      "display": "Schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51133006",
+      "display": "Residual schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5464005",
+      "display": "Brief reactive psychosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55736003",
+      "display": "Schizophreniform disorder without good prognostic features (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58214004",
+      "display": "Schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63181006",
+      "display": "Paranoid schizophrenia in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64905009",
+      "display": "Paranoid schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68890003",
+      "display": "Schizoaffective disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68995007",
+      "display": "Chronic catatonic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7025000",
+      "display": "Subchronic undifferentiated schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70814008",
+      "display": "Subchronic residual schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71103003",
+      "display": "Chronic residual schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "76566000",
+      "display": "Subchronic residual schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79204003",
+      "display": "Chronic undifferentiated schizophrenia with acute exacerbations (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "79866005",
+      "display": "Subchronic paranoid schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "83746006",
+      "display": "Chronic schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84760002",
+      "display": "Schizoaffective disorder, depressive type (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85861002",
+      "display": "Subchronic undifferentiated schizophrenia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "88975006",
+      "display": "Schizophreniform disorder (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.0",
+      "display": "Paranoid schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.1",
+      "display": "Disorganized schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.2",
+      "display": "Catatonic schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.3",
+      "display": "Undifferentiated schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.5",
+      "display": "Residual schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.81",
+      "display": "Schizophreniform disorder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.89",
+      "display": "Other schizophrenia"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F20.9",
+      "display": "Schizophrenia, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F21",
+      "display": "Schizotypal disorder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F23",
+      "display": "Brief psychotic disorder"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F25.0",
+      "display": "Schizoaffective disorder, bipolar type"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F25.1",
+      "display": "Schizoaffective disorder, depressive type"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F25.8",
+      "display": "Other schizoaffective disorders"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F25.9",
+      "display": "Schizoaffective disorder, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F28",
+      "display": "Other psychotic disorder not due to a substance or known physiological condition"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "F29",
+      "display": "Unspecified psychosis not due to a substance or known physiological condition"
+    } ]
+  }
 }

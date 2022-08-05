@@ -5,12 +5,1763 @@
     "versionId": "32",
     "lastUpdated": "2021-03-16T13:29:01.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 347 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-127014009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=127014009\">127014009</a></td><td>http://snomed.info/sct</td><td>Peripheral angiopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13954005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13954005\">13954005</a></td><td>http://snomed.info/sct</td><td>Ischemic ulcer (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233955003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233955003\">233955003</a></td><td>http://snomed.info/sct</td><td>Abdominal aortic atherosclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233956002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233956002\">233956002</a></td><td>http://snomed.info/sct</td><td>Aortoiliac atherosclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-238794007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=238794007\">238794007</a></td><td>http://snomed.info/sct</td><td>Ischemic foot ulcer (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284871000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284871000119105\">284871000119105</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of left carotid artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284881000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284881000119108\">284881000119108</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of right carotid artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-300920004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=300920004\">300920004</a></td><td>http://snomed.info/sct</td><td>Carotid atherosclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39823006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39823006\">39823006</a></td><td>http://snomed.info/sct</td><td>Generalized atherosclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399957001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399957001\">399957001</a></td><td>http://snomed.info/sct</td><td>Peripheral arterial occlusive disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413838009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413838009\">413838009</a></td><td>http://snomed.info/sct</td><td>Chronic ischemic heart disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.00\"> </a>414.00</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of unspecified type of vessel, native or graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.01\"> </a>414.01</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of native coronary artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.02\"> </a>414.02</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of autologous vein bypass graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.03\"> </a>414.03</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of nonautologous biological bypass graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.04\"> </a>414.04</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of artery bypass graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.05\"> </a>414.05</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of unspecified bypass graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.06\"> </a>414.06</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of native coronary artery of transplanted heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.07\"> </a>414.07</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.3\"> </a>414.3</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis due to lipid rich plaque</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-414.4\"> </a>414.4</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Coronary atherosclerosis due to calcified coronary lesion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421365002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421365002\">421365002</a></td><td>http://snomed.info/sct</td><td>Peripheral circulatory disorder due to type 1 diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421895002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421895002\">421895002</a></td><td>http://snomed.info/sct</td><td>Peripheral vascular disorder due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422166005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422166005\">422166005</a></td><td>http://snomed.info/sct</td><td>Peripheral circulatory disorder due to type 2 diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429768000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429768000\">429768000</a></td><td>http://snomed.info/sct</td><td>Ischemic ulcer of toe (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-437.0\"> </a>437.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Cerebral atherosclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.0\"> </a>440.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of aorta</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.1\"> </a>440.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of renal artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.20\"> </a>440.20</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of native arteries of the extremities, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.21\"> </a>440.21</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of native arteries of the extremities with intermittent claudication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.22\"> </a>440.22</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of native arteries of the extremities with rest pain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.23\"> </a>440.23</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of native arteries of the extremities with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.24\"> </a>440.24</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of native arteries of the extremities with gangrene</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.29\"> </a>440.29</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other atherosclerosis of native arteries of the extremities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.30\"> </a>440.30</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of unspecified bypass graft of the extremities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.31\"> </a>440.31</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of autologous vein bypass graft of the extremities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.32\"> </a>440.32</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of nonautologous biological bypass graft of the extremities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.4\"> </a>440.4</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Chronic total occlusion of artery of the extremities</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.8\"> </a>440.8</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Atherosclerosis of other specified arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-440.9\"> </a>440.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Generalized and unspecified atherosclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-441574008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=441574008\">441574008</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442439008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442439008\">442439008</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of bypass graft of limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442693003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442693003\">442693003</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of autologous vein bypass graft of limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442701004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442701004\">442701004</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of nonautologous biological bypass graft of limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-442735001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=442735001\">442735001</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of nonautologous bypass graft of limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443502000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443502000\">443502000</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of coronary artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-45281005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=45281005\">45281005</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of renal artery (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51274000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51274000\">51274000</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of arteries of the extremities (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55382008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55382008\">55382008</a></td><td>http://snomed.info/sct</td><td>Cerebral atherosclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-63491006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=63491006\">63491006</a></td><td>http://snomed.info/sct</td><td>Intermittent claudication (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-709584004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=709584004\">709584004</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of bypass graft of lower limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-709585003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=709585003\">709585003</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of nonautologous biological bypass graft of lower limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-792843009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=792843009\">792843009</a></td><td>http://snomed.info/sct</td><td>Gangrene of limb due to atherosclerosis of artery of limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-792844003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=792844003\">792844003</a></td><td>http://snomed.info/sct</td><td>Limb pain at rest due to atherosclerosis of artery of lower limb (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-792845002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=792845002\">792845002</a></td><td>http://snomed.info/sct</td><td>Intermittent claudication due to atherosclerosis of artery of limb (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8001000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8001000119106\">8001000119106</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of aortoiliac bypass graft (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81817003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81817003\">81817003</a></td><td>http://snomed.info/sct</td><td>Atherosclerosis of aorta (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E08.51\"> </a>E08.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without gangrene</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E08.52\"> </a>E08.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E09.51\"> </a>E09.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy without gangrene</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-E09.52\"> </a>E09.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.10\"> </a>I25.10</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerotic heart disease of native coronary artery without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.110\"> </a>I25.110</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerotic heart disease of native coronary artery with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.111\"> </a>I25.111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.118\"> </a>I25.118</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.119\"> </a>I25.119</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.700\"> </a>I25.700</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.701\"> </a>I25.701</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.708\"> </a>I25.708</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.709\"> </a>I25.709</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.710\"> </a>I25.710</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.711\"> </a>I25.711</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.718\"> </a>I25.718</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.719\"> </a>I25.719</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.720\"> </a>I25.720</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.721\"> </a>I25.721</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.728\"> </a>I25.728</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.729\"> </a>I25.729</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.730\"> </a>I25.730</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.731\"> </a>I25.731</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.738\"> </a>I25.738</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.739\"> </a>I25.739</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.750\"> </a>I25.750</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with unstable angina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.751\"> </a>I25.751</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.758\"> </a>I25.758</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.759\"> </a>I25.759</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.760\"> </a>I25.760</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.761\"> </a>I25.761</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.768\"> </a>I25.768</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.769\"> </a>I25.769</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.790\"> </a>I25.790</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.791\"> </a>I25.791</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.798\"> </a>I25.798</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.799\"> </a>I25.799</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.810\"> </a>I25.810</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of coronary artery bypass graft(s) without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.811\"> </a>I25.811</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native coronary artery of transplanted heart without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.812\"> </a>I25.812</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.83\"> </a>I25.83</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Coronary atherosclerosis due to lipid rich plaque</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.84\"> </a>I25.84</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Coronary atherosclerosis due to calcified coronary lesion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I25.89\"> </a>I25.89</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other forms of chronic ischemic heart disease</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I67.2\"> </a>I67.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral atherosclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.0\"> </a>I70.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of aorta</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.1\"> </a>I70.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of renal artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.201\"> </a>I70.201</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of native arteries of extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.202\"> </a>I70.202</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of native arteries of extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.203\"> </a>I70.203</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of native arteries of extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.208\"> </a>I70.208</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of native arteries of extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.209\"> </a>I70.209</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of native arteries of extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.211\"> </a>I70.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.212\"> </a>I70.212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.213\"> </a>I70.213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.218\"> </a>I70.218</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.219\"> </a>I70.219</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.221\"> </a>I70.221</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.222\"> </a>I70.222</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.223\"> </a>I70.223</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.228\"> </a>I70.228</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.229\"> </a>I70.229</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.231\"> </a>I70.231</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.232\"> </a>I70.232</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.233\"> </a>I70.233</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.234\"> </a>I70.234</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.235\"> </a>I70.235</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.238\"> </a>I70.238</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.239\"> </a>I70.239</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.241\"> </a>I70.241</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.242\"> </a>I70.242</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.243\"> </a>I70.243</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.244\"> </a>I70.244</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.245\"> </a>I70.245</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.248\"> </a>I70.248</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.249\"> </a>I70.249</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.25\"> </a>I70.25</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of other extremities with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.261\"> </a>I70.261</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.262\"> </a>I70.262</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.263\"> </a>I70.263</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.268\"> </a>I70.268</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.269\"> </a>I70.269</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.291\"> </a>I70.291</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of native arteries of extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.292\"> </a>I70.292</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of native arteries of extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.293\"> </a>I70.293</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of native arteries of extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.298\"> </a>I70.298</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of native arteries of extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.299\"> </a>I70.299</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of native arteries of extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.301\"> </a>I70.301</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.302\"> </a>I70.302</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.303\"> </a>I70.303</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.308\"> </a>I70.308</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.309\"> </a>I70.309</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.311\"> </a>I70.311</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.312\"> </a>I70.312</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.313\"> </a>I70.313</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.318\"> </a>I70.318</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.319\"> </a>I70.319</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.321\"> </a>I70.321</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.322\"> </a>I70.322</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.323\"> </a>I70.323</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.328\"> </a>I70.328</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.329\"> </a>I70.329</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.331\"> </a>I70.331</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.332\"> </a>I70.332</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.333\"> </a>I70.333</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.334\"> </a>I70.334</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.335\"> </a>I70.335</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.338\"> </a>I70.338</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.339\"> </a>I70.339</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.341\"> </a>I70.341</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.342\"> </a>I70.342</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.343\"> </a>I70.343</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.344\"> </a>I70.344</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.345\"> </a>I70.345</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.348\"> </a>I70.348</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.349\"> </a>I70.349</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.35\"> </a>I70.35</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of other extremity with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.361\"> </a>I70.361</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.362\"> </a>I70.362</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.363\"> </a>I70.363</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.368\"> </a>I70.368</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.369\"> </a>I70.369</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.391\"> </a>I70.391</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.392\"> </a>I70.392</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.393\"> </a>I70.393</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.398\"> </a>I70.398</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.399\"> </a>I70.399</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.401\"> </a>I70.401</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.402\"> </a>I70.402</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.403\"> </a>I70.403</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.408\"> </a>I70.408</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.409\"> </a>I70.409</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.411\"> </a>I70.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.412\"> </a>I70.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.413\"> </a>I70.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.418\"> </a>I70.418</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.419\"> </a>I70.419</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.421\"> </a>I70.421</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.422\"> </a>I70.422</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.423\"> </a>I70.423</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.428\"> </a>I70.428</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.429\"> </a>I70.429</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.431\"> </a>I70.431</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.432\"> </a>I70.432</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.433\"> </a>I70.433</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.434\"> </a>I70.434</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.435\"> </a>I70.435</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.438\"> </a>I70.438</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.439\"> </a>I70.439</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.441\"> </a>I70.441</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.442\"> </a>I70.442</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.443\"> </a>I70.443</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.444\"> </a>I70.444</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.445\"> </a>I70.445</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.448\"> </a>I70.448</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.449\"> </a>I70.449</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.45\"> </a>I70.45</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of other extremity with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.461\"> </a>I70.461</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.462\"> </a>I70.462</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.463\"> </a>I70.463</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.468\"> </a>I70.468</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.469\"> </a>I70.469</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.491\"> </a>I70.491</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.492\"> </a>I70.492</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.493\"> </a>I70.493</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.498\"> </a>I70.498</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.499\"> </a>I70.499</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.501\"> </a>I70.501</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.502\"> </a>I70.502</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.503\"> </a>I70.503</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.508\"> </a>I70.508</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.509\"> </a>I70.509</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.511\"> </a>I70.511</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.512\"> </a>I70.512</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.513\"> </a>I70.513</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.518\"> </a>I70.518</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.519\"> </a>I70.519</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.521\"> </a>I70.521</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.522\"> </a>I70.522</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.523\"> </a>I70.523</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.528\"> </a>I70.528</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.529\"> </a>I70.529</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.531\"> </a>I70.531</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.532\"> </a>I70.532</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.533\"> </a>I70.533</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.534\"> </a>I70.534</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.535\"> </a>I70.535</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.538\"> </a>I70.538</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.539\"> </a>I70.539</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.541\"> </a>I70.541</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.542\"> </a>I70.542</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.543\"> </a>I70.543</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.544\"> </a>I70.544</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.545\"> </a>I70.545</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.548\"> </a>I70.548</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.549\"> </a>I70.549</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.55\"> </a>I70.55</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of other extremity with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.561\"> </a>I70.561</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.562\"> </a>I70.562</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.563\"> </a>I70.563</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.568\"> </a>I70.568</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.569\"> </a>I70.569</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.591\"> </a>I70.591</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.592\"> </a>I70.592</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.593\"> </a>I70.593</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.598\"> </a>I70.598</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.599\"> </a>I70.599</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.601\"> </a>I70.601</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.602\"> </a>I70.602</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.603\"> </a>I70.603</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.608\"> </a>I70.608</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.609\"> </a>I70.609</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.611\"> </a>I70.611</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.612\"> </a>I70.612</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.613\"> </a>I70.613</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.618\"> </a>I70.618</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.619\"> </a>I70.619</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.621\"> </a>I70.621</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.622\"> </a>I70.622</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.623\"> </a>I70.623</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.628\"> </a>I70.628</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.629\"> </a>I70.629</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.631\"> </a>I70.631</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.632\"> </a>I70.632</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.633\"> </a>I70.633</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.634\"> </a>I70.634</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.635\"> </a>I70.635</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.638\"> </a>I70.638</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.639\"> </a>I70.639</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.641\"> </a>I70.641</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.642\"> </a>I70.642</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.643\"> </a>I70.643</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.644\"> </a>I70.644</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.645\"> </a>I70.645</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.648\"> </a>I70.648</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.649\"> </a>I70.649</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.65\"> </a>I70.65</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of other extremity with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.661\"> </a>I70.661</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.662\"> </a>I70.662</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.663\"> </a>I70.663</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.668\"> </a>I70.668</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.669\"> </a>I70.669</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.691\"> </a>I70.691</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.692\"> </a>I70.692</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.693\"> </a>I70.693</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.698\"> </a>I70.698</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.699\"> </a>I70.699</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.701\"> </a>I70.701</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.702\"> </a>I70.702</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.703\"> </a>I70.703</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.708\"> </a>I70.708</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.709\"> </a>I70.709</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.711\"> </a>I70.711</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.712\"> </a>I70.712</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.713\"> </a>I70.713</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.718\"> </a>I70.718</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.719\"> </a>I70.719</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.721\"> </a>I70.721</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.722\"> </a>I70.722</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.723\"> </a>I70.723</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.728\"> </a>I70.728</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.729\"> </a>I70.729</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.731\"> </a>I70.731</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.732\"> </a>I70.732</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.733\"> </a>I70.733</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.734\"> </a>I70.734</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.735\"> </a>I70.735</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.738\"> </a>I70.738</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.739\"> </a>I70.739</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.741\"> </a>I70.741</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of thigh</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.742\"> </a>I70.742</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of calf</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.743\"> </a>I70.743</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of ankle</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.744\"> </a>I70.744</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.745\"> </a>I70.745</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of foot</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.748\"> </a>I70.748</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of lower leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.749\"> </a>I70.749</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of unspecified site</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.75\"> </a>I70.75</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of other extremity with ulceration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.761\"> </a>I70.761</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.762\"> </a>I70.762</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.763\"> </a>I70.763</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.768\"> </a>I70.768</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.769\"> </a>I70.769</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.791\"> </a>I70.791</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of other type of bypass graft(s) of the extremities, right leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.792\"> </a>I70.792</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.793\"> </a>I70.793</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.798\"> </a>I70.798</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of other type of bypass graft(s) of the extremities, other extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.799\"> </a>I70.799</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.8\"> </a>I70.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atherosclerosis of other arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.90\"> </a>I70.90</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atherosclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.91\"> </a>I70.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Generalized atherosclerosis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I70.92\"> </a>I70.92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Chronic total occlusion of artery of the extremities</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.21",
   "version": "20210220",
   "name": "Atherosclerosis and Peripheral Arterial Disease",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:0f7c4f4a-c182-49b0-8e90-2ce6f20f485f",
+    "timestamp": "2022-07-19T15:04:36-04:00",
+    "total": 347,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "127014009",
+      "display": "Peripheral angiopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13954005",
+      "display": "Ischemic ulcer (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233955003",
+      "display": "Abdominal aortic atherosclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233956002",
+      "display": "Aortoiliac atherosclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "238794007",
+      "display": "Ischemic foot ulcer (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284871000119105",
+      "display": "Atherosclerosis of left carotid artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284881000119108",
+      "display": "Atherosclerosis of right carotid artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "300920004",
+      "display": "Carotid atherosclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39823006",
+      "display": "Generalized atherosclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399957001",
+      "display": "Peripheral arterial occlusive disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413838009",
+      "display": "Chronic ischemic heart disease (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.00",
+      "display": "Coronary atherosclerosis of unspecified type of vessel, native or graft"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.01",
+      "display": "Coronary atherosclerosis of native coronary artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.02",
+      "display": "Coronary atherosclerosis of autologous vein bypass graft"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.03",
+      "display": "Coronary atherosclerosis of nonautologous biological bypass graft"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.04",
+      "display": "Coronary atherosclerosis of artery bypass graft"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.05",
+      "display": "Coronary atherosclerosis of unspecified bypass graft"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.06",
+      "display": "Coronary atherosclerosis of native coronary artery of transplanted heart"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.07",
+      "display": "Coronary atherosclerosis of bypass graft (artery) (vein) of transplanted heart"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.3",
+      "display": "Coronary atherosclerosis due to lipid rich plaque"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "414.4",
+      "display": "Coronary atherosclerosis due to calcified coronary lesion"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421365002",
+      "display": "Peripheral circulatory disorder due to type 1 diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421895002",
+      "display": "Peripheral vascular disorder due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422166005",
+      "display": "Peripheral circulatory disorder due to type 2 diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429768000",
+      "display": "Ischemic ulcer of toe (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "437.0",
+      "display": "Cerebral atherosclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.0",
+      "display": "Atherosclerosis of aorta"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.1",
+      "display": "Atherosclerosis of renal artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.20",
+      "display": "Atherosclerosis of native arteries of the extremities, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.21",
+      "display": "Atherosclerosis of native arteries of the extremities with intermittent claudication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.22",
+      "display": "Atherosclerosis of native arteries of the extremities with rest pain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.23",
+      "display": "Atherosclerosis of native arteries of the extremities with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.24",
+      "display": "Atherosclerosis of native arteries of the extremities with gangrene"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.29",
+      "display": "Other atherosclerosis of native arteries of the extremities"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.30",
+      "display": "Atherosclerosis of unspecified bypass graft of the extremities"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.31",
+      "display": "Atherosclerosis of autologous vein bypass graft of the extremities"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.32",
+      "display": "Atherosclerosis of nonautologous biological bypass graft of the extremities"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.4",
+      "display": "Chronic total occlusion of artery of the extremities"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.8",
+      "display": "Atherosclerosis of other specified arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "440.9",
+      "display": "Generalized and unspecified atherosclerosis"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "441574008",
+      "display": "Atherosclerosis of artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442439008",
+      "display": "Atherosclerosis of bypass graft of limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442693003",
+      "display": "Atherosclerosis of autologous vein bypass graft of limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442701004",
+      "display": "Atherosclerosis of nonautologous biological bypass graft of limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "442735001",
+      "display": "Atherosclerosis of nonautologous bypass graft of limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443502000",
+      "display": "Atherosclerosis of coronary artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "45281005",
+      "display": "Atherosclerosis of renal artery (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51274000",
+      "display": "Atherosclerosis of arteries of the extremities (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55382008",
+      "display": "Cerebral atherosclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "63491006",
+      "display": "Intermittent claudication (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "709584004",
+      "display": "Atherosclerosis of bypass graft of lower limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "709585003",
+      "display": "Atherosclerosis of nonautologous biological bypass graft of lower limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "792843009",
+      "display": "Gangrene of limb due to atherosclerosis of artery of limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "792844003",
+      "display": "Limb pain at rest due to atherosclerosis of artery of lower limb (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "792845002",
+      "display": "Intermittent claudication due to atherosclerosis of artery of limb (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8001000119106",
+      "display": "Atherosclerosis of aortoiliac bypass graft (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81817003",
+      "display": "Atherosclerosis of aorta (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E08.51",
+      "display": "Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without gangrene"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E08.52",
+      "display": "Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E09.51",
+      "display": "Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy without gangrene"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "E09.52",
+      "display": "Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.10",
+      "display": "Atherosclerotic heart disease of native coronary artery without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.110",
+      "display": "Atherosclerotic heart disease of native coronary artery with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.111",
+      "display": "Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.118",
+      "display": "Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.119",
+      "display": "Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.700",
+      "display": "Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.701",
+      "display": "Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.708",
+      "display": "Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.709",
+      "display": "Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.710",
+      "display": "Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.711",
+      "display": "Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.718",
+      "display": "Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.719",
+      "display": "Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.720",
+      "display": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.721",
+      "display": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.728",
+      "display": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.729",
+      "display": "Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.730",
+      "display": "Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.731",
+      "display": "Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.738",
+      "display": "Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.739",
+      "display": "Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.750",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with unstable angina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.751",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.758",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.759",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.760",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.761",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.768",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.769",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.790",
+      "display": "Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.791",
+      "display": "Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.798",
+      "display": "Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.799",
+      "display": "Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.810",
+      "display": "Atherosclerosis of coronary artery bypass graft(s) without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.811",
+      "display": "Atherosclerosis of native coronary artery of transplanted heart without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.812",
+      "display": "Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.83",
+      "display": "Coronary atherosclerosis due to lipid rich plaque"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.84",
+      "display": "Coronary atherosclerosis due to calcified coronary lesion"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I25.89",
+      "display": "Other forms of chronic ischemic heart disease"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I67.2",
+      "display": "Cerebral atherosclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.0",
+      "display": "Atherosclerosis of aorta"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.1",
+      "display": "Atherosclerosis of renal artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.201",
+      "display": "Unspecified atherosclerosis of native arteries of extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.202",
+      "display": "Unspecified atherosclerosis of native arteries of extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.203",
+      "display": "Unspecified atherosclerosis of native arteries of extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.208",
+      "display": "Unspecified atherosclerosis of native arteries of extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.209",
+      "display": "Unspecified atherosclerosis of native arteries of extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.211",
+      "display": "Atherosclerosis of native arteries of extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.212",
+      "display": "Atherosclerosis of native arteries of extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.213",
+      "display": "Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.218",
+      "display": "Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.219",
+      "display": "Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.221",
+      "display": "Atherosclerosis of native arteries of extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.222",
+      "display": "Atherosclerosis of native arteries of extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.223",
+      "display": "Atherosclerosis of native arteries of extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.228",
+      "display": "Atherosclerosis of native arteries of extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.229",
+      "display": "Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.231",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.232",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.233",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.234",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.235",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.238",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.239",
+      "display": "Atherosclerosis of native arteries of right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.241",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.242",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.243",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.244",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.245",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.248",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.249",
+      "display": "Atherosclerosis of native arteries of left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.25",
+      "display": "Atherosclerosis of native arteries of other extremities with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.261",
+      "display": "Atherosclerosis of native arteries of extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.262",
+      "display": "Atherosclerosis of native arteries of extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.263",
+      "display": "Atherosclerosis of native arteries of extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.268",
+      "display": "Atherosclerosis of native arteries of extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.269",
+      "display": "Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.291",
+      "display": "Other atherosclerosis of native arteries of extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.292",
+      "display": "Other atherosclerosis of native arteries of extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.293",
+      "display": "Other atherosclerosis of native arteries of extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.298",
+      "display": "Other atherosclerosis of native arteries of extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.299",
+      "display": "Other atherosclerosis of native arteries of extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.301",
+      "display": "Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.302",
+      "display": "Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.303",
+      "display": "Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.308",
+      "display": "Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.309",
+      "display": "Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.311",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.312",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.313",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.318",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.319",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.321",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.322",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.323",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.328",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.329",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.331",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.332",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.333",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.334",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.335",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.338",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.339",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.341",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.342",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.343",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.344",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.345",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.348",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.349",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.35",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of other extremity with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.361",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.362",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.363",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.368",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.369",
+      "display": "Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.391",
+      "display": "Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.392",
+      "display": "Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.393",
+      "display": "Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.398",
+      "display": "Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.399",
+      "display": "Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.401",
+      "display": "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.402",
+      "display": "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.403",
+      "display": "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.408",
+      "display": "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.409",
+      "display": "Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.411",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.412",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.413",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.418",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.419",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.421",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.422",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.423",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.428",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.429",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.431",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.432",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.433",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.434",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.435",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.438",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.439",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.441",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.442",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.443",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.444",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.445",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.448",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.449",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.45",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of other extremity with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.461",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.462",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.463",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.468",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.469",
+      "display": "Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.491",
+      "display": "Other atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.492",
+      "display": "Other atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.493",
+      "display": "Other atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.498",
+      "display": "Other atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.499",
+      "display": "Other atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.501",
+      "display": "Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.502",
+      "display": "Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.503",
+      "display": "Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.508",
+      "display": "Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.509",
+      "display": "Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.511",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.512",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.513",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.518",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.519",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.521",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.522",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.523",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.528",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.529",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.531",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.532",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.533",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.534",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.535",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.538",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.539",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.541",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.542",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.543",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.544",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.545",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.548",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.549",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.55",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of other extremity with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.561",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.562",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.563",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.568",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.569",
+      "display": "Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.591",
+      "display": "Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.592",
+      "display": "Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.593",
+      "display": "Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.598",
+      "display": "Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.599",
+      "display": "Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.601",
+      "display": "Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.602",
+      "display": "Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.603",
+      "display": "Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.608",
+      "display": "Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.609",
+      "display": "Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.611",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.612",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.613",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.618",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.619",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.621",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.622",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.623",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.628",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.629",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.631",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.632",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.633",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.634",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.635",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.638",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.639",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.641",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.642",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.643",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.644",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.645",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.648",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.649",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.65",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of other extremity with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.661",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.662",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.663",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.668",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.669",
+      "display": "Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.691",
+      "display": "Other atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.692",
+      "display": "Other atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.693",
+      "display": "Other atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.698",
+      "display": "Other atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.699",
+      "display": "Other atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.701",
+      "display": "Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.702",
+      "display": "Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.703",
+      "display": "Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.708",
+      "display": "Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.709",
+      "display": "Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.711",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.712",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.713",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.718",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.719",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.721",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.722",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.723",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.728",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.729",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.731",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.732",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.733",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.734",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.735",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.738",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.739",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.741",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of thigh"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.742",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of calf"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.743",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of ankle"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.744",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.745",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of foot"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.748",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of lower leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.749",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of unspecified site"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.75",
+      "display": "Atherosclerosis of other type of bypass graft(s) of other extremity with ulceration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.761",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.762",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.763",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.768",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.769",
+      "display": "Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.791",
+      "display": "Other atherosclerosis of other type of bypass graft(s) of the extremities, right leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.792",
+      "display": "Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.793",
+      "display": "Other atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.798",
+      "display": "Other atherosclerosis of other type of bypass graft(s) of the extremities, other extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.799",
+      "display": "Other atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.8",
+      "display": "Atherosclerosis of other arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.90",
+      "display": "Unspecified atherosclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.91",
+      "display": "Generalized atherosclerosis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I70.92",
+      "display": "Chronic total occlusion of artery of the extremities"
+    } ]
+  }
 }

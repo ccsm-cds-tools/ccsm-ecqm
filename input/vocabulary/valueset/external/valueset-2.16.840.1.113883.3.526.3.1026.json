@@ -5,12 +5,53 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:04:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77427\"> </a>77427</td><td>http://www.ama-assn.org/go/cpt</td><td>Radiation treatment management, 5 treatments</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77431\"> </a>77431</td><td>http://www.ama-assn.org/go/cpt</td><td>Radiation therapy management with complete course of therapy consisting of 1 or 2 fractions only</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77432\"> </a>77432</td><td>http://www.ama-assn.org/go/cpt</td><td>Stereotactic radiation treatment management of cranial lesion(s) (complete course of treatment consisting of 1 session)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-77435\"> </a>77435</td><td>http://www.ama-assn.org/go/cpt</td><td>Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-84755001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=84755001\">84755001</a></td><td>http://snomed.info/sct</td><td>Radiation therapy treatment management (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1026",
   "version": "20170504",
   "name": "Radiation Treatment Management",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "American Society of Clinical Oncology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:168bdfe1-6245-4b04-b667-29bda14ba60b",
+    "timestamp": "2022-07-19T15:11:12-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77427",
+      "display": "Radiation treatment management, 5 treatments"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77431",
+      "display": "Radiation therapy management with complete course of therapy consisting of 1 or 2 fractions only"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77432",
+      "display": "Stereotactic radiation treatment management of cranial lesion(s) (complete course of treatment consisting of 1 session)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "77435",
+      "display": "Stereotactic body radiation therapy, treatment management, per treatment course, to 1 or more lesions, including image guidance, entire course not to exceed 5 fractions"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "84755001",
+      "display": "Radiation therapy treatment management (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "23",
     "lastUpdated": "2022-03-02T18:04:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390796006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390796006\">390796006</a></td><td>Influenza vaccination contraindicated (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420113004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420113004\">420113004</a></td><td>Adverse reaction to component of vaccine product containing Influenza virus antigen (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1257",
   "version": "20170504",
   "name": "Intolerance to Influenza Vaccine",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:a0b9845f-a11c-449f-8d53-db9c63e39b01",
+    "timestamp": "2022-07-19T15:11:45-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390796006",
+      "display": "Influenza vaccination contraindicated (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420113004",
+      "display": "Adverse reaction to component of vaccine product containing Influenza virus antigen (disorder)"
+    } ]
+  }
 }

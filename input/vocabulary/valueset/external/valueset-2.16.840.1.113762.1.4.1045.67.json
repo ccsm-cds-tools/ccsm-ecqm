@@ -5,12 +5,918 @@
     "versionId": "30",
     "lastUpdated": "2022-03-02T18:06:10.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 178 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270346\"> </a>0270346</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027034Z\"> </a>027034Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270356\"> </a>0270356</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027035Z\"> </a>027035Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270366\"> </a>0270366</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027036Z\"> </a>027036Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270376\"> </a>0270376</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027037Z\"> </a>027037Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703D6\"> </a>02703D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703DZ\"> </a>02703DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703E6\"> </a>02703E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703EZ\"> </a>02703EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703F6\"> </a>02703F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703FZ\"> </a>02703FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703G6\"> </a>02703G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703GZ\"> </a>02703GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703T6\"> </a>02703T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703TZ\"> </a>02703TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703Z6\"> </a>02703Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02703ZZ\"> </a>02703ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270446\"> </a>0270446</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027044Z\"> </a>027044Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270456\"> </a>0270456</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027045Z\"> </a>027045Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270466\"> </a>0270466</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027046Z\"> </a>027046Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0270476\"> </a>0270476</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027047Z\"> </a>027047Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704D6\"> </a>02704D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704DZ\"> </a>02704DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704E6\"> </a>02704E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704EZ\"> </a>02704EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704F6\"> </a>02704F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704FZ\"> </a>02704FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704G6\"> </a>02704G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704GZ\"> </a>02704GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704T6\"> </a>02704T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704TZ\"> </a>02704TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704Z6\"> </a>02704Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Bifurcation, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02704ZZ\"> </a>02704ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, One Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271346\"> </a>0271346</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027134Z\"> </a>027134Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271356\"> </a>0271356</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027135Z\"> </a>027135Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271366\"> </a>0271366</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027136Z\"> </a>027136Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271376\"> </a>0271376</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027137Z\"> </a>027137Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713D6\"> </a>02713D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713DZ\"> </a>02713DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713E6\"> </a>02713E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713EZ\"> </a>02713EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713F6\"> </a>02713F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713FZ\"> </a>02713FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713G6\"> </a>02713G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713GZ\"> </a>02713GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713T6\"> </a>02713T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713TZ\"> </a>02713TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713Z6\"> </a>02713Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02713ZZ\"> </a>02713ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271446\"> </a>0271446</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027144Z\"> </a>027144Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271456\"> </a>0271456</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027145Z\"> </a>027145Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271466\"> </a>0271466</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027146Z\"> </a>027146Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0271476\"> </a>0271476</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027147Z\"> </a>027147Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714D6\"> </a>02714D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714DZ\"> </a>02714DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714E6\"> </a>02714E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714EZ\"> </a>02714EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714F6\"> </a>02714F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714FZ\"> </a>02714FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714G6\"> </a>02714G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714GZ\"> </a>02714GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714T6\"> </a>02714T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714TZ\"> </a>02714TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714Z6\"> </a>02714Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Bifurcation, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02714ZZ\"> </a>02714ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Two Arteries, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272346\"> </a>0272346</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027234Z\"> </a>027234Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272356\"> </a>0272356</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027235Z\"> </a>027235Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272366\"> </a>0272366</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027236Z\"> </a>027236Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272376\"> </a>0272376</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027237Z\"> </a>027237Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723D6\"> </a>02723D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723DZ\"> </a>02723DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723E6\"> </a>02723E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723EZ\"> </a>02723EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723F6\"> </a>02723F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723FZ\"> </a>02723FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723G6\"> </a>02723G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723GZ\"> </a>02723GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723T6\"> </a>02723T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723TZ\"> </a>02723TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723Z6\"> </a>02723Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02723ZZ\"> </a>02723ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272446\"> </a>0272446</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027244Z\"> </a>027244Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272456\"> </a>0272456</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027245Z\"> </a>027245Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272466\"> </a>0272466</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027246Z\"> </a>027246Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0272476\"> </a>0272476</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027247Z\"> </a>027247Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724D6\"> </a>02724D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724DZ\"> </a>02724DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724E6\"> </a>02724E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724EZ\"> </a>02724EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724F6\"> </a>02724F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724FZ\"> </a>02724FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724G6\"> </a>02724G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724GZ\"> </a>02724GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724T6\"> </a>02724T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724TZ\"> </a>02724TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724Z6\"> </a>02724Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Bifurcation, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02724ZZ\"> </a>02724ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Three Arteries, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273346\"> </a>0273346</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027334Z\"> </a>027334Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273356\"> </a>0273356</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027335Z\"> </a>027335Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273366\"> </a>0273366</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027336Z\"> </a>027336Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273376\"> </a>0273376</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027337Z\"> </a>027337Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733D6\"> </a>02733D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733DZ\"> </a>02733DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733E6\"> </a>02733E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733EZ\"> </a>02733EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Two Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733F6\"> </a>02733F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733FZ\"> </a>02733FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Three Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733G6\"> </a>02733G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733GZ\"> </a>02733GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Four or More Intraluminal Devices, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733T6\"> </a>02733T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733TZ\"> </a>02733TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Radioactive Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733Z6\"> </a>02733Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02733ZZ\"> </a>02733ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273446\"> </a>0273446</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027344Z\"> </a>027344Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273456\"> </a>0273456</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027345Z\"> </a>027345Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273466\"> </a>0273466</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027346Z\"> </a>027346Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0273476\"> </a>0273476</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-027347Z\"> </a>027347Z</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734D6\"> </a>02734D6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734DZ\"> </a>02734DZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734E6\"> </a>02734E6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734EZ\"> </a>02734EZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734F6\"> </a>02734F6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734FZ\"> </a>02734FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734G6\"> </a>02734G6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734GZ\"> </a>02734GZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734T6\"> </a>02734T6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734TZ\"> </a>02734TZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734Z6\"> </a>02734Z6</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Bifurcation, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02734ZZ\"> </a>02734ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Dilation of Coronary Artery, Four or More Arteries, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11101003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11101003\">11101003</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal coronary angioplasty (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175066001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175066001\">175066001</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-36969009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=36969009\">36969009</a></td><td>http://snomed.info/sct</td><td>Placement of stent in coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397193006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397193006\">397193006</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal coronary angioplasty by rotoablation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397431004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397431004\">397431004</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal coronary angioplasty with rotoablation, single vessel (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414089002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414089002\">414089002</a></td><td>http://snomed.info/sct</td><td>Emergency percutaneous coronary intervention (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415070008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415070008\">415070008</a></td><td>http://snomed.info/sct</td><td>Percutaneous coronary intervention (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428488008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428488008\">428488008</a></td><td>http://snomed.info/sct</td><td>Placement of stent in anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429499003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429499003\">429499003</a></td><td>http://snomed.info/sct</td><td>Placement of stent in circumflex branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429639007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429639007\">429639007</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429809004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429809004\">429809004</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal angioplasty of coronary artery using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609153008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609153008\">609153008</a></td><td>http://snomed.info/sct</td><td>Percutaneous insertion of drug eluting stent into coronary artery using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609154002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609154002\">609154002</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal insertion of metal stent into coronary artery using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68466008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68466008\">68466008</a></td><td>http://snomed.info/sct</td><td>Removal of coronary artery obstruction by percutaneous transluminal balloon, single vessel (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698740005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698740005\">698740005</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal atherectomy of coronary artery by rotary cutter using fluoroscopic guidance with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707828002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707828002\">707828002</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal cutting balloon angioplasty of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-737085003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=737085003\">737085003</a></td><td>http://snomed.info/sct</td><td>Percutaneous insertion of bioresorbable stent into coronary artery using fluoroscopic guidance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-85053006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=85053006\">85053006</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal coronary angioplasty, multiple vessels (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.67",
   "version": "20170504",
   "name": "PCI",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5a46c4d7-26c8-442e-9e6a-be3444b54e65",
+    "timestamp": "2022-07-19T15:04:33-04:00",
+    "total": 178,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270346",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027034Z",
+      "display": "Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270356",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027035Z",
+      "display": "Dilation of Coronary Artery, One Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270366",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027036Z",
+      "display": "Dilation of Coronary Artery, One Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270376",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027037Z",
+      "display": "Dilation of Coronary Artery, One Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703D6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703DZ",
+      "display": "Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703E6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703EZ",
+      "display": "Dilation of Coronary Artery, One Artery with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703F6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703FZ",
+      "display": "Dilation of Coronary Artery, One Artery with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703G6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703GZ",
+      "display": "Dilation of Coronary Artery, One Artery with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703T6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703TZ",
+      "display": "Dilation of Coronary Artery, One Artery with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703Z6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02703ZZ",
+      "display": "Dilation of Coronary Artery, One Artery, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270446",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027044Z",
+      "display": "Dilation of Coronary Artery, One Artery with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270456",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027045Z",
+      "display": "Dilation of Coronary Artery, One Artery with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270466",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027046Z",
+      "display": "Dilation of Coronary Artery, One Artery with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0270476",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027047Z",
+      "display": "Dilation of Coronary Artery, One Artery with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704D6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704DZ",
+      "display": "Dilation of Coronary Artery, One Artery with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704E6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704EZ",
+      "display": "Dilation of Coronary Artery, One Artery with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704F6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704FZ",
+      "display": "Dilation of Coronary Artery, One Artery with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704G6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704GZ",
+      "display": "Dilation of Coronary Artery, One Artery with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704T6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704TZ",
+      "display": "Dilation of Coronary Artery, One Artery with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704Z6",
+      "display": "Dilation of Coronary Artery, One Artery, Bifurcation, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02704ZZ",
+      "display": "Dilation of Coronary Artery, One Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271346",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027134Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271356",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027135Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271366",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027136Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271376",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027137Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713D6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713DZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713E6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713EZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713F6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713FZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713G6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713GZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713T6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713TZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713Z6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02713ZZ",
+      "display": "Dilation of Coronary Artery, Two Arteries, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271446",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027144Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271456",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027145Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271466",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027146Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0271476",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027147Z",
+      "display": "Dilation of Coronary Artery, Two Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714D6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714DZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714E6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714EZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714F6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714FZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714G6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714GZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714T6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714TZ",
+      "display": "Dilation of Coronary Artery, Two Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714Z6",
+      "display": "Dilation of Coronary Artery, Two Arteries, Bifurcation, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02714ZZ",
+      "display": "Dilation of Coronary Artery, Two Arteries, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272346",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027234Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272356",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027235Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272366",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027236Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272376",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027237Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723D6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723DZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723E6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723EZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723F6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723FZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723G6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723GZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723T6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723TZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723Z6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02723ZZ",
+      "display": "Dilation of Coronary Artery, Three Arteries, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272446",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027244Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272456",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027245Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272466",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027246Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0272476",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027247Z",
+      "display": "Dilation of Coronary Artery, Three Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724D6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724DZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724E6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724EZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724F6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724FZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724G6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724GZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724T6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724TZ",
+      "display": "Dilation of Coronary Artery, Three Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724Z6",
+      "display": "Dilation of Coronary Artery, Three Arteries, Bifurcation, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02724ZZ",
+      "display": "Dilation of Coronary Artery, Three Arteries, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273346",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027334Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273356",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027335Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273366",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027336Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273376",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027337Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733D6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733DZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733E6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733EZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Two Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733F6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733FZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Three Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733G6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733GZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Four or More Intraluminal Devices, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733T6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733TZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Radioactive Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733Z6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02733ZZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273446",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027344Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273456",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027345Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Two Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273466",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027346Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Three Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0273476",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "027347Z",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Four or More Drug-eluting Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734D6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734DZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734E6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734EZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Two Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734F6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734FZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Three Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734G6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734GZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Four or More Intraluminal Devices, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734T6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734TZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries with Radioactive Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734Z6",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Bifurcation, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02734ZZ",
+      "display": "Dilation of Coronary Artery, Four or More Arteries, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11101003",
+      "display": "Percutaneous transluminal coronary angioplasty (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175066001",
+      "display": "Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "36969009",
+      "display": "Placement of stent in coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397193006",
+      "display": "Percutaneous transluminal coronary angioplasty by rotoablation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397431004",
+      "display": "Percutaneous transluminal coronary angioplasty with rotoablation, single vessel (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414089002",
+      "display": "Emergency percutaneous coronary intervention (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415070008",
+      "display": "Percutaneous coronary intervention (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428488008",
+      "display": "Placement of stent in anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429499003",
+      "display": "Placement of stent in circumflex branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429639007",
+      "display": "Percutaneous transluminal balloon angioplasty with insertion of stent into coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429809004",
+      "display": "Percutaneous transluminal angioplasty of coronary artery using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609153008",
+      "display": "Percutaneous insertion of drug eluting stent into coronary artery using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609154002",
+      "display": "Percutaneous transluminal insertion of metal stent into coronary artery using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68466008",
+      "display": "Removal of coronary artery obstruction by percutaneous transluminal balloon, single vessel (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698740005",
+      "display": "Percutaneous transluminal atherectomy of coronary artery by rotary cutter using fluoroscopic guidance with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707828002",
+      "display": "Percutaneous transluminal cutting balloon angioplasty of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "737085003",
+      "display": "Percutaneous insertion of bioresorbable stent into coronary artery using fluoroscopic guidance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "85053006",
+      "display": "Percutaneous transluminal coronary angioplasty, multiple vessels (procedure)"
+    } ]
+  }
 }

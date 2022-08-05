@@ -5,12 +5,58 @@
     "versionId": "10",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305284002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305284002\">305284002</a></td><td>http://snomed.info/sct</td><td>Admission by palliative care physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-305381007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=305381007\">305381007</a></td><td>http://snomed.info/sct</td><td>Admission to palliative care department (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4901000124101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4901000124101\">4901000124101</a></td><td>http://snomed.info/sct</td><td>Palliative care education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-713281006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=713281006\">713281006</a></td><td>http://snomed.info/sct</td><td>Consultation for palliative care (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G9054\"> </a>G9054</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Oncology; primary focus of visit; supervising, coordinating or managing care of patient with terminal cancer or for whom other medical illness prevents further cancer treatment; includes symptom management, end-of-life care planning, management of palliative therapies (for use in a medicare-approved demonstration project)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-M1017\"> </a>M1017</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Patient admitted to palliative care services</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1090",
   "version": "20210224",
   "name": "Palliative Care Encounter",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:75378a68-bf12-4673-bdb4-fb7e50dd23da",
+    "timestamp": "2022-07-19T15:06:56-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305284002",
+      "display": "Admission by palliative care physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "305381007",
+      "display": "Admission to palliative care department (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4901000124101",
+      "display": "Palliative care education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "713281006",
+      "display": "Consultation for palliative care (procedure)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G9054",
+      "display": "Oncology; primary focus of visit; supervising, coordinating or managing care of patient with terminal cancer or for whom other medical illness prevents further cancer treatment; includes symptom management, end-of-life care planning, management of palliative therapies (for use in a medicare-approved demonstration project)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "M1017",
+      "display": "Patient admitted to palliative care services"
+    } ]
+  }
 }

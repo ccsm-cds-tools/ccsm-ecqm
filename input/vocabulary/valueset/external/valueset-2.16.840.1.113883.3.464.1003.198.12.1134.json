@@ -5,12 +5,73 @@
     "versionId": "8",
     "lastUpdated": "2022-03-02T18:05:34.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0HTT0ZZ\"> </a>0HTT0ZZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Resection of Right Breast, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429400009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429400009\">429400009</a></td><td>http://snomed.info/sct</td><td>Mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-451201000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=451201000124106\">451201000124106</a></td><td>http://snomed.info/sct</td><td>Prophylactic mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-726430006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=726430006\">726430006</a></td><td>http://snomed.info/sct</td><td>Radical mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-726434002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=726434002\">726434002</a></td><td>http://snomed.info/sct</td><td>Subcutaneous mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-726436000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=726436000\">726436000</a></td><td>http://snomed.info/sct</td><td>Modified radical mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-741010006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=741010006\">741010006</a></td><td>http://snomed.info/sct</td><td>Simple mastectomy of right breast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-741019007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=741019007\">741019007</a></td><td>http://snomed.info/sct</td><td>Subcutaneous mastectomy of right breast with prosthetic implant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-836435007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=836435007\">836435007</a></td><td>http://snomed.info/sct</td><td>Simple mastectomy of right breast using robotic assistance (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1134",
   "version": "20190315",
   "name": "Unilateral Mastectomy Right",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:56b9f12b-74a6-43e4-ba5e-5414d80999aa",
+    "timestamp": "2022-07-19T15:11:01-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0HTT0ZZ",
+      "display": "Resection of Right Breast, Open Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429400009",
+      "display": "Mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "451201000124106",
+      "display": "Prophylactic mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "726430006",
+      "display": "Radical mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "726434002",
+      "display": "Subcutaneous mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "726436000",
+      "display": "Modified radical mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "741010006",
+      "display": "Simple mastectomy of right breast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "741019007",
+      "display": "Subcutaneous mastectomy of right breast with prosthetic implant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "836435007",
+      "display": "Simple mastectomy of right breast using robotic assistance (procedure)"
+    } ]
+  }
 }

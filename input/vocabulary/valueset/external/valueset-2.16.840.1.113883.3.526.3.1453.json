@@ -5,12 +5,618 @@
     "versionId": "31",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 118 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14046000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14046000\">14046000</a></td><td>http://snomed.info/sct</td><td>Cystoid macular retinal degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18410006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18410006\">18410006</a></td><td>http://snomed.info/sct</td><td>Scarred macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193350004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193350004\">193350004</a></td><td>http://snomed.info/sct</td><td>Advanced maculopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193387007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193387007\">193387007</a></td><td>http://snomed.info/sct</td><td>Cystoid macular edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232006002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232006002\">232006002</a></td><td>http://snomed.info/sct</td><td>Macular hole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232013002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232013002\">232013002</a></td><td>http://snomed.info/sct</td><td>Macular retinoschisis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232020009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232020009\">232020009</a></td><td>http://snomed.info/sct</td><td>Disorder of macula due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232049001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232049001\">232049001</a></td><td>http://snomed.info/sct</td><td>Adult vitelliform macular dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232050001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232050001\">232050001</a></td><td>http://snomed.info/sct</td><td>Bull's eye macular dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232051002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232051002\">232051002</a></td><td>http://snomed.info/sct</td><td>Pattern dystrophy of macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232071006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232071006\">232071006</a></td><td>http://snomed.info/sct</td><td>Occult neovascularization of macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232072004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232072004\">232072004</a></td><td>http://snomed.info/sct</td><td>Forster-Fuchs' spot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247146001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247146001\">247146001</a></td><td>http://snomed.info/sct</td><td>Macular pigment deposit (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247147005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247147005\">247147005</a></td><td>http://snomed.info/sct</td><td>Macular diffuse atrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247149008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247149008\">247149008</a></td><td>http://snomed.info/sct</td><td>Macular choroidal sclerosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247158001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247158001\">247158001</a></td><td>http://snomed.info/sct</td><td>Macular pigment epithelial detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247159009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247159009\">247159009</a></td><td>http://snomed.info/sct</td><td>Macular pigment epithelial rip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247172005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247172005\">247172005</a></td><td>http://snomed.info/sct</td><td>Retinal macular break (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247200005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247200005\">247200005</a></td><td>http://snomed.info/sct</td><td>Choroidal atrophy (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-264633009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=264633009\">264633009</a></td><td>http://snomed.info/sct</td><td>Drusen stage macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267611002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267611002\">267611002</a></td><td>http://snomed.info/sct</td><td>Degeneration of macula and posterior pole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267612009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267612009\">267612009</a></td><td>http://snomed.info/sct</td><td>Degeneration of macula due to cyst, hole or pseudohole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267718000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267718000\">267718000</a></td><td>http://snomed.info/sct</td><td>Age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-276436007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=276436007\">276436007</a></td><td>http://snomed.info/sct</td><td>Hereditary macular dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312701008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312701008\">312701008</a></td><td>http://snomed.info/sct</td><td>Impending macular hole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312702001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312702001\">312702001</a></td><td>http://snomed.info/sct</td><td>Full thickness macular hole stage II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312703006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312703006\">312703006</a></td><td>http://snomed.info/sct</td><td>Full thickness macular hole stage III (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312704000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312704000\">312704000</a></td><td>http://snomed.info/sct</td><td>Full thickness macular hole stage IV (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312898002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312898002\">312898002</a></td><td>http://snomed.info/sct</td><td>Myopic macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312899005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312899005\">312899005</a></td><td>http://snomed.info/sct</td><td>Fibrovascular macular scar (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312901001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312901001\">312901001</a></td><td>http://snomed.info/sct</td><td>Vitreomacular traction syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312902008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312902008\">312902008</a></td><td>http://snomed.info/sct</td><td>Macular pseudohole (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312911008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312911008\">312911008</a></td><td>http://snomed.info/sct</td><td>Clinically significant macular edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312912001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312912001\">312912001</a></td><td>http://snomed.info/sct</td><td>Macular edema due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312913006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312913006\">312913006</a></td><td>http://snomed.info/sct</td><td>Ischemic maculopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312920004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312920004\">312920004</a></td><td>http://snomed.info/sct</td><td>Postoperative cystoid macular edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312921000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312921000\">312921000</a></td><td>http://snomed.info/sct</td><td>Autosomal dominant cystoid macular edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312922007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312922007\">312922007</a></td><td>http://snomed.info/sct</td><td>Uveitis related cystoid macular edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312925009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312925009\">312925009</a></td><td>http://snomed.info/sct</td><td>North Carolina macular dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312999006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312999006\">312999006</a></td><td>http://snomed.info/sct</td><td>Disorder of macula of retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-313002004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=313002004\">313002004</a></td><td>http://snomed.info/sct</td><td>Acute macular neuroretinitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314010006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314010006\">314010006</a></td><td>http://snomed.info/sct</td><td>Diffuse exudative maculopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314011005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314011005\">314011005</a></td><td>http://snomed.info/sct</td><td>Focal exudative maculopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314014002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314014002\">314014002</a></td><td>http://snomed.info/sct</td><td>Ischemic maculopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314015001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314015001\">314015001</a></td><td>http://snomed.info/sct</td><td>Mixed maculopathy due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314427006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314427006\">314427006</a></td><td>http://snomed.info/sct</td><td>Drusen plus pigment change stage macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-335531000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=335531000119109\">335531000119109</a></td><td>http://snomed.info/sct</td><td>Cystoid macular degeneration of right retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341141000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341141000119106\">341141000119106</a></td><td>http://snomed.info/sct</td><td>Cystoid macular degeneration of left retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346401000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346401000119108\">346401000119108</a></td><td>http://snomed.info/sct</td><td>Cystoid macular degeneration of bilateral retinas (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-371098002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=371098002\">371098002</a></td><td>http://snomed.info/sct</td><td>Post-radiation maculopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37231002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37231002\">37231002</a></td><td>http://snomed.info/sct</td><td>Macular retinal edema (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399864000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399864000\">399864000</a></td><td>http://snomed.info/sct</td><td>Macular edema not clinically significant due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399872003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399872003\">399872003</a></td><td>http://snomed.info/sct</td><td>Severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399874002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399874002\">399874002</a></td><td>http://snomed.info/sct</td><td>High risk proliferative retinopathy with clinically significant macula edema due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399875001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399875001\">399875001</a></td><td>http://snomed.info/sct</td><td>Non-high-risk proliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399877009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399877009\">399877009</a></td><td>http://snomed.info/sct</td><td>Very severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4041005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4041005\">4041005</a></td><td>http://snomed.info/sct</td><td>Congenital anomaly of macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414173003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414173003\">414173003</a></td><td>http://snomed.info/sct</td><td>Exudative age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414875008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414875008\">414875008</a></td><td>http://snomed.info/sct</td><td>Nonexudative age-related macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418918009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418918009\">418918009</a></td><td>http://snomed.info/sct</td><td>Macular infarction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420030000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420030000\">420030000</a></td><td>http://snomed.info/sct</td><td>Serous macular detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-420486006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=420486006\">420486006</a></td><td>http://snomed.info/sct</td><td>Exudative maculopathy due to type 1 diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-421779007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=421779007\">421779007</a></td><td>http://snomed.info/sct</td><td>Exudative maculopathy due to type 2 diabetes mellitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-422338006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=422338006\">422338006</a></td><td>http://snomed.info/sct</td><td>Degenerative disorder of macula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423084001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423084001\">423084001</a></td><td>http://snomed.info/sct</td><td>Macular exudate (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425622004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425622004\">425622004</a></td><td>http://snomed.info/sct</td><td>Scar of macula following trauma (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429449002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429449002\">429449002</a></td><td>http://snomed.info/sct</td><td>Congenital hypoplasia of fovea centralis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-432789001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=432789001\">432789001</a></td><td>http://snomed.info/sct</td><td>Noncystoid edema of macula of retina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44115007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44115007\">44115007</a></td><td>http://snomed.info/sct</td><td>Toxic maculopathy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-443437004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=443437004\">443437004</a></td><td>http://snomed.info/sct</td><td>Full thickness hole of macula lutea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-47673003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=47673003\">47673003</a></td><td>http://snomed.info/sct</td><td>Fundus flavimaculatus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70099003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70099003\">70099003</a></td><td>http://snomed.info/sct</td><td>Stargardt's disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-71047006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=71047006\">71047006</a></td><td>http://snomed.info/sct</td><td>Familial pseudoinflammatory macular degeneration (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-789220007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=789220007\">789220007</a></td><td>http://snomed.info/sct</td><td>Atrophy of macula lutea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90036004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90036004\">90036004</a></td><td>http://snomed.info/sct</td><td>Vitelliform dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.30\"> </a>H35.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified macular degeneration</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3110\"> </a>H35.3110</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, right eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3111\"> </a>H35.3111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, right eye, early dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3112\"> </a>H35.3112</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, right eye, intermediate dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3113\"> </a>H35.3113</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, right eye, advanced atrophic without subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3114\"> </a>H35.3114</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, right eye, advanced atrophic with subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3120\"> </a>H35.3120</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, left eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3121\"> </a>H35.3121</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, left eye, early dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3122\"> </a>H35.3122</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, left eye, intermediate dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3123\"> </a>H35.3123</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, left eye, advanced atrophic without subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3124\"> </a>H35.3124</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, left eye, advanced atrophic with subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3130\"> </a>H35.3130</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, bilateral, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3131\"> </a>H35.3131</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, bilateral, early dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3132\"> </a>H35.3132</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, bilateral, intermediate dry stage</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3133\"> </a>H35.3133</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, bilateral, advanced atrophic without subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3134\"> </a>H35.3134</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonexudative age-related macular degeneration, bilateral, advanced atrophic with subfoveal involvement</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3210\"> </a>H35.3210</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, right eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3211\"> </a>H35.3211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, right eye, with active choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3212\"> </a>H35.3212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, right eye, with inactive choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3213\"> </a>H35.3213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, right eye, with inactive scar</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3220\"> </a>H35.3220</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, left eye, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3221\"> </a>H35.3221</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, left eye, with active choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3222\"> </a>H35.3222</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, left eye, with inactive choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3223\"> </a>H35.3223</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, left eye, with inactive scar</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3230\"> </a>H35.3230</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, bilateral, stage unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3231\"> </a>H35.3231</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, bilateral, with active choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3232\"> </a>H35.3232</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, bilateral, with inactive choroidal neovascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.3233\"> </a>H35.3233</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Exudative age-related macular degeneration, bilateral, with inactive scar</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.341\"> </a>H35.341</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular cyst, hole, or pseudohole, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.342\"> </a>H35.342</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular cyst, hole, or pseudohole, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.343\"> </a>H35.343</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular cyst, hole, or pseudohole, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.351\"> </a>H35.351</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cystoid macular degeneration, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.352\"> </a>H35.352</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cystoid macular degeneration, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.353\"> </a>H35.353</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cystoid macular degeneration, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.361\"> </a>H35.361</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drusen (degenerative) of macula, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.362\"> </a>H35.362</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drusen (degenerative) of macula, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.363\"> </a>H35.363</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Drusen (degenerative) of macula, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.371\"> </a>H35.371</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Puckering of macula, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.372\"> </a>H35.372</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Puckering of macula, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.373\"> </a>H35.373</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Puckering of macula, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.381\"> </a>H35.381</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic maculopathy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.382\"> </a>H35.382</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic maculopathy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.383\"> </a>H35.383</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Toxic maculopathy, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1453",
   "version": "20210210",
   "name": "Degeneration of Macula and Posterior Pole",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5c840e98-55e0-4d3d-9b51-84abb68dc857",
+    "timestamp": "2022-07-19T15:12:23-04:00",
+    "total": 118,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14046000",
+      "display": "Cystoid macular retinal degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18410006",
+      "display": "Scarred macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193350004",
+      "display": "Advanced maculopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193387007",
+      "display": "Cystoid macular edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232006002",
+      "display": "Macular hole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232013002",
+      "display": "Macular retinoschisis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232020009",
+      "display": "Disorder of macula due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232049001",
+      "display": "Adult vitelliform macular dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232050001",
+      "display": "Bull's eye macular dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232051002",
+      "display": "Pattern dystrophy of macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232071006",
+      "display": "Occult neovascularization of macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232072004",
+      "display": "Forster-Fuchs' spot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247146001",
+      "display": "Macular pigment deposit (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247147005",
+      "display": "Macular diffuse atrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247149008",
+      "display": "Macular choroidal sclerosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247158001",
+      "display": "Macular pigment epithelial detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247159009",
+      "display": "Macular pigment epithelial rip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247172005",
+      "display": "Retinal macular break (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247200005",
+      "display": "Choroidal atrophy (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "264633009",
+      "display": "Drusen stage macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267611002",
+      "display": "Degeneration of macula and posterior pole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267612009",
+      "display": "Degeneration of macula due to cyst, hole or pseudohole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267718000",
+      "display": "Age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "276436007",
+      "display": "Hereditary macular dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312701008",
+      "display": "Impending macular hole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312702001",
+      "display": "Full thickness macular hole stage II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312703006",
+      "display": "Full thickness macular hole stage III (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312704000",
+      "display": "Full thickness macular hole stage IV (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312898002",
+      "display": "Myopic macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312899005",
+      "display": "Fibrovascular macular scar (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312901001",
+      "display": "Vitreomacular traction syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312902008",
+      "display": "Macular pseudohole (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312911008",
+      "display": "Clinically significant macular edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312912001",
+      "display": "Macular edema due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312913006",
+      "display": "Ischemic maculopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312920004",
+      "display": "Postoperative cystoid macular edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312921000",
+      "display": "Autosomal dominant cystoid macular edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312922007",
+      "display": "Uveitis related cystoid macular edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312925009",
+      "display": "North Carolina macular dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312999006",
+      "display": "Disorder of macula of retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "313002004",
+      "display": "Acute macular neuroretinitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314010006",
+      "display": "Diffuse exudative maculopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314011005",
+      "display": "Focal exudative maculopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314014002",
+      "display": "Ischemic maculopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314015001",
+      "display": "Mixed maculopathy due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314427006",
+      "display": "Drusen plus pigment change stage macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "335531000119109",
+      "display": "Cystoid macular degeneration of right retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341141000119106",
+      "display": "Cystoid macular degeneration of left retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346401000119108",
+      "display": "Cystoid macular degeneration of bilateral retinas (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "371098002",
+      "display": "Post-radiation maculopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37231002",
+      "display": "Macular retinal edema (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399864000",
+      "display": "Macular edema not clinically significant due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399872003",
+      "display": "Severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399874002",
+      "display": "High risk proliferative retinopathy with clinically significant macula edema due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399875001",
+      "display": "Non-high-risk proliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399877009",
+      "display": "Very severe nonproliferative retinopathy with clinically significant macular edema due to diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4041005",
+      "display": "Congenital anomaly of macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414173003",
+      "display": "Exudative age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414875008",
+      "display": "Nonexudative age-related macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418918009",
+      "display": "Macular infarction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420030000",
+      "display": "Serous macular detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "420486006",
+      "display": "Exudative maculopathy due to type 1 diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "421779007",
+      "display": "Exudative maculopathy due to type 2 diabetes mellitus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "422338006",
+      "display": "Degenerative disorder of macula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423084001",
+      "display": "Macular exudate (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425622004",
+      "display": "Scar of macula following trauma (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429449002",
+      "display": "Congenital hypoplasia of fovea centralis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "432789001",
+      "display": "Noncystoid edema of macula of retina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44115007",
+      "display": "Toxic maculopathy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "443437004",
+      "display": "Full thickness hole of macula lutea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "47673003",
+      "display": "Fundus flavimaculatus (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70099003",
+      "display": "Stargardt's disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "71047006",
+      "display": "Familial pseudoinflammatory macular degeneration (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "789220007",
+      "display": "Atrophy of macula lutea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90036004",
+      "display": "Vitelliform dystrophy (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.30",
+      "display": "Unspecified macular degeneration"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3110",
+      "display": "Nonexudative age-related macular degeneration, right eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3111",
+      "display": "Nonexudative age-related macular degeneration, right eye, early dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3112",
+      "display": "Nonexudative age-related macular degeneration, right eye, intermediate dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3113",
+      "display": "Nonexudative age-related macular degeneration, right eye, advanced atrophic without subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3114",
+      "display": "Nonexudative age-related macular degeneration, right eye, advanced atrophic with subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3120",
+      "display": "Nonexudative age-related macular degeneration, left eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3121",
+      "display": "Nonexudative age-related macular degeneration, left eye, early dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3122",
+      "display": "Nonexudative age-related macular degeneration, left eye, intermediate dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3123",
+      "display": "Nonexudative age-related macular degeneration, left eye, advanced atrophic without subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3124",
+      "display": "Nonexudative age-related macular degeneration, left eye, advanced atrophic with subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3130",
+      "display": "Nonexudative age-related macular degeneration, bilateral, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3131",
+      "display": "Nonexudative age-related macular degeneration, bilateral, early dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3132",
+      "display": "Nonexudative age-related macular degeneration, bilateral, intermediate dry stage"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3133",
+      "display": "Nonexudative age-related macular degeneration, bilateral, advanced atrophic without subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3134",
+      "display": "Nonexudative age-related macular degeneration, bilateral, advanced atrophic with subfoveal involvement"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3210",
+      "display": "Exudative age-related macular degeneration, right eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3211",
+      "display": "Exudative age-related macular degeneration, right eye, with active choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3212",
+      "display": "Exudative age-related macular degeneration, right eye, with inactive choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3213",
+      "display": "Exudative age-related macular degeneration, right eye, with inactive scar"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3220",
+      "display": "Exudative age-related macular degeneration, left eye, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3221",
+      "display": "Exudative age-related macular degeneration, left eye, with active choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3222",
+      "display": "Exudative age-related macular degeneration, left eye, with inactive choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3223",
+      "display": "Exudative age-related macular degeneration, left eye, with inactive scar"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3230",
+      "display": "Exudative age-related macular degeneration, bilateral, stage unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3231",
+      "display": "Exudative age-related macular degeneration, bilateral, with active choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3232",
+      "display": "Exudative age-related macular degeneration, bilateral, with inactive choroidal neovascularization"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.3233",
+      "display": "Exudative age-related macular degeneration, bilateral, with inactive scar"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.341",
+      "display": "Macular cyst, hole, or pseudohole, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.342",
+      "display": "Macular cyst, hole, or pseudohole, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.343",
+      "display": "Macular cyst, hole, or pseudohole, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.351",
+      "display": "Cystoid macular degeneration, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.352",
+      "display": "Cystoid macular degeneration, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.353",
+      "display": "Cystoid macular degeneration, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.361",
+      "display": "Drusen (degenerative) of macula, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.362",
+      "display": "Drusen (degenerative) of macula, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.363",
+      "display": "Drusen (degenerative) of macula, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.371",
+      "display": "Puckering of macula, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.372",
+      "display": "Puckering of macula, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.373",
+      "display": "Puckering of macula, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.381",
+      "display": "Toxic maculopathy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.382",
+      "display": "Toxic maculopathy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.383",
+      "display": "Toxic maculopathy, bilateral"
+    } ]
+  }
 }

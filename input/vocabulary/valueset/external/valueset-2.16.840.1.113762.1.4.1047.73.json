@@ -5,12 +5,163 @@
     "versionId": "15",
     "lastUpdated": "2021-03-16T13:37:13.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 27 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169643005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169643005\">169643005</a></td><td>http://snomed.info/sct</td><td>Feeding intention - breast (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-169745008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=169745008\">169745008</a></td><td>http://snomed.info/sct</td><td>Breastfeeding started (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-199004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=199004\">199004</a></td><td>http://snomed.info/sct</td><td>Decreased lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200416006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200416006\">200416006</a></td><td>http://snomed.info/sct</td><td>Breast engorgement in pregnancy, the puerperium or lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200418007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200418007\">200418007</a></td><td>http://snomed.info/sct</td><td>Breast engorgement in pregnancy, the puerperium or lactation - delivered (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200419004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200419004\">200419004</a></td><td>http://snomed.info/sct</td><td>Breast engorgement in pregnancy, the puerperium or lactation - delivered with postnatal complication (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200420005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200420005\">200420005</a></td><td>http://snomed.info/sct</td><td>Breast engorgement in pregnancy, the puerperium or lactation with antenatal complication (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200430001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200430001\">200430001</a></td><td>http://snomed.info/sct</td><td>Breastfeeding painful (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-225604004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=225604004\">225604004</a></td><td>http://snomed.info/sct</td><td>Lactation established (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-247415009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=247415009\">247415009</a></td><td>http://snomed.info/sct</td><td>Painful lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-289084000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=289084000\">289084000</a></td><td>http://snomed.info/sct</td><td>Difficulty performing breast-feeding (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290122005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290122005\">290122005</a></td><td>http://snomed.info/sct</td><td>Finding of lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290124006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290124006\">290124006</a></td><td>http://snomed.info/sct</td><td>Finding of quantity of lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-290126008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=290126008\">290126008</a></td><td>http://snomed.info/sct</td><td>Finding of measures of lactation (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58219009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58219009\">58219009</a></td><td>http://snomed.info/sct</td><td>Lactation problem (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69840006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69840006\">69840006</a></td><td>http://snomed.info/sct</td><td>Normal breast feeding (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82374005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82374005\">82374005</a></td><td>http://snomed.info/sct</td><td>Lactation normal (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-866041003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=866041003\">866041003</a></td><td>http://snomed.info/sct</td><td>Mother currently breastfeeding (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O91.03\"> </a>O91.03</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Infection of nipple associated with lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O91.13\"> </a>O91.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Abscess of breast associated with lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O91.23\"> </a>O91.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Nonpurulent mastitis associated with lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O92.03\"> </a>O92.03</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retracted nipple associated with lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O92.13\"> </a>O92.13</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cracked nipple associated with lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O92.5\"> </a>O92.5</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Suppressed lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O92.70\"> </a>O92.70</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified disorders of lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O92.79\"> </a>O92.79</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other disorders of lactation</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-Z39.1\"> </a>Z39.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Encounter for care and examination of lactating mother</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.73",
   "version": "20210220",
   "name": "Breastfeeding",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:06631a2e-730c-4234-8877-109dee4ec06d",
+    "timestamp": "2022-07-19T15:04:42-04:00",
+    "total": 27,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169643005",
+      "display": "Feeding intention - breast (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "169745008",
+      "display": "Breastfeeding started (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "199004",
+      "display": "Decreased lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200416006",
+      "display": "Breast engorgement in pregnancy, the puerperium or lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200418007",
+      "display": "Breast engorgement in pregnancy, the puerperium or lactation - delivered (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200419004",
+      "display": "Breast engorgement in pregnancy, the puerperium or lactation - delivered with postnatal complication (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200420005",
+      "display": "Breast engorgement in pregnancy, the puerperium or lactation with antenatal complication (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200430001",
+      "display": "Breastfeeding painful (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "225604004",
+      "display": "Lactation established (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "247415009",
+      "display": "Painful lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "289084000",
+      "display": "Difficulty performing breast-feeding (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290122005",
+      "display": "Finding of lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290124006",
+      "display": "Finding of quantity of lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "290126008",
+      "display": "Finding of measures of lactation (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58219009",
+      "display": "Lactation problem (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69840006",
+      "display": "Normal breast feeding (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82374005",
+      "display": "Lactation normal (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "866041003",
+      "display": "Mother currently breastfeeding (situation)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O91.03",
+      "display": "Infection of nipple associated with lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O91.13",
+      "display": "Abscess of breast associated with lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O91.23",
+      "display": "Nonpurulent mastitis associated with lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O92.03",
+      "display": "Retracted nipple associated with lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O92.13",
+      "display": "Cracked nipple associated with lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O92.5",
+      "display": "Suppressed lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O92.70",
+      "display": "Unspecified disorders of lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O92.79",
+      "display": "Other disorders of lactation"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "Z39.1",
+      "display": "Encounter for care and examination of lactating mother"
+    } ]
+  }
 }

@@ -5,12 +5,108 @@
     "versionId": "6",
     "lastUpdated": "2021-03-16T19:18:31.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194828000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194828000\">194828000</a></td><td>http://snomed.info/sct</td><td>Angina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233819005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233819005\">233819005</a></td><td>http://snomed.info/sct</td><td>Stable angina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233821000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233821000\">233821000</a></td><td>http://snomed.info/sct</td><td>New onset angina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-314116003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=314116003\">314116003</a></td><td>http://snomed.info/sct</td><td>Post infarct angina (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-411.0\"> </a>411.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Postmyocardial infarction syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-411.1\"> </a>411.1</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Intermediate coronary syndrome</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-413.0\"> </a>413.0</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Angina decubitus</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-413.9\"> </a>413.9</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other and unspecified angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-429.79\"> </a>429.79</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Certain sequelae of myocardial infarction, not elsewhere classified, other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-4557003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=4557003\">4557003</a></td><td>http://snomed.info/sct</td><td>Preinfarction syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59021001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59021001\">59021001</a></td><td>http://snomed.info/sct</td><td>Angina decubitus (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I20.0\"> </a>I20.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unstable angina</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I20.1\"> </a>I20.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Angina pectoris with documented spasm</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I20.8\"> </a>I20.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other forms of angina pectoris</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I20.9\"> </a>I20.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Angina pectoris, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I23.7\"> </a>I23.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Postinfarction angina</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.47",
   "version": "20170504",
   "name": "Stable and Unstable Angina",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7352f25c-2b27-454f-b3f2-d1e1699cae55",
+    "timestamp": "2022-07-19T15:04:39-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194828000",
+      "display": "Angina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233819005",
+      "display": "Stable angina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233821000",
+      "display": "New onset angina (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "314116003",
+      "display": "Post infarct angina (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "411.0",
+      "display": "Postmyocardial infarction syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "411.1",
+      "display": "Intermediate coronary syndrome"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "413.0",
+      "display": "Angina decubitus"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "413.9",
+      "display": "Other and unspecified angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "429.79",
+      "display": "Certain sequelae of myocardial infarction, not elsewhere classified, other"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "4557003",
+      "display": "Preinfarction syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59021001",
+      "display": "Angina decubitus (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I20.0",
+      "display": "Unstable angina"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I20.1",
+      "display": "Angina pectoris with documented spasm"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I20.8",
+      "display": "Other forms of angina pectoris"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I20.9",
+      "display": "Angina pectoris, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I23.7",
+      "display": "Postinfarction angina"
+    } ]
+  }
 }

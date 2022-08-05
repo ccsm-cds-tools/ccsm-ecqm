@@ -5,12 +5,143 @@
     "versionId": "9",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 23 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-20093000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=20093000\">20093000</a></td><td>Alcohol rehabilitation and detoxification (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23915005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23915005\">23915005</a></td><td>Combined alcohol and drug rehabilitation and detoxification (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24165007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24165007\">24165007</a></td><td>Alcoholism counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281078001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281078001\">281078001</a></td><td>Education about alcohol consumption (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35637008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35637008\">35637008</a></td><td>Alcohol rehabilitation (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386449006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386449006\">386449006</a></td><td>Substance use treatment: alcohol withdrawal (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38670004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38670004\">38670004</a></td><td>Referral to alcoholism rehabilitation service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390857005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390857005\">390857005</a></td><td>Referral to community alcohol team (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408947007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408947007\">408947007</a></td><td>Alcohol abuse prevention education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408948002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408948002\">408948002</a></td><td>Alcohol abuse prevention management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413130000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413130000\">413130000</a></td><td>Alcohol disorder monitoring (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413473000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413473000\">413473000</a></td><td>Counseling about alcohol consumption (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417096006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417096006\">417096006</a></td><td>Referral to community drug and alcohol team (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-431260004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=431260004\">431260004</a></td><td>Referral to specialist alcohol treatment service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440671000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440671000124106\">440671000124106</a></td><td>Management of alcohol intake (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62213004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62213004\">62213004</a></td><td>Combined alcohol and drug rehabilitation (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64297001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64297001\">64297001</a></td><td>Detoxication psychiatric therapy for alcoholism (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707166002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707166002\">707166002</a></td><td>Alcohol reduction program (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720175009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720175009\">720175009</a></td><td>Alcohol harm reduction program (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720176005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720176005\">720176005</a></td><td>Alcohol relapse prevention program (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-720178006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=720178006\">720178006</a></td><td>Alcohol twelve step program (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-737363002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=737363002\">737363002</a></td><td>Alcohol abuse surveillance (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-827094004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=827094004\">827094004</a></td><td>Alcohol detoxification (regime/therapy)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1583",
   "version": "20200307",
   "name": "Referral or Counseling for Alcohol Consumption",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:406c0483-3a3c-4152-8f84-ee9665abf474",
+    "timestamp": "2022-07-19T15:13:14-04:00",
+    "total": 23,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "20093000",
+      "display": "Alcohol rehabilitation and detoxification (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23915005",
+      "display": "Combined alcohol and drug rehabilitation and detoxification (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24165007",
+      "display": "Alcoholism counseling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281078001",
+      "display": "Education about alcohol consumption (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35637008",
+      "display": "Alcohol rehabilitation (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386449006",
+      "display": "Substance use treatment: alcohol withdrawal (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38670004",
+      "display": "Referral to alcoholism rehabilitation service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390857005",
+      "display": "Referral to community alcohol team (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408947007",
+      "display": "Alcohol abuse prevention education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408948002",
+      "display": "Alcohol abuse prevention management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413130000",
+      "display": "Alcohol disorder monitoring (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413473000",
+      "display": "Counseling about alcohol consumption (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417096006",
+      "display": "Referral to community drug and alcohol team (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "431260004",
+      "display": "Referral to specialist alcohol treatment service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440671000124106",
+      "display": "Management of alcohol intake (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62213004",
+      "display": "Combined alcohol and drug rehabilitation (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64297001",
+      "display": "Detoxication psychiatric therapy for alcoholism (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707166002",
+      "display": "Alcohol reduction program (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720175009",
+      "display": "Alcohol harm reduction program (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720176005",
+      "display": "Alcohol relapse prevention program (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "720178006",
+      "display": "Alcohol twelve step program (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "737363002",
+      "display": "Alcohol abuse surveillance (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "827094004",
+      "display": "Alcohol detoxification (regime/therapy)"
+    } ]
+  }
 }

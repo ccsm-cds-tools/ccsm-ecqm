@@ -5,12 +5,38 @@
     "versionId": "20",
     "lastUpdated": "2022-03-02T18:05:20.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434751000124102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434751000124102\">434751000124102</a></td><td>http://snomed.info/sct</td><td>Pneumococcal conjugate vaccination (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90670\"> </a>90670</td><td>http://www.ama-assn.org/go/cpt</td><td>Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.110.12.1046",
   "version": "20170504",
   "name": "Pneumococcal Conjugate Vaccine Administered",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e12e84a9-2a2d-4158-8676-5c4e1ba31de1",
+    "timestamp": "2022-07-19T15:07:53-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434751000124102",
+      "display": "Pneumococcal conjugate vaccination (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90670",
+      "display": "Pneumococcal conjugate vaccine, 13 valent (PCV13), for intramuscular use"
+    } ]
+  }
 }

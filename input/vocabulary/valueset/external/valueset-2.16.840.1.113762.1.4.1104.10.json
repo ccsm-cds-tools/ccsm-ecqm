@@ -5,12 +5,63 @@
     "versionId": "18",
     "lastUpdated": "2021-02-13T01:00:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>https://nahdo.org/sopt</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-1\"> </a>1</td><td>MEDICARE</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-12\"> </a>12</td><td>Medicare (Non-managed Care)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-121\"> </a>121</td><td>Medicare FFS</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-122\"> </a>122</td><td>Medicare Drug Benefit</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-123\"> </a>123</td><td>Medicare Medical Savings Account (MSA)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-129\"> </a>129</td><td>Medicare Non-managed Care Other</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"https---nahdo.org-sopt-14\"> </a>14</td><td>Dual Eligibility Medicare/Medicaid Organization</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1104.10",
   "version": "20210213",
   "name": "Medicare payer",
   "status": "active",
   "date": "2021-02-13T01:00:26-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:a418e141-f0f6-415b-9f5f-559a313397fd",
+    "timestamp": "2022-07-19T15:04:46-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "1",
+      "display": "MEDICARE"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "12",
+      "display": "Medicare (Non-managed Care)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "121",
+      "display": "Medicare FFS"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "122",
+      "display": "Medicare Drug Benefit"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "123",
+      "display": "Medicare Medical Savings Account (MSA)"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "129",
+      "display": "Medicare Non-managed Care Other"
+    }, {
+      "system": "https://nahdo.org/sopt",
+      "version": "9.2",
+      "code": "14",
+      "display": "Dual Eligibility Medicare/Medicaid Organization"
+    } ]
+  }
 }

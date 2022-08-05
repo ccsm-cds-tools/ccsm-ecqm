@@ -5,12 +5,43 @@
     "versionId": "7",
     "lastUpdated": "2021-03-26T09:17:47.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415238003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415238003\">415238003</a></td><td>http://snomed.info/sct</td><td>Rapid eye movement sleep behavior disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69020003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69020003\">69020003</a></td><td>http://snomed.info/sct</td><td>Abnormal rapid eye movement sleep (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-G47.52\"> </a>G47.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>REM sleep behavior disorder</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.105.12.1207",
   "version": "20210224",
   "name": "REM Sleep Behavior Disorder",
   "status": "active",
   "date": "2021-02-24T01:00:19-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4087d389-153d-4176-b7ad-38472c1097c4",
+    "timestamp": "2022-07-19T15:07:14-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415238003",
+      "display": "Rapid eye movement sleep behavior disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69020003",
+      "display": "Abnormal rapid eye movement sleep (finding)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "G47.52",
+      "display": "REM sleep behavior disorder"
+    } ]
+  }
 }

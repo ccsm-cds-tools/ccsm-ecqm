@@ -5,12 +5,108 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:06:18.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 16 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108219001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108219001\">108219001</a></td><td>Physician visit with evaluation AND/OR management service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108220007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108220007\">108220007</a></td><td>Evaluation AND/OR management - new patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108221006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108221006\">108221006</a></td><td>Evaluation AND/OR management - established patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-108224003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=108224003\">108224003</a></td><td>Preventive patient evaluation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14736009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14736009\">14736009</a></td><td>History and physical examination with evaluation and management of patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185349003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185349003\">185349003</a></td><td>Encounter for check up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185389009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185389009\">185389009</a></td><td>Follow-up visit (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270427003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270427003\">270427003</a></td><td>Patient-initiated encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270430005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270430005\">270430005</a></td><td>Provider-initiated encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281036007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281036007\">281036007</a></td><td>Follow-up consultation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308335008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308335008\">308335008</a></td><td>Patient encounter procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390906007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390906007\">390906007</a></td><td>Follow-up encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410187005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410187005\">410187005</a></td><td>Physical evaluation management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-78318003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=78318003\">78318003</a></td><td>History and physical examination, annual for health maintenance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86013001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86013001\">86013001</a></td><td>Periodic reevaluation and management of healthy individual (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90526000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90526000\">90526000</a></td><td>Initial evaluation and management of healthy individual (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1576",
   "version": "20200307",
   "name": "Outpatient Encounters for Preventive Care",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:90eeec6d-0aa3-4970-aa4a-1654b925d905",
+    "timestamp": "2022-07-19T15:13:10-04:00",
+    "total": 16,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108219001",
+      "display": "Physician visit with evaluation AND/OR management service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108220007",
+      "display": "Evaluation AND/OR management - new patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108221006",
+      "display": "Evaluation AND/OR management - established patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "108224003",
+      "display": "Preventive patient evaluation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14736009",
+      "display": "History and physical examination with evaluation and management of patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185349003",
+      "display": "Encounter for check up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185389009",
+      "display": "Follow-up visit (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270427003",
+      "display": "Patient-initiated encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270430005",
+      "display": "Provider-initiated encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281036007",
+      "display": "Follow-up consultation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308335008",
+      "display": "Patient encounter procedure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390906007",
+      "display": "Follow-up encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410187005",
+      "display": "Physical evaluation management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "78318003",
+      "display": "History and physical examination, annual for health maintenance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86013001",
+      "display": "Periodic reevaluation and management of healthy individual (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90526000",
+      "display": "Initial evaluation and management of healthy individual (procedure)"
+    } ]
+  }
 }

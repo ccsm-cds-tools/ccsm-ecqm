@@ -5,12 +5,603 @@
     "versionId": "18",
     "lastUpdated": "2022-07-15T01:02:56.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 115 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073681000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073681000119109\">1073681000119109</a></td><td>Rheumatoid arthritis of left ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073691000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073691000119107\">1073691000119107</a></td><td>Rheumatoid arthritis of left elbow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073701000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073701000119107\">1073701000119107</a></td><td>Rheumatoid arthritis of left foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073711000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073711000119105\">1073711000119105</a></td><td>Rheumatoid arthritis of left hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073721000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073721000119103\">1073721000119103</a></td><td>Rheumatoid arthritis of left hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073731000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073731000119100\">1073731000119100</a></td><td>Rheumatoid arthritis of left knee (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073741000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073741000119109\">1073741000119109</a></td><td>Rheumatoid arthritis of left shoulder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073751000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073751000119106\">1073751000119106</a></td><td>Rheumatoid arthritis of left wrist (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073761000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073761000119108\">1073761000119108</a></td><td>Rheumatoid arthritis of right ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073771000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073771000119102\">1073771000119102</a></td><td>Rheumatoid arthritis of right elbow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073781000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073781000119104\">1073781000119104</a></td><td>Rheumatoid arthritis of right foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073791000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073791000119101\">1073791000119101</a></td><td>Rheumatoid arthritis of right hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073801000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073801000119100\">1073801000119100</a></td><td>Rheumatoid arthritis of right hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073811000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073811000119102\">1073811000119102</a></td><td>Rheumatoid arthritis of right knee (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073821000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073821000119109\">1073821000119109</a></td><td>Rheumatoid arthritis of right shoulder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1073831000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1073831000119107\">1073831000119107</a></td><td>Rheumatoid arthritis of right wrist (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-11055151000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=11055151000119108\">11055151000119108</a></td><td>Seropositive rheumatoid arthritis of multiple joints (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1149218009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1149218009\">1149218009</a></td><td>Rheumatoid arthritis with isolated nailfold vasculitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1149219001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1149219001\">1149219001</a></td><td>Rheumatoid arthritis with systemic vasculitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162303002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162303002\">1162303002</a></td><td>Seronegative rheumatoid arthritis with erosion of joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162313005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162313005\">1162313005</a></td><td>Rheumatoid factor and anti-citrullinated protein antibody positive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162319009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162319009\">1162319009</a></td><td>Rheumatoid factor and anti-citrullinated protein antibody positive erosive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162336001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162336001\">1162336001</a></td><td>Anti-citrullinated protein antibody positive erosive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162362005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162362005\">1162362005</a></td><td>Felty syndrome with seronegative erosive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162364006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162364006\">1162364006</a></td><td>Felty syndrome with seronegative rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1162677006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1162677006\">1162677006</a></td><td>Rheumatoid arthritis with rheumatoid lung disease (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-129563009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=129563009\">129563009</a></td><td>Rheumatoid arthritis with osteoperiostitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-143441000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=143441000119108\">143441000119108</a></td><td>Rheumatoid arthritis in remission (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685921000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685921000119102\">15685921000119102</a></td><td>Rheumatoid arthritis of bilateral temporomandibular joints (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15685961000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15685961000119107\">15685961000119107</a></td><td>Rheumatoid arthritis of right temporomandibular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15686001000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15686001000119104\">15686001000119104</a></td><td>Rheumatoid arthritis of left temporomandibular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15686281000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15686281000119101\">15686281000119101</a></td><td>Rheumatoid arthritis of bilateral feet (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15686321000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15686321000119106\">15686321000119106</a></td><td>Rheumatoid arthritis of bilateral elbows (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15687201000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15687201000119107\">15687201000119107</a></td><td>Rheumatoid arthritis of bilateral knees (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15687321000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15687321000119109\">15687321000119109</a></td><td>Rheumatoid arthritis of bilateral hands (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15687841000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15687841000119108\">15687841000119108</a></td><td>Rheumatoid arthritis of bilateral hips (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691081000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691081000119100\">15691081000119100</a></td><td>Seronegative rheumatoid arthritis of joint of bilateral feet (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691161000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691161000119108\">15691161000119108</a></td><td>Seronegative rheumatoid arthritis of bilateral hands (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691721000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691721000119102\">15691721000119102</a></td><td>Rheumatoid arthritis of bilateral ankles (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691761000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691761000119107\">15691761000119107</a></td><td>Rheumatoid arthritis of bilateral wrists (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691801000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691801000119104\">15691801000119104</a></td><td>Seropositive rheumatoid arthritis of bilateral hands (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15691921000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15691921000119100\">15691921000119100</a></td><td>Seropositive rheumatoid arthritis of bilateral hip joints (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201764007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201764007\">201764007</a></td><td>Rheumatoid arthritis of cervical spine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201766009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201766009\">201766009</a></td><td>Rheumatoid arthritis of shoulder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201767000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201767000\">201767000</a></td><td>Rheumatoid arthritis of sternoclavicular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201768005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201768005\">201768005</a></td><td>Rheumatoid arthritis of acromioclavicular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201769002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201769002\">201769002</a></td><td>Rheumatoid arthritis of elbow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201770001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201770001\">201770001</a></td><td>Rheumatoid arthritis of distal radioulnar joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201771002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201771002\">201771002</a></td><td>Rheumatoid arthritis of wrist (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201772009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201772009\">201772009</a></td><td>Rheumatoid arthritis of metacarpophalangeal joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201773004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201773004\">201773004</a></td><td>Rheumatoid arthritis of proximal interphalangeal joint of finger (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201774005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201774005\">201774005</a></td><td>Rheumatoid arthritis of distal interphalangeal joint of finger (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201775006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201775006\">201775006</a></td><td>Rheumatoid arthritis of hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201776007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201776007\">201776007</a></td><td>Rheumatoid arthritis of sacroiliac joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201777003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201777003\">201777003</a></td><td>Rheumatoid arthritis of knee (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201778008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201778008\">201778008</a></td><td>Rheumatoid arthritis of tibiofibular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201779000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201779000\">201779000</a></td><td>Rheumatoid arthritis of ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201780002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201780002\">201780002</a></td><td>Rheumatoid arthritis of subtalar joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201781003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201781003\">201781003</a></td><td>Rheumatoid arthritis of talonavicular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201783000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201783000\">201783000</a></td><td>Rheumatoid arthritis of first metatarsophalangeal joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201784006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201784006\">201784006</a></td><td>Rheumatoid arthritis of lesser metatarsophalangeal joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201785007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201785007\">201785007</a></td><td>Rheumatoid arthritis of interphalangeal joint of toe (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-201791009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=201791009\">201791009</a></td><td>Flare of rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239791005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239791005\">239791005</a></td><td>Seropositive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239792003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239792003\">239792003</a></td><td>Seronegative rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-239943002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=239943002\">239943002</a></td><td>Rheumatoid arthritis with necrotizing vasculitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287006005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287006005\">287006005</a></td><td>Rheumatoid arthritis of multiple joints (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287007001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287007001\">287007001</a></td><td>Rheumatoid arthritis of hand joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287008006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287008006\">287008006</a></td><td>Rheumatoid arthritis of ankle and/or foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28880005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28880005\">28880005</a></td><td>Rheumatoid arthritis with carditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308143008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308143008\">308143008</a></td><td>Seropositive erosive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318841000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318841000119100\">318841000119100</a></td><td>Seropositive rheumatoid arthritis of joint of left ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318851000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318851000119103\">318851000119103</a></td><td>Seropositive rheumatoid arthritis of joint of left elbow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318861000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318861000119101\">318861000119101</a></td><td>Seropositive rheumatoid arthritis of left hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318871000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318871000119107\">318871000119107</a></td><td>Seropositive rheumatoid arthritis of left hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318881000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318881000119105\">318881000119105</a></td><td>Seropositive rheumatoid arthritis of left knee (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318891000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318891000119108\">318891000119108</a></td><td>Seropositive rheumatoid arthritis of joint of left shoulder region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318901000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318901000119107\">318901000119107</a></td><td>Seropositive rheumatoid arthritis of joint of left wrist region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318911000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318911000119105\">318911000119105</a></td><td>Seropositive rheumatoid arthritis of joint of right ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318921000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318921000119103\">318921000119103</a></td><td>Seropositive rheumatoid arthritis of joint of right elbow (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318931000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318931000119100\">318931000119100</a></td><td>Seropositive rheumatoid arthritis of right hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318941000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318941000119109\">318941000119109</a></td><td>Seropositive rheumatoid arthritis of right hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318951000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318951000119106\">318951000119106</a></td><td>Seropositive rheumatoid arthritis of right knee (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318961000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318961000119108\">318961000119108</a></td><td>Seropositive rheumatoid arthritis of joint of right shoulder region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-318971000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=318971000119102\">318971000119102</a></td><td>Seropositive rheumatoid arthritis of joint of right wrist region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319011000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319011000119103\">319011000119103</a></td><td>Seronegative rheumatoid arthritis of joint of left ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319031000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319031000119108\">319031000119108</a></td><td>Seronegative rheumatoid arthritis of left hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319041000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319041000119104\">319041000119104</a></td><td>Seronegative rheumatoid arthritis of joint of left hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319051000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319051000119102\">319051000119102</a></td><td>Seronegative rheumatoid arthritis of left knee joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319061000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319061000119100\">319061000119100</a></td><td>Seronegative rheumatoid arthritis of joint of left shoulder region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319071000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319071000119106\">319071000119106</a></td><td>Seronegative rheumatoid arthritis of joint of left wrist region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319081000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319081000119109\">319081000119109</a></td><td>Seronegative rheumatoid arthritis of multiple joints (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319091000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319091000119107\">319091000119107</a></td><td>Seronegative rheumatoid arthritis of joint of right ankle (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319111000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319111000119104\">319111000119104</a></td><td>Seronegative rheumatoid arthritis of right hand (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319121000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319121000119106\">319121000119106</a></td><td>Seronegative rheumatoid arthritis of joint of right hip (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319131000119109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319131000119109\">319131000119109</a></td><td>Seronegative rheumatoid arthritis of right knee joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319141000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319141000119100\">319141000119100</a></td><td>Seronegative rheumatoid arthritis of joint of right shoulder region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-319151000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=319151000119103\">319151000119103</a></td><td>Seronegative rheumatoid arthritis of joint of right wrist region (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-38877003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=38877003\">38877003</a></td><td>Rheumatoid arthritis with aortitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398640008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398640008\">398640008</a></td><td>Rheumatoid arthritis with pneumoconiosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-399923009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=399923009\">399923009</a></td><td>Rheumatoid arthritis with arteritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-400054000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=400054000\">400054000</a></td><td>Rheumatoid arthritis with vasculitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-402432002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402432002\">402432002</a></td><td>Rheumatoid arthritis with neutrophilic dermatitis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-402433007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=402433007\">402433007</a></td><td>Rheumatoid arthritis with nailfold and finger-pulp infarcts (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427770001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427770001\">427770001</a></td><td>Rheumatoid arthritis of temporomandibular joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429192004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429192004\">429192004</a></td><td>Rheumatoid arthritis of foot (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-459911000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=459911000124100\">459911000124100</a></td><td>Rheumatoid factor positive rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-459921000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=459921000124108\">459921000124108</a></td><td>Rheumatoid factor positive rheumatoid arthritis of the shoulder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-59165007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=59165007\">59165007</a></td><td>Rheumatoid arthritis with scleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-69896004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=69896004\">69896004</a></td><td>Rheumatoid arthritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-735599007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=735599007\">735599007</a></td><td>Rheumatoid arthritis with erosion of joint (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-7607008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=7607008\">7607008</a></td><td>Rheumatoid arthritis with pericarditis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77522006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77522006\">77522006</a></td><td>Rheumatoid arthritis with episcleritis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-781206002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=781206002\">781206002</a></td><td>Rheumatoid arthritis of joint of spine (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-86219005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=86219005\">86219005</a></td><td>Uveitis-rheumatoid arthritis syndrome (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.6008",
   "version": "20220715",
   "name": "COVID19 SNOMED Value Set for Adult Rheumatoid Arthritis",
   "status": "active",
   "date": "2022-07-15T01:02:56-04:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9dd6cd76-fbea-47e9-9571-a19a7ce8355a",
+    "timestamp": "2022-07-15T19:00:32-04:00",
+    "total": 115,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073681000119109",
+      "display": "Rheumatoid arthritis of left ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073691000119107",
+      "display": "Rheumatoid arthritis of left elbow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073701000119107",
+      "display": "Rheumatoid arthritis of left foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073711000119105",
+      "display": "Rheumatoid arthritis of left hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073721000119103",
+      "display": "Rheumatoid arthritis of left hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073731000119100",
+      "display": "Rheumatoid arthritis of left knee (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073741000119109",
+      "display": "Rheumatoid arthritis of left shoulder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073751000119106",
+      "display": "Rheumatoid arthritis of left wrist (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073761000119108",
+      "display": "Rheumatoid arthritis of right ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073771000119102",
+      "display": "Rheumatoid arthritis of right elbow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073781000119104",
+      "display": "Rheumatoid arthritis of right foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073791000119101",
+      "display": "Rheumatoid arthritis of right hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073801000119100",
+      "display": "Rheumatoid arthritis of right hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073811000119102",
+      "display": "Rheumatoid arthritis of right knee (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073821000119109",
+      "display": "Rheumatoid arthritis of right shoulder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1073831000119107",
+      "display": "Rheumatoid arthritis of right wrist (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "11055151000119108",
+      "display": "Seropositive rheumatoid arthritis of multiple joints (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1149218009",
+      "display": "Rheumatoid arthritis with isolated nailfold vasculitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1149219001",
+      "display": "Rheumatoid arthritis with systemic vasculitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162303002",
+      "display": "Seronegative rheumatoid arthritis with erosion of joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162313005",
+      "display": "Rheumatoid factor and anti-citrullinated protein antibody positive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162319009",
+      "display": "Rheumatoid factor and anti-citrullinated protein antibody positive erosive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162336001",
+      "display": "Anti-citrullinated protein antibody positive erosive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162362005",
+      "display": "Felty syndrome with seronegative erosive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162364006",
+      "display": "Felty syndrome with seronegative rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1162677006",
+      "display": "Rheumatoid arthritis with rheumatoid lung disease (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "129563009",
+      "display": "Rheumatoid arthritis with osteoperiostitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "143441000119108",
+      "display": "Rheumatoid arthritis in remission (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685921000119102",
+      "display": "Rheumatoid arthritis of bilateral temporomandibular joints (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15685961000119107",
+      "display": "Rheumatoid arthritis of right temporomandibular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15686001000119104",
+      "display": "Rheumatoid arthritis of left temporomandibular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15686281000119101",
+      "display": "Rheumatoid arthritis of bilateral feet (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15686321000119106",
+      "display": "Rheumatoid arthritis of bilateral elbows (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15687201000119107",
+      "display": "Rheumatoid arthritis of bilateral knees (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15687321000119109",
+      "display": "Rheumatoid arthritis of bilateral hands (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15687841000119108",
+      "display": "Rheumatoid arthritis of bilateral hips (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691081000119100",
+      "display": "Seronegative rheumatoid arthritis of joint of bilateral feet (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691161000119108",
+      "display": "Seronegative rheumatoid arthritis of bilateral hands (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691721000119102",
+      "display": "Rheumatoid arthritis of bilateral ankles (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691761000119107",
+      "display": "Rheumatoid arthritis of bilateral wrists (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691801000119104",
+      "display": "Seropositive rheumatoid arthritis of bilateral hands (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15691921000119100",
+      "display": "Seropositive rheumatoid arthritis of bilateral hip joints (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201764007",
+      "display": "Rheumatoid arthritis of cervical spine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201766009",
+      "display": "Rheumatoid arthritis of shoulder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201767000",
+      "display": "Rheumatoid arthritis of sternoclavicular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201768005",
+      "display": "Rheumatoid arthritis of acromioclavicular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201769002",
+      "display": "Rheumatoid arthritis of elbow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201770001",
+      "display": "Rheumatoid arthritis of distal radioulnar joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201771002",
+      "display": "Rheumatoid arthritis of wrist (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201772009",
+      "display": "Rheumatoid arthritis of metacarpophalangeal joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201773004",
+      "display": "Rheumatoid arthritis of proximal interphalangeal joint of finger (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201774005",
+      "display": "Rheumatoid arthritis of distal interphalangeal joint of finger (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201775006",
+      "display": "Rheumatoid arthritis of hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201776007",
+      "display": "Rheumatoid arthritis of sacroiliac joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201777003",
+      "display": "Rheumatoid arthritis of knee (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201778008",
+      "display": "Rheumatoid arthritis of tibiofibular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201779000",
+      "display": "Rheumatoid arthritis of ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201780002",
+      "display": "Rheumatoid arthritis of subtalar joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201781003",
+      "display": "Rheumatoid arthritis of talonavicular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201783000",
+      "display": "Rheumatoid arthritis of first metatarsophalangeal joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201784006",
+      "display": "Rheumatoid arthritis of lesser metatarsophalangeal joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201785007",
+      "display": "Rheumatoid arthritis of interphalangeal joint of toe (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "201791009",
+      "display": "Flare of rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239791005",
+      "display": "Seropositive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239792003",
+      "display": "Seronegative rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "239943002",
+      "display": "Rheumatoid arthritis with necrotizing vasculitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287006005",
+      "display": "Rheumatoid arthritis of multiple joints (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287007001",
+      "display": "Rheumatoid arthritis of hand joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287008006",
+      "display": "Rheumatoid arthritis of ankle and/or foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28880005",
+      "display": "Rheumatoid arthritis with carditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308143008",
+      "display": "Seropositive erosive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318841000119100",
+      "display": "Seropositive rheumatoid arthritis of joint of left ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318851000119103",
+      "display": "Seropositive rheumatoid arthritis of joint of left elbow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318861000119101",
+      "display": "Seropositive rheumatoid arthritis of left hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318871000119107",
+      "display": "Seropositive rheumatoid arthritis of left hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318881000119105",
+      "display": "Seropositive rheumatoid arthritis of left knee (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318891000119108",
+      "display": "Seropositive rheumatoid arthritis of joint of left shoulder region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318901000119107",
+      "display": "Seropositive rheumatoid arthritis of joint of left wrist region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318911000119105",
+      "display": "Seropositive rheumatoid arthritis of joint of right ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318921000119103",
+      "display": "Seropositive rheumatoid arthritis of joint of right elbow (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318931000119100",
+      "display": "Seropositive rheumatoid arthritis of right hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318941000119109",
+      "display": "Seropositive rheumatoid arthritis of right hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318951000119106",
+      "display": "Seropositive rheumatoid arthritis of right knee (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318961000119108",
+      "display": "Seropositive rheumatoid arthritis of joint of right shoulder region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "318971000119102",
+      "display": "Seropositive rheumatoid arthritis of joint of right wrist region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319011000119103",
+      "display": "Seronegative rheumatoid arthritis of joint of left ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319031000119108",
+      "display": "Seronegative rheumatoid arthritis of left hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319041000119104",
+      "display": "Seronegative rheumatoid arthritis of joint of left hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319051000119102",
+      "display": "Seronegative rheumatoid arthritis of left knee joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319061000119100",
+      "display": "Seronegative rheumatoid arthritis of joint of left shoulder region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319071000119106",
+      "display": "Seronegative rheumatoid arthritis of joint of left wrist region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319081000119109",
+      "display": "Seronegative rheumatoid arthritis of multiple joints (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319091000119107",
+      "display": "Seronegative rheumatoid arthritis of joint of right ankle (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319111000119104",
+      "display": "Seronegative rheumatoid arthritis of right hand (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319121000119106",
+      "display": "Seronegative rheumatoid arthritis of joint of right hip (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319131000119109",
+      "display": "Seronegative rheumatoid arthritis of right knee joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319141000119100",
+      "display": "Seronegative rheumatoid arthritis of joint of right shoulder region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "319151000119103",
+      "display": "Seronegative rheumatoid arthritis of joint of right wrist region (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "38877003",
+      "display": "Rheumatoid arthritis with aortitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398640008",
+      "display": "Rheumatoid arthritis with pneumoconiosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "399923009",
+      "display": "Rheumatoid arthritis with arteritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "400054000",
+      "display": "Rheumatoid arthritis with vasculitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "402432002",
+      "display": "Rheumatoid arthritis with neutrophilic dermatitis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "402433007",
+      "display": "Rheumatoid arthritis with nailfold and finger-pulp infarcts (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427770001",
+      "display": "Rheumatoid arthritis of temporomandibular joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429192004",
+      "display": "Rheumatoid arthritis of foot (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "459911000124100",
+      "display": "Rheumatoid factor positive rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "459921000124108",
+      "display": "Rheumatoid factor positive rheumatoid arthritis of the shoulder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "59165007",
+      "display": "Rheumatoid arthritis with scleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "69896004",
+      "display": "Rheumatoid arthritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "735599007",
+      "display": "Rheumatoid arthritis with erosion of joint (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "7607008",
+      "display": "Rheumatoid arthritis with pericarditis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77522006",
+      "display": "Rheumatoid arthritis with episcleritis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "781206002",
+      "display": "Rheumatoid arthritis of joint of spine (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "86219005",
+      "display": "Uveitis-rheumatoid arthritis syndrome (disorder)"
+    } ]
+  }
 }

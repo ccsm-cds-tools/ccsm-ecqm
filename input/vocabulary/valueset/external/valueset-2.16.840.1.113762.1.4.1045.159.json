@@ -5,12 +5,68 @@
     "versionId": "27",
     "lastUpdated": "2022-02-18T01:02:19.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 8 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-18833-4\"> </a><a href=\"http://details.loinc.org/LOINC/18833-4.html\">18833-4</a></td><td>First Body weight</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-29463-7\"> </a><a href=\"http://details.loinc.org/LOINC/29463-7.html\">29463-7</a></td><td>Body weight</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-3141-9\"> </a><a href=\"http://details.loinc.org/LOINC/3141-9.html\">3141-9</a></td><td>Body weight Measured</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-3142-7\"> </a><a href=\"http://details.loinc.org/LOINC/3142-7.html\">3142-7</a></td><td>Body weight Stated</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-75292-3\"> </a><a href=\"http://details.loinc.org/LOINC/75292-3.html\">75292-3</a></td><td>Body weight - Reported --usual</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8341-0\"> </a><a href=\"http://details.loinc.org/LOINC/8341-0.html\">8341-0</a></td><td>Dry body weight Measured</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8350-1\"> </a><a href=\"http://details.loinc.org/LOINC/8350-1.html\">8350-1</a></td><td>Body weight Measured --with clothes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-8351-9\"> </a><a href=\"http://details.loinc.org/LOINC/8351-9.html\">8351-9</a></td><td>Body weight Measured --without clothes</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.159",
   "version": "20220218",
   "name": "Body weight",
   "status": "active",
   "date": "2022-02-18T01:02:19-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d47bad1d-811a-4aad-8792-367894a60f52",
+    "timestamp": "2022-07-19T15:04:28-04:00",
+    "total": 8,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "18833-4",
+      "display": "First Body weight"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "29463-7",
+      "display": "Body weight"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "3141-9",
+      "display": "Body weight Measured"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "3142-7",
+      "display": "Body weight Stated"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "75292-3",
+      "display": "Body weight - Reported --usual"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8341-0",
+      "display": "Dry body weight Measured"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8350-1",
+      "display": "Body weight Measured --with clothes"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "8351-9",
+      "display": "Body weight Measured --without clothes"
+    } ]
+  }
 }

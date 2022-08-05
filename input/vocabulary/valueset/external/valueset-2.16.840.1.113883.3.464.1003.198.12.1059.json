@@ -5,12 +5,48 @@
     "versionId": "13",
     "lastUpdated": "2022-03-02T18:02:48.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-21500-4\"> </a><a href=\"http://details.loinc.org/LOINC/21500-4.html\">21500-4</a></td><td>Measles virus IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-21501-2\"> </a><a href=\"http://details.loinc.org/LOINC/21501-2.html\">21501-2</a></td><td>Measles virus IgG Ab [Titer] in Serum by Immunofluorescence</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-22501-1\"> </a><a href=\"http://details.loinc.org/LOINC/22501-1.html\">22501-1</a></td><td>Measles virus IgG Ab [Titer] in Cerebral spinal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-22502-9\"> </a><a href=\"http://details.loinc.org/LOINC/22502-9.html\">22502-9</a></td><td>Measles virus IgG Ab [Titer] in Serum</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1059",
   "version": "20170504",
   "name": "Measles Antibody Test (IgG Antibody Titer)",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2a524d44-4322-4e00-a17b-05d1ad39f6ca",
+    "timestamp": "2022-07-19T15:10:35-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "21500-4",
+      "display": "Measles virus IgG Ab [Titer] in Cerebral spinal fluid by Immunofluorescence"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "21501-2",
+      "display": "Measles virus IgG Ab [Titer] in Serum by Immunofluorescence"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "22501-1",
+      "display": "Measles virus IgG Ab [Titer] in Cerebral spinal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "22502-9",
+      "display": "Measles virus IgG Ab [Titer] in Serum"
+    } ]
+  }
 }

@@ -5,12 +5,103 @@
     "versionId": "9",
     "lastUpdated": "2022-03-01T01:02:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 15 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183524004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183524004\">183524004</a></td><td>Referral to psychiatry service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183583007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183583007\">183583007</a></td><td>Refer to mental health worker (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183866009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183866009\">183866009</a></td><td>Referral to emergency clinic (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306136006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306136006\">306136006</a></td><td>Referral to liaison psychiatry service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306226009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306226009\">306226009</a></td><td>Referral to mental health counseling service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306227000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306227000\">306227000</a></td><td>Referral for mental health counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306252003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306252003\">306252003</a></td><td>Referral to mental health counselor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306291008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306291008\">306291008</a></td><td>Referral to child and adolescent psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308459004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308459004\">308459004</a></td><td>Referral to psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308477009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308477009\">308477009</a></td><td>Referral to psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309627007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309627007\">309627007</a></td><td>Child referral - clinical psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390866009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390866009\">390866009</a></td><td>Referral to mental health team (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703978000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703978000\">703978000</a></td><td>Referral to primary care service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-710914003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=710914003\">710914003</a></td><td>Referral to family therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-711281004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=711281004\">711281004</a></td><td>Referral to support group (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1570",
   "version": "20200307",
   "name": "Referral for Adolescent Depression",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:dcfcddf4-b58d-4084-8426-998bfef754f3",
+    "timestamp": "2022-07-19T15:13:04-04:00",
+    "total": 15,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183524004",
+      "display": "Referral to psychiatry service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183583007",
+      "display": "Refer to mental health worker (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183866009",
+      "display": "Referral to emergency clinic (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306136006",
+      "display": "Referral to liaison psychiatry service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306226009",
+      "display": "Referral to mental health counseling service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306227000",
+      "display": "Referral for mental health counseling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306252003",
+      "display": "Referral to mental health counselor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306291008",
+      "display": "Referral to child and adolescent psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308459004",
+      "display": "Referral to psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308477009",
+      "display": "Referral to psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309627007",
+      "display": "Child referral - clinical psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390866009",
+      "display": "Referral to mental health team (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703978000",
+      "display": "Referral to primary care service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "710914003",
+      "display": "Referral to family therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "711281004",
+      "display": "Referral to support group (procedure)"
+    } ]
+  }
 }

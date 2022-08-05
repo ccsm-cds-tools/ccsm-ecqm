@@ -5,12 +5,1068 @@
     "versionId": "25",
     "lastUpdated": "2022-03-02T18:03:05.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 208 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103696004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103696004\">103696004</a></td><td>Patient referral to specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103697008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103697008\">103697008</a></td><td>Patient referral for dental care (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103698003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103698003\">103698003</a></td><td>Patient referral to non-physician provider (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103699006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103699006\">103699006</a></td><td>Patient referral to dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103704003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103704003\">103704003</a></td><td>Patient referral to sex therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183515008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183515008\">183515008</a></td><td>Referral to physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183517000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183517000\">183517000</a></td><td>Referral to pediatrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183528001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183528001\">183528001</a></td><td>Referral to psychiatrist for the elderly mentally ill (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183529009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183529009\">183529009</a></td><td>Referral to oncologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183530004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183530004\">183530004</a></td><td>Referral to diabetologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183541002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183541002\">183541002</a></td><td>Referral to surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183555005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183555005\">183555005</a></td><td>Burns referral (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183557002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183557002\">183557002</a></td><td>Referral to cardiothoracic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183561008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183561008\">183561008</a></td><td>Referral to general practitioner (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183567007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183567007\">183567007</a></td><td>Referral to hematologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183569005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183569005\">183569005</a></td><td>Refer to terminal care consult (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183583007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183583007\">183583007</a></td><td>Refer to mental health worker (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183591003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183591003\">183591003</a></td><td>Refer to partner (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183878008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183878008\">183878008</a></td><td>Private referral to general surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183879000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183879000\">183879000</a></td><td>Private referral to ophthalmologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183880002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183880002\">183880002</a></td><td>Private referral to ear, nose and throat surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183881003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183881003\">183881003</a></td><td>Private referral to orthopedic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183882005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183882005\">183882005</a></td><td>Private referral to neurosurgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183884006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183884006\">183884006</a></td><td>Private referral to pediatric surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183885007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183885007\">183885007</a></td><td>Private referral to obstetrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183886008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183886008\">183886008</a></td><td>Private referral to gynecologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183887004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183887004\">183887004</a></td><td>Private referral to plastic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183888009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183888009\">183888009</a></td><td>Private referral to oral surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183889001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183889001\">183889001</a></td><td>Private referral to urologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183890005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183890005\">183890005</a></td><td>Private referral to thoracic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183891009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183891009\">183891009</a></td><td>Private referral to vascular surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183892002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183892002\">183892002</a></td><td>Private referral to maxillofacial surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183893007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183893007\">183893007</a></td><td>Private referral cardiothoracic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183894001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183894001\">183894001</a></td><td>Private referral to physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183895000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183895000\">183895000</a></td><td>Private referral to general physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183896004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183896004\">183896004</a></td><td>Private referral to pediatrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183897008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183897008\">183897008</a></td><td>Private referral to dermatologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183899006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183899006\">183899006</a></td><td>Private referral to cardiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183900001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183900001\">183900001</a></td><td>Private referral to immunologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183901002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183901002\">183901002</a></td><td>Private referral to neurologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183902009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183902009\">183902009</a></td><td>Private referral to geriatrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183903004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183903004\">183903004</a></td><td>Private referral to gastroenterologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183904005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183904005\">183904005</a></td><td>Private referral to psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183905006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183905006\">183905006</a></td><td>Private referral to venereologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183906007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183906007\">183906007</a></td><td>Private referral to rheumatologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183907003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183907003\">183907003</a></td><td>Private referral to chest physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183908008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183908008\">183908008</a></td><td>Private referral to psychogeriatrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183909000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183909000\">183909000</a></td><td>Private referral to oncologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183910005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183910005\">183910005</a></td><td>Private referral to diabetologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183911009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183911009\">183911009</a></td><td>Private referral to radiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183913007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183913007\">183913007</a></td><td>Private referral to geneticist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183914001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183914001\">183914001</a></td><td>Private referral to anesthetist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183915000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183915000\">183915000</a></td><td>Private referral to endocrinologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183916004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183916004\">183916004</a></td><td>Private referral to nephrologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266747000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266747000\">266747000</a></td><td>Referral to private doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-274410002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=274410002\">274410002</a></td><td>Dental referral - child (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306241009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306241009\">306241009</a></td><td>Referral to audiological physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306242002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306242002\">306242002</a></td><td>Referral to audiological scientist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306243007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306243007\">306243007</a></td><td>Referral to community doctor in audiology (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306245000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306245000\">306245000</a></td><td>Referral to hearing therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306247008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306247008\">306247008</a></td><td>Referral to pediatric audiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306250006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306250006\">306250006</a></td><td>Referral to genetic counselor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306252003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306252003\">306252003</a></td><td>Referral to mental health counselor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306253008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306253008\">306253008</a></td><td>Referral to doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306254002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306254002\">306254002</a></td><td>Referral to Accident and Emergency doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306255001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306255001\">306255001</a></td><td>Referral to anesthetist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306256000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306256000\">306256000</a></td><td>Referral to radiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306257009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306257009\">306257009</a></td><td>Referral to family planning doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306258004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306258004\">306258004</a></td><td>Referral to intensive care specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306259007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306259007\">306259007</a></td><td>Referral to adult intensive care specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306260002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306260002\">306260002</a></td><td>Referral to pediatric intensive care specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306261003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306261003\">306261003</a></td><td>Referral to community pediatrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306262005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306262005\">306262005</a></td><td>Referral to neonatologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306263000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306263000\">306263000</a></td><td>Referral to pediatric neurologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306264006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306264006\">306264006</a></td><td>Referral to pediatric oncologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306265007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306265007\">306265007</a></td><td>Referral to pain management specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306266008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306266008\">306266008</a></td><td>Referral to pathologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306267004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306267004\">306267004</a></td><td>Referral to blood transfusion doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306268009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306268009\">306268009</a></td><td>Referral to chemical pathologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306269001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306269001\">306269001</a></td><td>Referral to general pathologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306270000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306270000\">306270000</a></td><td>Referral to medical microbiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306271001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306271001\">306271001</a></td><td>Referral to neuropathologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306272008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306272008\">306272008</a></td><td>Referral to clinical allergist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306273003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306273003\">306273003</a></td><td>Referral to chest physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306275005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306275005\">306275005</a></td><td>Referral to respiratory physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306276006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306276006\">306276006</a></td><td>Referral to clinical neurophysiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306277002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306277002\">306277002</a></td><td>Referral to clinical physiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306278007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306278007\">306278007</a></td><td>Referral to endocrinologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306279004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306279004\">306279004</a></td><td>Referral to clinical geneticist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306280001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306280001\">306280001</a></td><td>Referral to clinical cytogeneticist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306281002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306281002\">306281002</a></td><td>Referral to clinical molecular geneticist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306282009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306282009\">306282009</a></td><td>Referral to genitourinary physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306284005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306284005\">306284005</a></td><td>Referral to infectious diseases physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306285006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306285006\">306285006</a></td><td>Referral to medical ophthalmologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306286007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306286007\">306286007</a></td><td>Referral to nephrologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306287003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306287003\">306287003</a></td><td>Referral to nuclear medicine physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306288008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306288008\">306288008</a></td><td>Referral to palliative care physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306289000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306289000\">306289000</a></td><td>Referral to rehabilitation physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306290009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306290009\">306290009</a></td><td>Referral to rheumatologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306291008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306291008\">306291008</a></td><td>Referral to child and adolescent psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306293006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306293006\">306293006</a></td><td>Referral to liaison psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306295004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306295004\">306295004</a></td><td>Referral to rehabilitation psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306296003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306296003\">306296003</a></td><td>Referral to public health physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306297007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306297007\">306297007</a></td><td>Referral to obstetrician and gynecologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306298002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306298002\">306298002</a></td><td>Referral to occupational health physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306299005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306299005\">306299005</a></td><td>Referral to radiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306300002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306300002\">306300002</a></td><td>Referral to breast surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306301003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306301003\">306301003</a></td><td>Referral to thoracic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306302005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306302005\">306302005</a></td><td>Referral to cardiac surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306303000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306303000\">306303000</a></td><td>Referral to dental surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306304006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306304006\">306304006</a></td><td>Referral to orthodontist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306305007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306305007\">306305007</a></td><td>Referral to pediatric dentist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306306008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306306008\">306306008</a></td><td>Referral to restorative dentist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306307004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306307004\">306307004</a></td><td>Referral to endocrine surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306308009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306308009\">306308009</a></td><td>Referral to gastrointestinal surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306309001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306309001\">306309001</a></td><td>Referral to general gastrointestinal surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306310006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306310006\">306310006</a></td><td>Referral to upper gastrointestinal surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306311005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306311005\">306311005</a></td><td>Referral to colorectal surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306312003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306312003\">306312003</a></td><td>Referral to hand surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306313008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306313008\">306313008</a></td><td>Referral to hepatobiliary surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306314002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306314002\">306314002</a></td><td>Referral to pancreatic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306315001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306315001\">306315001</a></td><td>Referral to plastic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306316000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306316000\">306316000</a></td><td>Referral to transplant surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306317009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306317009\">306317009</a></td><td>Referral to trauma surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306318004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306318004\">306318004</a></td><td>Referral to urologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306320001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306320001\">306320001</a></td><td>Referral to clinical nurse specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306338003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306338003\">306338003</a></td><td>Referral to nurse practitioner (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306341007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306341007\">306341007</a></td><td>Referral to community-based midwife (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306342000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306342000\">306342000</a></td><td>Referral to hospital-based midwife (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306343005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306343005\">306343005</a></td><td>Referral to psychotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306351008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306351008\">306351008</a></td><td>Referral to community-based podiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306352001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306352001\">306352001</a></td><td>Referral to hospital-based podiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306353006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306353006\">306353006</a></td><td>Referral to community-based dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306354000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306354000\">306354000</a></td><td>Referral to hospital-based dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306355004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306355004\">306355004</a></td><td>Referral to community-based occupational therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306356003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306356003\">306356003</a></td><td>Referral to social services department occupational therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306357007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306357007\">306357007</a></td><td>Referral to hospital-based occupational therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306358002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306358002\">306358002</a></td><td>Referral to community-based physiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306359005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306359005\">306359005</a></td><td>Referral to hospital-based physiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306360000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306360000\">306360000</a></td><td>Referral to community-based speech and language therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306361001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306361001\">306361001</a></td><td>Referral to hospital-based speech and language therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306736002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306736002\">306736002</a></td><td>Referral to general dental surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307063001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307063001\">307063001</a></td><td>Referral to clinical hematologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307777008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307777008\">307777008</a></td><td>Referral to vascular surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308439003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308439003\">308439003</a></td><td>Referral to midwife (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308447003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308447003\">308447003</a></td><td>Referral to physiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308449000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308449000\">308449000</a></td><td>Referral to chiropractor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308450000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308450000\">308450000</a></td><td>Referral to osteopath (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308451001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308451001\">308451001</a></td><td>Referral to podiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308452008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308452008\">308452008</a></td><td>Referral to speech and language therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308453003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308453003\">308453003</a></td><td>Referral to occupational therapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308454009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308454009\">308454009</a></td><td>Referral to orthoptist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308455005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308455005\">308455005</a></td><td>Referral to orthotist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308456006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308456006\">308456006</a></td><td>Referral to audiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308459004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308459004\">308459004</a></td><td>Referral to psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308465004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308465004\">308465004</a></td><td>Referral to optometrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308469005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308469005\">308469005</a></td><td>Referral to geneticist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308470006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308470006\">308470006</a></td><td>Referral to general physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308471005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308471005\">308471005</a></td><td>Referral to cardiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308472003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308472003\">308472003</a></td><td>Referral to dermatologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308473008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308473008\">308473008</a></td><td>Referral to clinical immunologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308474002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308474002\">308474002</a></td><td>Referral to neurologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308475001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308475001\">308475001</a></td><td>Referral to care of the elderly physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308476000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308476000\">308476000</a></td><td>Referral to gastroenterologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308477009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308477009\">308477009</a></td><td>Referral to psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308478004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308478004\">308478004</a></td><td>Referral to general surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308479007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308479007\">308479007</a></td><td>Referral to ophthalmologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308480005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308480005\">308480005</a></td><td>Referral to ear, nose and throat surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308481009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308481009\">308481009</a></td><td>Referral to orthopedic surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308482002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308482002\">308482002</a></td><td>Referral to neurosurgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308483007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308483007\">308483007</a></td><td>Referral to pediatric surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308484001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308484001\">308484001</a></td><td>Referral to obstetrician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308485000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308485000\">308485000</a></td><td>Referral to gynecologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309046007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309046007\">309046007</a></td><td>Private referral to surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309623006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309623006\">309623006</a></td><td>Child referral to optician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309626003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309626003\">309626003</a></td><td>Child referral - school psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309627007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309627007\">309627007</a></td><td>Child referral - clinical psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-309629005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=309629005\">309629005</a></td><td>Child referral - community dentist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310515004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310515004\">310515004</a></td><td>Referral to medical oncologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312487009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312487009\">312487009</a></td><td>Referral to pediatric cardiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-312488004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=312488004\">312488004</a></td><td>Referral to community child health doctor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390866009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390866009\">390866009</a></td><td>Referral to mental health team (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401266006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401266006\">401266006</a></td><td>Referral to drug abuse counselor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406158007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406158007\">406158007</a></td><td>Referral to oral surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406159004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406159004\">406159004</a></td><td>Referral to maxillofacial surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408285001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408285001\">408285001</a></td><td>Referral to pediatric dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415277000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415277000\">415277000</a></td><td>Referral to pediatric endocrinologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416116000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416116000\">416116000</a></td><td>Referral to home registered dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416999007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416999007\">416999007</a></td><td>Private referral to physiotherapist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-425971006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=425971006\">425971006</a></td><td>Referral to pediatric pulmonologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428441000124100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428441000124100\">428441000124100</a></td><td>Referral to nurse anesthetist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428451000124103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428451000124103\">428451000124103</a></td><td>Referral to physician assistant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428461000124101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428461000124101\">428461000124101</a></td><td>Referral to nutrition professional (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428471000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428471000124108\">428471000124108</a></td><td>Referral to clinical psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428481000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428481000124106\">428481000124106</a></td><td>Referral to clinical social worker (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428491000124109\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428491000124109\">428491000124109</a></td><td>Referral to anesthesiologist assistant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-428541000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=428541000124104\">428541000124104</a></td><td>Referral to nurse midwife (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429365000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429365000\">429365000</a></td><td>Referral to pediatric gastroenterologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-433151006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=433151006\">433151006</a></td><td>Referral to educational psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448761000124106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448761000124106\">448761000124106</a></td><td>Referral to endovascular specialist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448771000124104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448771000124104\">448771000124104</a></td><td>Referral to prosthetist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54395008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54395008\">54395008</a></td><td>Patient referral for medical consultation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698563003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698563003\">698563003</a></td><td>Referral to bariatric surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-698599008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=698599008\">698599008</a></td><td>Private referral to breast surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703974003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703974003\">703974003</a></td><td>Private referral to colorectal surgeon (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703975002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703975002\">703975002</a></td><td>Private referral to podiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-703976001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=703976001\">703976001</a></td><td>Private referral to radiologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-716634006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=716634006\">716634006</a></td><td>Referral to neurological physiotherapist (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.101.12.1046",
   "version": "20170504",
   "name": "Referral",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:181b55f0-707a-4134-af42-c7af60f8ccfe",
+    "timestamp": "2022-07-19T15:06:44-04:00",
+    "total": 208,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103696004",
+      "display": "Patient referral to specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103697008",
+      "display": "Patient referral for dental care (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103698003",
+      "display": "Patient referral to non-physician provider (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103699006",
+      "display": "Patient referral to dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103704003",
+      "display": "Patient referral to sex therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183515008",
+      "display": "Referral to physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183517000",
+      "display": "Referral to pediatrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183528001",
+      "display": "Referral to psychiatrist for the elderly mentally ill (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183529009",
+      "display": "Referral to oncologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183530004",
+      "display": "Referral to diabetologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183541002",
+      "display": "Referral to surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183555005",
+      "display": "Burns referral (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183557002",
+      "display": "Referral to cardiothoracic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183561008",
+      "display": "Referral to general practitioner (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183567007",
+      "display": "Referral to hematologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183569005",
+      "display": "Refer to terminal care consult (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183583007",
+      "display": "Refer to mental health worker (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183591003",
+      "display": "Refer to partner (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183878008",
+      "display": "Private referral to general surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183879000",
+      "display": "Private referral to ophthalmologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183880002",
+      "display": "Private referral to ear, nose and throat surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183881003",
+      "display": "Private referral to orthopedic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183882005",
+      "display": "Private referral to neurosurgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183884006",
+      "display": "Private referral to pediatric surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183885007",
+      "display": "Private referral to obstetrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183886008",
+      "display": "Private referral to gynecologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183887004",
+      "display": "Private referral to plastic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183888009",
+      "display": "Private referral to oral surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183889001",
+      "display": "Private referral to urologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183890005",
+      "display": "Private referral to thoracic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183891009",
+      "display": "Private referral to vascular surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183892002",
+      "display": "Private referral to maxillofacial surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183893007",
+      "display": "Private referral cardiothoracic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183894001",
+      "display": "Private referral to physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183895000",
+      "display": "Private referral to general physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183896004",
+      "display": "Private referral to pediatrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183897008",
+      "display": "Private referral to dermatologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183899006",
+      "display": "Private referral to cardiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183900001",
+      "display": "Private referral to immunologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183901002",
+      "display": "Private referral to neurologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183902009",
+      "display": "Private referral to geriatrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183903004",
+      "display": "Private referral to gastroenterologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183904005",
+      "display": "Private referral to psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183905006",
+      "display": "Private referral to venereologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183906007",
+      "display": "Private referral to rheumatologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183907003",
+      "display": "Private referral to chest physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183908008",
+      "display": "Private referral to psychogeriatrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183909000",
+      "display": "Private referral to oncologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183910005",
+      "display": "Private referral to diabetologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183911009",
+      "display": "Private referral to radiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183913007",
+      "display": "Private referral to geneticist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183914001",
+      "display": "Private referral to anesthetist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183915000",
+      "display": "Private referral to endocrinologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183916004",
+      "display": "Private referral to nephrologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266747000",
+      "display": "Referral to private doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "274410002",
+      "display": "Dental referral - child (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306241009",
+      "display": "Referral to audiological physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306242002",
+      "display": "Referral to audiological scientist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306243007",
+      "display": "Referral to community doctor in audiology (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306245000",
+      "display": "Referral to hearing therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306247008",
+      "display": "Referral to pediatric audiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306250006",
+      "display": "Referral to genetic counselor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306252003",
+      "display": "Referral to mental health counselor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306253008",
+      "display": "Referral to doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306254002",
+      "display": "Referral to Accident and Emergency doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306255001",
+      "display": "Referral to anesthetist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306256000",
+      "display": "Referral to radiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306257009",
+      "display": "Referral to family planning doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306258004",
+      "display": "Referral to intensive care specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306259007",
+      "display": "Referral to adult intensive care specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306260002",
+      "display": "Referral to pediatric intensive care specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306261003",
+      "display": "Referral to community pediatrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306262005",
+      "display": "Referral to neonatologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306263000",
+      "display": "Referral to pediatric neurologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306264006",
+      "display": "Referral to pediatric oncologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306265007",
+      "display": "Referral to pain management specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306266008",
+      "display": "Referral to pathologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306267004",
+      "display": "Referral to blood transfusion doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306268009",
+      "display": "Referral to chemical pathologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306269001",
+      "display": "Referral to general pathologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306270000",
+      "display": "Referral to medical microbiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306271001",
+      "display": "Referral to neuropathologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306272008",
+      "display": "Referral to clinical allergist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306273003",
+      "display": "Referral to chest physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306275005",
+      "display": "Referral to respiratory physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306276006",
+      "display": "Referral to clinical neurophysiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306277002",
+      "display": "Referral to clinical physiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306278007",
+      "display": "Referral to endocrinologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306279004",
+      "display": "Referral to clinical geneticist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306280001",
+      "display": "Referral to clinical cytogeneticist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306281002",
+      "display": "Referral to clinical molecular geneticist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306282009",
+      "display": "Referral to genitourinary physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306284005",
+      "display": "Referral to infectious diseases physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306285006",
+      "display": "Referral to medical ophthalmologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306286007",
+      "display": "Referral to nephrologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306287003",
+      "display": "Referral to nuclear medicine physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306288008",
+      "display": "Referral to palliative care physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306289000",
+      "display": "Referral to rehabilitation physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306290009",
+      "display": "Referral to rheumatologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306291008",
+      "display": "Referral to child and adolescent psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306293006",
+      "display": "Referral to liaison psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306295004",
+      "display": "Referral to rehabilitation psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306296003",
+      "display": "Referral to public health physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306297007",
+      "display": "Referral to obstetrician and gynecologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306298002",
+      "display": "Referral to occupational health physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306299005",
+      "display": "Referral to radiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306300002",
+      "display": "Referral to breast surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306301003",
+      "display": "Referral to thoracic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306302005",
+      "display": "Referral to cardiac surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306303000",
+      "display": "Referral to dental surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306304006",
+      "display": "Referral to orthodontist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306305007",
+      "display": "Referral to pediatric dentist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306306008",
+      "display": "Referral to restorative dentist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306307004",
+      "display": "Referral to endocrine surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306308009",
+      "display": "Referral to gastrointestinal surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306309001",
+      "display": "Referral to general gastrointestinal surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306310006",
+      "display": "Referral to upper gastrointestinal surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306311005",
+      "display": "Referral to colorectal surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306312003",
+      "display": "Referral to hand surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306313008",
+      "display": "Referral to hepatobiliary surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306314002",
+      "display": "Referral to pancreatic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306315001",
+      "display": "Referral to plastic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306316000",
+      "display": "Referral to transplant surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306317009",
+      "display": "Referral to trauma surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306318004",
+      "display": "Referral to urologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306320001",
+      "display": "Referral to clinical nurse specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306338003",
+      "display": "Referral to nurse practitioner (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306341007",
+      "display": "Referral to community-based midwife (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306342000",
+      "display": "Referral to hospital-based midwife (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306343005",
+      "display": "Referral to psychotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306351008",
+      "display": "Referral to community-based podiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306352001",
+      "display": "Referral to hospital-based podiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306353006",
+      "display": "Referral to community-based dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306354000",
+      "display": "Referral to hospital-based dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306355004",
+      "display": "Referral to community-based occupational therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306356003",
+      "display": "Referral to social services department occupational therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306357007",
+      "display": "Referral to hospital-based occupational therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306358002",
+      "display": "Referral to community-based physiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306359005",
+      "display": "Referral to hospital-based physiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306360000",
+      "display": "Referral to community-based speech and language therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306361001",
+      "display": "Referral to hospital-based speech and language therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306736002",
+      "display": "Referral to general dental surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307063001",
+      "display": "Referral to clinical hematologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307777008",
+      "display": "Referral to vascular surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308439003",
+      "display": "Referral to midwife (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308447003",
+      "display": "Referral to physiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308449000",
+      "display": "Referral to chiropractor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308450000",
+      "display": "Referral to osteopath (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308451001",
+      "display": "Referral to podiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308452008",
+      "display": "Referral to speech and language therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308453003",
+      "display": "Referral to occupational therapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308454009",
+      "display": "Referral to orthoptist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308455005",
+      "display": "Referral to orthotist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308456006",
+      "display": "Referral to audiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308459004",
+      "display": "Referral to psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308465004",
+      "display": "Referral to optometrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308469005",
+      "display": "Referral to geneticist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308470006",
+      "display": "Referral to general physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308471005",
+      "display": "Referral to cardiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308472003",
+      "display": "Referral to dermatologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308473008",
+      "display": "Referral to clinical immunologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308474002",
+      "display": "Referral to neurologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308475001",
+      "display": "Referral to care of the elderly physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308476000",
+      "display": "Referral to gastroenterologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308477009",
+      "display": "Referral to psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308478004",
+      "display": "Referral to general surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308479007",
+      "display": "Referral to ophthalmologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308480005",
+      "display": "Referral to ear, nose and throat surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308481009",
+      "display": "Referral to orthopedic surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308482002",
+      "display": "Referral to neurosurgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308483007",
+      "display": "Referral to pediatric surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308484001",
+      "display": "Referral to obstetrician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308485000",
+      "display": "Referral to gynecologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309046007",
+      "display": "Private referral to surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309623006",
+      "display": "Child referral to optician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309626003",
+      "display": "Child referral - school psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309627007",
+      "display": "Child referral - clinical psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "309629005",
+      "display": "Child referral - community dentist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310515004",
+      "display": "Referral to medical oncologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312487009",
+      "display": "Referral to pediatric cardiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "312488004",
+      "display": "Referral to community child health doctor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390866009",
+      "display": "Referral to mental health team (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401266006",
+      "display": "Referral to drug abuse counselor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406158007",
+      "display": "Referral to oral surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406159004",
+      "display": "Referral to maxillofacial surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408285001",
+      "display": "Referral to pediatric dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415277000",
+      "display": "Referral to pediatric endocrinologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416116000",
+      "display": "Referral to home registered dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416999007",
+      "display": "Private referral to physiotherapist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "425971006",
+      "display": "Referral to pediatric pulmonologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428441000124100",
+      "display": "Referral to nurse anesthetist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428451000124103",
+      "display": "Referral to physician assistant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428461000124101",
+      "display": "Referral to nutrition professional (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428471000124108",
+      "display": "Referral to clinical psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428481000124106",
+      "display": "Referral to clinical social worker (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428491000124109",
+      "display": "Referral to anesthesiologist assistant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "428541000124104",
+      "display": "Referral to nurse midwife (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429365000",
+      "display": "Referral to pediatric gastroenterologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "433151006",
+      "display": "Referral to educational psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448761000124106",
+      "display": "Referral to endovascular specialist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448771000124104",
+      "display": "Referral to prosthetist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54395008",
+      "display": "Patient referral for medical consultation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698563003",
+      "display": "Referral to bariatric surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "698599008",
+      "display": "Private referral to breast surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703974003",
+      "display": "Private referral to colorectal surgeon (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703975002",
+      "display": "Private referral to podiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "703976001",
+      "display": "Private referral to radiologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "716634006",
+      "display": "Referral to neurological physiotherapist (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,163 @@
     "versionId": "29",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 27 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1181000175107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1181000175107\">1181000175107</a></td><td>http://snomed.info/sct</td><td>Recommendation to lose weight (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-170795002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=170795002\">170795002</a></td><td>http://snomed.info/sct</td><td>Follow-up obesity assessment (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-248114003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=248114003\">248114003</a></td><td>http://snomed.info/sct</td><td>Actions to lose weight (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266724001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266724001\">266724001</a></td><td>http://snomed.info/sct</td><td>Weight-reducing diet education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-268523001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=268523001\">268523001</a></td><td>http://snomed.info/sct</td><td>Target weight discussed (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284352003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284352003\">284352003</a></td><td>http://snomed.info/sct</td><td>Obesity diet education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-289169006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=289169006\">289169006</a></td><td>http://snomed.info/sct</td><td>Exercising to lose weight (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-307818003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=307818003\">307818003</a></td><td>http://snomed.info/sct</td><td>Weight monitoring (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-388962008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=388962008\">388962008</a></td><td>http://snomed.info/sct</td><td>Weight maintenance regimen (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-388970003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=388970003\">388970003</a></td><td>http://snomed.info/sct</td><td>Weight maintenance consultation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-388975008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=388975008\">388975008</a></td><td>http://snomed.info/sct</td><td>Weight reduction consultation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-388976009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=388976009\">388976009</a></td><td>http://snomed.info/sct</td><td>Weight reduction regimen (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398752005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398752005\">398752005</a></td><td>http://snomed.info/sct</td><td>Referral to weight maintenance regimen service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408289007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408289007\">408289007</a></td><td>http://snomed.info/sct</td><td>Refer to weight management program (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410199003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410199003\">410199003</a></td><td>http://snomed.info/sct</td><td>Weight control assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410200000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410200000\">410200000</a></td><td>http://snomed.info/sct</td><td>Weight control education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410201001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410201001\">410201001</a></td><td>http://snomed.info/sct</td><td>Weight maintenance regimen management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445033007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445033007\">445033007</a></td><td>http://snomed.info/sct</td><td>Discussion about ideal body weight (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-718361005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=718361005\">718361005</a></td><td>http://snomed.info/sct</td><td>Weight management program (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0270\"> </a>G0270</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Medical nutrition therapy; reassessment and subsequent intervention(s) following second referral in same year for change in diagnosis, medical condition or treatment regimen (including additional hours needed for renal disease), individual, face to face with the patient, each 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0271\"> </a>G0271</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Medical nutrition therapy, reassessment and subsequent intervention(s) following second referral in same year for change in diagnosis, medical condition, or treatment regimen (including additional hours needed for renal disease), group (2 or more individuals), each 30 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0447\"> </a>G0447</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Face-to-face behavioral counseling for obesity, 15 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-G0473\"> </a>G0473</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Face-to-face behavioral counseling for obesity, group (2-10), 30 minutes</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9449\"> </a>S9449</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Weight management classes, non-physician provider, per session</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9451\"> </a>S9451</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Exercise classes, non-physician provider, per session</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9452\"> </a>S9452</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nutrition classes, non-physician provider, per session</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-hcpcs-S9470\"> </a>S9470</td><td>http://www.nlm.nih.gov/research/umls/hcpcs</td><td>Nutritional counseling, dietitian visit</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.600.1510",
   "version": "20210220",
   "name": "Weight Reduction Recommended",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:5b824b30-fb3a-47cb-b353-b8d2567b4190",
+    "timestamp": "2022-07-19T15:13:52-04:00",
+    "total": 27,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1181000175107",
+      "display": "Recommendation to lose weight (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "170795002",
+      "display": "Follow-up obesity assessment (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "248114003",
+      "display": "Actions to lose weight (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266724001",
+      "display": "Weight-reducing diet education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "268523001",
+      "display": "Target weight discussed (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284352003",
+      "display": "Obesity diet education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "289169006",
+      "display": "Exercising to lose weight (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "307818003",
+      "display": "Weight monitoring (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "388962008",
+      "display": "Weight maintenance regimen (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "388970003",
+      "display": "Weight maintenance consultation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "388975008",
+      "display": "Weight reduction consultation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "388976009",
+      "display": "Weight reduction regimen (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398752005",
+      "display": "Referral to weight maintenance regimen service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408289007",
+      "display": "Refer to weight management program (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410199003",
+      "display": "Weight control assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410200000",
+      "display": "Weight control education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410201001",
+      "display": "Weight maintenance regimen management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445033007",
+      "display": "Discussion about ideal body weight (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "718361005",
+      "display": "Weight management program (regime/therapy)"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0270",
+      "display": "Medical nutrition therapy; reassessment and subsequent intervention(s) following second referral in same year for change in diagnosis, medical condition or treatment regimen (including additional hours needed for renal disease), individual, face to face with the patient, each 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0271",
+      "display": "Medical nutrition therapy, reassessment and subsequent intervention(s) following second referral in same year for change in diagnosis, medical condition, or treatment regimen (including additional hours needed for renal disease), group (2 or more individuals), each 30 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0447",
+      "display": "Face-to-face behavioral counseling for obesity, 15 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "G0473",
+      "display": "Face-to-face behavioral counseling for obesity, group (2-10), 30 minutes"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9449",
+      "display": "Weight management classes, non-physician provider, per session"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9451",
+      "display": "Exercise classes, non-physician provider, per session"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9452",
+      "display": "Nutrition classes, non-physician provider, per session"
+    }, {
+      "system": "http://www.nlm.nih.gov/research/umls/hcpcs",
+      "version": "2022",
+      "code": "S9470",
+      "display": "Nutritional counseling, dietitian visit"
+    } ]
+  }
 }

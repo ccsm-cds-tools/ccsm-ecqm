@@ -5,12 +5,43 @@
     "versionId": "26",
     "lastUpdated": "2022-03-02T18:05:32.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28988002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28988002\">28988002</a></td><td>http://snomed.info/sct</td><td>Psychoanalysis in depth (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-61436009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=61436009\">61436009</a></td><td>http://snomed.info/sct</td><td>Psychoanalysis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-90845\"> </a>90845</td><td>http://www.ama-assn.org/go/cpt</td><td>Psychoanalysis</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1141",
   "version": "20190315",
   "name": "Psychoanalysis",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:74416571-69b8-486b-81aa-8854975ea288",
+    "timestamp": "2022-07-19T15:11:22-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28988002",
+      "display": "Psychoanalysis in depth (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "61436009",
+      "display": "Psychoanalysis (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "90845",
+      "display": "Psychoanalysis"
+    } ]
+  }
 }

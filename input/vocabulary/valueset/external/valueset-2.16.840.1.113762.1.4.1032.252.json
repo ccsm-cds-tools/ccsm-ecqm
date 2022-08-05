@@ -5,12 +5,53 @@
     "versionId": "8",
     "lastUpdated": "2021-08-04T10:52:43.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 5 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176771009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176771009\">176771009</a></td><td>Colposcopic laser destruction of lesion of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176786003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176786003\">176786003</a></td><td>Colposcopy of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-176787007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=176787007\">176787007</a></td><td>Colposcopic biopsy of cervix (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-392003006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=392003006\">392003006</a></td><td>Colposcopy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-423342001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=423342001\">423342001</a></td><td>Colposcopic procedure (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.252",
   "version": "20210803",
   "name": "Colposcopy procedure",
   "status": "active",
   "date": "2021-08-03T01:00:51-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:2ef55a89-6404-4518-ad18-171ca091ca7f",
+    "timestamp": "2022-07-15T19:32:23-04:00",
+    "total": 5,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176771009",
+      "display": "Colposcopic laser destruction of lesion of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176786003",
+      "display": "Colposcopy of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "176787007",
+      "display": "Colposcopic biopsy of cervix (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "392003006",
+      "display": "Colposcopy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "423342001",
+      "display": "Colposcopic procedure (procedure)"
+    } ]
+  }
 }

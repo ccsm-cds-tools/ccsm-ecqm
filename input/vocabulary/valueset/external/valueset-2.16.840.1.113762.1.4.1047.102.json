@@ -5,12 +5,73 @@
     "versionId": "3",
     "lastUpdated": "2021-03-16T19:11:48.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 9 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-23697004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=23697004\">23697004</a></td><td>http://snomed.info/sct</td><td>Crush syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240125008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240125008\">240125008</a></td><td>http://snomed.info/sct</td><td>Muscle crush syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240131006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240131006\">240131006</a></td><td>http://snomed.info/sct</td><td>Rhabdomyolysis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-240132004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=240132004\">240132004</a></td><td>http://snomed.info/sct</td><td>Non-traumatic rhabdomyolysis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-72960004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=72960004\">72960004</a></td><td>http://snomed.info/sct</td><td>Exertional rhabdomyolysis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-M62.82\"> </a>M62.82</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Rhabdomyolysis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T79.6XXA\"> </a>T79.6XXA</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Traumatic ischemia of muscle, initial encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T79.6XXD\"> </a>T79.6XXD</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Traumatic ischemia of muscle, subsequent encounter</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-T79.6XXS\"> </a>T79.6XXS</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Traumatic ischemia of muscle, sequela</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1047.102",
   "version": "20170504",
   "name": "Rhabdomyolysis",
   "status": "active",
   "date": "2017-05-04T01:00:13-04:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:3e6732a5-c78f-4c76-b431-8a3fa89922ab",
+    "timestamp": "2022-07-19T15:04:34-04:00",
+    "total": 9,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "23697004",
+      "display": "Crush syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240125008",
+      "display": "Muscle crush syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240131006",
+      "display": "Rhabdomyolysis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "240132004",
+      "display": "Non-traumatic rhabdomyolysis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "72960004",
+      "display": "Exertional rhabdomyolysis (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "M62.82",
+      "display": "Rhabdomyolysis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T79.6XXA",
+      "display": "Traumatic ischemia of muscle, initial encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T79.6XXD",
+      "display": "Traumatic ischemia of muscle, subsequent encounter"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "T79.6XXS",
+      "display": "Traumatic ischemia of muscle, sequela"
+    } ]
+  }
 }

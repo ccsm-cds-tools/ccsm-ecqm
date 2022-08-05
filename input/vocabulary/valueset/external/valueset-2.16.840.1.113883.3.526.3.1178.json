@@ -5,12 +5,138 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:03:40.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 22 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292419005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292419005\">292419005</a></td><td>Beta-adrenoceptor blocking drug adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292420004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292420004\">292420004</a></td><td>Cardioselective beta-blocker adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292421000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292421000\">292421000</a></td><td>Acebutolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292424008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292424008\">292424008</a></td><td>Betaxolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292425009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292425009\">292425009</a></td><td>Bisoprolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292426005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292426005\">292426005</a></td><td>Celiprolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292427001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292427001\">292427001</a></td><td>Esmolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292428006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292428006\">292428006</a></td><td>Metoprolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292430008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292430008\">292430008</a></td><td>Nadolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292431007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292431007\">292431007</a></td><td>Pindolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292432000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292432000\">292432000</a></td><td>Carvedilol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292433005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292433005\">292433005</a></td><td>Metipranolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292434004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292434004\">292434004</a></td><td>Carteolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292435003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292435003\">292435003</a></td><td>Labetalol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292436002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292436002\">292436002</a></td><td>Levobunolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292437006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292437006\">292437006</a></td><td>Oxprenolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292438001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292438001\">292438001</a></td><td>Penbutolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292439009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292439009\">292439009</a></td><td>Practolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292440006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292440006\">292440006</a></td><td>Propranolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292441005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292441005\">292441005</a></td><td>Sotalol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-292442003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=292442003\">292442003</a></td><td>Timolol adverse reaction (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418370000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418370000\">418370000</a></td><td>Atenolol adverse reaction (disorder)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1178",
   "version": "20170504",
   "name": "Intolerance to Beta Blocker Therapy",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ead588ae-f814-4d33-8d2e-b1f934b50dbb",
+    "timestamp": "2022-07-19T15:11:28-04:00",
+    "total": 22,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292419005",
+      "display": "Beta-adrenoceptor blocking drug adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292420004",
+      "display": "Cardioselective beta-blocker adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292421000",
+      "display": "Acebutolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292424008",
+      "display": "Betaxolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292425009",
+      "display": "Bisoprolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292426005",
+      "display": "Celiprolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292427001",
+      "display": "Esmolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292428006",
+      "display": "Metoprolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292430008",
+      "display": "Nadolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292431007",
+      "display": "Pindolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292432000",
+      "display": "Carvedilol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292433005",
+      "display": "Metipranolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292434004",
+      "display": "Carteolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292435003",
+      "display": "Labetalol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292436002",
+      "display": "Levobunolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292437006",
+      "display": "Oxprenolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292438001",
+      "display": "Penbutolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292439009",
+      "display": "Practolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292440006",
+      "display": "Propranolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292441005",
+      "display": "Sotalol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "292442003",
+      "display": "Timolol adverse reaction (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418370000",
+      "display": "Atenolol adverse reaction (disorder)"
+    } ]
+  }
 }

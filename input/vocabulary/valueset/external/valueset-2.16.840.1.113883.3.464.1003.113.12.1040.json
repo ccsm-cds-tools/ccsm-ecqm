@@ -5,12 +5,48 @@
     "versionId": "10",
     "lastUpdated": "2022-03-02T18:04:02.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-391096007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=391096007\">391096007</a></td><td>Family history: Maternal hip fracture (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416072008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416072008\">416072008</a></td><td>Family history: maternal hip fracture before age 75 (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445121000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445121000124105\">445121000124105</a></td><td>Family history of paternal hip fracture (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445501000124107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445501000124107\">445501000124107</a></td><td>Family history of hip fracture in parent (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.113.12.1040",
   "version": "20180310",
   "name": "History of hip fracture in parent",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:180390da-3cd1-479f-8ad5-1fa7c6338798",
+    "timestamp": "2022-07-19T15:08:18-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "391096007",
+      "display": "Family history: Maternal hip fracture (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416072008",
+      "display": "Family history: maternal hip fracture before age 75 (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445121000124105",
+      "display": "Family history of paternal hip fracture (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445501000124107",
+      "display": "Family history of hip fracture in parent (situation)"
+    } ]
+  }
 }

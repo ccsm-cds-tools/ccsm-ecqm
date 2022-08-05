@@ -5,12 +5,58 @@
     "versionId": "12",
     "lastUpdated": "2022-03-02T18:02:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 6 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-25514-1\"> </a><a href=\"http://details.loinc.org/LOINC/25514-1.html\">25514-1</a></td><td>Rubella virus IgG Ab [Presence] in Serum</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-39013-8\"> </a><a href=\"http://details.loinc.org/LOINC/39013-8.html\">39013-8</a></td><td>Rubella virus IgG Ab [Presence] in Cerebral spinal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-40667-8\"> </a><a href=\"http://details.loinc.org/LOINC/40667-8.html\">40667-8</a></td><td>Rubella virus IgG Ab [Presence] in Serum or Plasma by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-40668-6\"> </a><a href=\"http://details.loinc.org/LOINC/40668-6.html\">40668-6</a></td><td>Rubella virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-63462-6\"> </a><a href=\"http://details.loinc.org/LOINC/63462-6.html\">63462-6</a></td><td>Rubella virus IgG Ab [Presence] in Serum by Latex agglutination</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-74415-1\"> </a><a href=\"http://details.loinc.org/LOINC/74415-1.html\">74415-1</a></td><td>Rubella virus IgG Ab [Presence] in Body fluid by Immunoassay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1064",
   "version": "20170504",
   "name": "Rubella Antibody Test (IgG Antibody presence)",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:290cc18d-365d-4205-ad32-bd749aed727a",
+    "timestamp": "2022-07-19T15:10:41-04:00",
+    "total": 6,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "25514-1",
+      "display": "Rubella virus IgG Ab [Presence] in Serum"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "39013-8",
+      "display": "Rubella virus IgG Ab [Presence] in Cerebral spinal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "40667-8",
+      "display": "Rubella virus IgG Ab [Presence] in Serum or Plasma by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "40668-6",
+      "display": "Rubella virus IgG Ab [Presence] in Cerebral spinal fluid by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "63462-6",
+      "display": "Rubella virus IgG Ab [Presence] in Serum by Latex agglutination"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "74415-1",
+      "display": "Rubella virus IgG Ab [Presence] in Body fluid by Immunoassay"
+    } ]
+  }
 }

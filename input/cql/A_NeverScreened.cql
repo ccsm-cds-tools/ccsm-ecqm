@@ -9,7 +9,7 @@ include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCar
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 include AdultOutpatientEncountersFHIR4_2022 version '3.0.000' called AdultOutpatient
-include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
+include DashboardLibrary version '1.0.0' called Dash
 
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
@@ -36,8 +36,8 @@ define "Denominator Exclusions":
     )
 
 define "Numerator":
-  Count(Dash.CervicalCytologyReports) = 0
-  and Count(Dash.HpvDiagnosticReports) = 0
+  Count(Dash.CervicalCytologyReportsSummary) = 0
+  and Count(Dash.HistologyDiagnosticReportsSummary) = 0
 
 define "Absence of Cervix":
   ManagementLibrary.AbsenceOrRemovalOfCervix

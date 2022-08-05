@@ -5,12 +5,38 @@
     "versionId": "5",
     "lastUpdated": "2022-03-24T01:02:10.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-260385009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=260385009\">260385009</a></td><td>Negative (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-787724008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=787724008\">787724008</a></td><td>Human papillomavirus deoxyribonucleic acid test negative (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.268",
   "version": "20220324",
   "name": "HPV Negative Results",
   "status": "active",
   "date": "2022-03-24T01:02:10-04:00",
   "publisher": "MITRE Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:476546b8-6a4d-4a99-9f52-a3d982edb7e7",
+    "timestamp": "2022-07-15T19:35:58-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "260385009",
+      "display": "Negative (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "787724008",
+      "display": "Human papillomavirus deoxyribonucleic acid test negative (finding)"
+    } ]
+  }
 }

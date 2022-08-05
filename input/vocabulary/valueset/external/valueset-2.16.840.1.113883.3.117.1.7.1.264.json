@@ -5,12 +5,338 @@
     "versionId": "36",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 62 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-13943000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=13943000\">13943000</a></td><td>http://snomed.info/sct</td><td>Failed attempted abortion complicated by embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19363005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19363005\">19363005</a></td><td>http://snomed.info/sct</td><td>Failed attempted abortion with blood-clot embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-198876008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=198876008\">198876008</a></td><td>http://snomed.info/sct</td><td>Failed medical abortion, complicated by embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200232006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200232006\">200232006</a></td><td>http://snomed.info/sct</td><td>Antenatal deep vein thrombosis - delivered (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200233001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200233001\">200233001</a></td><td>http://snomed.info/sct</td><td>Antenatal deep vein thrombosis with antenatal complication (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200284000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200284000\">200284000</a></td><td>http://snomed.info/sct</td><td>Obstetric pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200299000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200299000\">200299000</a></td><td>http://snomed.info/sct</td><td>Obstetric blood-clot pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200301007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200301007\">200301007</a></td><td>http://snomed.info/sct</td><td>Obstetric blood-clot pulmonary embolism - delivered (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200303005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200303005\">200303005</a></td><td>http://snomed.info/sct</td><td>Obstetric blood-clot pulmonary embolism with antenatal complication (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-200304004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=200304004\">200304004</a></td><td>http://snomed.info/sct</td><td>Obstetric blood-clot pulmonary embolism with postnatal complication (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-21604008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=21604008\">21604008</a></td><td>http://snomed.info/sct</td><td>Illegal abortion with blood-clot embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-267280004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=267280004\">267280004</a></td><td>http://snomed.info/sct</td><td>Venous complication of pregnancy and/or puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-26743002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=26743002\">26743002</a></td><td>http://snomed.info/sct</td><td>Illegal abortion complicated by embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-37787009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=37787009\">37787009</a></td><td>http://snomed.info/sct</td><td>Legal abortion with blood-clot embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-43306002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=43306002\">43306002</a></td><td>http://snomed.info/sct</td><td>Miscarriage complicated by embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-49956009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=49956009\">49956009</a></td><td>http://snomed.info/sct</td><td>Antepartum deep phlebothrombosis (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-51096002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=51096002\">51096002</a></td><td>http://snomed.info/sct</td><td>Legal abortion with pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55589000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55589000\">55589000</a></td><td>http://snomed.info/sct</td><td>Illegal abortion with pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-55976003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=55976003\">55976003</a></td><td>http://snomed.info/sct</td><td>Miscarriage with blood-clot embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56272000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56272000\">56272000</a></td><td>http://snomed.info/sct</td><td>Deep venous thrombosis in puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-56462001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=56462001\">56462001</a></td><td>http://snomed.info/sct</td><td>Failed attempted abortion with soap embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-57734001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=57734001\">57734001</a></td><td>http://snomed.info/sct</td><td>Legal abortion complicated by embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58123006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58123006\">58123006</a></td><td>http://snomed.info/sct</td><td>Failed attempted abortion with pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-609497003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=609497003\">609497003</a></td><td>http://snomed.info/sct</td><td>Venous complication of puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62583006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62583006\">62583006</a></td><td>http://snomed.info/sct</td><td>Phlegmasia alba dolens in puerperium (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82153002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82153002\">82153002</a></td><td>http://snomed.info/sct</td><td>Miscarriage with pulmonary embolism (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O03.2\"> </a>O03.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Embolism following incomplete spontaneous abortion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O03.35\"> </a>O03.35</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications following incomplete spontaneous abortion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O03.7\"> </a>O03.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Embolism following complete or unspecified spontaneous abortion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O03.85\"> </a>O03.85</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications following complete or unspecified spontaneous abortion</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O04.7\"> </a>O04.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Embolism following (induced) termination of pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O04.85\"> </a>O04.85</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications following (induced) termination of pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O07.2\"> </a>O07.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Embolism following failed attempted termination of pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O07.35\"> </a>O07.35</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications following failed attempted termination of pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O08.2\"> </a>O08.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Embolism following ectopic and molar pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O08.7\"> </a>O08.7</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications following an ectopic and molar pregnancy</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.30\"> </a>O22.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deep phlebothrombosis in pregnancy, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.31\"> </a>O22.31</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deep phlebothrombosis in pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.32\"> </a>O22.32</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deep phlebothrombosis in pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.33\"> </a>O22.33</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deep phlebothrombosis in pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.50\"> </a>O22.50</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral venous thrombosis in pregnancy, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.51\"> </a>O22.51</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral venous thrombosis in pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.52\"> </a>O22.52</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral venous thrombosis in pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.53\"> </a>O22.53</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral venous thrombosis in pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.8X1\"> </a>O22.8X1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications in pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.8X2\"> </a>O22.8X2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications in pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.8X3\"> </a>O22.8X3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications in pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.8X9\"> </a>O22.8X9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications in pregnancy, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.90\"> </a>O22.90</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Venous complication in pregnancy, unspecified, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.91\"> </a>O22.91</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Venous complication in pregnancy, unspecified, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.92\"> </a>O22.92</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Venous complication in pregnancy, unspecified, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O22.93\"> </a>O22.93</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Venous complication in pregnancy, unspecified, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O87.1\"> </a>O87.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deep phlebothrombosis in the puerperium</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O87.3\"> </a>O87.3</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cerebral venous thrombosis in the puerperium</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O87.8\"> </a>O87.8</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other venous complications in the puerperium</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O87.9\"> </a>O87.9</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Venous complication in the puerperium, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.211\"> </a>O88.211</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in pregnancy, first trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.212\"> </a>O88.212</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in pregnancy, second trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.213\"> </a>O88.213</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in pregnancy, third trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.219\"> </a>O88.219</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in pregnancy, unspecified trimester</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.22\"> </a>O88.22</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in childbirth</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-O88.23\"> </a>O88.23</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Thromboembolism in the puerperium</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.264",
   "version": "20210220",
   "name": "Obstetrics VTE",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c0c0c048-20e2-4820-a14b-9ae298b7518c",
+    "timestamp": "2022-07-19T15:05:55-04:00",
+    "total": 62,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "13943000",
+      "display": "Failed attempted abortion complicated by embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19363005",
+      "display": "Failed attempted abortion with blood-clot embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "198876008",
+      "display": "Failed medical abortion, complicated by embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200232006",
+      "display": "Antenatal deep vein thrombosis - delivered (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200233001",
+      "display": "Antenatal deep vein thrombosis with antenatal complication (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200284000",
+      "display": "Obstetric pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200299000",
+      "display": "Obstetric blood-clot pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200301007",
+      "display": "Obstetric blood-clot pulmonary embolism - delivered (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200303005",
+      "display": "Obstetric blood-clot pulmonary embolism with antenatal complication (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "200304004",
+      "display": "Obstetric blood-clot pulmonary embolism with postnatal complication (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "21604008",
+      "display": "Illegal abortion with blood-clot embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "267280004",
+      "display": "Venous complication of pregnancy and/or puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "26743002",
+      "display": "Illegal abortion complicated by embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "37787009",
+      "display": "Legal abortion with blood-clot embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "43306002",
+      "display": "Miscarriage complicated by embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "49956009",
+      "display": "Antepartum deep phlebothrombosis (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "51096002",
+      "display": "Legal abortion with pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55589000",
+      "display": "Illegal abortion with pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "55976003",
+      "display": "Miscarriage with blood-clot embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56272000",
+      "display": "Deep venous thrombosis in puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "56462001",
+      "display": "Failed attempted abortion with soap embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "57734001",
+      "display": "Legal abortion complicated by embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58123006",
+      "display": "Failed attempted abortion with pulmonary embolism (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "609497003",
+      "display": "Venous complication of puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62583006",
+      "display": "Phlegmasia alba dolens in puerperium (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82153002",
+      "display": "Miscarriage with pulmonary embolism (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O03.2",
+      "display": "Embolism following incomplete spontaneous abortion"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O03.35",
+      "display": "Other venous complications following incomplete spontaneous abortion"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O03.7",
+      "display": "Embolism following complete or unspecified spontaneous abortion"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O03.85",
+      "display": "Other venous complications following complete or unspecified spontaneous abortion"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O04.7",
+      "display": "Embolism following (induced) termination of pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O04.85",
+      "display": "Other venous complications following (induced) termination of pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O07.2",
+      "display": "Embolism following failed attempted termination of pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O07.35",
+      "display": "Other venous complications following failed attempted termination of pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O08.2",
+      "display": "Embolism following ectopic and molar pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O08.7",
+      "display": "Other venous complications following an ectopic and molar pregnancy"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.30",
+      "display": "Deep phlebothrombosis in pregnancy, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.31",
+      "display": "Deep phlebothrombosis in pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.32",
+      "display": "Deep phlebothrombosis in pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.33",
+      "display": "Deep phlebothrombosis in pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.50",
+      "display": "Cerebral venous thrombosis in pregnancy, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.51",
+      "display": "Cerebral venous thrombosis in pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.52",
+      "display": "Cerebral venous thrombosis in pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.53",
+      "display": "Cerebral venous thrombosis in pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.8X1",
+      "display": "Other venous complications in pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.8X2",
+      "display": "Other venous complications in pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.8X3",
+      "display": "Other venous complications in pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.8X9",
+      "display": "Other venous complications in pregnancy, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.90",
+      "display": "Venous complication in pregnancy, unspecified, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.91",
+      "display": "Venous complication in pregnancy, unspecified, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.92",
+      "display": "Venous complication in pregnancy, unspecified, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O22.93",
+      "display": "Venous complication in pregnancy, unspecified, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O87.1",
+      "display": "Deep phlebothrombosis in the puerperium"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O87.3",
+      "display": "Cerebral venous thrombosis in the puerperium"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O87.8",
+      "display": "Other venous complications in the puerperium"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O87.9",
+      "display": "Venous complication in the puerperium, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.211",
+      "display": "Thromboembolism in pregnancy, first trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.212",
+      "display": "Thromboembolism in pregnancy, second trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.213",
+      "display": "Thromboembolism in pregnancy, third trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.219",
+      "display": "Thromboembolism in pregnancy, unspecified trimester"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.22",
+      "display": "Thromboembolism in childbirth"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "O88.23",
+      "display": "Thromboembolism in the puerperium"
+    } ]
+  }
 }

@@ -5,12 +5,38 @@
     "versionId": "26",
     "lastUpdated": "2021-03-17T16:24:06.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 2 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-260362008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=260362008\">260362008</a></td><td>Very low (qualifier value)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-62482003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=62482003\">62482003</a></td><td>Low (qualifier value)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.117.1.7.1.400",
   "version": "20210220",
   "name": "Low Risk",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:f8a1cc1c-87b8-4c69-a9ee-5d557f457241",
+    "timestamp": "2022-07-19T15:06:10-04:00",
+    "total": 2,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "260362008",
+      "display": "Very low (qualifier value)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "62482003",
+      "display": "Low (qualifier value)"
+    } ]
+  }
 }

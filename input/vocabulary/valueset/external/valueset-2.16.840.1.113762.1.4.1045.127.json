@@ -5,12 +5,78 @@
     "versionId": "26",
     "lastUpdated": "2021-02-13T01:00:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 10 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-13056-7\"> </a><a href=\"http://details.loinc.org/LOINC/13056-7.html\">13056-7</a></td><td>Platelets [#/volume] in Plasma by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-26515-7\"> </a><a href=\"http://details.loinc.org/LOINC/26515-7.html\">26515-7</a></td><td>Platelets [#/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-26516-5\"> </a><a href=\"http://details.loinc.org/LOINC/26516-5.html\">26516-5</a></td><td>Platelets [#/volume] in Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32623-1\"> </a><a href=\"http://details.loinc.org/LOINC/32623-1.html\">32623-1</a></td><td>Platelet mean volume [Entitic volume] in Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-34167-7\"> </a><a href=\"http://details.loinc.org/LOINC/34167-7.html\">34167-7</a></td><td>Platelets Large [Presence] in Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-48386-7\"> </a><a href=\"http://details.loinc.org/LOINC/48386-7.html\">48386-7</a></td><td>Platelets Large/Platelets in Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-53800-9\"> </a><a href=\"http://details.loinc.org/LOINC/53800-9.html\">53800-9</a></td><td>Platelets panel - Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-777-3\"> </a><a href=\"http://details.loinc.org/LOINC/777-3.html\">777-3</a></td><td>Platelets [#/volume] in Blood by Automated count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-778-1\"> </a><a href=\"http://details.loinc.org/LOINC/778-1.html\">778-1</a></td><td>Platelets [#/volume] in Blood by Manual count</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-96354-6\"> </a><a href=\"http://details.loinc.org/LOINC/96354-6.html\">96354-6</a></td><td>Platelets Large [#/volume] in Blood by Automated count</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.127",
   "version": "20210213",
   "name": "Platelet count lab test",
   "status": "active",
   "date": "2021-02-13T01:00:26-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e5a1dd65-f5e8-4c01-8ba7-6f79cdd8b326",
+    "timestamp": "2022-07-19T15:04:23-04:00",
+    "total": 10,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "13056-7",
+      "display": "Platelets [#/volume] in Plasma by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "26515-7",
+      "display": "Platelets [#/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "26516-5",
+      "display": "Platelets [#/volume] in Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32623-1",
+      "display": "Platelet mean volume [Entitic volume] in Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "34167-7",
+      "display": "Platelets Large [Presence] in Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "48386-7",
+      "display": "Platelets Large/Platelets in Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "53800-9",
+      "display": "Platelets panel - Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "777-3",
+      "display": "Platelets [#/volume] in Blood by Automated count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "778-1",
+      "display": "Platelets [#/volume] in Blood by Manual count"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "96354-6",
+      "display": "Platelets Large [#/volume] in Blood by Automated count"
+    } ]
+  }
 }

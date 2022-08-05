@@ -5,12 +5,288 @@
     "versionId": "33",
     "lastUpdated": "2022-03-01T01:02:04.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 52 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-129623003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=129623003\">129623003</a></td><td>http://snomed.info/sct</td><td>Iridocorneal endothelial syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1674008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1674008\">1674008</a></td><td>http://snomed.info/sct</td><td>Juvenile epithelial corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193837009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193837009\">193837009</a></td><td>http://snomed.info/sct</td><td>Combined corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193839007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193839007\">193839007</a></td><td>http://snomed.info/sct</td><td>Fuchs' corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231927007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231927007\">231927007</a></td><td>http://snomed.info/sct</td><td>Fatty degeneration of cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231930000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231930000\">231930000</a></td><td>http://snomed.info/sct</td><td>Reis-Bucklers' corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231931001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231931001\">231931001</a></td><td>http://snomed.info/sct</td><td>Stromal corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231933003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231933003\">231933003</a></td><td>http://snomed.info/sct</td><td>Lattice corneal dystrophy, isolated form (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231934009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231934009\">231934009</a></td><td>http://snomed.info/sct</td><td>Pre-descemet's corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29504002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29504002\">29504002</a></td><td>http://snomed.info/sct</td><td>Posterior polymorphous corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361199007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361199007\">361199007</a></td><td>http://snomed.info/sct</td><td>Lattice corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-373426005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=373426005\">373426005</a></td><td>http://snomed.info/sct</td><td>Epithelial basement membrane dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39662004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39662004\">39662004</a></td><td>http://snomed.info/sct</td><td>Crystalline corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-397568004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=397568004\">397568004</a></td><td>http://snomed.info/sct</td><td>Granular corneal dystrophy type II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-404633004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=404633004\">404633004</a></td><td>http://snomed.info/sct</td><td>Cogan-Reese syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416633008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416633008\">416633008</a></td><td>http://snomed.info/sct</td><td>Congenital hereditary endothelial dystrophy type 1 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416960004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416960004\">416960004</a></td><td>http://snomed.info/sct</td><td>Corneal endothelial dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417065002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417065002\">417065002</a></td><td>http://snomed.info/sct</td><td>Thiel-Behnke corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417183007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417183007\">417183007</a></td><td>http://snomed.info/sct</td><td>Fleck corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417395001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417395001\">417395001</a></td><td>http://snomed.info/sct</td><td>Congenital hereditary endothelial dystrophy type 2 (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-417651000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=417651000\">417651000</a></td><td>http://snomed.info/sct</td><td>Congenital hereditary endothelial dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418054005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418054005\">418054005</a></td><td>http://snomed.info/sct</td><td>Macular corneal dystrophy Type I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418435001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418435001\">418435001</a></td><td>http://snomed.info/sct</td><td>Macular corneal dystrophy Type II (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419039007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419039007\">419039007</a></td><td>http://snomed.info/sct</td><td>Granular corneal dystrophy type I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419197009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419197009\">419197009</a></td><td>http://snomed.info/sct</td><td>Lattice corneal dystrophy Type I (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419395007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419395007\">419395007</a></td><td>http://snomed.info/sct</td><td>Schnyder crystalline cornea dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419900000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419900000\">419900000</a></td><td>http://snomed.info/sct</td><td>Gelatinous droplike corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-430888006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=430888006\">430888006</a></td><td>http://snomed.info/sct</td><td>Dystrophy of anterior cornea (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-45283008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=45283008\">45283008</a></td><td>http://snomed.info/sct</td><td>Granular corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-5587004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=5587004\">5587004</a></td><td>http://snomed.info/sct</td><td>Corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-60258001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=60258001\">60258001</a></td><td>http://snomed.info/sct</td><td>Macular corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75663006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75663006\">75663006</a></td><td>http://snomed.info/sct</td><td>Ring-like corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-77797009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=77797009\">77797009</a></td><td>http://snomed.info/sct</td><td>Hereditary corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95488001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95488001\">95488001</a></td><td>http://snomed.info/sct</td><td>Congenital macular corneal dystrophy (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.511\"> </a>H18.511</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Endothelial corneal dystrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.512\"> </a>H18.512</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Endothelial corneal dystrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.513\"> </a>H18.513</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Endothelial corneal dystrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.521\"> </a>H18.521</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epithelial (juvenile) corneal dystrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.522\"> </a>H18.522</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epithelial (juvenile) corneal dystrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.523\"> </a>H18.523</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Epithelial (juvenile) corneal dystrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.531\"> </a>H18.531</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Granular corneal dystrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.532\"> </a>H18.532</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Granular corneal dystrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.533\"> </a>H18.533</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Granular corneal dystrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.541\"> </a>H18.541</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lattice corneal dystrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.542\"> </a>H18.542</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lattice corneal dystrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.543\"> </a>H18.543</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Lattice corneal dystrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.551\"> </a>H18.551</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular corneal dystrophy, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.552\"> </a>H18.552</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular corneal dystrophy, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.553\"> </a>H18.553</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Macular corneal dystrophy, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.591\"> </a>H18.591</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other hereditary corneal dystrophies, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.592\"> </a>H18.592</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other hereditary corneal dystrophies, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H18.593\"> </a>H18.593</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other hereditary corneal dystrophies, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1424",
   "version": "20210214",
   "name": "Hereditary Corneal Dystrophies",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d478f36a-ade0-4437-8027-024a113c13cf",
+    "timestamp": "2022-07-19T15:12:07-04:00",
+    "total": 52,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "129623003",
+      "display": "Iridocorneal endothelial syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1674008",
+      "display": "Juvenile epithelial corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193837009",
+      "display": "Combined corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193839007",
+      "display": "Fuchs' corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231927007",
+      "display": "Fatty degeneration of cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231930000",
+      "display": "Reis-Bucklers' corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231931001",
+      "display": "Stromal corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231933003",
+      "display": "Lattice corneal dystrophy, isolated form (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231934009",
+      "display": "Pre-descemet's corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29504002",
+      "display": "Posterior polymorphous corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361199007",
+      "display": "Lattice corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "373426005",
+      "display": "Epithelial basement membrane dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39662004",
+      "display": "Crystalline corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "397568004",
+      "display": "Granular corneal dystrophy type II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "404633004",
+      "display": "Cogan-Reese syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416633008",
+      "display": "Congenital hereditary endothelial dystrophy type 1 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416960004",
+      "display": "Corneal endothelial dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417065002",
+      "display": "Thiel-Behnke corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417183007",
+      "display": "Fleck corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417395001",
+      "display": "Congenital hereditary endothelial dystrophy type 2 (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "417651000",
+      "display": "Congenital hereditary endothelial dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418054005",
+      "display": "Macular corneal dystrophy Type I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418435001",
+      "display": "Macular corneal dystrophy Type II (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419039007",
+      "display": "Granular corneal dystrophy type I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419197009",
+      "display": "Lattice corneal dystrophy Type I (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419395007",
+      "display": "Schnyder crystalline cornea dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419900000",
+      "display": "Gelatinous droplike corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "430888006",
+      "display": "Dystrophy of anterior cornea (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "45283008",
+      "display": "Granular corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "5587004",
+      "display": "Corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "60258001",
+      "display": "Macular corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75663006",
+      "display": "Ring-like corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "77797009",
+      "display": "Hereditary corneal dystrophy (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95488001",
+      "display": "Congenital macular corneal dystrophy (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.511",
+      "display": "Endothelial corneal dystrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.512",
+      "display": "Endothelial corneal dystrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.513",
+      "display": "Endothelial corneal dystrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.521",
+      "display": "Epithelial (juvenile) corneal dystrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.522",
+      "display": "Epithelial (juvenile) corneal dystrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.523",
+      "display": "Epithelial (juvenile) corneal dystrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.531",
+      "display": "Granular corneal dystrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.532",
+      "display": "Granular corneal dystrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.533",
+      "display": "Granular corneal dystrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.541",
+      "display": "Lattice corneal dystrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.542",
+      "display": "Lattice corneal dystrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.543",
+      "display": "Lattice corneal dystrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.551",
+      "display": "Macular corneal dystrophy, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.552",
+      "display": "Macular corneal dystrophy, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.553",
+      "display": "Macular corneal dystrophy, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.591",
+      "display": "Other hereditary corneal dystrophies, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.592",
+      "display": "Other hereditary corneal dystrophies, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H18.593",
+      "display": "Other hereditary corneal dystrophies, bilateral"
+    } ]
+  }
 }

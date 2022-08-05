@@ -5,12 +5,223 @@
     "versionId": "29",
     "lastUpdated": "2021-02-10T01:02:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 39 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-193638002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=193638002\">193638002</a></td><td>http://snomed.info/sct</td><td>Stimulus deprivation amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232147001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232147001\">232147001</a></td><td>http://snomed.info/sct</td><td>Anisometropic amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-331961000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=331961000119108\">331961000119108</a></td><td>http://snomed.info/sct</td><td>Strabismic amblyopia of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332701000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332701000119101\">332701000119101</a></td><td>http://snomed.info/sct</td><td>Refractive amblyopia of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-335461000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=335461000119102\">335461000119102</a></td><td>http://snomed.info/sct</td><td>Deprivation amblyopia of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-336451000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=336451000119108\">336451000119108</a></td><td>http://snomed.info/sct</td><td>Amblyopia of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-337581000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=337581000119100\">337581000119100</a></td><td>http://snomed.info/sct</td><td>Strabismic amblyopia of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-338311000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=338311000119102\">338311000119102</a></td><td>http://snomed.info/sct</td><td>Refractive amblyopia of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-341071000119100\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=341071000119100\">341071000119100</a></td><td>http://snomed.info/sct</td><td>Deprivation amblyopia of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-342061000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=342061000119102\">342061000119102</a></td><td>http://snomed.info/sct</td><td>Amblyopia of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343371000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343371000119101\">343371000119101</a></td><td>http://snomed.info/sct</td><td>Strabismic amblyopia of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-344081000119104\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=344081000119104\">344081000119104</a></td><td>http://snomed.info/sct</td><td>Refractive amblyopia of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-346331000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=346331000119107\">346331000119107</a></td><td>http://snomed.info/sct</td><td>Deprivation amblyopia of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-347241000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=347241000119107\">347241000119107</a></td><td>http://snomed.info/sct</td><td>Amblyopia of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35600002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35600002\">35600002</a></td><td>http://snomed.info/sct</td><td>Strabismic amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-361120000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=361120000\">361120000</a></td><td>http://snomed.info/sct</td><td>Nutritional amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387742006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387742006\">387742006</a></td><td>http://snomed.info/sct</td><td>Amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-387743001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=387743001\">387743001</a></td><td>http://snomed.info/sct</td><td>Functional amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-396184003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=396184003\">396184003</a></td><td>http://snomed.info/sct</td><td>Isometropic amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410486005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410486005\">410486005</a></td><td>http://snomed.info/sct</td><td>Occlusion amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-70701004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=70701004\">70701004</a></td><td>http://snomed.info/sct</td><td>Alcoholic amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-75834006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=75834006\">75834006</a></td><td>http://snomed.info/sct</td><td>Strachan's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90927000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90927000\">90927000</a></td><td>http://snomed.info/sct</td><td>Refractive amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-965003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=965003\">965003</a></td><td>http://snomed.info/sct</td><td>Toxic amblyopia (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.001\"> </a>H53.001</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified amblyopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.002\"> </a>H53.002</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified amblyopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.003\"> </a>H53.003</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified amblyopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.011\"> </a>H53.011</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deprivation amblyopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.012\"> </a>H53.012</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deprivation amblyopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.013\"> </a>H53.013</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Deprivation amblyopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.021\"> </a>H53.021</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Refractive amblyopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.022\"> </a>H53.022</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Refractive amblyopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.023\"> </a>H53.023</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Refractive amblyopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.031\"> </a>H53.031</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Strabismic amblyopia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.032\"> </a>H53.032</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Strabismic amblyopia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.033\"> </a>H53.033</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Strabismic amblyopia, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.041\"> </a>H53.041</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Amblyopia suspect, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.042\"> </a>H53.042</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Amblyopia suspect, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H53.043\"> </a>H53.043</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Amblyopia suspect, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1448",
   "version": "20210210",
   "name": "Amblyopia",
   "status": "active",
   "date": "2021-02-10T01:02:26-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c88b0853-0005-4f99-b14f-0472229523ce",
+    "timestamp": "2022-07-19T15:12:19-04:00",
+    "total": 39,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "193638002",
+      "display": "Stimulus deprivation amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232147001",
+      "display": "Anisometropic amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "331961000119108",
+      "display": "Strabismic amblyopia of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332701000119101",
+      "display": "Refractive amblyopia of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "335461000119102",
+      "display": "Deprivation amblyopia of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "336451000119108",
+      "display": "Amblyopia of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "337581000119100",
+      "display": "Strabismic amblyopia of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "338311000119102",
+      "display": "Refractive amblyopia of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "341071000119100",
+      "display": "Deprivation amblyopia of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "342061000119102",
+      "display": "Amblyopia of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343371000119101",
+      "display": "Strabismic amblyopia of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "344081000119104",
+      "display": "Refractive amblyopia of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "346331000119107",
+      "display": "Deprivation amblyopia of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "347241000119107",
+      "display": "Amblyopia of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35600002",
+      "display": "Strabismic amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "361120000",
+      "display": "Nutritional amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387742006",
+      "display": "Amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "387743001",
+      "display": "Functional amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "396184003",
+      "display": "Isometropic amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410486005",
+      "display": "Occlusion amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "70701004",
+      "display": "Alcoholic amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "75834006",
+      "display": "Strachan's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90927000",
+      "display": "Refractive amblyopia (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "965003",
+      "display": "Toxic amblyopia (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.001",
+      "display": "Unspecified amblyopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.002",
+      "display": "Unspecified amblyopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.003",
+      "display": "Unspecified amblyopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.011",
+      "display": "Deprivation amblyopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.012",
+      "display": "Deprivation amblyopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.013",
+      "display": "Deprivation amblyopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.021",
+      "display": "Refractive amblyopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.022",
+      "display": "Refractive amblyopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.023",
+      "display": "Refractive amblyopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.031",
+      "display": "Strabismic amblyopia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.032",
+      "display": "Strabismic amblyopia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.033",
+      "display": "Strabismic amblyopia, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.041",
+      "display": "Amblyopia suspect, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.042",
+      "display": "Amblyopia suspect, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H53.043",
+      "display": "Amblyopia suspect, bilateral"
+    } ]
+  }
 }

@@ -5,12 +5,118 @@
     "versionId": "29",
     "lastUpdated": "2021-02-14T01:00:26.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 18 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-128329001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=128329001\">128329001</a></td><td>http://snomed.info/sct</td><td>Disorder of visual cortex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194068002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194068002\">194068002</a></td><td>http://snomed.info/sct</td><td>Visual cortex disorder due to neoplasm (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194069005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194069005\">194069005</a></td><td>http://snomed.info/sct</td><td>Visual cortex disorder due to vascular disorder (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-194070006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=194070006\">194070006</a></td><td>http://snomed.info/sct</td><td>Inflammatory disorder of visual cortex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-230526001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=230526001\">230526001</a></td><td>http://snomed.info/sct</td><td>Compression of visual cortex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302904002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302904002\">302904002</a></td><td>http://snomed.info/sct</td><td>Infarction of visual cortex (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-342741000119103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=342741000119103\">342741000119103</a></td><td>http://snomed.info/sct</td><td>Cortical blindness of right side of brain (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-342751000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=342751000119101\">342751000119101</a></td><td>http://snomed.info/sct</td><td>Cortical blindness of left side of brain (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-68574006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=68574006\">68574006</a></td><td>http://snomed.info/sct</td><td>Cortical blindness (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-732251003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=732251003\">732251003</a></td><td>http://snomed.info/sct</td><td>Cortical blindness, intellectual disability, polydactyly syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.611\"> </a>H47.611</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cortical blindness, right side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.612\"> </a>H47.612</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Cortical blindness, left side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.621\"> </a>H47.621</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) inflammatory disorders, right side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.622\"> </a>H47.622</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) inflammatory disorders, left side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.631\"> </a>H47.631</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) neoplasm, right side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.632\"> </a>H47.632</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) neoplasm, left side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.641\"> </a>H47.641</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) vascular disorders, right side of brain</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H47.642\"> </a>H47.642</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Disorders of visual cortex in (due to) vascular disorders, left side of brain</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1458",
   "version": "20210214",
   "name": "Disorders of Visual Cortex",
   "status": "active",
   "date": "2021-02-14T01:00:26-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:192aa0c9-5c52-455b-8520-4fb046e1d0c1",
+    "timestamp": "2022-07-19T15:12:27-04:00",
+    "total": 18,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "128329001",
+      "display": "Disorder of visual cortex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194068002",
+      "display": "Visual cortex disorder due to neoplasm (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194069005",
+      "display": "Visual cortex disorder due to vascular disorder (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "194070006",
+      "display": "Inflammatory disorder of visual cortex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "230526001",
+      "display": "Compression of visual cortex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302904002",
+      "display": "Infarction of visual cortex (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "342741000119103",
+      "display": "Cortical blindness of right side of brain (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "342751000119101",
+      "display": "Cortical blindness of left side of brain (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "68574006",
+      "display": "Cortical blindness (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "732251003",
+      "display": "Cortical blindness, intellectual disability, polydactyly syndrome (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.611",
+      "display": "Cortical blindness, right side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.612",
+      "display": "Cortical blindness, left side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.621",
+      "display": "Disorders of visual cortex in (due to) inflammatory disorders, right side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.622",
+      "display": "Disorders of visual cortex in (due to) inflammatory disorders, left side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.631",
+      "display": "Disorders of visual cortex in (due to) neoplasm, right side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.632",
+      "display": "Disorders of visual cortex in (due to) neoplasm, left side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.641",
+      "display": "Disorders of visual cortex in (due to) vascular disorders, right side of brain"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H47.642",
+      "display": "Disorders of visual cortex in (due to) vascular disorders, left side of brain"
+    } ]
+  }
 }

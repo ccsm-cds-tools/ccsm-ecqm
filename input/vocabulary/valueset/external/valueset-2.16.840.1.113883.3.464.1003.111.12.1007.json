@@ -5,12 +5,153 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:03:54.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 25 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-15019-3\"> </a><a href=\"http://details.loinc.org/LOINC/15019-3.html\">15019-3</a></td><td>Alpha-1-Fetoprotein [Moles/volume] in Amniotic fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-1832-5\"> </a><a href=\"http://details.loinc.org/LOINC/1832-5.html\">1832-5</a></td><td>Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-1834-1\"> </a><a href=\"http://details.loinc.org/LOINC/1834-1.html\">1834-1</a></td><td>Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19171-8\"> </a><a href=\"http://details.loinc.org/LOINC/19171-8.html\">19171-8</a></td><td>Alpha-1-Fetoprotein [Units/volume] in Amniotic fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19176-7\"> </a><a href=\"http://details.loinc.org/LOINC/19176-7.html\">19176-7</a></td><td>Alpha-1-Fetoprotein [Units/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-19177-5\"> </a><a href=\"http://details.loinc.org/LOINC/19177-5.html\">19177-5</a></td><td>Alpha-1-Fetoprotein [Moles/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-20403-2\"> </a><a href=\"http://details.loinc.org/LOINC/20403-2.html\">20403-2</a></td><td>Fibronectin.fetal [Mass/volume] in Vaginal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-20404-0\"> </a><a href=\"http://details.loinc.org/LOINC/20404-0.html\">20404-0</a></td><td>Fibronectin.fetal [Presence] in Vaginal fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-31993-9\"> </a><a href=\"http://details.loinc.org/LOINC/31993-9.html\">31993-9</a></td><td>Alpha-1-Fetoprotein [Presence] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-34493-7\"> </a><a href=\"http://details.loinc.org/LOINC/34493-7.html\">34493-7</a></td><td>PRF1 gene targeted mutation analysis in Amniotic fluid by Molecular genetics method</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-35457-1\"> </a><a href=\"http://details.loinc.org/LOINC/35457-1.html\">35457-1</a></td><td>Maternal cell contamination [Identifier] in Amniotic fluid Nominal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41067-0\"> </a><a href=\"http://details.loinc.org/LOINC/41067-0.html\">41067-0</a></td><td>PRF1 gene mutations found [Identifier] in Amniotic fluid by Molecular genetics method Nominal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41096-9\"> </a><a href=\"http://details.loinc.org/LOINC/41096-9.html\">41096-9</a></td><td>KEL gene allele [Genotype] in Amniotic fluid by Molecular genetics method Nominal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41273-4\"> </a><a href=\"http://details.loinc.org/LOINC/41273-4.html\">41273-4</a></td><td>Alpha-1-Fetoprotein interpretation in Amniotic fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41274-2\"> </a><a href=\"http://details.loinc.org/LOINC/41274-2.html\">41274-2</a></td><td>Alpha-1-Fetoprotein interpretation in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-43798-8\"> </a><a href=\"http://details.loinc.org/LOINC/43798-8.html\">43798-8</a></td><td>Alpha-1-Fetoprotein [Presence] in Amniotic fluid</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-46989-0\"> </a><a href=\"http://details.loinc.org/LOINC/46989-0.html\">46989-0</a></td><td>CFTR gene targeted mutation analysis in Amniotic fluid by Molecular genetics method</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-48039-2\"> </a><a href=\"http://details.loinc.org/LOINC/48039-2.html\">48039-2</a></td><td>Fibronectin.fetal [Presence] in Specimen</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-48781-9\"> </a><a href=\"http://details.loinc.org/LOINC/48781-9.html\">48781-9</a></td><td>CYP21A2 gene mutations found [Identifier] in Amniotic fluid by Molecular genetics method Nominal</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-48802-3\"> </a><a href=\"http://details.loinc.org/LOINC/48802-3.html\">48802-3</a></td><td>Alpha-1-Fetoprotein panel - Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-49246-2\"> </a><a href=\"http://details.loinc.org/LOINC/49246-2.html\">49246-2</a></td><td>Alpha-1-Fetoprotein interpretation in Serum or Plasma Narrative</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-49318-9\"> </a><a href=\"http://details.loinc.org/LOINC/49318-9.html\">49318-9</a></td><td>Alpha-1-Fetoprotein interpretation in Amniotic fluid Narrative</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-83072-9\"> </a><a href=\"http://details.loinc.org/LOINC/83072-9.html\">83072-9</a></td><td>Alpha-1-Fetoprotein [Units/volume] in Serum or Plasma by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-83073-7\"> </a><a href=\"http://details.loinc.org/LOINC/83073-7.html\">83073-7</a></td><td>Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-83075-2\"> </a><a href=\"http://details.loinc.org/LOINC/83075-2.html\">83075-2</a></td><td>Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid by Immunoassay</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.111.12.1007",
   "version": "20170504",
   "name": "Lab Tests During Pregnancy",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:eb138841-716e-4f64-abf2-06eac7d8f25c",
+    "timestamp": "2022-07-19T15:08:08-04:00",
+    "total": 25,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "15019-3",
+      "display": "Alpha-1-Fetoprotein [Moles/volume] in Amniotic fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "1832-5",
+      "display": "Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "1834-1",
+      "display": "Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19171-8",
+      "display": "Alpha-1-Fetoprotein [Units/volume] in Amniotic fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19176-7",
+      "display": "Alpha-1-Fetoprotein [Units/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "19177-5",
+      "display": "Alpha-1-Fetoprotein [Moles/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "20403-2",
+      "display": "Fibronectin.fetal [Mass/volume] in Vaginal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "20404-0",
+      "display": "Fibronectin.fetal [Presence] in Vaginal fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "31993-9",
+      "display": "Alpha-1-Fetoprotein [Presence] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "34493-7",
+      "display": "PRF1 gene targeted mutation analysis in Amniotic fluid by Molecular genetics method"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "35457-1",
+      "display": "Maternal cell contamination [Identifier] in Amniotic fluid Nominal"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41067-0",
+      "display": "PRF1 gene mutations found [Identifier] in Amniotic fluid by Molecular genetics method Nominal"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41096-9",
+      "display": "KEL gene allele [Genotype] in Amniotic fluid by Molecular genetics method Nominal"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41273-4",
+      "display": "Alpha-1-Fetoprotein interpretation in Amniotic fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41274-2",
+      "display": "Alpha-1-Fetoprotein interpretation in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "43798-8",
+      "display": "Alpha-1-Fetoprotein [Presence] in Amniotic fluid"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "46989-0",
+      "display": "CFTR gene targeted mutation analysis in Amniotic fluid by Molecular genetics method"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "48039-2",
+      "display": "Fibronectin.fetal [Presence] in Specimen"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "48781-9",
+      "display": "CYP21A2 gene mutations found [Identifier] in Amniotic fluid by Molecular genetics method Nominal"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "48802-3",
+      "display": "Alpha-1-Fetoprotein panel - Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "49246-2",
+      "display": "Alpha-1-Fetoprotein interpretation in Serum or Plasma Narrative"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "49318-9",
+      "display": "Alpha-1-Fetoprotein interpretation in Amniotic fluid Narrative"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "83072-9",
+      "display": "Alpha-1-Fetoprotein [Units/volume] in Serum or Plasma by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "83073-7",
+      "display": "Alpha-1-Fetoprotein [Mass/volume] in Serum or Plasma by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "83075-2",
+      "display": "Alpha-1-Fetoprotein [Mass/volume] in Amniotic fluid by Immunoassay"
+    } ]
+  }
 }

@@ -5,12 +5,103 @@
     "versionId": "21",
     "lastUpdated": "2022-03-02T18:05:44.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 15 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-11268-0\"> </a><a href=\"http://details.loinc.org/LOINC/11268-0.html\">11268-0</a></td><td>Streptococcus pyogenes [Presence] in Throat by Organism specific culture</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-17656-0\"> </a><a href=\"http://details.loinc.org/LOINC/17656-0.html\">17656-0</a></td><td>Streptococcus pyogenes [Presence] in Specimen by Organism specific culture</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-17898-8\"> </a><a href=\"http://details.loinc.org/LOINC/17898-8.html\">17898-8</a></td><td>Bacteria identified in Throat by Aerobe culture</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-18481-2\"> </a><a href=\"http://details.loinc.org/LOINC/18481-2.html\">18481-2</a></td><td>Streptococcus pyogenes Ag [Presence] in Throat</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-31971-5\"> </a><a href=\"http://details.loinc.org/LOINC/31971-5.html\">31971-5</a></td><td>Streptococcus pyogenes Ag [Presence] in Specimen</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-49610-9\"> </a><a href=\"http://details.loinc.org/LOINC/49610-9.html\">49610-9</a></td><td>Streptococcus pyogenes DNA [Identifier] in Specimen by NAA with probe detection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-5036-9\"> </a><a href=\"http://details.loinc.org/LOINC/5036-9.html\">5036-9</a></td><td>Streptococcus pyogenes rRNA [Presence] in Specimen by Probe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-60489-2\"> </a><a href=\"http://details.loinc.org/LOINC/60489-2.html\">60489-2</a></td><td>Streptococcus pyogenes DNA [Presence] in Throat by NAA with probe detection</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-626-2\"> </a><a href=\"http://details.loinc.org/LOINC/626-2.html\">626-2</a></td><td>Bacteria identified in Throat by Culture</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6557-3\"> </a><a href=\"http://details.loinc.org/LOINC/6557-3.html\">6557-3</a></td><td>Streptococcus pyogenes Ag [Presence] in Throat by Immunofluorescence</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6558-1\"> </a><a href=\"http://details.loinc.org/LOINC/6558-1.html\">6558-1</a></td><td>Streptococcus pyogenes Ag [Presence] in Specimen by Immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6559-9\"> </a><a href=\"http://details.loinc.org/LOINC/6559-9.html\">6559-9</a></td><td>Streptococcus pyogenes Ag [Presence] in Specimen by Immunofluorescence</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-68954-7\"> </a><a href=\"http://details.loinc.org/LOINC/68954-7.html\">68954-7</a></td><td>Streptococcus pyogenes rRNA [Presence] in Throat by Probe</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-78012-2\"> </a><a href=\"http://details.loinc.org/LOINC/78012-2.html\">78012-2</a></td><td>Streptococcus pyogenes Ag [Presence] in Throat by Rapid immunoassay</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-96331-4\"> </a><a href=\"http://details.loinc.org/LOINC/96331-4.html\">96331-4</a></td><td>Streptococcus pyogenes DNA [NCncRange] in Lower respiratory specimen Qualitative by NAA with non-probe detection</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.12.1012",
   "version": "20170504",
   "name": "Group A Streptococcus Test",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ff40fda8-3782-451c-b9d8-79779e254ee2",
+    "timestamp": "2022-07-19T15:10:28-04:00",
+    "total": 15,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "11268-0",
+      "display": "Streptococcus pyogenes [Presence] in Throat by Organism specific culture"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "17656-0",
+      "display": "Streptococcus pyogenes [Presence] in Specimen by Organism specific culture"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "17898-8",
+      "display": "Bacteria identified in Throat by Aerobe culture"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "18481-2",
+      "display": "Streptococcus pyogenes Ag [Presence] in Throat"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "31971-5",
+      "display": "Streptococcus pyogenes Ag [Presence] in Specimen"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "49610-9",
+      "display": "Streptococcus pyogenes DNA [Identifier] in Specimen by NAA with probe detection"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "5036-9",
+      "display": "Streptococcus pyogenes rRNA [Presence] in Specimen by Probe"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "60489-2",
+      "display": "Streptococcus pyogenes DNA [Presence] in Throat by NAA with probe detection"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "626-2",
+      "display": "Bacteria identified in Throat by Culture"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6557-3",
+      "display": "Streptococcus pyogenes Ag [Presence] in Throat by Immunofluorescence"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6558-1",
+      "display": "Streptococcus pyogenes Ag [Presence] in Specimen by Immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6559-9",
+      "display": "Streptococcus pyogenes Ag [Presence] in Specimen by Immunofluorescence"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "68954-7",
+      "display": "Streptococcus pyogenes rRNA [Presence] in Throat by Probe"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "78012-2",
+      "display": "Streptococcus pyogenes Ag [Presence] in Throat by Rapid immunoassay"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "96331-4",
+      "display": "Streptococcus pyogenes DNA [NCncRange] in Lower respiratory specimen Qualitative by NAA with non-probe detection"
+    } ]
+  }
 }

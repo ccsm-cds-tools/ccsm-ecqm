@@ -5,12 +5,33 @@
     "versionId": "6",
     "lastUpdated": "2021-02-02T11:22:12.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 1 concepts</p><p>All codes from system <code>http://www.nlm.nih.gov/research/umls/rxnorm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.nlm.nih.gov-research-umls-rxnorm-238090\"> </a>238090</td><td>pentobarbital sodium 50 MG/ML Injectable Solution</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1518",
   "version": "20200310",
   "name": "Pentobarbital",
   "status": "active",
   "date": "2020-03-10T01:00:21-04:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e37799d9-3fa9-4681-b1f5-cf83b9381761",
+    "timestamp": "2022-07-19T15:10:13-04:00",
+    "total": 1,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.nlm.nih.gov/research/umls/rxnorm",
+      "version": "07142022",
+      "code": "238090",
+      "display": "pentobarbital sodium 50 MG/ML Injectable Solution"
+    } ]
+  }
 }

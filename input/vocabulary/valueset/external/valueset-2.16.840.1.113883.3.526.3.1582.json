@@ -5,12 +5,43 @@
     "versionId": "9",
     "lastUpdated": "2022-03-02T18:05:58.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-105480006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=105480006\">105480006</a></td><td>Procedure declined by patient (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183945002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183945002\">183945002</a></td><td>Procedure declined for religious reason (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-413311005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=413311005\">413311005</a></td><td>Patient non-compliant - declined intervention / support (situation)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1582",
   "version": "20200307",
   "name": "Patient Declined",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:e4ac8c92-fd00-4400-a6cf-9c71ee075aa1",
+    "timestamp": "2022-07-19T15:13:13-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "105480006",
+      "display": "Procedure declined by patient (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183945002",
+      "display": "Procedure declined for religious reason (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "413311005",
+      "display": "Patient non-compliant - declined intervention / support (situation)"
+    } ]
+  }
 }

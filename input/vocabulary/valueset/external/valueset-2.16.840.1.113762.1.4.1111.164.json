@@ -5,12 +5,43 @@
     "versionId": "15",
     "lastUpdated": "2021-02-20T01:02:00.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 3 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-434081000124108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=434081000124108\">434081000124108</a></td><td>Patient requires hospitalization (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-452541000124103\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=452541000124103\">452541000124103</a></td><td>Transition of care from emergency department to acute care (finding)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-707852009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=707852009\">707852009</a></td><td>Inpatient management required (finding)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1111.164",
   "version": "20210220",
   "name": "Admit Inpatient",
   "status": "active",
   "date": "2021-02-20T01:02:00-05:00",
   "publisher": "Lantana EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c08d7760-652b-4a7f-8372-7cb3128f1d20",
+    "timestamp": "2022-07-19T15:05:03-04:00",
+    "total": 3,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "434081000124108",
+      "display": "Patient requires hospitalization (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "452541000124103",
+      "display": "Transition of care from emergency department to acute care (finding)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "707852009",
+      "display": "Inpatient management required (finding)"
+    } ]
+  }
 }

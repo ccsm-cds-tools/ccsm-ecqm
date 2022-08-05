@@ -5,12 +5,148 @@
     "versionId": "22",
     "lastUpdated": "2022-03-02T18:03:23.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 24 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185316007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185316007\">185316007</a></td><td>Indirect encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185317003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185317003\">185317003</a></td><td>Telephone encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185318008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185318008\">185318008</a></td><td>Third party encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185320006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185320006\">185320006</a></td><td>Encounter by computer link (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185321005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185321005\">185321005</a></td><td>Letter encounter to patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185349003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185349003\">185349003</a></td><td>Encounter for check up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185463005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185463005\">185463005</a></td><td>Visit out of hours (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-185465003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=185465003\">185465003</a></td><td>Weekend visit (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270424005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270424005\">270424005</a></td><td>Letter encounter from patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270427003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270427003\">270427003</a></td><td>Patient-initiated encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-270430005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=270430005\">270430005</a></td><td>Provider-initiated encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308335008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308335008\">308335008</a></td><td>Patient encounter procedure (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308720009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308720009\">308720009</a></td><td>Letter encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386473003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386473003\">386473003</a></td><td>Telephone follow-up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390906007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390906007\">390906007</a></td><td>Follow-up encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401267002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401267002\">401267002</a></td><td>Telephone triage encounter (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-401271004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=401271004\">401271004</a></td><td>E-mail sent to patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-406547006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=406547006\">406547006</a></td><td>Urgent follow-up (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438515009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438515009\">438515009</a></td><td>E-mail encounter from caregiver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438516005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438516005\">438516005</a></td><td>E-mail encounter to caregiver (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-445450000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=445450000\">445450000</a></td><td>Encounter by short message service text messaging (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448337001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448337001\">448337001</a></td><td>Telemedicine consultation with patient (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-87790002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=87790002\">87790002</a></td><td>Follow-up inpatient consultation visit (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90526000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90526000\">90526000</a></td><td>Initial evaluation and management of healthy individual (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1012",
   "version": "20170504",
   "name": "Patient Provider Interaction",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:8c16d082-6143-41b1-9cdc-e4fc13a2343c",
+    "timestamp": "2022-07-19T15:11:08-04:00",
+    "total": 24,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185316007",
+      "display": "Indirect encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185317003",
+      "display": "Telephone encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185318008",
+      "display": "Third party encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185320006",
+      "display": "Encounter by computer link (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185321005",
+      "display": "Letter encounter to patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185349003",
+      "display": "Encounter for check up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185463005",
+      "display": "Visit out of hours (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "185465003",
+      "display": "Weekend visit (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270424005",
+      "display": "Letter encounter from patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270427003",
+      "display": "Patient-initiated encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "270430005",
+      "display": "Provider-initiated encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308335008",
+      "display": "Patient encounter procedure (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308720009",
+      "display": "Letter encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386473003",
+      "display": "Telephone follow-up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390906007",
+      "display": "Follow-up encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401267002",
+      "display": "Telephone triage encounter (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "401271004",
+      "display": "E-mail sent to patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "406547006",
+      "display": "Urgent follow-up (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438515009",
+      "display": "E-mail encounter from caregiver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438516005",
+      "display": "E-mail encounter to caregiver (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "445450000",
+      "display": "Encounter by short message service text messaging (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448337001",
+      "display": "Telemedicine consultation with patient (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "87790002",
+      "display": "Follow-up inpatient consultation visit (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90526000",
+      "display": "Initial evaluation and management of healthy individual (procedure)"
+    } ]
+  }
 }

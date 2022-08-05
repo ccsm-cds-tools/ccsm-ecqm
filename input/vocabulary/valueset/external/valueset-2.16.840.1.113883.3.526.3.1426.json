@@ -5,12 +5,123 @@
     "versionId": "29",
     "lastUpdated": "2021-02-14T01:00:35.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 19 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-19721008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=19721008\">19721008</a></td><td>http://snomed.info/sct</td><td>Hypotony of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-2251002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=2251002\">2251002</a></td><td>http://snomed.info/sct</td><td>Primary hypotony of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-424497004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=424497004\">424497004</a></td><td>http://snomed.info/sct</td><td>Optic disc edema due to hypotony (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-53885001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=53885001\">53885001</a></td><td>http://snomed.info/sct</td><td>Hypotony of eye co-occurrent and due to ocular fistula (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-700280001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=700280001\">700280001</a></td><td>http://snomed.info/sct</td><td>Flat anterior chamber of eye with hypotony (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-95255005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=95255005\">95255005</a></td><td>http://snomed.info/sct</td><td>Secondary hypotony of eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.40\"> </a>H44.40</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified hypotony of eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.411\"> </a>H44.411</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Flat anterior chamber hypotony of right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.412\"> </a>H44.412</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Flat anterior chamber hypotony of left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.413\"> </a>H44.413</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Flat anterior chamber hypotony of eye, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.421\"> </a>H44.421</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of right eye due to ocular fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.422\"> </a>H44.422</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of left eye due to ocular fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.423\"> </a>H44.423</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of eye due to ocular fistula, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.431\"> </a>H44.431</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of eye due to other ocular disorders, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.432\"> </a>H44.432</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of eye due to other ocular disorders, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.433\"> </a>H44.433</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Hypotony of eye due to other ocular disorders, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.441\"> </a>H44.441</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary hypotony of right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.442\"> </a>H44.442</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary hypotony of left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H44.443\"> </a>H44.443</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Primary hypotony of eye, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1426",
   "version": "20210214",
   "name": "Hypotony of Eye",
   "status": "active",
   "date": "2021-02-14T01:00:35-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:4430cf1c-9434-4284-ad17-0ce233f6436f",
+    "timestamp": "2022-07-19T15:12:08-04:00",
+    "total": 19,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "19721008",
+      "display": "Hypotony of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "2251002",
+      "display": "Primary hypotony of eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "424497004",
+      "display": "Optic disc edema due to hypotony (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "53885001",
+      "display": "Hypotony of eye co-occurrent and due to ocular fistula (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "700280001",
+      "display": "Flat anterior chamber of eye with hypotony (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "95255005",
+      "display": "Secondary hypotony of eye (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.40",
+      "display": "Unspecified hypotony of eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.411",
+      "display": "Flat anterior chamber hypotony of right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.412",
+      "display": "Flat anterior chamber hypotony of left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.413",
+      "display": "Flat anterior chamber hypotony of eye, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.421",
+      "display": "Hypotony of right eye due to ocular fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.422",
+      "display": "Hypotony of left eye due to ocular fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.423",
+      "display": "Hypotony of eye due to ocular fistula, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.431",
+      "display": "Hypotony of eye due to other ocular disorders, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.432",
+      "display": "Hypotony of eye due to other ocular disorders, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.433",
+      "display": "Hypotony of eye due to other ocular disorders, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.441",
+      "display": "Primary hypotony of right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.442",
+      "display": "Primary hypotony of left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H44.443",
+      "display": "Primary hypotony of eye, bilateral"
+    } ]
+  }
 }

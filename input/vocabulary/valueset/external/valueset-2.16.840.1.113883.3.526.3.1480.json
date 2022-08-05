@@ -5,12 +5,238 @@
     "versionId": "29",
     "lastUpdated": "2021-02-18T01:00:25.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 42 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332371000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332371000119107\">332371000119107</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of right eye stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332381000119105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332381000119105\">332381000119105</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of right eye stage 2 - intraretinal ridge (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332391000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332391000119108\">332391000119108</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of right eye stage 1 - demarcation line (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-332411000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=332411000119108\">332411000119108</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of right eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-337981000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=337981000119108\">337981000119108</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of left eye stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-337991000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=337991000119106\">337991000119106</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of left eye stage 2 - intraretinal ridge (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-338001000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=338001000119102\">338001000119102</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of left eye stage 1 - demarcation line (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-338021000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=338021000119106\">338021000119106</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of left eye (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343751000119106\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343751000119106\">343751000119106</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of bilateral eyes stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343761000119108\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343761000119108\">343761000119108</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of bilateral eyes stage 2 - intraretinal ridge (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343771000119102\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343771000119102\">343771000119102</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of bilateral eyes stage 1 - demarcation line (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-343791000119101\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=343791000119101\">343791000119101</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity of bilateral eyes (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408847006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408847006\">408847006</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity stage 1 - demarcation line (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408848001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408848001\">408848001</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity stage 2 - intraretinal ridge (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408849009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408849009\">408849009</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408850009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408850009\">408850009</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity stage 4 - subtotal retinal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408851008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408851008\">408851008</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity stage 5 - total retinal detachment (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-415297005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=415297005\">415297005</a></td><td>http://snomed.info/sct</td><td>Retinopathy of prematurity (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.101\"> </a>H35.101</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, unspecified, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.102\"> </a>H35.102</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, unspecified, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.103\"> </a>H35.103</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, unspecified, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.111\"> </a>H35.111</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 0, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.112\"> </a>H35.112</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 0, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.113\"> </a>H35.113</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 0, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.121\"> </a>H35.121</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 1, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.122\"> </a>H35.122</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 1, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.123\"> </a>H35.123</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 1, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.131\"> </a>H35.131</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 2, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.132\"> </a>H35.132</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 2, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.133\"> </a>H35.133</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 2, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.141\"> </a>H35.141</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 3, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.142\"> </a>H35.142</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 3, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.143\"> </a>H35.143</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 3, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.151\"> </a>H35.151</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 4, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.152\"> </a>H35.152</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 4, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.153\"> </a>H35.153</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 4, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.161\"> </a>H35.161</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 5, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.162\"> </a>H35.162</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 5, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.163\"> </a>H35.163</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retinopathy of prematurity, stage 5, bilateral</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.171\"> </a>H35.171</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrolental fibroplasia, right eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.172\"> </a>H35.172</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrolental fibroplasia, left eye</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-H35.173\"> </a>H35.173</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Retrolental fibroplasia, bilateral</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.1480",
   "version": "20210218",
   "name": "Other Proliferative Retinopathy",
   "status": "active",
   "date": "2021-02-18T01:00:25-05:00",
   "publisher": "American Academy of Ophthalmology Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:c83353d7-15c1-48c3-a27a-05c7cfafc84d",
+    "timestamp": "2022-07-19T15:12:44-04:00",
+    "total": 42,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332371000119107",
+      "display": "Retinopathy of prematurity of right eye stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332381000119105",
+      "display": "Retinopathy of prematurity of right eye stage 2 - intraretinal ridge (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332391000119108",
+      "display": "Retinopathy of prematurity of right eye stage 1 - demarcation line (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "332411000119108",
+      "display": "Retinopathy of prematurity of right eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "337981000119108",
+      "display": "Retinopathy of prematurity of left eye stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "337991000119106",
+      "display": "Retinopathy of prematurity of left eye stage 2 - intraretinal ridge (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "338001000119102",
+      "display": "Retinopathy of prematurity of left eye stage 1 - demarcation line (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "338021000119106",
+      "display": "Retinopathy of prematurity of left eye (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343751000119106",
+      "display": "Retinopathy of prematurity of bilateral eyes stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343761000119108",
+      "display": "Retinopathy of prematurity of bilateral eyes stage 2 - intraretinal ridge (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343771000119102",
+      "display": "Retinopathy of prematurity of bilateral eyes stage 1 - demarcation line (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "343791000119101",
+      "display": "Retinopathy of prematurity of bilateral eyes (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408847006",
+      "display": "Retinopathy of prematurity stage 1 - demarcation line (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408848001",
+      "display": "Retinopathy of prematurity stage 2 - intraretinal ridge (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408849009",
+      "display": "Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408850009",
+      "display": "Retinopathy of prematurity stage 4 - subtotal retinal detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408851008",
+      "display": "Retinopathy of prematurity stage 5 - total retinal detachment (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "415297005",
+      "display": "Retinopathy of prematurity (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.101",
+      "display": "Retinopathy of prematurity, unspecified, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.102",
+      "display": "Retinopathy of prematurity, unspecified, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.103",
+      "display": "Retinopathy of prematurity, unspecified, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.111",
+      "display": "Retinopathy of prematurity, stage 0, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.112",
+      "display": "Retinopathy of prematurity, stage 0, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.113",
+      "display": "Retinopathy of prematurity, stage 0, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.121",
+      "display": "Retinopathy of prematurity, stage 1, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.122",
+      "display": "Retinopathy of prematurity, stage 1, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.123",
+      "display": "Retinopathy of prematurity, stage 1, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.131",
+      "display": "Retinopathy of prematurity, stage 2, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.132",
+      "display": "Retinopathy of prematurity, stage 2, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.133",
+      "display": "Retinopathy of prematurity, stage 2, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.141",
+      "display": "Retinopathy of prematurity, stage 3, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.142",
+      "display": "Retinopathy of prematurity, stage 3, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.143",
+      "display": "Retinopathy of prematurity, stage 3, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.151",
+      "display": "Retinopathy of prematurity, stage 4, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.152",
+      "display": "Retinopathy of prematurity, stage 4, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.153",
+      "display": "Retinopathy of prematurity, stage 4, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.161",
+      "display": "Retinopathy of prematurity, stage 5, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.162",
+      "display": "Retinopathy of prematurity, stage 5, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.163",
+      "display": "Retinopathy of prematurity, stage 5, bilateral"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.171",
+      "display": "Retrolental fibroplasia, right eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.172",
+      "display": "Retrolental fibroplasia, left eye"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "H35.173",
+      "display": "Retrolental fibroplasia, bilateral"
+    } ]
+  }
 }

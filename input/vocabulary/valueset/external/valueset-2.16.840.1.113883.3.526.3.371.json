@@ -5,12 +5,528 @@
     "versionId": "27",
     "lastUpdated": "2022-03-01T01:04:38.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 100 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010291002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010291002\">1010291002</a></td><td>http://snomed.info/sct</td><td>Anastomosis of left internal thoracic artery to left anterior descending coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010570006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010570006\">1010570006</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from second obtuse marginal branch of circumflex coronary artery to left anterior descending coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010571005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010571005\">1010571005</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from first obtuse marginal branch of circumflex coronary artery to left anterior descending coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010572003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010572003\">1010572003</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from ramus intermedius branch of left coronary artery to left anterior descending coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1010688007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1010688007\">1010688007</a></td><td>http://snomed.info/sct</td><td>Anastomosis of left internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017203005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017203005\">1017203005</a></td><td>http://snomed.info/sct</td><td>Anastomosis of left internal thoracic artery to intermediate artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017205003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017205003\">1017205003</a></td><td>http://snomed.info/sct</td><td>Anastomosis of left internal thoracic artery to obtuse marginal branch of circumflex branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017227007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017227007\">1017227007</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from second diagonal branch of anterior descending branch of left coronary artery to left anterior descending artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017228002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017228002\">1017228002</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from first diagonal branch of anterior descending branch of left coronary artery to left anterior descending artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017229005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017229005\">1017229005</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from proximal portion of anterior descending branch of left coronary artery to mid portion of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017232008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017232008\">1017232008</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from proximal portion of anterior descending branch of left coronary artery to distal portion of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1017233003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1017233003\">1017233003</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery from mid portion of anterior descending branch of left coronary artery to distal portion of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10326007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10326007\">10326007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, three grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144644003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144644003\">1144644003</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144645002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144645002\">1144645002</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to obtuse marginal branch of circumflex branch of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144646001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144646001\">1144646001</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to marginal branch of right coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144647005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144647005\">1144647005</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144889004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144889004\">1144889004</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to intermediate artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1144890008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1144890008\">1144890008</a></td><td>http://snomed.info/sct</td><td>Anastomosis of right internal thoracic artery to posterior descending artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1145198009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1145198009\">1145198009</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to diagonal branch of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1145199001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1145199001\">1145199001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1145200003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1145200003\">1145200003</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to obtuse marginal branch of circumflex branch of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1148690000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1148690000\">1148690000</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to intermediate artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1148691001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1148691001\">1148691001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to posterior descending artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1149059007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1149059007\">1149059007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to marginal branch of right coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1149060002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1149060002\">1149060002</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to posterior lateral branch of circumflex branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1155686006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1155686006\">1155686006</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to intermediate artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1155687002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1155687002\">1155687002</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to obtuse marginal branch of circumflex branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156983007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156983007\">1156983007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-1156984001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=1156984001\">1156984001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to anterior descending branch of left coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-119564002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=119564002\">119564002</a></td><td>http://snomed.info/sct</td><td>Internal mammary-coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-119565001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=119565001\">119565001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-15256002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=15256002\">15256002</a></td><td>http://snomed.info/sct</td><td>Transmyocardial revascularization by laser technique (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-174911007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=174911007\">174911007</a></td><td>http://snomed.info/sct</td><td>Revascularization of wall of heart (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175021005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175021005\">175021005</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175036008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175036008\">175036008</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175037004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175037004\">175037004</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for one coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175038009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175038009\">175038009</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for two coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175039001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175039001\">175039001</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for three coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175040004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175040004\">175040004</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for four or more coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175041000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175041000\">175041000</a></td><td>http://snomed.info/sct</td><td>Revision of connection of thoracic artery to coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175047001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175047001\">175047001</a></td><td>http://snomed.info/sct</td><td>Double implantation of mammary arteries into coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175048006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175048006\">175048006</a></td><td>http://snomed.info/sct</td><td>Single anastomosis of mammary artery to left anterior descending coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175050003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175050003\">175050003</a></td><td>http://snomed.info/sct</td><td>Single implantation of mammary artery into coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232717009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232717009\">232717009</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232719007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232719007\">232719007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass graft x 1 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232720001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232720001\">232720001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 2 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232721002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232721002\">232721002</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 3 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232722009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232722009\">232722009</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 4 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232723004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232723004\">232723004</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 5 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232724005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232724005\">232724005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts greater than 5 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-265481001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=265481001\">265481001</a></td><td>http://snomed.info/sct</td><td>Double anastomosis of mammary arteries to coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275215001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275215001\">275215001</a></td><td>http://snomed.info/sct</td><td>Left internal mammary artery single anastomosis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275216000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275216000\">275216000</a></td><td>http://snomed.info/sct</td><td>Right internal mammary artery single anastomosis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-275227003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=275227003\">275227003</a></td><td>http://snomed.info/sct</td><td>Myocardial revascularization (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-287277008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=287277008\">287277008</a></td><td>http://snomed.info/sct</td><td>Indirect heart revascularization (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30670000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30670000\">30670000</a></td><td>http://snomed.info/sct</td><td>Anastomosis of thoracic artery to coronary artery, double (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33140\"> </a>33140</td><td>http://www.ama-assn.org/go/cpt</td><td>Transmyocardial laser revascularization, by thoracotomy; (separate procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33510\"> </a>33510</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; single coronary venous graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33511\"> </a>33511</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; 2 coronary venous grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33512\"> </a>33512</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; 3 coronary venous grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33513\"> </a>33513</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; 4 coronary venous grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33514\"> </a>33514</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; 5 coronary venous grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33516\"> </a>33516</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, vein only; 6 or more coronary venous grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33533\"> </a>33533</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, using arterial graft(s); single arterial graft</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33534\"> </a>33534</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33535\"> </a>33535</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-33536\"> </a>33536</td><td>http://www.ama-assn.org/go/cpt</td><td>Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3546002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3546002\">3546002</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359597003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359597003\">359597003</a></td><td>http://snomed.info/sct</td><td>Single internal mammary-coronary artery bypass (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359601003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359601003\">359601003</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft of internal mammary artery, single graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39202005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39202005\">39202005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, four grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39724006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39724006\">39724006</a></td><td>http://snomed.info/sct</td><td>Anastomosis of internal mammary artery to coronary artery, double vessel (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414088005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414088005\">414088005</a></td><td>http://snomed.info/sct</td><td>Emergency coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418551006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418551006\">418551006</a></td><td>http://snomed.info/sct</td><td>Laparoscopic coronary artery bypass using robotic assistance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418824004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418824004\">418824004</a></td><td>http://snomed.info/sct</td><td>Off-pump coronary artery bypass (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419132001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419132001\">419132001</a></td><td>http://snomed.info/sct</td><td>Minimally invasive direct coronary artery bypass (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-48431000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=48431000\">48431000</a></td><td>http://snomed.info/sct</td><td>Anastomosis of thoracic artery to coronary artery, single (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67166004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67166004\">67166004</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736966005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736966005\">736966005</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736967001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736967001\">736967001</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass of one coronary artery with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736968006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736968006\">736968006</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass of three coronary arteries with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736969003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736969003\">736969003</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass of two coronary arteries with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736970002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736970002\">736970002</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of four or more coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736971003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736971003\">736971003</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of one coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736972005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736972005\">736972005</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of three coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736973000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736973000\">736973000</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of two coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74371005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74371005\">74371005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, two grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-81266008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=81266008\">81266008</a></td><td>http://snomed.info/sct</td><td>Heart revascularization (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82247006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82247006\">82247006</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, five grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-871496000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=871496000\">871496000</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of left internal thoracic artery to coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-871497009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=871497009\">871497009</a></td><td>http://snomed.info/sct</td><td>Sequential anastomosis of right internal thoracic artery to coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90205004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90205004\">90205004</a></td><td>http://snomed.info/sct</td><td>Cardiac revascularization with bypass anastomosis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92920\"> </a>92920</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal coronary angioplasty; single major coronary artery or branch</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92924\"> </a>92924</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; single major coronary artery or branch</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92928\"> </a>92928</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92933\"> </a>92933</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92937\"> </a>92937</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; single vessel</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92941\"> </a>92941</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction, coronary artery or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty, including aspiration thrombectomy when performed, single vessel</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.ama-assn.org-go-cpt-92943\"> </a>92943</td><td>http://www.ama-assn.org/go/cpt</td><td>Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.371",
   "version": "20210218",
   "name": "Cardiac Surgery",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:59dc50e6-c901-4fc7-9cfc-dd8edbe35a40",
+    "timestamp": "2022-07-19T15:13:28-04:00",
+    "total": 100,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010291002",
+      "display": "Anastomosis of left internal thoracic artery to left anterior descending coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010570006",
+      "display": "Sequential anastomosis of left internal thoracic artery from second obtuse marginal branch of circumflex coronary artery to left anterior descending coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010571005",
+      "display": "Sequential anastomosis of left internal thoracic artery from first obtuse marginal branch of circumflex coronary artery to left anterior descending coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010572003",
+      "display": "Sequential anastomosis of left internal thoracic artery from ramus intermedius branch of left coronary artery to left anterior descending coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1010688007",
+      "display": "Anastomosis of left internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017203005",
+      "display": "Anastomosis of left internal thoracic artery to intermediate artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017205003",
+      "display": "Anastomosis of left internal thoracic artery to obtuse marginal branch of circumflex branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017227007",
+      "display": "Sequential anastomosis of left internal thoracic artery from second diagonal branch of anterior descending branch of left coronary artery to left anterior descending artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017228002",
+      "display": "Sequential anastomosis of left internal thoracic artery from first diagonal branch of anterior descending branch of left coronary artery to left anterior descending artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017229005",
+      "display": "Sequential anastomosis of left internal thoracic artery from proximal portion of anterior descending branch of left coronary artery to mid portion of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017232008",
+      "display": "Sequential anastomosis of left internal thoracic artery from proximal portion of anterior descending branch of left coronary artery to distal portion of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1017233003",
+      "display": "Sequential anastomosis of left internal thoracic artery from mid portion of anterior descending branch of left coronary artery to distal portion of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10326007",
+      "display": "Coronary artery bypass with autogenous graft, three grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144644003",
+      "display": "Anastomosis of right internal thoracic artery to anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144645002",
+      "display": "Anastomosis of right internal thoracic artery to obtuse marginal branch of circumflex branch of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144646001",
+      "display": "Anastomosis of right internal thoracic artery to marginal branch of right coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144647005",
+      "display": "Anastomosis of right internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144889004",
+      "display": "Anastomosis of right internal thoracic artery to intermediate artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1144890008",
+      "display": "Anastomosis of right internal thoracic artery to posterior descending artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1145198009",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to diagonal branch of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1145199001",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1145200003",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to obtuse marginal branch of circumflex branch of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1148690000",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to intermediate artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1148691001",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to posterior descending artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1149059007",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to marginal branch of right coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1149060002",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from aorta to posterior lateral branch of circumflex branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1155686006",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to intermediate artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1155687002",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to obtuse marginal branch of circumflex branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156983007",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to diagonal branch of anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "1156984001",
+      "display": "Coronary artery bypass grafting using free right internal thoracic artery graft from left internal thoracic artery to anterior descending branch of left coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "119564002",
+      "display": "Internal mammary-coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "119565001",
+      "display": "Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "15256002",
+      "display": "Transmyocardial revascularization by laser technique (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "174911007",
+      "display": "Revascularization of wall of heart (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175021005",
+      "display": "Allograft bypass of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175036008",
+      "display": "Revision of bypass for coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175037004",
+      "display": "Revision of bypass for one coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175038009",
+      "display": "Revision of bypass for two coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175039001",
+      "display": "Revision of bypass for three coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175040004",
+      "display": "Revision of bypass for four or more coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175041000",
+      "display": "Revision of connection of thoracic artery to coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175047001",
+      "display": "Double implantation of mammary arteries into coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175048006",
+      "display": "Single anastomosis of mammary artery to left anterior descending coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175050003",
+      "display": "Single implantation of mammary artery into coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232717009",
+      "display": "Coronary artery bypass grafting (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232719007",
+      "display": "Coronary artery bypass graft x 1 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232720001",
+      "display": "Coronary artery bypass grafts x 2 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232721002",
+      "display": "Coronary artery bypass grafts x 3 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232722009",
+      "display": "Coronary artery bypass grafts x 4 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232723004",
+      "display": "Coronary artery bypass grafts x 5 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232724005",
+      "display": "Coronary artery bypass grafts greater than 5 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "265481001",
+      "display": "Double anastomosis of mammary arteries to coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275215001",
+      "display": "Left internal mammary artery single anastomosis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275216000",
+      "display": "Right internal mammary artery single anastomosis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "275227003",
+      "display": "Myocardial revascularization (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "287277008",
+      "display": "Indirect heart revascularization (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30670000",
+      "display": "Anastomosis of thoracic artery to coronary artery, double (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33140",
+      "display": "Transmyocardial laser revascularization, by thoracotomy; (separate procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33510",
+      "display": "Coronary artery bypass, vein only; single coronary venous graft"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33511",
+      "display": "Coronary artery bypass, vein only; 2 coronary venous grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33512",
+      "display": "Coronary artery bypass, vein only; 3 coronary venous grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33513",
+      "display": "Coronary artery bypass, vein only; 4 coronary venous grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33514",
+      "display": "Coronary artery bypass, vein only; 5 coronary venous grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33516",
+      "display": "Coronary artery bypass, vein only; 6 or more coronary venous grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33533",
+      "display": "Coronary artery bypass, using arterial graft(s); single arterial graft"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33534",
+      "display": "Coronary artery bypass, using arterial graft(s); 2 coronary arterial grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33535",
+      "display": "Coronary artery bypass, using arterial graft(s); 3 coronary arterial grafts"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "33536",
+      "display": "Coronary artery bypass, using arterial graft(s); 4 or more coronary arterial grafts"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3546002",
+      "display": "Aortocoronary artery bypass graft with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359597003",
+      "display": "Single internal mammary-coronary artery bypass (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359601003",
+      "display": "Coronary artery bypass with autogenous graft of internal mammary artery, single graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39202005",
+      "display": "Coronary artery bypass with autogenous graft, four grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39724006",
+      "display": "Anastomosis of internal mammary artery to coronary artery, double vessel (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414088005",
+      "display": "Emergency coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418551006",
+      "display": "Laparoscopic coronary artery bypass using robotic assistance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418824004",
+      "display": "Off-pump coronary artery bypass (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419132001",
+      "display": "Minimally invasive direct coronary artery bypass (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "48431000",
+      "display": "Anastomosis of thoracic artery to coronary artery, single (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67166004",
+      "display": "Aortocoronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736966005",
+      "display": "Aortocoronary artery bypass of four or more coronary arteries with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736967001",
+      "display": "Aortocoronary artery bypass of one coronary artery with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736968006",
+      "display": "Aortocoronary artery bypass of three coronary arteries with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736969003",
+      "display": "Aortocoronary artery bypass of two coronary arteries with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736970002",
+      "display": "Allograft bypass of four or more coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736971003",
+      "display": "Allograft bypass of one coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736972005",
+      "display": "Allograft bypass of three coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736973000",
+      "display": "Allograft bypass of two coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74371005",
+      "display": "Coronary artery bypass with autogenous graft, two grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "81266008",
+      "display": "Heart revascularization (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82247006",
+      "display": "Coronary artery bypass with autogenous graft, five grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "871496000",
+      "display": "Sequential anastomosis of left internal thoracic artery to coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "871497009",
+      "display": "Sequential anastomosis of right internal thoracic artery to coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90205004",
+      "display": "Cardiac revascularization with bypass anastomosis (procedure)"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92920",
+      "display": "Percutaneous transluminal coronary angioplasty; single major coronary artery or branch"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92924",
+      "display": "Percutaneous transluminal coronary atherectomy, with coronary angioplasty when performed; single major coronary artery or branch"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92928",
+      "display": "Percutaneous transcatheter placement of intracoronary stent(s), with coronary angioplasty when performed; single major coronary artery or branch"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92933",
+      "display": "Percutaneous transluminal coronary atherectomy, with intracoronary stent, with coronary angioplasty when performed; single major coronary artery or branch"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92937",
+      "display": "Percutaneous transluminal revascularization of or through coronary artery bypass graft (internal mammary, free arterial, venous), any combination of intracoronary stent, atherectomy and angioplasty, including distal protection when performed; single vessel"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92941",
+      "display": "Percutaneous transluminal revascularization of acute total/subtotal occlusion during acute myocardial infarction, coronary artery or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty, including aspiration thrombectomy when performed, single vessel"
+    }, {
+      "system": "http://www.ama-assn.org/go/cpt",
+      "version": "2021",
+      "code": "92943",
+      "display": "Percutaneous transluminal revascularization of chronic total occlusion, coronary artery, coronary artery branch, or coronary artery bypass graft, any combination of intracoronary stent, atherectomy and angioplasty; single vessel"
+    } ]
+  }
 }

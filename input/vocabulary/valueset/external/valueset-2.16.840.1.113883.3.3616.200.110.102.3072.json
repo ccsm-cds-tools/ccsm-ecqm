@@ -5,12 +5,348 @@
     "versionId": "5",
     "lastUpdated": "2020-08-18T10:21:27.000-04:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 64 concepts</p><p>All codes from system <code>http://hl7.org/fhir/sid/icd-10-cm</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51\"> </a>K51</td><td>Ulcerative colitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.0\"> </a>K51.0</td><td>Ulcerative (chronic) pancolitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.00\"> </a>K51.00</td><td>Ulcerative (chronic) pancolitis without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.01\"> </a>K51.01</td><td>Ulcerative (chronic) pancolitis with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.011\"> </a>K51.011</td><td>Ulcerative (chronic) pancolitis with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.012\"> </a>K51.012</td><td>Ulcerative (chronic) pancolitis with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.013\"> </a>K51.013</td><td>Ulcerative (chronic) pancolitis with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.014\"> </a>K51.014</td><td>Ulcerative (chronic) pancolitis with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.018\"> </a>K51.018</td><td>Ulcerative (chronic) pancolitis with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.019\"> </a>K51.019</td><td>Ulcerative (chronic) pancolitis with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.2\"> </a>K51.2</td><td>Ulcerative (chronic) proctitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.20\"> </a>K51.20</td><td>Ulcerative (chronic) proctitis without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.21\"> </a>K51.21</td><td>Ulcerative (chronic) proctitis with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.211\"> </a>K51.211</td><td>Ulcerative (chronic) proctitis with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.212\"> </a>K51.212</td><td>Ulcerative (chronic) proctitis with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.213\"> </a>K51.213</td><td>Ulcerative (chronic) proctitis with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.214\"> </a>K51.214</td><td>Ulcerative (chronic) proctitis with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.218\"> </a>K51.218</td><td>Ulcerative (chronic) proctitis with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.219\"> </a>K51.219</td><td>Ulcerative (chronic) proctitis with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.3\"> </a>K51.3</td><td>Ulcerative (chronic) rectosigmoiditis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.30\"> </a>K51.30</td><td>Ulcerative (chronic) rectosigmoiditis without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.31\"> </a>K51.31</td><td>Ulcerative (chronic) rectosigmoiditis with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.311\"> </a>K51.311</td><td>Ulcerative (chronic) rectosigmoiditis with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.312\"> </a>K51.312</td><td>Ulcerative (chronic) rectosigmoiditis with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.313\"> </a>K51.313</td><td>Ulcerative (chronic) rectosigmoiditis with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.314\"> </a>K51.314</td><td>Ulcerative (chronic) rectosigmoiditis with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.318\"> </a>K51.318</td><td>Ulcerative (chronic) rectosigmoiditis with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.319\"> </a>K51.319</td><td>Ulcerative (chronic) rectosigmoiditis with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.4\"> </a>K51.4</td><td>Inflammatory polyps of colon</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.40\"> </a>K51.40</td><td>Inflammatory polyps of colon without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.41\"> </a>K51.41</td><td>Inflammatory polyps of colon with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.411\"> </a>K51.411</td><td>Inflammatory polyps of colon with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.412\"> </a>K51.412</td><td>Inflammatory polyps of colon with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.413\"> </a>K51.413</td><td>Inflammatory polyps of colon with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.414\"> </a>K51.414</td><td>Inflammatory polyps of colon with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.418\"> </a>K51.418</td><td>Inflammatory polyps of colon with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.419\"> </a>K51.419</td><td>Inflammatory polyps of colon with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.5\"> </a>K51.5</td><td>Left sided colitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.50\"> </a>K51.50</td><td>Left sided colitis without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.51\"> </a>K51.51</td><td>Left sided colitis with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.511\"> </a>K51.511</td><td>Left sided colitis with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.512\"> </a>K51.512</td><td>Left sided colitis with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.513\"> </a>K51.513</td><td>Left sided colitis with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.514\"> </a>K51.514</td><td>Left sided colitis with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.518\"> </a>K51.518</td><td>Left sided colitis with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.519\"> </a>K51.519</td><td>Left sided colitis with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.8\"> </a>K51.8</td><td>Other ulcerative colitis</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.80\"> </a>K51.80</td><td>Other ulcerative colitis without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.81\"> </a>K51.81</td><td>Other ulcerative colitis with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.811\"> </a>K51.811</td><td>Other ulcerative colitis with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.812\"> </a>K51.812</td><td>Other ulcerative colitis with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.813\"> </a>K51.813</td><td>Other ulcerative colitis with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.814\"> </a>K51.814</td><td>Other ulcerative colitis with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.818\"> </a>K51.818</td><td>Other ulcerative colitis with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.819\"> </a>K51.819</td><td>Other ulcerative colitis with unspecified complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.9\"> </a>K51.9</td><td>Ulcerative colitis, unspecified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.90\"> </a>K51.90</td><td>Ulcerative colitis, unspecified, without complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.91\"> </a>K51.91</td><td>Ulcerative colitis, unspecified, with complications</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.911\"> </a>K51.911</td><td>Ulcerative colitis, unspecified with rectal bleeding</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.912\"> </a>K51.912</td><td>Ulcerative colitis, unspecified with intestinal obstruction</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.913\"> </a>K51.913</td><td>Ulcerative colitis, unspecified with fistula</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.914\"> </a>K51.914</td><td>Ulcerative colitis, unspecified with abscess</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.918\"> </a>K51.918</td><td>Ulcerative colitis, unspecified with other complication</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-K51.919\"> </a>K51.919</td><td>Ulcerative colitis, unspecified with unspecified complications</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.3616.200.110.102.3072",
   "version": "20200721",
   "name": "COVID19 ICD10CM Value Set for Ulcerative Colitis",
   "status": "active",
   "date": "2020-07-21T01:00:27-04:00",
   "publisher": "Clinical Architecture",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:9e5dc8fa-9ac4-45eb-a3dc-acc76c4d8c2c",
+    "timestamp": "2022-07-15T19:04:40-04:00",
+    "total": 64,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51",
+      "display": "Ulcerative colitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.0",
+      "display": "Ulcerative (chronic) pancolitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.00",
+      "display": "Ulcerative (chronic) pancolitis without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.01",
+      "display": "Ulcerative (chronic) pancolitis with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.011",
+      "display": "Ulcerative (chronic) pancolitis with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.012",
+      "display": "Ulcerative (chronic) pancolitis with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.013",
+      "display": "Ulcerative (chronic) pancolitis with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.014",
+      "display": "Ulcerative (chronic) pancolitis with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.018",
+      "display": "Ulcerative (chronic) pancolitis with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.019",
+      "display": "Ulcerative (chronic) pancolitis with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.2",
+      "display": "Ulcerative (chronic) proctitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.20",
+      "display": "Ulcerative (chronic) proctitis without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.21",
+      "display": "Ulcerative (chronic) proctitis with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.211",
+      "display": "Ulcerative (chronic) proctitis with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.212",
+      "display": "Ulcerative (chronic) proctitis with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.213",
+      "display": "Ulcerative (chronic) proctitis with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.214",
+      "display": "Ulcerative (chronic) proctitis with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.218",
+      "display": "Ulcerative (chronic) proctitis with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.219",
+      "display": "Ulcerative (chronic) proctitis with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.3",
+      "display": "Ulcerative (chronic) rectosigmoiditis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.30",
+      "display": "Ulcerative (chronic) rectosigmoiditis without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.31",
+      "display": "Ulcerative (chronic) rectosigmoiditis with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.311",
+      "display": "Ulcerative (chronic) rectosigmoiditis with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.312",
+      "display": "Ulcerative (chronic) rectosigmoiditis with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.313",
+      "display": "Ulcerative (chronic) rectosigmoiditis with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.314",
+      "display": "Ulcerative (chronic) rectosigmoiditis with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.318",
+      "display": "Ulcerative (chronic) rectosigmoiditis with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.319",
+      "display": "Ulcerative (chronic) rectosigmoiditis with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.4",
+      "display": "Inflammatory polyps of colon"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.40",
+      "display": "Inflammatory polyps of colon without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.41",
+      "display": "Inflammatory polyps of colon with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.411",
+      "display": "Inflammatory polyps of colon with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.412",
+      "display": "Inflammatory polyps of colon with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.413",
+      "display": "Inflammatory polyps of colon with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.414",
+      "display": "Inflammatory polyps of colon with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.418",
+      "display": "Inflammatory polyps of colon with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.419",
+      "display": "Inflammatory polyps of colon with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.5",
+      "display": "Left sided colitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.50",
+      "display": "Left sided colitis without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.51",
+      "display": "Left sided colitis with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.511",
+      "display": "Left sided colitis with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.512",
+      "display": "Left sided colitis with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.513",
+      "display": "Left sided colitis with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.514",
+      "display": "Left sided colitis with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.518",
+      "display": "Left sided colitis with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.519",
+      "display": "Left sided colitis with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.8",
+      "display": "Other ulcerative colitis"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.80",
+      "display": "Other ulcerative colitis without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.81",
+      "display": "Other ulcerative colitis with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.811",
+      "display": "Other ulcerative colitis with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.812",
+      "display": "Other ulcerative colitis with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.813",
+      "display": "Other ulcerative colitis with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.814",
+      "display": "Other ulcerative colitis with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.818",
+      "display": "Other ulcerative colitis with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.819",
+      "display": "Other ulcerative colitis with unspecified complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.9",
+      "display": "Ulcerative colitis, unspecified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.90",
+      "display": "Ulcerative colitis, unspecified, without complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.91",
+      "display": "Ulcerative colitis, unspecified, with complications"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.911",
+      "display": "Ulcerative colitis, unspecified with rectal bleeding"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.912",
+      "display": "Ulcerative colitis, unspecified with intestinal obstruction"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.913",
+      "display": "Ulcerative colitis, unspecified with fistula"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.914",
+      "display": "Ulcerative colitis, unspecified with abscess"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.918",
+      "display": "Ulcerative colitis, unspecified with other complication"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "K51.919",
+      "display": "Ulcerative colitis, unspecified with unspecified complications"
+    } ]
+  }
 }

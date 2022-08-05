@@ -5,12 +5,113 @@
     "versionId": "28",
     "lastUpdated": "2021-02-18T01:00:16.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 17 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-102451000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=102451000119107\">102451000119107</a></td><td>http://snomed.info/sct</td><td>Complete atrioventricular block as complication of atrioventricular nodal ablation (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-195042002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=195042002\">195042002</a></td><td>http://snomed.info/sct</td><td>Second degree atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-204383001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=204383001\">204383001</a></td><td>http://snomed.info/sct</td><td>Congenital complete atrioventricular heart block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233917008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233917008\">233917008</a></td><td>http://snomed.info/sct</td><td>Atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-233918003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=233918003\">233918003</a></td><td>http://snomed.info/sct</td><td>Postoperative complete heart block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-251114004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=251114004\">251114004</a></td><td>http://snomed.info/sct</td><td>Intermittent second degree atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27885002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27885002\">27885002</a></td><td>http://snomed.info/sct</td><td>Complete atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-28189009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=28189009\">28189009</a></td><td>http://snomed.info/sct</td><td>Mobitz type II atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-283645003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=283645003\">283645003</a></td><td>http://snomed.info/sct</td><td>Lev's syndrome (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-284941000119107\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=284941000119107\">284941000119107</a></td><td>http://snomed.info/sct</td><td>High degree second degree atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-54016002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=54016002\">54016002</a></td><td>http://snomed.info/sct</td><td>Mobitz type I incomplete atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-733125004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=733125004\">733125004</a></td><td>http://snomed.info/sct</td><td>Acquired complete atrioventricular block (disorder)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I44.0\"> </a>I44.0</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atrioventricular block, first degree</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I44.1\"> </a>I44.1</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atrioventricular block, second degree</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I44.2\"> </a>I44.2</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Atrioventricular block, complete</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I44.30\"> </a>I44.30</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Unspecified atrioventricular block</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-10-cm-I44.39\"> </a>I44.39</td><td>http://hl7.org/fhir/sid/icd-10-cm</td><td>Other atrioventricular block</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.526.3.367",
   "version": "20210218",
   "name": "Atrioventricular Block",
   "status": "active",
   "date": "2021-02-18T01:00:16-05:00",
   "publisher": "AHA Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d726cb4e-05e4-435d-b367-85e84a99db32",
+    "timestamp": "2022-07-19T15:13:23-04:00",
+    "total": 17,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "102451000119107",
+      "display": "Complete atrioventricular block as complication of atrioventricular nodal ablation (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "195042002",
+      "display": "Second degree atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "204383001",
+      "display": "Congenital complete atrioventricular heart block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233917008",
+      "display": "Atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "233918003",
+      "display": "Postoperative complete heart block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "251114004",
+      "display": "Intermittent second degree atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27885002",
+      "display": "Complete atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "28189009",
+      "display": "Mobitz type II atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "283645003",
+      "display": "Lev's syndrome (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "284941000119107",
+      "display": "High degree second degree atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "54016002",
+      "display": "Mobitz type I incomplete atrioventricular block (disorder)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "733125004",
+      "display": "Acquired complete atrioventricular block (disorder)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I44.0",
+      "display": "Atrioventricular block, first degree"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I44.1",
+      "display": "Atrioventricular block, second degree"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I44.2",
+      "display": "Atrioventricular block, complete"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I44.30",
+      "display": "Unspecified atrioventricular block"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-10-cm",
+      "version": "2022",
+      "code": "I44.39",
+      "display": "Other atrioventricular block"
+    } ]
+  }
 }

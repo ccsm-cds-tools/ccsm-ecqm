@@ -5,12 +5,133 @@
     "versionId": "20",
     "lastUpdated": "2022-03-02T18:03:36.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 21 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-103736005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=103736005\">103736005</a></td><td>History and physical examination, sports participation (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183073003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183073003\">183073003</a></td><td>Patient advised about exercise (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-281090004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=281090004\">281090004</a></td><td>Recommendation to exercise (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-304507003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=304507003\">304507003</a></td><td>Exercise education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-304549008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=304549008\">304549008</a></td><td>Giving encouragement to exercise (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-304558001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=304558001\">304558001</a></td><td>Reassuring about exercise (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-310882002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=310882002\">310882002</a></td><td>Exercise on prescription (regime/therapy)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386291006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386291006\">386291006</a></td><td>Exercise promotion: strength training (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386292004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386292004\">386292004</a></td><td>Exercise promotion: stretching (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-386463000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=386463000\">386463000</a></td><td>Prescribed activity/exercise education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390864007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390864007\">390864007</a></td><td>Referral for exercise therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390893007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390893007\">390893007</a></td><td>Referral to physical activity program (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398636004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398636004\">398636004</a></td><td>Physical activity assessment (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398752005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398752005\">398752005</a></td><td>Referral to weight maintenance regimen service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408289007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408289007\">408289007</a></td><td>Refer to weight management program (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410200000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410200000\">410200000</a></td><td>Weight control education (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410289001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410289001\">410289001</a></td><td>Exercises education, guidance, and counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-410335001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=410335001\">410335001</a></td><td>Exercises case management (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-429778002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=429778002\">429778002</a></td><td>Patient given written advice on benefits of physical activity (situation)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-435551000124105\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=435551000124105\">435551000124105</a></td><td>Counseling about physical activity (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-710849009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=710849009\">710849009</a></td><td>Assessment of exercise behavior (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.118.12.1035",
   "version": "20170504",
   "name": "Counseling for Physical Activity",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:d5096f0a-cf32-4b18-a43b-2e4e51b26571",
+    "timestamp": "2022-07-19T15:08:37-04:00",
+    "total": 21,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "103736005",
+      "display": "History and physical examination, sports participation (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183073003",
+      "display": "Patient advised about exercise (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "281090004",
+      "display": "Recommendation to exercise (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "304507003",
+      "display": "Exercise education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "304549008",
+      "display": "Giving encouragement to exercise (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "304558001",
+      "display": "Reassuring about exercise (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "310882002",
+      "display": "Exercise on prescription (regime/therapy)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386291006",
+      "display": "Exercise promotion: strength training (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386292004",
+      "display": "Exercise promotion: stretching (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "386463000",
+      "display": "Prescribed activity/exercise education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390864007",
+      "display": "Referral for exercise therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390893007",
+      "display": "Referral to physical activity program (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398636004",
+      "display": "Physical activity assessment (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398752005",
+      "display": "Referral to weight maintenance regimen service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408289007",
+      "display": "Refer to weight management program (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410200000",
+      "display": "Weight control education (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410289001",
+      "display": "Exercises education, guidance, and counseling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "410335001",
+      "display": "Exercises case management (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "429778002",
+      "display": "Patient given written advice on benefits of physical activity (situation)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "435551000124105",
+      "display": "Counseling about physical activity (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "710849009",
+      "display": "Assessment of exercise behavior (procedure)"
+    } ]
+  }
 }

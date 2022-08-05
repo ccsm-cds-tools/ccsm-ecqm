@@ -5,12 +5,278 @@
     "versionId": "32",
     "lastUpdated": "2022-03-02T18:05:32.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 50 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112943005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112943005\">112943005</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, diagnostic, caudal, continuous (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-112987001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=112987001\">112987001</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, closed, rebreathing of primary agent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-180878007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=180878007\">180878007</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthetic using muscle relaxant (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-180885006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=180885006\">180885006</a></td><td>http://snomed.info/sct</td><td>Local anesthetic lumbar epidural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-180886007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=180886007\">180886007</a></td><td>http://snomed.info/sct</td><td>Local anesthetic sacral epidural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-18946005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=18946005\">18946005</a></td><td>http://snomed.info/sct</td><td>Epidural anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231249005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231249005\">231249005</a></td><td>http://snomed.info/sct</td><td>Local anesthetic intrathecal block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231251009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231251009\">231251009</a></td><td>http://snomed.info/sct</td><td>Local anesthetic cervical intrathecal block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231252002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231252002\">231252002</a></td><td>http://snomed.info/sct</td><td>Local anesthetic thoracic intrathecal block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231253007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231253007\">231253007</a></td><td>http://snomed.info/sct</td><td>Local anesthetic lumbar intrathecal block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231255000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231255000\">231255000</a></td><td>http://snomed.info/sct</td><td>Spinal subdural local anesthetic block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231256004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231256004\">231256004</a></td><td>http://snomed.info/sct</td><td>Cervical subdural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231257008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231257008\">231257008</a></td><td>http://snomed.info/sct</td><td>Thoracic subdural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231258003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231258003\">231258003</a></td><td>http://snomed.info/sct</td><td>Lumbar subdural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231261002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231261002\">231261002</a></td><td>http://snomed.info/sct</td><td>Combined spinal/epidural local anesthetic block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231262009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231262009\">231262009</a></td><td>http://snomed.info/sct</td><td>Combined spinal/epidural technique with needles at separate spaces (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-231263004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=231263004\">231263004</a></td><td>http://snomed.info/sct</td><td>Combined spinal/epidural technique - spinal needle through Tuohy needle (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241696005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241696005\">241696005</a></td><td>http://snomed.info/sct</td><td>Total intravenous anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-241717009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=241717009\">241717009</a></td><td>http://snomed.info/sct</td><td>Inhalational analgesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-24277005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=24277005\">24277005</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, closed, circulation of primary agent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-266802007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=266802007\">266802007</a></td><td>http://snomed.info/sct</td><td>Endotracheal anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-27653002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=27653002\">27653002</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, semi-closed, rebreathing of primary agent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-288185006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=288185006\">288185006</a></td><td>http://snomed.info/sct</td><td>Inhalation general anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-30050007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=30050007\">30050007</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, semi-closed, no rebreathing of primary agent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302335002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302335002\">302335002</a></td><td>http://snomed.info/sct</td><td>Local anesthetic thoracic epidural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-302336001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=302336001\">302336001</a></td><td>http://snomed.info/sct</td><td>Local anesthetic cervical epidural block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-303356007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=303356007\">303356007</a></td><td>http://snomed.info/sct</td><td>Local anesthetic nerve block around spinal cord meninges (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-303358008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=303358008\">303358008</a></td><td>http://snomed.info/sct</td><td>Neurolytic nerve block around spinal cord meninges (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-35597003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=35597003\">35597003</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, diagnostic, lumbar, continuous (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-398044000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=398044000\">398044000</a></td><td>http://snomed.info/sct</td><td>Low dose epidural (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E030FZ\"> </a>3E030FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Peripheral Vein, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E033FZ\"> </a>3E033FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Peripheral Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E040FZ\"> </a>3E040FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Central Vein, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E043FZ\"> </a>3E043FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Central Vein, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E050FZ\"> </a>3E050FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Peripheral Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E053FZ\"> </a>3E053FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Peripheral Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E060FZ\"> </a>3E060FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Central Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-3E063FZ\"> </a>3E063FZ</td><td>http://www.icd10data.com/icd10pcs</td><td>Introduction of Intracirculatory Anesthetic into Central Artery, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405650006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405650006\">405650006</a></td><td>http://snomed.info/sct</td><td>Neuraxial nerve block (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-426309005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=426309005\">426309005</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, therapeutic, continuous, cervical (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-427060008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=427060008\">427060008</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, therapeutic, thoracic, continuous (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-44812007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=44812007\">44812007</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, closed, no rebreathing of primary agent (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-448585004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=448585004\">448585004</a></td><td>http://snomed.info/sct</td><td>Target controlled total intravenous anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-449126000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=449126000\">449126000</a></td><td>http://snomed.info/sct</td><td>Administration of inhalation anesthetic using endotracheal tube (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-50697003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=50697003\">50697003</a></td><td>http://snomed.info/sct</td><td>General anesthesia (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-58611004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=58611004\">58611004</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, therapeutic, lumbar, continuous (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-64287005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=64287005\">64287005</a></td><td>http://snomed.info/sct</td><td>Inhalation anesthesia, machine system, semi-closed, circulation of primary agent and gases (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67716003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67716003\">67716003</a></td><td>http://snomed.info/sct</td><td>Epidural injection of anesthetic substance, therapeutic, caudal, continuous (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74527005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74527005\">74527005</a></td><td>http://snomed.info/sct</td><td>Injection of anesthetic substance, therapeutic, subdural, differential (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82776005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82776005\">82776005</a></td><td>http://snomed.info/sct</td><td>Injection of anesthetic substance, therapeutic, subdural, continuous (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.1743",
   "version": "20210220",
   "name": "General or Neuraxial Anesthesia",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "TJC EH Steward",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:75b9aa44-3014-4457-a08d-b7885ee884b7",
+    "timestamp": "2022-07-19T15:14:01-04:00",
+    "total": 50,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112943005",
+      "display": "Epidural injection of anesthetic substance, diagnostic, caudal, continuous (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "112987001",
+      "display": "Inhalation anesthesia, machine system, closed, rebreathing of primary agent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "180878007",
+      "display": "Inhalation anesthetic using muscle relaxant (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "180885006",
+      "display": "Local anesthetic lumbar epidural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "180886007",
+      "display": "Local anesthetic sacral epidural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "18946005",
+      "display": "Epidural anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231249005",
+      "display": "Local anesthetic intrathecal block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231251009",
+      "display": "Local anesthetic cervical intrathecal block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231252002",
+      "display": "Local anesthetic thoracic intrathecal block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231253007",
+      "display": "Local anesthetic lumbar intrathecal block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231255000",
+      "display": "Spinal subdural local anesthetic block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231256004",
+      "display": "Cervical subdural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231257008",
+      "display": "Thoracic subdural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231258003",
+      "display": "Lumbar subdural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231261002",
+      "display": "Combined spinal/epidural local anesthetic block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231262009",
+      "display": "Combined spinal/epidural technique with needles at separate spaces (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "231263004",
+      "display": "Combined spinal/epidural technique - spinal needle through Tuohy needle (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241696005",
+      "display": "Total intravenous anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "241717009",
+      "display": "Inhalational analgesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "24277005",
+      "display": "Inhalation anesthesia, machine system, closed, circulation of primary agent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "266802007",
+      "display": "Endotracheal anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "27653002",
+      "display": "Inhalation anesthesia, machine system, semi-closed, rebreathing of primary agent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "288185006",
+      "display": "Inhalation general anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "30050007",
+      "display": "Inhalation anesthesia, machine system, semi-closed, no rebreathing of primary agent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302335002",
+      "display": "Local anesthetic thoracic epidural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "302336001",
+      "display": "Local anesthetic cervical epidural block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "303356007",
+      "display": "Local anesthetic nerve block around spinal cord meninges (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "303358008",
+      "display": "Neurolytic nerve block around spinal cord meninges (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "35597003",
+      "display": "Epidural injection of anesthetic substance, diagnostic, lumbar, continuous (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "398044000",
+      "display": "Low dose epidural (procedure)"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E030FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Peripheral Vein, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E033FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Peripheral Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E040FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Central Vein, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E043FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Central Vein, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E050FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Peripheral Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E053FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Peripheral Artery, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E060FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Central Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "3E063FZ",
+      "display": "Introduction of Intracirculatory Anesthetic into Central Artery, Percutaneous Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405650006",
+      "display": "Neuraxial nerve block (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "426309005",
+      "display": "Epidural injection of anesthetic substance, therapeutic, continuous, cervical (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "427060008",
+      "display": "Epidural injection of anesthetic substance, therapeutic, thoracic, continuous (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "44812007",
+      "display": "Inhalation anesthesia, machine system, closed, no rebreathing of primary agent (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "448585004",
+      "display": "Target controlled total intravenous anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "449126000",
+      "display": "Administration of inhalation anesthetic using endotracheal tube (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "50697003",
+      "display": "General anesthesia (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "58611004",
+      "display": "Epidural injection of anesthetic substance, therapeutic, lumbar, continuous (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "64287005",
+      "display": "Inhalation anesthesia, machine system, semi-closed, circulation of primary agent and gases (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67716003",
+      "display": "Epidural injection of anesthetic substance, therapeutic, caudal, continuous (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74527005",
+      "display": "Injection of anesthetic substance, therapeutic, subdural, differential (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82776005",
+      "display": "Injection of anesthetic substance, therapeutic, subdural, continuous (procedure)"
+    } ]
+  }
 }

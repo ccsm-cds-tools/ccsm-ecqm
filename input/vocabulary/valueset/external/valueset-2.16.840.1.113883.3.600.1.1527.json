@@ -5,12 +5,148 @@
     "versionId": "29",
     "lastUpdated": "2022-03-02T18:06:22.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 24 concepts</p><p>All codes from system <code>http://snomed.info/sct</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183515008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183515008\">183515008</a></td><td>Referral to physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183524004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183524004\">183524004</a></td><td>Referral to psychiatry service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-183583007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=183583007\">183583007</a></td><td>Refer to mental health worker (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306136006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306136006\">306136006</a></td><td>Referral to liaison psychiatry service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306163007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306163007\">306163007</a></td><td>Referral to dietetics service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306164001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306164001\">306164001</a></td><td>Referral to community-based dietetics service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306165000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306165000\">306165000</a></td><td>Referral to hospital-based dietetics service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306166004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306166004\">306166004</a></td><td>Referral to occupational therapy service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306167008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306167008\">306167008</a></td><td>Referral to community-based occupational therapy service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306168003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306168003\">306168003</a></td><td>Referral to hospital-based occupational therapy service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306226009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306226009\">306226009</a></td><td>Referral to mental health counseling service (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306227000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306227000\">306227000</a></td><td>Referral for mental health counseling (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306252003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306252003\">306252003</a></td><td>Referral to mental health counselor (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306344004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306344004\">306344004</a></td><td>Referral to professional allied to medicine (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306353006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306353006\">306353006</a></td><td>Referral to community-based dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-306354000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=306354000\">306354000</a></td><td>Referral to hospital-based dietitian (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308459004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308459004\">308459004</a></td><td>Referral to psychologist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308470006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308470006\">308470006</a></td><td>Referral to general physician (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-308477009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=308477009\">308477009</a></td><td>Referral to psychiatrist (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390864007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390864007\">390864007</a></td><td>Referral for exercise therapy (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390866009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390866009\">390866009</a></td><td>Referral to mental health team (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-390893007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=390893007\">390893007</a></td><td>Referral to physical activity program (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-408289007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=408289007\">408289007</a></td><td>Refer to weight management program (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-416790000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=416790000\">416790000</a></td><td>Referral for home physical therapy (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.600.1.1527",
   "version": "20170504",
   "name": "Referrals Where Weight Assessment May Occur",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:97427a75-a5d3-4343-9af4-526364471631",
+    "timestamp": "2022-07-19T15:13:43-04:00",
+    "total": 24,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183515008",
+      "display": "Referral to physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183524004",
+      "display": "Referral to psychiatry service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "183583007",
+      "display": "Refer to mental health worker (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306136006",
+      "display": "Referral to liaison psychiatry service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306163007",
+      "display": "Referral to dietetics service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306164001",
+      "display": "Referral to community-based dietetics service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306165000",
+      "display": "Referral to hospital-based dietetics service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306166004",
+      "display": "Referral to occupational therapy service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306167008",
+      "display": "Referral to community-based occupational therapy service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306168003",
+      "display": "Referral to hospital-based occupational therapy service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306226009",
+      "display": "Referral to mental health counseling service (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306227000",
+      "display": "Referral for mental health counseling (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306252003",
+      "display": "Referral to mental health counselor (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306344004",
+      "display": "Referral to professional allied to medicine (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306353006",
+      "display": "Referral to community-based dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "306354000",
+      "display": "Referral to hospital-based dietitian (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308459004",
+      "display": "Referral to psychologist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308470006",
+      "display": "Referral to general physician (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "308477009",
+      "display": "Referral to psychiatrist (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390864007",
+      "display": "Referral for exercise therapy (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390866009",
+      "display": "Referral to mental health team (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "390893007",
+      "display": "Referral to physical activity program (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "408289007",
+      "display": "Refer to weight management program (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "416790000",
+      "display": "Referral for home physical therapy (procedure)"
+    } ]
+  }
 }

@@ -5,12 +5,48 @@
     "versionId": "31",
     "lastUpdated": "2022-03-02T18:05:44.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 4 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-52552-7\"> </a><a href=\"http://details.loinc.org/LOINC/52552-7.html\">52552-7</a></td><td>Falls in the past year</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-57254-5\"> </a><a href=\"http://details.loinc.org/LOINC/57254-5.html\">57254-5</a></td><td>Standardized fall risk assessment was conducted [CMS Assessment]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-59454-9\"> </a><a href=\"http://details.loinc.org/LOINC/59454-9.html\">59454-9</a></td><td>History of falling; immediate or within 3 months [Morse Fall Scale]</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-73830-2\"> </a><a href=\"http://details.loinc.org/LOINC/73830-2.html\">73830-2</a></td><td>Fall risk assessment</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.118.12.1028",
   "version": "20190315",
   "name": "Falls Screening",
   "status": "active",
   "date": "2022-03-03T18:46:01-05:00",
   "publisher": "NCQA PHEMUR",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:6e7b745b-747a-4a0c-bcb2-c4f227667b49",
+    "timestamp": "2022-07-19T15:08:36-04:00",
+    "total": 4,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "52552-7",
+      "display": "Falls in the past year"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "57254-5",
+      "display": "Standardized fall risk assessment was conducted [CMS Assessment]"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "59454-9",
+      "display": "History of falling; immediate or within 3 months [Morse Fall Scale]"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "73830-2",
+      "display": "Fall risk assessment"
+    } ]
+  }
 }

@@ -5,12 +5,1778 @@
     "versionId": "23",
     "lastUpdated": "2022-03-01T01:02:29.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 350 concepts</p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>System</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210083\"> </a>0210083</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210088\"> </a>0210088</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210089\"> </a>0210089</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021008C\"> </a>021008C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021008F\"> </a>021008F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021008W\"> </a>021008W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210093\"> </a>0210093</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210098\"> </a>0210098</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210099\"> </a>0210099</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021009C\"> </a>021009C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021009F\"> </a>021009F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021009W\"> </a>021009W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100A3\"> </a>02100A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100A8\"> </a>02100A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100A9\"> </a>02100A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100AC\"> </a>02100AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100AF\"> </a>02100AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100AW\"> </a>02100AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100J3\"> </a>02100J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100J8\"> </a>02100J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100J9\"> </a>02100J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100JC\"> </a>02100JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100JF\"> </a>02100JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100JW\"> </a>02100JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100K3\"> </a>02100K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100K8\"> </a>02100K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100K9\"> </a>02100K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100KC\"> </a>02100KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100KF\"> </a>02100KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100KW\"> </a>02100KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100Z3\"> </a>02100Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100Z8\"> </a>02100Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100Z9\"> </a>02100Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100ZC\"> </a>02100ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02100ZF\"> </a>02100ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210344\"> </a>0210344</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02103D4\"> </a>02103D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210444\"> </a>0210444</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210483\"> </a>0210483</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210488\"> </a>0210488</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210489\"> </a>0210489</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021048C\"> </a>021048C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021048F\"> </a>021048F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021048W\"> </a>021048W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210493\"> </a>0210493</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210498\"> </a>0210498</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0210499\"> </a>0210499</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021049C\"> </a>021049C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021049F\"> </a>021049F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021049W\"> </a>021049W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104A3\"> </a>02104A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104A8\"> </a>02104A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104A9\"> </a>02104A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104AC\"> </a>02104AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104AF\"> </a>02104AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104AW\"> </a>02104AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104D4\"> </a>02104D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104J3\"> </a>02104J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104J8\"> </a>02104J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104J9\"> </a>02104J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104JC\"> </a>02104JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104JF\"> </a>02104JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104JW\"> </a>02104JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104K3\"> </a>02104K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104K8\"> </a>02104K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104K9\"> </a>02104K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104KC\"> </a>02104KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104KF\"> </a>02104KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104KW\"> </a>02104KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104Z3\"> </a>02104Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Coronary Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104Z8\"> </a>02104Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Right Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104Z9\"> </a>02104Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Left Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104ZC\"> </a>02104ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Thoracic Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02104ZF\"> </a>02104ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, One Artery from Abdominal Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211083\"> </a>0211083</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211088\"> </a>0211088</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211089\"> </a>0211089</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021108C\"> </a>021108C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021108F\"> </a>021108F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021108W\"> </a>021108W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211093\"> </a>0211093</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211098\"> </a>0211098</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211099\"> </a>0211099</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021109C\"> </a>021109C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021109F\"> </a>021109F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021109W\"> </a>021109W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110A3\"> </a>02110A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110A8\"> </a>02110A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110A9\"> </a>02110A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110AC\"> </a>02110AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110AF\"> </a>02110AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110AW\"> </a>02110AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110J3\"> </a>02110J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110J8\"> </a>02110J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110J9\"> </a>02110J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110JC\"> </a>02110JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110JF\"> </a>02110JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110JW\"> </a>02110JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110K3\"> </a>02110K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110K8\"> </a>02110K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110K9\"> </a>02110K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110KC\"> </a>02110KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110KF\"> </a>02110KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110KW\"> </a>02110KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110Z3\"> </a>02110Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110Z8\"> </a>02110Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110Z9\"> </a>02110Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110ZC\"> </a>02110ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02110ZF\"> </a>02110ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211344\"> </a>0211344</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02113D4\"> </a>02113D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211444\"> </a>0211444</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211483\"> </a>0211483</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211488\"> </a>0211488</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211489\"> </a>0211489</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021148C\"> </a>021148C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021148F\"> </a>021148F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021148W\"> </a>021148W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211493\"> </a>0211493</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211498\"> </a>0211498</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0211499\"> </a>0211499</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021149C\"> </a>021149C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021149F\"> </a>021149F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021149W\"> </a>021149W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114A3\"> </a>02114A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114A8\"> </a>02114A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114A9\"> </a>02114A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114AC\"> </a>02114AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114AF\"> </a>02114AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114AW\"> </a>02114AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114D4\"> </a>02114D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114J3\"> </a>02114J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114J8\"> </a>02114J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114J9\"> </a>02114J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114JC\"> </a>02114JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114JF\"> </a>02114JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114JW\"> </a>02114JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114K3\"> </a>02114K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114K8\"> </a>02114K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114K9\"> </a>02114K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114KC\"> </a>02114KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114KF\"> </a>02114KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114KW\"> </a>02114KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114Z3\"> </a>02114Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Coronary Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114Z8\"> </a>02114Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114Z9\"> </a>02114Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114ZC\"> </a>02114ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Thoracic Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02114ZF\"> </a>02114ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Two Arteries from Abdominal Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212083\"> </a>0212083</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212088\"> </a>0212088</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212089\"> </a>0212089</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021208C\"> </a>021208C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021208F\"> </a>021208F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021208W\"> </a>021208W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212093\"> </a>0212093</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212098\"> </a>0212098</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212099\"> </a>0212099</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021209C\"> </a>021209C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021209F\"> </a>021209F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021209W\"> </a>021209W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120A3\"> </a>02120A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120A8\"> </a>02120A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120A9\"> </a>02120A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120AC\"> </a>02120AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120AF\"> </a>02120AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120AW\"> </a>02120AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120J3\"> </a>02120J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120J8\"> </a>02120J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120J9\"> </a>02120J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120JC\"> </a>02120JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120JF\"> </a>02120JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120JW\"> </a>02120JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120K3\"> </a>02120K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120K8\"> </a>02120K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120K9\"> </a>02120K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120KC\"> </a>02120KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120KF\"> </a>02120KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120KW\"> </a>02120KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120Z3\"> </a>02120Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120Z8\"> </a>02120Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120Z9\"> </a>02120Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120ZC\"> </a>02120ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02120ZF\"> </a>02120ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212344\"> </a>0212344</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02123D4\"> </a>02123D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212444\"> </a>0212444</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212483\"> </a>0212483</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212488\"> </a>0212488</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212489\"> </a>0212489</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021248C\"> </a>021248C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021248F\"> </a>021248F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021248W\"> </a>021248W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212493\"> </a>0212493</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212498\"> </a>0212498</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0212499\"> </a>0212499</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021249C\"> </a>021249C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021249F\"> </a>021249F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021249W\"> </a>021249W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124A3\"> </a>02124A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124A8\"> </a>02124A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124A9\"> </a>02124A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124AC\"> </a>02124AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124AF\"> </a>02124AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124AW\"> </a>02124AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124D4\"> </a>02124D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124J3\"> </a>02124J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124J8\"> </a>02124J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124J9\"> </a>02124J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124JC\"> </a>02124JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124JF\"> </a>02124JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124JW\"> </a>02124JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124K3\"> </a>02124K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124K8\"> </a>02124K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124K9\"> </a>02124K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124KC\"> </a>02124KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124KF\"> </a>02124KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124KW\"> </a>02124KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124Z3\"> </a>02124Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Coronary Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124Z8\"> </a>02124Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124Z9\"> </a>02124Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124ZC\"> </a>02124ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Thoracic Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02124ZF\"> </a>02124ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Three Arteries from Abdominal Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213083\"> </a>0213083</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213088\"> </a>0213088</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213089\"> </a>0213089</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021308C\"> </a>021308C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021308F\"> </a>021308F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021308W\"> </a>021308W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213093\"> </a>0213093</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213098\"> </a>0213098</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213099\"> </a>0213099</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021309C\"> </a>021309C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021309F\"> </a>021309F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021309W\"> </a>021309W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130A3\"> </a>02130A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130A8\"> </a>02130A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130A9\"> </a>02130A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130AC\"> </a>02130AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130AF\"> </a>02130AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130AW\"> </a>02130AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130J3\"> </a>02130J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130J8\"> </a>02130J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130J9\"> </a>02130J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130JC\"> </a>02130JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130JF\"> </a>02130JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130JW\"> </a>02130JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130K3\"> </a>02130K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130K8\"> </a>02130K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130K9\"> </a>02130K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130KC\"> </a>02130KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130KF\"> </a>02130KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130KW\"> </a>02130KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130Z3\"> </a>02130Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130Z8\"> </a>02130Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130Z9\"> </a>02130Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130ZC\"> </a>02130ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02130ZF\"> </a>02130ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Open Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213344\"> </a>0213344</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02133D4\"> </a>02133D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213444\"> </a>0213444</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213483\"> </a>0213483</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213488\"> </a>0213488</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213489\"> </a>0213489</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021348C\"> </a>021348C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021348F\"> </a>021348F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021348W\"> </a>021348W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213493\"> </a>0213493</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213498\"> </a>0213498</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-0213499\"> </a>0213499</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021349C\"> </a>021349C</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021349F\"> </a>021349F</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-021349W\"> </a>021349W</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134A3\"> </a>02134A3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134A8\"> </a>02134A8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134A9\"> </a>02134A9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134AC\"> </a>02134AC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134AF\"> </a>02134AF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134AW\"> </a>02134AW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134D4\"> </a>02134D4</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134J3\"> </a>02134J3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134J8\"> </a>02134J8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134J9\"> </a>02134J9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134JC\"> </a>02134JC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134JF\"> </a>02134JF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134JW\"> </a>02134JW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134K3\"> </a>02134K3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134K8\"> </a>02134K8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134K9\"> </a>02134K9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134KC\"> </a>02134KC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134KF\"> </a>02134KF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134KW\"> </a>02134KW</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134Z3\"> </a>02134Z3</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134Z8\"> </a>02134Z8</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134Z9\"> </a>02134Z9</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134ZC\"> </a>02134ZC</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---www.icd10data.com-icd10pcs-02134ZF\"> </a>02134ZF</td><td>http://www.icd10data.com/icd10pcs</td><td>Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Percutaneous Endoscopic Approach</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10190003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10190003\">10190003</a></td><td>http://snomed.info/sct</td><td>Aortocoronary bypass of four or more coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-10326007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=10326007\">10326007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, three grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-119564002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=119564002\">119564002</a></td><td>http://snomed.info/sct</td><td>Internal mammary-coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-119565001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=119565001\">119565001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-14323007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=14323007\">14323007</a></td><td>http://snomed.info/sct</td><td>Aortocoronary bypass of three coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-17073005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=17073005\">17073005</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175021005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175021005\">175021005</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175029007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175029007\">175029007</a></td><td>http://snomed.info/sct</td><td>Prosthetic bypass of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175036008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175036008\">175036008</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175037004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175037004\">175037004</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for one coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175038009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175038009\">175038009</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for two coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175039001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175039001\">175039001</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for three coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175040004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175040004\">175040004</a></td><td>http://snomed.info/sct</td><td>Revision of bypass for four or more coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-175066001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=175066001\">175066001</a></td><td>http://snomed.info/sct</td><td>Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232717009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232717009\">232717009</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafting (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232719007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232719007\">232719007</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass graft x 1 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232720001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232720001\">232720001</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 2 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232721002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232721002\">232721002</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 3 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232722009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232722009\">232722009</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 4 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232723004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232723004\">232723004</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts x 5 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-232724005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=232724005\">232724005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass grafts greater than 5 (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-252427007\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=252427007\">252427007</a></td><td>http://snomed.info/sct</td><td>Angiography of coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-29819009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=29819009\">29819009</a></td><td>http://snomed.info/sct</td><td>Aortocoronary bypass of one coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-3546002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=3546002\">3546002</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with saphenous vein graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359597003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359597003\">359597003</a></td><td>http://snomed.info/sct</td><td>Single internal mammary-coronary artery bypass (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-359601003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=359601003\">359601003</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft of internal mammary artery, single graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.10\"> </a>36.10</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Aortocoronary bypass for heart revascularization, not otherwise specified</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.11\"> </a>36.11</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>(Aorto)coronary bypass of one coronary artery</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.12\"> </a>36.12</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>(Aorto)coronary bypass of two coronary arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.13\"> </a>36.13</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>(Aorto)coronary bypass of three coronary arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.14\"> </a>36.14</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>(Aorto)coronary bypass of four or more coronary arteries</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.15\"> </a>36.15</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Single internal mammary-coronary artery bypass</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.16\"> </a>36.16</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Double internal mammary-coronary artery bypass</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.17\"> </a>36.17</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Abdominal-coronary artery bypass</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---hl7.org-fhir-sid-icd-9-cm-36.19\"> </a>36.19</td><td>http://hl7.org/fhir/sid/icd-9-cm</td><td>Other bypass anastomosis for heart revascularization</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39202005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39202005\">39202005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, four grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-39724006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=39724006\">39724006</a></td><td>http://snomed.info/sct</td><td>Anastomosis of internal mammary artery to coronary artery, double vessel (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405598005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405598005\">405598005</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with two vein grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-405599002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=405599002\">405599002</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with three vein grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-414088005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=414088005\">414088005</a></td><td>http://snomed.info/sct</td><td>Emergency coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-418551006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=418551006\">418551006</a></td><td>http://snomed.info/sct</td><td>Laparoscopic coronary artery bypass using robotic assistance (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-419132001\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=419132001\">419132001</a></td><td>http://snomed.info/sct</td><td>Minimally invasive direct coronary artery bypass (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-438530000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=438530000\">438530000</a></td><td>http://snomed.info/sct</td><td>Magnetic resonance angiography of coronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-440332008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=440332008\">440332008</a></td><td>http://snomed.info/sct</td><td>Fluoroscopic angiography of left ventricle and coronary artery bypass graft with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-450506009\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=450506009\">450506009</a></td><td>http://snomed.info/sct</td><td>Computed tomography angiography of coronary artery bypass graft with contrast (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-67166004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=67166004\">67166004</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736970002\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736970002\">736970002</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of four or more coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736971003\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736971003\">736971003</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of one coronary artery (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736972005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736972005\">736972005</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of three coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-736973000\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=736973000\">736973000</a></td><td>http://snomed.info/sct</td><td>Allograft bypass of two coronary arteries (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-74371005\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=74371005\">74371005</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, two grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-82247006\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=82247006\">82247006</a></td><td>http://snomed.info/sct</td><td>Coronary artery bypass with autogenous graft, five grafts (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-8876004\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=8876004\">8876004</a></td><td>http://snomed.info/sct</td><td>Aortocoronary artery bypass graft with prosthesis (procedure)</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---snomed.info-sct-90487008\"> </a><a href=\"http://browser.ihtsdotools.org/?perspective=full&amp;conceptId1=90487008\">90487008</a></td><td>http://snomed.info/sct</td><td>Aortocoronary bypass of two coronary arteries (procedure)</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.666.5.694",
   "version": "20160331",
   "name": "CABG Surgeries",
   "status": "active",
   "date": "2022-03-07T11:14:02-05:00",
   "publisher": "Mathematica",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:7f13b5e5-076c-4db8-ac9c-f67b1ce516ba",
+    "timestamp": "2022-07-19T15:14:06-04:00",
+    "total": 350,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210083",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210088",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210089",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021008C",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021008F",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021008W",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210093",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210098",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210099",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021009C",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021009F",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021009W",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100A3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100A8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100A9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100AC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100AF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100AW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100J3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100J8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100J9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100JC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100JF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100JW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100K3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100K8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100K9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100KC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100KF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100KW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100Z3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100Z8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100Z9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100ZC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02100ZF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210344",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02103D4",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210444",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210483",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210488",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210489",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021048C",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021048F",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021048W",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210493",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210498",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0210499",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021049C",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021049F",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021049W",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104A3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104A8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104A9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104AC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104AF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104AW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104D4",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104J3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104J8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104J9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104JC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104JF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104JW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104K3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104K8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104K9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104KC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104KF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104KW",
+      "display": "Bypass Coronary Artery, One Artery from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104Z3",
+      "display": "Bypass Coronary Artery, One Artery from Coronary Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104Z8",
+      "display": "Bypass Coronary Artery, One Artery from Right Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104Z9",
+      "display": "Bypass Coronary Artery, One Artery from Left Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104ZC",
+      "display": "Bypass Coronary Artery, One Artery from Thoracic Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02104ZF",
+      "display": "Bypass Coronary Artery, One Artery from Abdominal Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211083",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211088",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211089",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021108C",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021108F",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021108W",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211093",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211098",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211099",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021109C",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021109F",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021109W",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110A3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110A8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110A9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110AC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110AF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110AW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110J3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110J8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110J9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110JC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110JF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110JW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110K3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110K8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110K9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110KC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110KF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110KW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110Z3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110Z8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110Z9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110ZC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02110ZF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211344",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02113D4",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211444",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211483",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211488",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211489",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021148C",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021148F",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021148W",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211493",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211498",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0211499",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021149C",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021149F",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021149W",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114A3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114A8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114A9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114AC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114AF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114AW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114D4",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114J3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114J8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114J9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114JC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114JF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114JW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114K3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114K8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114K9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114KC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114KF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114KW",
+      "display": "Bypass Coronary Artery, Two Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114Z3",
+      "display": "Bypass Coronary Artery, Two Arteries from Coronary Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114Z8",
+      "display": "Bypass Coronary Artery, Two Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114Z9",
+      "display": "Bypass Coronary Artery, Two Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114ZC",
+      "display": "Bypass Coronary Artery, Two Arteries from Thoracic Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02114ZF",
+      "display": "Bypass Coronary Artery, Two Arteries from Abdominal Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212083",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212088",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212089",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021208C",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021208F",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021208W",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212093",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212098",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212099",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021209C",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021209F",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021209W",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120A3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120A8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120A9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120AC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120AF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120AW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120J3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120J8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120J9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120JC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120JF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120JW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120K3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120K8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120K9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120KC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120KF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120KW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120Z3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120Z8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120Z9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120ZC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02120ZF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212344",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02123D4",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212444",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212483",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212488",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212489",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021248C",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021248F",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021248W",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212493",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212498",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0212499",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021249C",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021249F",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021249W",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124A3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124A8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124A9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124AC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124AF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124AW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124D4",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124J3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124J8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124J9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124JC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124JF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124JW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124K3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124K8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124K9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124KC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124KF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124KW",
+      "display": "Bypass Coronary Artery, Three Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124Z3",
+      "display": "Bypass Coronary Artery, Three Arteries from Coronary Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124Z8",
+      "display": "Bypass Coronary Artery, Three Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124Z9",
+      "display": "Bypass Coronary Artery, Three Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124ZC",
+      "display": "Bypass Coronary Artery, Three Arteries from Thoracic Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02124ZF",
+      "display": "Bypass Coronary Artery, Three Arteries from Abdominal Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213083",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213088",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213089",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021308C",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021308F",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021308W",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213093",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213098",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213099",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021309C",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021309F",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021309W",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130A3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130A8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130A9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130AC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130AF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130AW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130J3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130J8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130J9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130JC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130JF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130JW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130K3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130K8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130K9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130KC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130KF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130KW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130Z3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130Z8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130Z9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130ZC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02130ZF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Open Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213344",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02133D4",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213444",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Drug-eluting Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213483",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213488",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213489",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021348C",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021348F",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021348W",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Zooplastic Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213493",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213498",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "0213499",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021349C",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021349F",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "021349W",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Venous Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134A3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134A8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134A9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134AC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134AF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134AW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Autologous Arterial Tissue, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134D4",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Vein with Intraluminal Device, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134J3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134J8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134J9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134JC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134JF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134JW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Synthetic Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134K3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134K8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134K9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134KC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134KF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134KW",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Aorta with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134Z3",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Coronary Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134Z8",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Right Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134Z9",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Left Internal Mammary, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134ZC",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Thoracic Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://www.icd10data.com/icd10pcs",
+      "version": "2022",
+      "code": "02134ZF",
+      "display": "Bypass Coronary Artery, Four or More Arteries from Abdominal Artery, Percutaneous Endoscopic Approach"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10190003",
+      "display": "Aortocoronary bypass of four or more coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "10326007",
+      "display": "Coronary artery bypass with autogenous graft, three grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "119564002",
+      "display": "Internal mammary-coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "119565001",
+      "display": "Coronary artery bypass graft, anastomosis of artery of thorax to coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "14323007",
+      "display": "Aortocoronary bypass of three coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "17073005",
+      "display": "Aortocoronary artery bypass graft with vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175021005",
+      "display": "Allograft bypass of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175029007",
+      "display": "Prosthetic bypass of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175036008",
+      "display": "Revision of bypass for coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175037004",
+      "display": "Revision of bypass for one coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175038009",
+      "display": "Revision of bypass for two coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175039001",
+      "display": "Revision of bypass for three coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175040004",
+      "display": "Revision of bypass for four or more coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "175066001",
+      "display": "Percutaneous transluminal balloon angioplasty of bypass graft of coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232717009",
+      "display": "Coronary artery bypass grafting (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232719007",
+      "display": "Coronary artery bypass graft x 1 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232720001",
+      "display": "Coronary artery bypass grafts x 2 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232721002",
+      "display": "Coronary artery bypass grafts x 3 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232722009",
+      "display": "Coronary artery bypass grafts x 4 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232723004",
+      "display": "Coronary artery bypass grafts x 5 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "232724005",
+      "display": "Coronary artery bypass grafts greater than 5 (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "252427007",
+      "display": "Angiography of coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "29819009",
+      "display": "Aortocoronary bypass of one coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "3546002",
+      "display": "Aortocoronary artery bypass graft with saphenous vein graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359597003",
+      "display": "Single internal mammary-coronary artery bypass (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "359601003",
+      "display": "Coronary artery bypass with autogenous graft of internal mammary artery, single graft (procedure)"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.10",
+      "display": "Aortocoronary bypass for heart revascularization, not otherwise specified"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.11",
+      "display": "(Aorto)coronary bypass of one coronary artery"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.12",
+      "display": "(Aorto)coronary bypass of two coronary arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.13",
+      "display": "(Aorto)coronary bypass of three coronary arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.14",
+      "display": "(Aorto)coronary bypass of four or more coronary arteries"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.15",
+      "display": "Single internal mammary-coronary artery bypass"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.16",
+      "display": "Double internal mammary-coronary artery bypass"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.17",
+      "display": "Abdominal-coronary artery bypass"
+    }, {
+      "system": "http://hl7.org/fhir/sid/icd-9-cm",
+      "version": "2013",
+      "code": "36.19",
+      "display": "Other bypass anastomosis for heart revascularization"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39202005",
+      "display": "Coronary artery bypass with autogenous graft, four grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "39724006",
+      "display": "Anastomosis of internal mammary artery to coronary artery, double vessel (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405598005",
+      "display": "Aortocoronary artery bypass graft with two vein grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "405599002",
+      "display": "Aortocoronary artery bypass graft with three vein grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "414088005",
+      "display": "Emergency coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "418551006",
+      "display": "Laparoscopic coronary artery bypass using robotic assistance (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "419132001",
+      "display": "Minimally invasive direct coronary artery bypass (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "438530000",
+      "display": "Magnetic resonance angiography of coronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "440332008",
+      "display": "Fluoroscopic angiography of left ventricle and coronary artery bypass graft with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "450506009",
+      "display": "Computed tomography angiography of coronary artery bypass graft with contrast (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "67166004",
+      "display": "Aortocoronary artery bypass graft (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736970002",
+      "display": "Allograft bypass of four or more coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736971003",
+      "display": "Allograft bypass of one coronary artery (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736972005",
+      "display": "Allograft bypass of three coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "736973000",
+      "display": "Allograft bypass of two coronary arteries (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "74371005",
+      "display": "Coronary artery bypass with autogenous graft, two grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "82247006",
+      "display": "Coronary artery bypass with autogenous graft, five grafts (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "8876004",
+      "display": "Aortocoronary artery bypass graft with prosthesis (procedure)"
+    }, {
+      "system": "http://snomed.info/sct",
+      "version": "http://snomed.info/sct/731000124108/version/20220301",
+      "code": "90487008",
+      "display": "Aortocoronary bypass of two coronary arteries (procedure)"
+    } ]
+  }
 }

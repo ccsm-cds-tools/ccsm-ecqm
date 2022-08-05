@@ -5,12 +5,63 @@
     "versionId": "35",
     "lastUpdated": "2022-02-18T01:02:19.000-05:00"
   },
-  "text": {},
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><h3>Value Set Contents</h3><p>This value set contains 7 concepts</p><p>All codes from system <code>http://loinc.org</code></p><table class=\"codes\"><tr><td style=\"white-space:nowrap\"><b>Code</b></td><td><b>Display</b></td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-2823-3\"> </a><a href=\"http://details.loinc.org/LOINC/2823-3.html\">2823-3</a></td><td>Potassium [Moles/volume] in Serum or Plasma</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-32713-0\"> </a><a href=\"http://details.loinc.org/LOINC/32713-0.html\">32713-0</a></td><td>Potassium [Moles/volume] in Arterial blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-39789-3\"> </a><a href=\"http://details.loinc.org/LOINC/39789-3.html\">39789-3</a></td><td>Potassium [Moles/volume] in Venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-41656-0\"> </a><a href=\"http://details.loinc.org/LOINC/41656-0.html\">41656-0</a></td><td>Potassium [Moles/volume] in Mixed venous blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-6298-4\"> </a><a href=\"http://details.loinc.org/LOINC/6298-4.html\">6298-4</a></td><td>Potassium [Moles/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-75940-7\"> </a><a href=\"http://details.loinc.org/LOINC/75940-7.html\">75940-7</a></td><td>Potassium [Mass/volume] in Blood</td></tr><tr><td style=\"white-space:nowrap\"><a name=\"http---loinc.org-77142-8\"> </a><a href=\"http://details.loinc.org/LOINC/77142-8.html\">77142-8</a></td><td>Potassium [Moles/volume] in Serum, Plasma or Blood</td></tr></table></div>"
+  },
   "url": "http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1045.117",
   "version": "20220218",
   "name": "Potassium lab test",
   "status": "active",
   "date": "2022-02-18T01:02:19-05:00",
   "publisher": "Yale",
-  "expansion": {}
+  "expansion": {
+    "identifier": "urn:uuid:ca03848e-afa4-4e30-9001-2646f1e674f7",
+    "timestamp": "2022-07-19T15:04:21-04:00",
+    "total": 7,
+    "offset": 0,
+    "parameter": [ {
+      "name": "count",
+      "valueInteger": 1000
+    }, {
+      "name": "offset",
+      "valueInteger": 0
+    } ],
+    "contains": [ {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "2823-3",
+      "display": "Potassium [Moles/volume] in Serum or Plasma"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "32713-0",
+      "display": "Potassium [Moles/volume] in Arterial blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "39789-3",
+      "display": "Potassium [Moles/volume] in Venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "41656-0",
+      "display": "Potassium [Moles/volume] in Mixed venous blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "6298-4",
+      "display": "Potassium [Moles/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "75940-7",
+      "display": "Potassium [Mass/volume] in Blood"
+    }, {
+      "system": "http://loinc.org",
+      "version": "2.72",
+      "code": "77142-8",
+      "display": "Potassium [Moles/volume] in Serum, Plasma or Blood"
+    } ]
+  }
 }
