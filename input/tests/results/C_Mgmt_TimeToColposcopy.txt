@@ -1,0 +1,560 @@
+Running tests.
+Data path: c:\Users\ptran\Desktop\ccsm-ecqm-1\input\tests\measure\C_Mgmt_TimeToColposcopy
+Terminology path: c:\Users\ptran\Desktop\ccsm-ecqm-1\input\vocabulary\valueset
+Patient=Patient(id=urn:uuid:ab653e65-709d-2672-9bba-0b53e6b73b28)
+CervicalCytologyReports=[DiagnosticReport(id=urn:uuid:41c0ca54-e0dd-1d46-1433-851c3413c04a)]
+CytologyObservations=[Observation(id=urn:uuid:8333320f-bfa9-ab0e-869d-d1e2bb50250b)]
+CervicalCytologyReportsSummary=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2273eda0]
+	"date": 2013-09-29T17:58:43
+	"reference": DiagnosticReport/urn:uuid:41c0ca54-e0dd-1d46-1433-851c3413c04a
+}]
+SortedCytologyReports=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2273eda0]
+	"date": 2013-09-29T17:58:43
+	"reference": DiagnosticReport/urn:uuid:41c0ca54-e0dd-1d46-1433-851c3413c04a
+}]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[]
+HistologyObservations=[]
+HistologyDiagnosticReportsSummary=[]
+SortedBiopsyReports=[]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=urn:uuid:b49522c7-acde-4a00-88f1-9b27a9b0aac5)
+CervicalCytologyReports=[]
+CytologyObservations=[]
+CervicalCytologyReportsSummary=[]
+SortedCytologyReports=[]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[]
+HistologyObservations=[]
+HistologyDiagnosticReportsSummary=[]
+SortedBiopsyReports=[]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=urn:uuid:c54448d6-9b6a-2c5d-3382-26df1eccfbee)
+CervicalCytologyReports=[]
+CytologyObservations=[Observation(id=urn:uuid:63eebe08-f612-872e-1a23-d2b3041b47f2)]
+CervicalCytologyReportsSummary=[]
+SortedCytologyReports=[]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[Observation(id=urn:uuid:b70fd380-9d91-2eb7-a4b6-e366dda56f6a)]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=true
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[DiagnosticReport(id=urn:uuid:ec5695b0-a236-a541-8d65-f5702758e00a)]
+HistologyObservations=[Observation(id=urn:uuid:fc606dea-fdbc-0967-cfe2-732ea31565cc)]
+HistologyDiagnosticReportsSummary=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": Cancer
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@53c03a1e]
+	"date": 1998-10-21T15:48:44
+	"reference": DiagnosticReport/urn:uuid:ec5695b0-a236-a541-8d65-f5702758e00a
+}]
+SortedBiopsyReports=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": Cancer
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@53c03a1e]
+	"date": 1998-10-21T15:48:44
+	"reference": DiagnosticReport/urn:uuid:ec5695b0-a236-a541-8d65-f5702758e00a
+}]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=urn:uuid:d1149919-a069-22c3-fa8a-f30f8095db50)
+CervicalCytologyReports=[DiagnosticReport(id=urn:uuid:d7488cc3-b3cc-c667-f652-d3a7a4782c4a), DiagnosticReport(id=urn:uuid:4274b96b-cc48-ba51-7732-1ff7fb4ca4ec), DiagnosticReport(id=urn:uuid:ef4d1aa5-bed4-b5ce-68aa-304c1a91f932), DiagnosticReport(id=urn:uuid:7def3b25-a370-6fd6-8117-54b510b63263)]
+CytologyObservations=[Observation(id=urn:uuid:4d396f4e-8cf0-5432-9387-97235690013d), Observation(id=urn:uuid:751dcd66-d636-959b-2a9c-8d4fb5043562), Observation(id=urn:uuid:aa1cb21c-3447-cddd-ed32-bcb9b2d4d734), Observation(id=urn:uuid:da35235b-9cad-6e91-f01c-e9b018ea4b54)]
+CervicalCytologyReportsSummary=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4698f857]
+	"date": 2004-09-14T17:01:42
+	"reference": DiagnosticReport/urn:uuid:d7488cc3-b3cc-c667-f652-d3a7a4782c4a
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@64509018]
+	"date": 2007-09-24T17:23:19
+	"reference": DiagnosticReport/urn:uuid:4274b96b-cc48-ba51-7732-1ff7fb4ca4ec
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": AGC
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@20bba622]
+	"date": 2010-10-07T17:33:50
+	"reference": DiagnosticReport/urn:uuid:ef4d1aa5-bed4-b5ce-68aa-304c1a91f932
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@a17afe4]
+	"date": 2011-12-01T17:45:57
+	"reference": DiagnosticReport/urn:uuid:7def3b25-a370-6fd6-8117-54b510b63263
+}]
+SortedCytologyReports=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@a17afe4]
+	"date": 2011-12-01T17:45:57
+	"reference": DiagnosticReport/urn:uuid:7def3b25-a370-6fd6-8117-54b510b63263
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": AGC
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@20bba622]
+	"date": 2010-10-07T17:33:50
+	"reference": DiagnosticReport/urn:uuid:ef4d1aa5-bed4-b5ce-68aa-304c1a91f932
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@64509018]
+	"date": 2007-09-24T17:23:19
+	"reference": DiagnosticReport/urn:uuid:4274b96b-cc48-ba51-7732-1ff7fb4ca4ec
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4698f857]
+	"date": 2004-09-14T17:01:42
+	"reference": DiagnosticReport/urn:uuid:d7488cc3-b3cc-c667-f652-d3a7a4782c4a
+}]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[DiagnosticReport(id=urn:uuid:38dc709d-7109-672e-faec-4e9a19fd133e), DiagnosticReport(id=urn:uuid:6083d54a-eba7-9f5f-89d6-df93d1ae3a8a)]
+HpvObservations=[Observation(id=urn:uuid:051c78da-a857-031a-9076-106fb2334c6f), Observation(id=urn:uuid:99c73fc7-d19d-9705-3bee-c34c06b4310a), Observation(id=urn:uuid:125c62e0-836b-97b0-6691-9ff36a0103f9)]
+HpvDiagnosticReportsSummary=[Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16+18+31+33+35+45+51+52+56 DNA [Presence] in Cervix by Probe
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@51294d2b]
+	"date": 2010-10-09T17:33:50
+	"reference": DiagnosticReport/urn:uuid:38dc709d-7109-672e-faec-4e9a19fd133e
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7839f821]
+	"date": 2011-12-05T17:45:57
+	"reference": DiagnosticReport/urn:uuid:6083d54a-eba7-9f5f-89d6-df93d1ae3a8a
+}]
+SortedHpvReports=[Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7839f821]
+	"date": 2011-12-05T17:45:57
+	"reference": DiagnosticReport/urn:uuid:6083d54a-eba7-9f5f-89d6-df93d1ae3a8a
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16+18+31+33+35+45+51+52+56 DNA [Presence] in Cervix by Probe
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@51294d2b]
+	"date": 2010-10-09T17:33:50
+	"reference": DiagnosticReport/urn:uuid:38dc709d-7109-672e-faec-4e9a19fd133e
+}]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[DiagnosticReport(id=urn:uuid:47cd5945-59fd-1a14-3b3b-f1a0a2dafffc)]
+HistologyObservations=[Observation(id=urn:uuid:0760693f-746e-811d-37d3-a875a36ed0b9)]
+HistologyDiagnosticReportsSummary=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": CIN1
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7e6a6918]
+	"date": 2010-11-20T17:31:49
+	"reference": DiagnosticReport/urn:uuid:47cd5945-59fd-1a14-3b3b-f1a0a2dafffc
+}]
+SortedBiopsyReports=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": CIN1
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7e6a6918]
+	"date": 2010-11-20T17:31:49
+	"reference": DiagnosticReport/urn:uuid:47cd5945-59fd-1a14-3b3b-f1a0a2dafffc
+}]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=urn:uuid:d30b4cd2-1df6-9ff0-22d9-52de1cbd511f)
+CervicalCytologyReports=[DiagnosticReport(id=urn:uuid:b16d56b0-a995-2ef0-a7da-1ba34abab4e6), DiagnosticReport(id=urn:uuid:a81c266d-f5b3-cef0-ef66-0ccc9e1213a4), DiagnosticReport(id=urn:uuid:3e5bb35f-fc4f-a673-8322-dbf0ed8e01b5), DiagnosticReport(id=urn:uuid:8c3b182b-cac5-689e-bfc4-51d1d6e17c75), DiagnosticReport(id=urn:uuid:00a56d05-9d44-04da-eca4-d142b7aee9d5), DiagnosticReport(id=urn:uuid:74e7249e-0d64-8bad-5a38-b0b780d2a750), DiagnosticReport(id=urn:uuid:93ce99c2-ea24-ab3e-1c93-065cf9abbd12)]
+CytologyObservations=[Observation(id=urn:uuid:611849c0-e755-1263-17a1-7a15ad2d83d9), Observation(id=urn:uuid:4119f4b9-6d6f-b67e-481f-01cd619bbfc7), Observation(id=urn:uuid:9f41f6e2-3661-c713-4287-1834d9435ce6), Observation(id=urn:uuid:d61cf925-f811-600d-c27f-eacd70ba8d3b), Observation(id=urn:uuid:5fabadd3-c45f-bbaf-21c5-567c63f21cb8), Observation(id=urn:uuid:ebf352a2-3bf7-5f89-b710-76ce0a32f058), Observation(id=urn:uuid:ad688083-fd10-fa0e-4fc6-bea3c9663acf), Observation(id=urn:uuid:10d9309d-c957-1abe-d899-6ce1041ec5a2), Observation(id=urn:uuid:844a1265-8896-b58a-0a06-26046d9f7fba), Observation(id=urn:uuid:93a01353-b351-802c-ad57-84cce80bc97f)]
+CervicalCytologyReportsSummary=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@28e17ea3]
+	"date": 2002-04-20T11:29:11
+	"reference": DiagnosticReport/urn:uuid:b16d56b0-a995-2ef0-a7da-1ba34abab4e6
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@741f5bab]
+	"date": 2007-05-06T11:53:54
+	"reference": DiagnosticReport/urn:uuid:a81c266d-f5b3-cef0-ef66-0ccc9e1213a4
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@323fe04e]
+	"date": 2010-05-25T12:17:31
+	"reference": DiagnosticReport/urn:uuid:3e5bb35f-fc4f-a673-8322-dbf0ed8e01b5
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@673a0258]
+	"date": 2013-06-09T12:45:28
+	"reference": DiagnosticReport/urn:uuid:8c3b182b-cac5-689e-bfc4-51d1d6e17c75
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@258ff2a4]
+	"date": 2016-06-21T13:08:26
+	"reference": DiagnosticReport/urn:uuid:00a56d05-9d44-04da-eca4-d142b7aee9d5
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@32edb7e7]
+	"date": 2019-07-03T13:32:15
+	"reference": DiagnosticReport/urn:uuid:74e7249e-0d64-8bad-5a38-b0b780d2a750
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@373974f2]
+	"date": 2020-07-18T13:47:23
+	"reference": DiagnosticReport/urn:uuid:93ce99c2-ea24-ab3e-1c93-065cf9abbd12
+}]
+SortedCytologyReports=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@373974f2]
+	"date": 2020-07-18T13:47:23
+	"reference": DiagnosticReport/urn:uuid:93ce99c2-ea24-ab3e-1c93-065cf9abbd12
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@32edb7e7]
+	"date": 2019-07-03T13:32:15
+	"reference": DiagnosticReport/urn:uuid:74e7249e-0d64-8bad-5a38-b0b780d2a750
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@258ff2a4]
+	"date": 2016-06-21T13:08:26
+	"reference": DiagnosticReport/urn:uuid:00a56d05-9d44-04da-eca4-d142b7aee9d5
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@673a0258]
+	"date": 2013-06-09T12:45:28
+	"reference": DiagnosticReport/urn:uuid:8c3b182b-cac5-689e-bfc4-51d1d6e17c75
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@323fe04e]
+	"date": 2010-05-25T12:17:31
+	"reference": DiagnosticReport/urn:uuid:3e5bb35f-fc4f-a673-8322-dbf0ed8e01b5
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@741f5bab]
+	"date": 2007-05-06T11:53:54
+	"reference": DiagnosticReport/urn:uuid:a81c266d-f5b3-cef0-ef66-0ccc9e1213a4
+}, Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@28e17ea3]
+	"date": 2002-04-20T11:29:11
+	"reference": DiagnosticReport/urn:uuid:b16d56b0-a995-2ef0-a7da-1ba34abab4e6
+}]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[DiagnosticReport(id=urn:uuid:51891fa5-a705-c797-46f9-4e17de679d21), DiagnosticReport(id=urn:uuid:bf55a499-974a-634d-c2d7-787cb4164e07), DiagnosticReport(id=urn:uuid:c7e6b8e3-2e55-6946-4f8d-e3298548074c), DiagnosticReport(id=urn:uuid:c93f6f10-0796-1e40-ec4b-e677c87a0b93), DiagnosticReport(id=urn:uuid:c6e26d8e-bd09-f332-49ae-604480800d25), DiagnosticReport(id=urn:uuid:385322da-71a6-5616-ca92-6d4321b0e4ff), DiagnosticReport(id=urn:uuid:078be280-33d5-136d-d686-1998bf8f9a68)]
+HpvObservations=[Observation(id=urn:uuid:81053e51-6de5-de12-bc76-b9aee112e56b), Observation(id=urn:uuid:27461ecd-f6c5-5d74-4fff-22c7e262f5f1), Observation(id=urn:uuid:c2ab42f9-a353-740e-a3de-a0588457639a), Observation(id=urn:uuid:cfb5ee01-ab7e-a22e-a2fb-7668ccf960cd), Observation(id=urn:uuid:94c29f15-b37a-e669-806e-7d5cff36ba11), Observation(id=urn:uuid:bb60e869-8b1c-b8a3-02f5-8851c8d6a3f5), Observation(id=urn:uuid:7c4b46e5-7b1d-4915-c13e-c8a6278c380a), Observation(id=urn:uuid:1edea928-de31-2f7a-e5f5-05e11f99e4a4), Observation(id=urn:uuid:c109a5bb-9917-7d69-59e6-d2fd3968355e), Observation(id=urn:uuid:b61c27f5-c38d-2c46-afa5-8fc53fe54ef0), Observation(id=urn:uuid:c2e3d35b-9774-ace0-f684-77f5d0118ed9), Observation(id=urn:uuid:c9410d77-59e3-bc65-6eee-bddc70de3396), Observation(id=urn:uuid:dba317c9-8d05-37a3-270e-425bb7b780d6), Observation(id=urn:uuid:64dd7152-af18-6221-267b-a7d7a05ef22c), Observation(id=urn:uuid:9058ddb8-9679-64e8-0630-12ef57366530), Observation(id=urn:uuid:2fabe559-fdc9-9efb-f92a-ee148db8eef9), Observation(id=urn:uuid:9d9311bc-f6ba-0548-d155-885c5a882938), Observation(id=urn:uuid:e07fa6c9-2c7c-33d2-baac-1738d0106892), Observation(id=urn:uuid:33106b35-fdfc-e741-4a11-b854ce803960)]
+HpvDiagnosticReportsSummary=[Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6b64536d]
+	"date": 2002-04-22T11:29:11
+	"reference": DiagnosticReport/urn:uuid:51891fa5-a705-c797-46f9-4e17de679d21
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7c19098e]
+	"date": 2007-05-12T11:53:54
+	"reference": DiagnosticReport/urn:uuid:bf55a499-974a-634d-c2d7-787cb4164e07
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@3f4c427e]
+	"date": 2010-05-28T12:17:31
+	"reference": DiagnosticReport/urn:uuid:c7e6b8e3-2e55-6946-4f8d-e3298548074c
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@31a39723]
+	"date": 2013-06-11T12:45:28
+	"reference": DiagnosticReport/urn:uuid:c93f6f10-0796-1e40-ec4b-e677c87a0b93
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@48bc8be3]
+	"date": 2016-06-23T13:08:26
+	"reference": DiagnosticReport/urn:uuid:c6e26d8e-bd09-f332-49ae-604480800d25
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6e808ea7]
+	"date": 2019-07-05T13:32:15
+	"reference": DiagnosticReport/urn:uuid:385322da-71a6-5616-ca92-6d4321b0e4ff
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@266eb0fa]
+	"date": 2020-07-23T13:47:23
+	"reference": DiagnosticReport/urn:uuid:078be280-33d5-136d-d686-1998bf8f9a68
+}]
+SortedHpvReports=[Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@266eb0fa]
+	"date": 2020-07-23T13:47:23
+	"reference": DiagnosticReport/urn:uuid:078be280-33d5-136d-d686-1998bf8f9a68
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6e808ea7]
+	"date": 2019-07-05T13:32:15
+	"reference": DiagnosticReport/urn:uuid:385322da-71a6-5616-ca92-6d4321b0e4ff
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@48bc8be3]
+	"date": 2016-06-23T13:08:26
+	"reference": DiagnosticReport/urn:uuid:c6e26d8e-bd09-f332-49ae-604480800d25
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@31a39723]
+	"date": 2013-06-11T12:45:28
+	"reference": DiagnosticReport/urn:uuid:c93f6f10-0796-1e40-ec4b-e677c87a0b93
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@3f4c427e]
+	"date": 2010-05-28T12:17:31
+	"reference": DiagnosticReport/urn:uuid:c7e6b8e3-2e55-6946-4f8d-e3298548074c
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7c19098e]
+	"date": 2007-05-12T11:53:54
+	"reference": DiagnosticReport/urn:uuid:bf55a499-974a-634d-c2d7-787cb4164e07
+}, Tuple {
+	"name": HPV Test
+	"longName": Human papilloma virus 16 and 18 and 31+33+35+39+45+51+52+56+58+59+66+68 DNA [Interpretation] in Cervix
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6b64536d]
+	"date": 2002-04-22T11:29:11
+	"reference": DiagnosticReport/urn:uuid:51891fa5-a705-c797-46f9-4e17de679d21
+}]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[Tuple {
+	"name": Cervical Cytology
+	"longName": Cytology report of Cervical or vaginal smear or scraping Cyto stain
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@32edb7e7]
+	"date": 2019-07-03T13:32:15
+	"reference": DiagnosticReport/urn:uuid:74e7249e-0d64-8bad-5a38-b0b780d2a750
+}]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[DiagnosticReport(id=urn:uuid:2f1637cd-05b8-e2ac-7f11-1c84174372f1)]
+HistologyObservations=[Observation(id=urn:uuid:218868b1-a3fd-302c-662b-4edcf101dba5)]
+HistologyDiagnosticReportsSummary=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": CIN2
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@11f456f4]
+	"date": 1994-12-28T08:54:31
+	"reference": DiagnosticReport/urn:uuid:2f1637cd-05b8-e2ac-7f11-1c84174372f1
+}]
+SortedBiopsyReports=[Tuple {
+	"name": Cervical Histology
+	"longName": Cervix Pathology biopsy report
+	"riskTableInput": CIN2
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@11f456f4]
+	"date": 1994-12-28T08:54:31
+	"reference": DiagnosticReport/urn:uuid:2f1637cd-05b8-e2ac-7f11-1c84174372f1
+}]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-EXM124)
+CervicalCytologyReports=[]
+CytologyObservations=[Observation(id=denom-EXM124-3)]
+CervicalCytologyReportsSummary=[]
+SortedCytologyReports=[]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[]
+HistologyObservations=[]
+HistologyDiagnosticReportsSummary=[]
+SortedBiopsyReports=[]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=neg-ip-EXM124)
+CervicalCytologyReports=[]
+CytologyObservations=[Observation(id=neg-ip-EXM124-2)]
+CervicalCytologyReportsSummary=[]
+SortedCytologyReports=[]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[]
+HistologyObservations=[]
+HistologyDiagnosticReportsSummary=[]
+SortedBiopsyReports=[]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-EXM124)
+CervicalCytologyReports=[]
+CytologyObservations=[Observation(id=numer-EXM124-3)]
+CervicalCytologyReportsSummary=[]
+SortedCytologyReports=[]
+Abnormal Cytology=[]
+HpvDiagnosticReports=[]
+HpvObservations=[]
+HpvDiagnosticReportsSummary=[]
+SortedHpvReports=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+HistologyDiagnosticReports=[]
+HistologyObservations=[]
+HistologyDiagnosticReportsSummary=[]
+SortedBiopsyReports=[]
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+
+The following errors were encountered during evaluation:
+[pool-1-thread-1] WARN org.opencds.cqf.cql.evaluator.engine.terminology.BundleTerminologyProvider - ValueSet http://fhir.org/guides/cqf/common/ValueSet/active-condition is not expanded. Falling back to compose definition. This will potentially produce incorrect results. 
+[pool-1-thread-1] WARN org.opencds.cqf.cql.evaluator.engine.terminology.BundleTerminologyProvider - ValueSet http://fhir.org/guides/cqf/common/ValueSet/inactive-condition is not expanded. Falling back to compose definition. This will potentially produce incorrect results. 
+elapsed: 0.087 seconds
+
