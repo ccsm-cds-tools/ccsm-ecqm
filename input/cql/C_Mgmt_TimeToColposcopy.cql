@@ -116,7 +116,7 @@ define HpvDiagnosticReports:
   )
 
 define HpvObservations:
-  [Observation: Dash."HPV Test"]
+  Dash.HpvObservations
 
 define CervicalCytologyReports:
   Common.CompletedDiagnosticReport(
@@ -127,16 +127,16 @@ define CervicalCytologyReports:
   )
 
 define CytologyObservations:
-  [Observation: Dash."Pap Test"]
+  Dash.CytologyObservations
 
 define function CollateConclusionCodes(D DiagnosticReport, ObsList List<Observation>):
-  D.conclusionCode union
-  (ObsList) O
+    {D.conclusionCode} except {null} union
+    ((ObsList) O
     where 
       Exists( (D.result ) R where Last(Split(R.reference,'/')) =  O.id ) or
       Exists( (O.basedOn) oB where AnyTrue((D.basedOn) dB return dB = oB ) ) or
       C3F.FindDate(O) = Common.DiagnosticReportDate(D)
-    return O.value as FHIR.CodeableConcept
+    return O.value as FHIR.CodeableConcept)
 
 define HistologyDiagnosticReports:
   Common.CompletedDiagnosticReport([DiagnosticReport: Dash."Biopsy Report"])
@@ -150,7 +150,7 @@ define HpvDiagnosticReportsSummary:
     name: 'HPV Test',
     longName: Common.ConceptText(D.code),
     riskTableInput: Dash.HighestRankedInterpretation(Dash.HpvInterpretation(CollateConclusionCodes(D,HpvObservations))),
-    allConclusions: (CollateConclusionCodes(D,HpvObservations)) cC,
+    allConclusions: CollateConclusionCodes(D,HpvObservations),
     date: Common.DiagnosticReportDate(D),
     reference: 'DiagnosticReport/' + D.id
   }
@@ -161,8 +161,7 @@ define CervicalCytologyReportsSummary:
     name: 'Cervical Cytology',
     longName: Common.ConceptText(D.code),
     riskTableInput: Dash.HighestRankedInterpretation(Dash.CytologyInterpretation(CollateConclusionCodes(D,CytologyObservations))),
-    allConclusions:
-      (CollateConclusionCodes(D,CytologyObservations)) cC,
+    allConclusions: CollateConclusionCodes(D,CytologyObservations),
     date: Common.DiagnosticReportDate(D),
     reference: 'DiagnosticReport/' + D.id
   }
@@ -173,8 +172,7 @@ define HistologyDiagnosticReportsSummary:
     name: 'Cervical Histology',
     longName: Common.ConceptText(D.code),
     riskTableInput: Dash.HighestRankedInterpretation(Dash.BiopsyInterpretation(CollateConclusionCodes(D,HistologyObservations))),
-    allConclusions:
-      (CollateConclusionCodes(D,HistologyObservations)) cC, 
+    allConclusions: CollateConclusionCodes(D,HistologyObservations),
     date: Common.DiagnosticReportDate(D),
     reference: 'DiagnosticReport/' + D.id
   }

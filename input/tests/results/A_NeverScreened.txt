@@ -1,0 +1,184 @@
+Running tests.
+Data path: c:\Users\ptran\Desktop\ccsm-ecqm-1\input\tests\measure\A_NeverScreened
+Terminology path: c:\Users\ptran\Desktop\ccsm-ecqm-1\input\vocabulary\valueset
+Patient=Patient(id=urn:uuid:05c93649-a6a0-4b7f-d399-b949b6a77c8d)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:084b74f1-2fce-ae1e-c2be-26039bbdfddc)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:2f73713b-be65-bace-fa69-05ffbf2c5504)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:3536c8fc-2898-3595-e8a5-ac1abd5a0e44)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:3aede798-ce57-7c36-101c-773404863ada)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:3aee3cc5-0126-65e2-000f-08121c4ce8b5)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:3ebf3ef3-d0b4-1e1a-b791-c9df4b99f225)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:449ffc64-eb12-4d61-3039-31378113a131)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:59c40b72-35de-3900-ad56-faeb5ea50ebb)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:5c03669e-eb39-4654-ffcc-435688aefe84)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:7ddb3ce2-bfb9-f7e3-0d36-6906fab603c4)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:821ca901-42e9-b464-b647-c33dbb3042d4)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:82e344a8-055c-7271-63b7-f513d2335f69)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:895effa3-805c-34a5-aa12-063727b91f15)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:a7f46d9f-9c50-dd1a-e52b-9daa0e5ece71)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:a975e2c3-9577-22a5-e647-adf9d6bfd2f3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:ad906629-42f9-fb21-de5d-55864edeeadb)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:b7c0a7d4-ac1c-2e06-9433-4b3ae0a6c1ae)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=denom-1)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:e62e6da1-1c37-a981-0da2-be8fde97b65b)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:e89250a7-0b45-d8f1-113b-cfbf7d9f4bd4)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=urn:uuid:e9a5edc5-e01e-3bfa-a380-b1383dad8a8c)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:ea41b1f8-bdcb-34db-8d9f-0cfbcad7f44b)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=urn:uuid:f5cb8a82-7ef5-dddc-6ba4-ae2545dc06fe)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=numer-1)
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+
+The following errors were encountered during evaluation:
+[pool-1-thread-1] WARN org.opencds.cqf.cql.evaluator.engine.terminology.BundleTerminologyProvider - ValueSet http://fhir.org/guides/cqf/common/ValueSet/active-condition is not expanded. Falling back to compose definition. This will potentially produce incorrect results. 
+[pool-1-thread-1] WARN org.opencds.cqf.cql.evaluator.engine.terminology.BundleTerminologyProvider - ValueSet http://fhir.org/guides/cqf/common/ValueSet/inactive-condition is not expanded. Falling back to compose definition. This will potentially produce incorrect results. 
+elapsed: -0.317 seconds
+

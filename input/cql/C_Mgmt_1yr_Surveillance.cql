@@ -37,7 +37,7 @@ define "Denominator Exclusions":
   or "Exclusionary hrHPV Test"
 
 define "Exclusionary hrHPV Test":
- exists SortedHpvReports HpvReport
+ exists Collate.SortedHpvReports HpvReport
   where HpvReport.date before "First Abnormal Cervical Cancer Screening Result Date"
     and HpvReport.date > start of "Measurement Period" - 7 years
 
@@ -73,7 +73,7 @@ define "Abnormal Cervical Cancer Screening Cotest":
   sort by CytologyCotest.date
 
 define "Abnormal Cervical Cancer Screening Cytology Alone":
-  (SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
+  (Collate.SortedCytologyReports except Cotests.CytologyCotest) CytologyAlone
   where CytologyAlone.date in Interval[start of "Measurement Period" - 18 months, start of "Measurement Period" - 6 months)
   and CytologyAlone.riskTableInput = 'ASC-US'
   sort by date
@@ -83,7 +83,7 @@ define "First Abnormal Cervical Cancer Screening Result Date":
   return tests sort by date).date
 
 define "Cotests":
-  from SortedHpvReports HrHPVCotest, SortedCytologyReports CytologyCotest
+  from Collate.SortedHpvReports HrHPVCotest, Collate.SortedCytologyReports CytologyCotest
     where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
 
 define "Primary HrHPV":
@@ -97,69 +97,3 @@ define "Most Recent Surveillance Test Date":
 
 define "SDE HPV Vaccination Status":
   HPVVaccination_SDE."HPV Vaccinated"
-
-//The CQL below is required for the extended lookback period of this measure.
-//As part of refactoring the CQL libraries for better use in both eCQMs and CDS,
-//the lookback period will not have to be customized as below.
-
-define HpvDiagnosticReports:
-  Common.CompletedDiagnosticReport(
-    Common.LookBack(
-      [DiagnosticReport: Dash."HPV Test"],
-      22 years
-    )
-  )
-
-define HpvObservations:
-  [Observation: Dash."HPV Test"]
-
-define CervicalCytologyReports:
-  Common.CompletedDiagnosticReport(
-    Common.LookBack(
-      [DiagnosticReport: Dash."Pap Test"],
-      22 years
-    )
-  )
-
-define CytologyObservations:
-  [Observation: Dash."Pap Test"]
-
-define function CollateConclusionCodes(D DiagnosticReport, ObsList List<Observation>):
-  D.conclusionCode union
-  (ObsList) O
-    where 
-      Exists( (D.result ) R where Last(Split(R.reference,'/')) =  O.id ) or
-      Exists( (O.basedOn) oB where AnyTrue((D.basedOn) dB return dB = oB ) ) or
-      C3F.FindDate(O) = Common.DiagnosticReportDate(D)
-    return O.value as FHIR.CodeableConcept
-
-define HpvDiagnosticReportsSummary:
-  (HpvDiagnosticReports) D
-  return {
-    name: 'HPV Test',
-    longName: Common.ConceptText(D.code),
-    riskTableInput: Dash.HighestRankedInterpretation(Dash.HpvInterpretation(CollateConclusionCodes(D,HpvObservations))),
-    allConclusions: (CollateConclusionCodes(D,HpvObservations)) cC,
-    date: Common.DiagnosticReportDate(D),
-    reference: 'DiagnosticReport/' + D.id
-  }
-
-define CervicalCytologyReportsSummary:
-  (CervicalCytologyReports) D
-  return {
-    name: 'Cervical Cytology',
-    longName: Common.ConceptText(D.code),
-    riskTableInput: Dash.HighestRankedInterpretation(Dash.CytologyInterpretation(CollateConclusionCodes(D,CytologyObservations))),
-    allConclusions:
-      (CollateConclusionCodes(D,CytologyObservations)) cC,
-    date: Common.DiagnosticReportDate(D),
-    reference: 'DiagnosticReport/' + D.id
-  }
-
-define SortedCytologyReports:
-  (CervicalCytologyReportsSummary) C
-  sort by date desc
-
-define SortedHpvReports:
-  (HpvDiagnosticReportsSummary) H
-  sort by date desc
