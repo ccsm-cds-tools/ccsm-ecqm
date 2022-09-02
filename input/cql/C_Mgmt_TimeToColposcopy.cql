@@ -2,25 +2,25 @@ library C_Mgmt_TimeToColposcopy version '0.0.1'
 
 using FHIR version '4.0.1'
 
-include FHIRHelpers version '4.0.1' called FHIRHelpers
-include HospiceFHIR4_2022 version '4.0.000' called Hospice
-include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
+include FHIRHelpers version '4.1.000' called FHIRHelpers
+include HospiceFHIR4 version '4.0.000' called Hospice
+include PalliativeCareExclusionFHIR4 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CCSMCommonFunctions version '1.0.0' called Common
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
-include TopLevelScreeningLibrary version '1.0.0' called TLSL
+include TopLevelScreeningLibrary version '1.0.000' called TLSL
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
-include HPVVaccination_SDE version '0.0.1' called HPVVaccination_SDE
+include HPVVaccinationSDE version '0.0.1' called HPVVaccinationSDE
 
-codesystem "SNOMED-CT": 'http://snomed.info/sct'
+codesystem "SNOMEDCT": 'http://snomed.info/sct'
 
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 valueset "Referral for Colposcopy": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.276'
 valueset "Referral for Treatment": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.277'
 
-code "SCC": '1162767002' from "SNOMED-CT" display 'Squamous cell carcinoma'
+code "SCC": '1162767002' from "SNOMEDCT" display 'Squamous cell carcinoma'
 
-parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T00:00:00.0, @2021-01-01T00:00:00.0)
+parameter "Measurement Period" Interval<DateTime> default Interval[@2021-01-01T00:00:00.000Z, @2022-01-01T00:00:00.000Z)
 
 context Patient
 
@@ -33,12 +33,12 @@ define "Initial Population":
 
 define "Abnormal HrHPV":
   ManagementLibrary.SortedHpvReports HrHPV
-  where HrHPV.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
+  where HrHPV.date in day of Interval[start of "Measurement Period" - 6 months, end of "Measurement Period" - 6 months)
     and HrHPV.riskTableInput in {'HPV16-, HPV18+', 'HPV16+'}
 
 define "Abnormal Cytology":
   (ManagementLibrary.SortedCytologyReports Cytology
-    where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
+    where Cytology.date in day of Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
       and Cytology.riskTableInput in {'ASC-H','AGC','HSIL+'})
   //The CQL code below will be removed once the SCC code is integrated into the CQL libraries.
   union
@@ -48,13 +48,13 @@ define "Abnormal Cytology":
 
 define "Normal Cytology":
   ManagementLibrary.SortedCytologyReports Cytology
-  where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
+  where Cytology.date in day of Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
   and Cytology.riskTableInput = 'NILM'
 
 define "Normal HrHPV":
-  ManagementLibrary.SortedCytologyReports Cytology
-  where Cytology.date in Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
-  and Cytology.riskTableInput = 'HPV-negative'
+  ManagementLibrary.SortedHpvReports hpHPV
+  where hpHPV.date in day of Interval[start of "Measurement Period" - 6 months, start of "Measurement Period" + 6 months)
+  and hpHPV.riskTableInput = 'HPV-negative'
 
 define "Denominator":
   "Initial Population"
@@ -100,4 +100,4 @@ define "Absence of Cervix":
   )
 
 define "SDE HPV Vaccination Status":
-  HPVVaccination_SDE."HPV Vaccinated"
+  HPVVaccinationSDE."HPV Vaccinated"

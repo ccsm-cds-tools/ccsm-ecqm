@@ -1,0 +1,125 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\C_Mgmt_TimeToTreatment
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=denEx-1)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7add3f62]
+	"date": 2021-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=false
+Denominator Exclusions=true
+Precancer Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[]
+PregnancyObservations=[]
+
+Patient=Patient(id=denEx-2)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@30fcdf83]
+	"date": 2021-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=true
+Denominator Exclusions=true
+Precancer Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[Condition(id=example)]
+PregnancyObservations=[]
+
+Patient=Patient(id=denom-1)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@64c5b8a3]
+	"date": 2021-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=false
+Denominator Exclusions=false
+Precancer Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[]
+PregnancyObservations=[]
+
+Patient=Patient(id=denom-2)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@bd37e]
+	"date": 2021-01-01T19:43:30.000
+}, Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438182af]
+	"date": 2021-03-02T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=false
+Denominator Exclusions=false
+Precancer Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[]
+PregnancyObservations=[]
+
+Patient=Patient(id=numer-1)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@23def8c1]
+	"date": 2021-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=false
+Denominator Exclusions=false
+Precancer Treatment Referral=[]
+Numerator=true
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[]
+PregnancyObservations=[]
+
+Patient=Patient(id=numer-2)
+CIN3 Cervical Cancer Histology=[Tuple {
+	"riskTableInput": CIN3
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@22c6f9af]
+	"date": 2021-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Pregnant=false
+Denominator Exclusions=false
+Precancer Treatment Referral=[ServiceRequest]
+Numerator=true
+SDE HPV Vaccination Status=false
+Weeks to look back=100 'week'
+PregnancyDiagnoses=[]
+PregnancyObservations=[]
+
+
+Evaluation logs:
+21:25:43.733 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+21:25:45.257 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+21:25:45.774 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+21:25:45.814 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+21:25:45.983 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 4.901 seconds
+

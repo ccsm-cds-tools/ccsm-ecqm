@@ -1,0 +1,90 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\A_NeverScreened
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=denEx-1)
+Initial Population=true
+Denominator=true
+Absence of Cervix=true
+Denominator Exclusions=true
+Numerator=true
+
+Patient=Patient(id=denEx-2)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=true
+Numerator=true
+
+Patient=Patient(id=denEx-3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=true
+Numerator=true
+
+Patient=Patient(id=denom-1)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=denom-2)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=denom-3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=false
+
+Patient=Patient(id=denom-4)
+Initial Population=true
+Denominator=true
+Absence of Cervix=true
+Denominator Exclusions=true
+Numerator=false
+
+Patient=Patient(id=denom-5)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=numer-1)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=numer-2)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+Patient=Patient(id=numer-3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+Numerator=true
+
+
+Evaluation logs:
+15:07:49.348 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+15:07:50.735 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+15:07:51.157 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+15:07:51.213 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+15:07:51.348 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 6.649 seconds
+

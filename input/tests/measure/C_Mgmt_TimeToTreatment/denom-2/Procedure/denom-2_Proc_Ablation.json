@@ -1,0 +1,17 @@
+{
+    "resourceType": "Procedure",
+    "status": "completed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "169427007",
+          "display": "Laser cervix lesion therapy (procedure)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/denom-2"
+    },
+    "performedDateTime": "2021-04-15"
+  }

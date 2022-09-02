@@ -146,7 +146,7 @@
         "valueString": "HpvReports"
       }, {
         "url": "statement",
-        "valueString": "//The CQL below is required for the extended lookback period of this measure.\n//As part of refactoring the CQL libraries for better use in both eCQMs and CDS,\n//the lookback period will not have to be customized as below.\ndefine HpvReports:\n  Common.CompletedDiagnosticReport(\n    Common.LookBack(\n      [DiagnosticReport: Dash.\"HPV Test\"],\n      22 years\n    )\n  )"
+        "valueString": "//The CQL below is required for the extended lookback period of this measure. They\n//are a nearly direct copy of several CDS Library definitions, modified with a\n//longer lookback period. \n//As part of future plans to refactor the CQL libraries for better use in both\n// eCQMs and CDS, the lookback period will eventually not have to be customized as below.\ndefine HpvReports:\n  Common.CompletedDiagnosticReport(\n    Common.LookBack(\n      [DiagnosticReport: Dash.\"HPV Test\"],\n      22 years\n    )\n  )"
       }, {
         "url": "displaySequence",
         "valueInteger": 2
@@ -545,7 +545,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "AdultOutpatientEncountersFHIR4_2022"
+        "valueString": "AdultOutpatientEncountersFHIR4"
       }, {
         "url": "name",
         "valueString": "Qualifying Encounters"
@@ -590,7 +590,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HospiceFHIR4_2022"
+        "valueString": "HospiceFHIR4"
       }, {
         "url": "name",
         "valueString": "Has Hospice Services"
@@ -605,7 +605,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "PalliativeCareExclusionFHIR4_2022"
+        "valueString": "PalliativeCareExclusionFHIR4"
       }, {
         "url": "name",
         "valueString": "Palliative Care in the Measurement Period"
@@ -868,38 +868,34 @@
     }, {
       "type": "depends-on",
       "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.0.1"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.1.000"
     }, {
       "type": "depends-on",
       "display": "Library TLSL",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.0"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.000"
     }, {
       "type": "depends-on",
       "display": "Library AdultOutpatient",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/AdultOutpatientEncountersFHIR4_2022|3.0.000"
-    }, {
-      "type": "depends-on",
-      "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/AdultOutpatientEncountersFHIR4|3.0.000"
     }, {
       "type": "depends-on",
       "display": "Library Global",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4_2022|7.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4|7.0.000"
     }, {
       "type": "depends-on",
       "display": "Library FHIRCommon",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon|1.1.000"
     }, {
       "type": "depends-on",
       "display": "Library Hospice",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4_2022|4.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4|4.0.000"
     }, {
       "type": "depends-on",
       "display": "Library PalliativeCare",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4_2022|2.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4|2.0.000"
     }, {
       "type": "depends-on",
-      "display": "Code system SNOMED-CT",
+      "display": "Code system SNOMED",
       "resource": "http://snomed.info/sct"
     }, {
       "type": "depends-on",
@@ -1347,7 +1343,7 @@
   "title": "CCSM Screening Over 65 Years Old",
   "status": "draft",
   "experimental": false,
-  "date": "2022-07-20T10:50:05-04:00",
+  "date": "2022-08-05T10:19:33-04:00",
   "publisher": "MITRE",
   "description": ".",
   "purpose": "Unknown",

@@ -4,7 +4,7 @@
   // Sex at birth = Female
   // OR Gender identity = Transgender Male
 // Therefore, logic for this entry criteria is abstracted to this library
-library TopLevelScreeningLibrary version '1.0.0'
+library TopLevelScreeningLibrary version '1.0.000'
 using FHIR version '4.0.1'
 
 // # Referenced libraries
@@ -12,7 +12,7 @@ using FHIR version '4.0.1'
 // The CDS Connect Commons for FHIRv401 library provides functions representing commonly used CDS logic and patterns.
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 // The FHIRHelpers library provides common functions for simplifying interaction w/ the FHIR R4 data model.
-include FHIRHelpers version '4.0.1' called FHIRHelpers
+include FHIRHelpers version '4.1.000' called FHIRHelpers
 
 // # Value sets and codesystem
 

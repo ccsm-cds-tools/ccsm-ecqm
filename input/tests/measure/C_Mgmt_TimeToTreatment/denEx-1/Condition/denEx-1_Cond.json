@@ -1,0 +1,25 @@
+{
+    "resourceType": "Condition",
+    "id": "example",
+    "verificationStatus": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+          "code": "confirmed"
+        }
+      ]
+    },
+    "code": {
+      "coding": [
+        {
+            "system": "http://snomed.info/sct",
+            "version": "http://snomed.info/sct/731000124108/version/20220301",
+            "code": "254887002",
+            "display": "Adenocarcinoma of cervix (disorder)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/denEx-1"
+    }
+  }

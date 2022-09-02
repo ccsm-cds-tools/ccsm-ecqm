@@ -1,0 +1,43 @@
+{
+  "resourceType" : "DiagnosticReport",
+  "meta" : {
+    "profile" : [
+      "http://hl7.org/fhir/us/qicore/StructureDefinition/qicore-diagnosticreport-note"
+    ]
+  },
+  "status" : "final",
+  "category" : [
+    {
+      "coding" : [
+        {
+          "system" : "http://loinc.org",
+          "code" : "LP29684-5",
+          "display" : "Radiology"
+        }
+      ]
+    }
+  ],
+  "code" : {
+    "coding" : [
+      {
+        "system" : "http://loinc.org",
+        "version": "2.72",
+        "code": "21440-3",
+        "display": "Human papilloma virus 16+18+31+33+35+45+51+52+56 DNA [Presence] in Cervix by Probe"
+      }
+    ]
+  },
+  "subject" : {
+    "reference": "Patient/numer-2"
+  },
+  "effectiveDateTime" : "2021-03-01T19:43:30.000Z",
+  "conclusionCode" : [{
+    "coding" : [
+      {
+        "system" : "http://snomed.info/sct",
+        "code" : "708298003",
+        "display" : "Deoxyribonucleic acid of Human papillomavirus 16 (substance)"
+      }
+    ]
+  }]
+}

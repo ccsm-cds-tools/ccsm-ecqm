@@ -1,0 +1,657 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\A_Screening65yo
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=denom-1)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[]
+SortedCytologyReports=[]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-2)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@53486e01]
+	"date": 2013-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@33467abd]
+	"date": 2010-08-01
+}]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@33467abd]
+	"date": 2010-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@53486e01]
+	"date": 2013-08-01
+}]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@53486e01]
+	"date": 2013-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@33467abd]
+	"date": 2010-08-01
+}]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1a3b925d]
+	"date": 2018-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1aadca6a]
+	"date": 2015-08-01
+}]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1aadca6a]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1a3b925d]
+	"date": 2018-08-01
+}]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1a3b925d]
+	"date": 2018-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@1aadca6a]
+	"date": 2015-08-01
+}]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-4)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[]
+SortedCytologyReports=[]
+HpvReports=[DiagnosticReport]
+SortedHpvReports=[Tuple {
+	"riskTableInput": ALL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@67428859]
+	"date": 2014-08-01T19:43:30.000
+}]
+Cotests=[]
+All Negative Cytology Alone After 55=[]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-5)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@18dacd48]
+	"date": 2019-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@391784b4]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@349182eb]
+	"date": 2011-08-01
+}]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@349182eb]
+	"date": 2011-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@391784b4]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@18dacd48]
+	"date": 2019-08-01
+}]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@18dacd48]
+	"date": 2019-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@391784b4]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@349182eb]
+	"date": 2011-08-01
+}]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-6)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@59fa8a2a]
+	"date": 2021-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2a8ca24f]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7ba46ddb]
+	"date": 2010-08-01
+}]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7ba46ddb]
+	"date": 2010-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2a8ca24f]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@59fa8a2a]
+	"date": 2021-08-01
+}]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@59fa8a2a]
+	"date": 2021-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2a8ca24f]
+	"date": 2015-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7ba46ddb]
+	"date": 2010-08-01
+}]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=false
+
+Patient=Patient(id=denom-7)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@516ba518]
+	"date": 2021-02-03T19:43:30.000
+}]
+HpvReports=[DiagnosticReport, DiagnosticReport]
+SortedHpvReports=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c59c2d7]
+	"date": 2010-02-03T19:43:30.000
+}]
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@516ba518]
+	"date": 2021-02-03T19:43:30.000
+}
+}]
+All Negative Cytology Alone After 55=[]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c59c2d7]
+	"date": 2010-02-03T19:43:30.000
+}]
+NegativeHrHpvTestsAsPartOfCotest=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}]
+NegativePrimaryHrHpvTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c59c2d7]
+	"date": 2010-02-03T19:43:30.000
+}]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@516ba518]
+	"date": 2021-02-03T19:43:30.000
+}]
+NegativeCotests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}]
+NegativeSurveillanceTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c59c2d7]
+	"date": 2010-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}]
+All Negative Surveillance After 55=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}]
+First Surveillance Date After 55=2021-02-03T19:43:30.000
+Surveillance Screening 10-Year Interval=Interval[2021-02-03T19:43:30.000, 2031-02-03T19:43:30.000]
+Negative Surveillance in 10-Year Interval=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7a9ad269]
+	"date": 2021-02-03T19:43:30.000
+}]
+Numerator=false
+
+Patient=Patient(id=numer-1)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@446845ce]
+	"date": 2019-02-03T19:43:30.000
+}]
+HpvReports=[DiagnosticReport, DiagnosticReport]
+SortedHpvReports=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}]
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@446845ce]
+	"date": 2019-02-03T19:43:30.000
+}
+}]
+All Negative Cytology Alone After 55=[]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}]
+NegativeHrHpvTestsAsPartOfCotest=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}]
+NegativePrimaryHrHpvTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@446845ce]
+	"date": 2019-02-03T19:43:30.000
+}]
+NegativeCotests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}]
+NegativeSurveillanceTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}]
+All Negative Surveillance After 55=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}]
+First Surveillance Date After 55=2018-02-03T19:43:30.000
+Surveillance Screening 10-Year Interval=Interval[2018-02-03T19:43:30.000, 2028-02-03T19:43:30.000]
+Negative Surveillance in 10-Year Interval=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2fc993f2]
+	"date": 2018-02-03T19:43:30.000
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@438e9c2f]
+	"date": 2019-02-03T19:43:30.000
+}]
+Numerator=true
+
+Patient=Patient(id=numer-2)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@472be15e]
+	"date": 2016-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@67e78bfe]
+	"date": 2013-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4c4becb2]
+	"date": 2010-08-01
+}]
+HpvReports=[]
+SortedHpvReports=[]
+Cotests=[]
+All Negative Cytology Alone After 55=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4c4becb2]
+	"date": 2010-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@67e78bfe]
+	"date": 2013-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@472be15e]
+	"date": 2016-08-01
+}]
+Three Negative Cytology 3 Years Apart=[Tuple {
+	"FirstNeg": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4c4becb2]
+	"date": 2010-08-01
+}
+	"SecondNeg": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@67e78bfe]
+	"date": 2013-08-01
+}
+	"ThirdNeg": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@472be15e]
+	"date": 2016-08-01
+}
+}]
+NegativeHrHpvTests=[]
+NegativeHrHpvTestsAsPartOfCotest=[]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@472be15e]
+	"date": 2016-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@67e78bfe]
+	"date": 2013-08-01
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4c4becb2]
+	"date": 2010-08-01
+}]
+NegativeCotests=[]
+NegativeSurveillanceTests=[]
+All Negative Surveillance After 55=[]
+First Surveillance Date After 55=null
+Surveillance Screening 10-Year Interval=null
+Negative Surveillance in 10-Year Interval=[]
+Numerator=true
+
+Patient=Patient(id=numer-3)
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=false
+CervicalCytologyReports=[DiagnosticReport, DiagnosticReport]
+SortedCytologyReports=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@69a901be]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@12566e99]
+	"date": 2010-08-03
+}]
+HpvReports=[DiagnosticReport, DiagnosticReport]
+SortedHpvReports=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}]
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@69a901be]
+	"date": 2015-08-03
+}
+}, Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@12566e99]
+	"date": 2010-08-03
+}
+}]
+All Negative Cytology Alone After 55=[]
+Three Negative Cytology 3 Years Apart=[]
+NegativeHrHpvTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}]
+NegativeHrHpvTestsAsPartOfCotest=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}]
+NegativePrimaryHrHpvTests=[]
+NegativeCytologyTests=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@69a901be]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@12566e99]
+	"date": 2010-08-03
+}]
+NegativeCotests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}]
+NegativeSurveillanceTests=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}]
+All Negative Surveillance After 55=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}]
+First Surveillance Date After 55=2010-08-03
+Surveillance Screening 10-Year Interval=Interval[2010-08-03, 2020-08-03]
+Negative Surveillance in 10-Year Interval=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7497a9da]
+	"date": 2010-08-03
+}, Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7df7f8f7]
+	"date": 2015-08-03
+}]
+Numerator=true
+
+
+Evaluation logs:
+22:07:19.404 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+22:07:20.724 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+22:07:21.187 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+22:07:21.222 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+22:07:21.363 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 5.804 seconds
+

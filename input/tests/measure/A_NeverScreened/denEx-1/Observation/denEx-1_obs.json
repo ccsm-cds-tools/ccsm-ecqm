@@ -1,0 +1,16 @@
+{
+    "resourceType": "Observation",
+    "status": "final",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "10738891000119107",
+          "display": "History of total hysterectomy without abnormal cervical Papanicolaou smear (situation)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/denEx-1"
+    }
+  }

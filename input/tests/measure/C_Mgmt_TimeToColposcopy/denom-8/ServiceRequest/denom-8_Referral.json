@@ -1,0 +1,29 @@
+{
+    "resourceType": "ServiceRequest",
+    "status": "active",
+    "intent": "order",
+    "category": [
+      {
+        "coding": [
+          {
+            "system": "http://snomed.info/sct",
+            "code": "103696004",
+            "display": "Patient referral to specialist"
+          }
+        ]
+      }
+    ],
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "183549000",
+          "display": "Referral to gynecology service (procedure)"
+        }
+      ]
+    },
+    "authoredOn": "2020-07-01",
+    "subject": {
+      "reference": "Patient/denom-8"
+    }
+  }

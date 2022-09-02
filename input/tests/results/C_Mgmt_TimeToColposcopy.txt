@@ -1,0 +1,359 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\C_Mgmt_TimeToColposcopy
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=denEx-1)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": ASC-H
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c8dd36d]
+	"date": 2020-08-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@498962bd]
+	"date": 2021-02-01
+}]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=true
+Last Abnormal Cervical Cancer Screening Result Date=2020-08-01
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denEx-2)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16-, HPV18+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5c58632c]
+	"date": 2020-07-01T00:00:00.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@50ed2787]
+	"date": 2021-04-05
+}]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=true
+Last Abnormal Cervical Cancer Screening Result Date=2020-07-01T00:00:00.000
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-1)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": ASC-H
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@76d388d0]
+	"date": 2020-08-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-08-01
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-2)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": AGC
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@16c50e77]
+	"date": 2021-02-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2021-02-01
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-3)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": HSIL+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7f907e12]
+	"date": 2021-06-30T00:00:00.000
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2021-06-30T00:00:00.000
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-4)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16-, HPV18+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6511026b]
+	"date": 2020-07-01T00:00:00.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-07-01T00:00:00.000
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-5)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": ASC-H
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4c38fcda]
+	"date": 2020-11-10
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-11-10
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-6)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": HSIL+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6055e3f]
+	"date": 2020-08-30T00:00:00.000
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-08-30T00:00:00.000
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-7)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": ASC-H
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@14ca2b27]
+	"date": 2020-10-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-10-01
+Colposcopy or Treatment Referral=[ServiceRequest]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-8)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": AGC
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4b3bb02b]
+	"date": 2021-04-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2021-04-01
+Colposcopy or Treatment Referral=[ServiceRequest]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-1)
+Abnormal Cytology=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-2)
+Abnormal Cytology=[]
+Abnormal HrHPV=[]
+Initial Population=false
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=false
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=null
+Colposcopy or Treatment Referral=[]
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-1)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16-, HPV18+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@444751bf]
+	"date": 2020-11-10T19:43:30.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-11-10T19:43:30.000
+Colposcopy or Treatment Referral=[]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-2)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": HSIL+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5a9f1887]
+	"date": 2021-04-08T19:43:30.000
+}]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2e7a6687]
+	"date": 2021-04-08T19:43:30.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2021-04-08T19:43:30.000
+Colposcopy or Treatment Referral=[]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-3)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@ac9ca4f]
+	"date": 2020-11-10T19:43:30.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-11-10T19:43:30.000
+Colposcopy or Treatment Referral=[ServiceRequest]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-4)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7bb2c914]
+	"date": 2020-11-10T19:43:30.000
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-11-10T19:43:30.000
+Colposcopy or Treatment Referral=[ServiceRequest]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-5)
+Abnormal Cytology=[]
+Abnormal HrHPV=[Tuple {
+	"riskTableInput": HPV16-, HPV18+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@672094ab]
+	"date": 2020-11-10
+}]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-11-10
+Colposcopy or Treatment Referral=[]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-6)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": HSIL+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@fe07e29]
+	"date": 2021-06-12
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2021-06-12
+Colposcopy or Treatment Referral=[]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-7)
+Abnormal Cytology=[Tuple {
+	"riskTableInput": ASC-H
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6d4de3db]
+	"date": 2020-10-01
+}]
+Abnormal HrHPV=[]
+Initial Population=true
+Normal Cytology=[]
+Normal HrHPV=[]
+Denominator=true
+Absence of Cervix=false
+Denominator Exclusions=null
+Last Abnormal Cervical Cancer Screening Result Date=2020-10-01
+Colposcopy or Treatment Referral=[ServiceRequest]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+
+Evaluation logs:
+19:50:27.348 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+19:50:28.659 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+19:50:28.996 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+19:50:29.023 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+19:50:29.137 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 9.205 seconds
+

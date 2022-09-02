@@ -1,0 +1,23 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\HPVVaccinationSDE
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=ThreeVaccineRegimen)
+Two Vaccine Regimen=[Immunization]
+Three Vaccine Regimen=[Immunization, Immunization, Immunization]
+HPV Vaccinated=true
+
+Patient=Patient(id=TwoVaccineRegimen)
+Two Vaccine Regimen=[Immunization, Immunization]
+Three Vaccine Regimen=[]
+HPV Vaccinated=true
+
+
+Evaluation logs:
+16:00:32.067 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+16:00:33.383 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+16:00:33.737 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+16:00:33.764 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+16:00:33.872 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 2.278 seconds
+

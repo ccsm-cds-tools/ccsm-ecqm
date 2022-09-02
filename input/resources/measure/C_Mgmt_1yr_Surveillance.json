@@ -82,7 +82,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HPVVaccination_SDE"
+        "valueString": "HPVVaccinationSDE"
       }, {
         "url": "name",
         "valueString": "Two Vaccine Regimen"
@@ -97,7 +97,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HPVVaccination_SDE"
+        "valueString": "HPVVaccinationSDE"
       }, {
         "url": "name",
         "valueString": "Three Vaccine Regimen"
@@ -112,7 +112,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HPVVaccination_SDE"
+        "valueString": "HPVVaccinationSDE"
       }, {
         "url": "name",
         "valueString": "HPV Vaccinated"
@@ -133,7 +133,7 @@
         "valueString": "SDE HPV Vaccination Status"
       }, {
         "url": "statement",
-        "valueString": "define \"SDE HPV Vaccination Status\":\n  HPVVaccination_SDE.\"HPV Vaccinated\""
+        "valueString": "define \"SDE HPV Vaccination Status\":\n  HPVVaccinationSDE.\"HPV Vaccinated\""
       }, {
         "url": "displaySequence",
         "valueInteger": 3
@@ -487,7 +487,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HospiceFHIR4_2022"
+        "valueString": "HospiceFHIR4"
       }, {
         "url": "name",
         "valueString": "Has Hospice Services"
@@ -502,7 +502,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "PalliativeCareExclusionFHIR4_2022"
+        "valueString": "PalliativeCareExclusionFHIR4"
       }, {
         "url": "name",
         "valueString": "Palliative Care in the Measurement Period"
@@ -718,8 +718,8 @@
     },
     "relatedArtifact": [ {
       "type": "depends-on",
-      "display": "Library HPVVaccination_SDE",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/HPVVaccination_SDE|0.0.1"
+      "display": "Library HPVVaccinationSDE",
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HPVVaccinationSDE|0.0.1"
     }, {
       "type": "depends-on",
       "display": "Library Dash",
@@ -727,7 +727,7 @@
     }, {
       "type": "depends-on",
       "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.0.1"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.1.000"
     }, {
       "type": "depends-on",
       "display": "Library ManagementLibrary",
@@ -743,30 +743,26 @@
     }, {
       "type": "depends-on",
       "display": "Library TLSL",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.0"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.000"
     }, {
       "type": "depends-on",
       "display": "Library Hospice",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4_2022|4.0.000"
-    }, {
-      "type": "depends-on",
-      "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4|4.0.000"
     }, {
       "type": "depends-on",
       "display": "Library FHIRCommon",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon|1.1.000"
     }, {
       "type": "depends-on",
       "display": "Library Global",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4_2022|7.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4|7.0.000"
     }, {
       "type": "depends-on",
       "display": "Library PalliativeCare",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4_2022|2.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4|2.0.000"
     }, {
       "type": "depends-on",
-      "display": "Code system SNOMED-CT",
+      "display": "Code system SNOMED",
       "resource": "http://snomed.info/sct"
     }, {
       "type": "depends-on",
@@ -1128,7 +1124,7 @@
   "title": "CCSM Management 1-Year Surveillance",
   "status": "draft",
   "experimental": false,
-  "date": "2022-07-20T10:50:05-04:00",
+  "date": "2022-08-05T10:19:33-04:00",
   "publisher": "MITRE",
   "description": ".",
   "purpose": "Unknown",

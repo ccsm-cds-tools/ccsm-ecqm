@@ -18,14 +18,14 @@ using FHIR version '4.0.1'
 
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
 include CCSMCommonFunctions version '1.0.0' called Common
-include FHIRHelpers version '4.0.1' called FHIRHelpers
+include FHIRHelpers version '4.1.000' called FHIRHelpers
 
 //------------------------------------------------------------------------------
 // CODE SYSTEMS, VALUE SETS, AND CODES
 //------------------------------------------------------------------------------
 
 codesystem "LOINC": 'http://loinc.org'
-codesystem "SNOMED-CT": 'http://snomed.info/sct'
+codesystem "SNOMED": 'http://snomed.info/sct'
 codesystem "RXNORM": 'http://www.nlm.nih.gov/research/umls/rxnorm'
 codesystem "ICD-9": 'http://hl7.org/fhir/sid/icd-9-cm'
 codesystem "ICD-10": 'http://hl7.org/fhir/sid/icd-10-cm'
@@ -84,18 +84,18 @@ valueset "Histologic CIN3": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113
 valueset "HPV Negative Results": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113762.1.4.1032.268'
 
 // Standard codes
-code "Yes": '373066001' from "SNOMED-CT" display 'Yes (qualifier value)'
+code "Yes": '373066001' from "SNOMED" display 'Yes (qualifier value)'
 code "Pregnancy Status": '82810-3' from "LOINC" display 'Pregnancy status'
-code "Patient currently pregnant": '77386006' from "SNOMED-CT" display 'Patient currently pregnant (finding)'
-code "In utero exposure to DES": '736060002' from "SNOMED-CT" display 'History of exposure to diethystilbestrol in utero (situation)'
+code "Patient currently pregnant": '77386006' from "SNOMED" display 'Patient currently pregnant (finding)'
+code "In utero exposure to DES": '736060002' from "SNOMED" display 'History of exposure to diethystilbestrol in utero (situation)'
 code "Systemic lupus erythematosus ICD-9-CM Code": '710.0' from "ICD-9" display 'Systemic lupus erythematosus' // AKA: Diagnosis of Systemic Lupus Erythematosus
 code "Chronic GvHD ICD-9 Code": '279.52' from "ICD-9" display 'Chronic graft-versus-host disease' // AKA: Diagnosis of Chronic GvHD
 code "Chronic GvHD ICD-10 Code": 'D89.811' from "ICD-10" display 'Chronic graft-versus-host disease' // AKA: Diagnosis of Chronic GvHD
 code "Biopsy Report": '65753-6' from "LOINC" display 'Cervix Pathology biopsy report' // A.K.A. "Histology tests"
-code "Negative": '260385009' from "SNOMED-CT" display 'Negative (qualifier value)'
-code "NILM": '373887005' from "SNOMED-CT" display 'Negative for intraepithelial lesion or malignancy (finding)'
-code "CIN2": '285838002' from "SNOMED-CT" display 'Cervical intraepithelial neoplasia grade 2 (disorder)'
-code "HSIL, Unspecified": '22725004' from "SNOMED-CT" display 'High-grade squamous intraepithelial lesion (morphologic abnormality)'
+code "Negative": '260385009' from "SNOMED" display 'Negative (qualifier value)'
+code "NILM": '373887005' from "SNOMED" display 'Negative for intraepithelial lesion or malignancy (finding)'
+code "CIN2": '285838002' from "SNOMED" display 'Cervical intraepithelial neoplasia grade 2 (disorder)'
+code "HSIL, Unspecified": '22725004' from "SNOMED" display 'High-grade squamous intraepithelial lesion (morphologic abnormality)'
 
 // Non-standard or "local" codes
 code "Diagnosis of Genital GvHD": 'GenitalGvHD' from "LOCAL" display 'Diagnosis of Genital GvHD'

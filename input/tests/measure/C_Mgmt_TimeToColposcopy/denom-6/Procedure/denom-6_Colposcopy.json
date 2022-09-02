@@ -1,0 +1,17 @@
+{
+    "resourceType": "Procedure",
+    "status": "completed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "392003006",
+          "display": "Colposcopy (procedure)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/denom-6"
+    },
+    "performedDateTime": "2021-06-14"
+  }

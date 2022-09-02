@@ -1,0 +1,42 @@
+{
+  "resourceType" : "DiagnosticReport",
+  "meta" : {
+    "profile" : [
+      "http://hl7.org/fhir/us/qicore/StructureDefinition/qicore-diagnosticreport-note"
+    ]
+  },
+  "status" : "final",
+  "category" : [
+    {
+      "coding" : [
+        {
+          "system" : "http://loinc.org",
+          "code" : "LP29684-5",
+          "display" : "Radiology"
+        }
+      ]
+    }
+  ],
+  "code" : {
+    "coding" : [
+      {
+        "system" : "http://loinc.org",
+        "code" : "21440-3",
+        "display" : "Human papilloma virus 16+18+31+33+35+45+51+52+56 DNA [Presence] in Cervix by Probe"
+      }
+    ]
+  },
+  "subject" : {
+    "reference": "Patient/denom-7"
+  },
+  "effectiveDateTime" : "2010-02-03T19:43:30.000Z",
+  "conclusionCode" : [{
+    "coding" : [
+      {
+        "system" : "http://snomed.info/sct",
+        "code" : "260385009",
+        "display" : "Negative (qualifier value)"
+      }
+    ]
+  }]
+}

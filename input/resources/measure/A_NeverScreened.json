@@ -224,7 +224,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "AdultOutpatientEncountersFHIR4_2022"
+        "valueString": "AdultOutpatientEncountersFHIR4"
       }, {
         "url": "name",
         "valueString": "Qualifying Encounters"
@@ -269,7 +269,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "HospiceFHIR4_2022"
+        "valueString": "HospiceFHIR4"
       }, {
         "url": "name",
         "valueString": "Has Hospice Services"
@@ -284,7 +284,7 @@
       "url": "http://hl7.org/fhir/us/cqfmeasures/StructureDefinition/cqfm-logicDefinition",
       "extension": [ {
         "url": "libraryName",
-        "valueString": "PalliativeCareExclusionFHIR4_2022"
+        "valueString": "PalliativeCareExclusionFHIR4"
       }, {
         "url": "name",
         "valueString": "Palliative Care in the Measurement Period"
@@ -543,35 +543,31 @@
     }, {
       "type": "depends-on",
       "display": "Library TLSL",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.0"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/TopLevelScreeningLibrary|1.0.000"
     }, {
       "type": "depends-on",
       "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.0.1"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers|4.1.000"
     }, {
       "type": "depends-on",
       "display": "Library AdultOutpatient",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/AdultOutpatientEncountersFHIR4_2022|3.0.000"
-    }, {
-      "type": "depends-on",
-      "display": "Library FHIRHelpers",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRHelpers_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/AdultOutpatientEncountersFHIR4|3.0.000"
     }, {
       "type": "depends-on",
       "display": "Library Global",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4_2022|7.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/MATGlobalCommonFunctionsFHIR4|7.0.000"
     }, {
       "type": "depends-on",
       "display": "Library FHIRCommon",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon_2022|4.0.002"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/FHIRCommon|1.1.000"
     }, {
       "type": "depends-on",
       "display": "Library Hospice",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4_2022|4.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/HospiceFHIR4|4.0.000"
     }, {
       "type": "depends-on",
       "display": "Library PalliativeCare",
-      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4_2022|2.0.000"
+      "resource": "http://ecqi.healthit.gov/ecqms/Library/PalliativeCareExclusionFHIR4|2.0.000"
     }, {
       "type": "depends-on",
       "display": "Library ManagementLibrary",
@@ -1017,12 +1013,12 @@
       "reference": "#effective-data-requirements"
     }
   } ],
-  "version": "0.0.1",
+  "version": "0.0.002",
   "name": "A_NeverScreened",
   "title": "CCSM Never Screened",
   "status": "draft",
   "experimental": false,
-  "date": "2022-07-20T09:50:05-05:00",
+  "date": "2022-08-05T09:19:32-05:00",
   "publisher": "MITRE",
   "description": ".",
   "purpose": "Unknown",

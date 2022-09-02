@@ -1,0 +1,25 @@
+{
+    "resourceType": "Condition",
+    "id": "example",
+    "verificationStatus": {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status",
+          "code": "confirmed"
+        }
+      ]
+    },
+    "code": {
+      "coding": [
+        {
+            "system": "http://snomed.info/sct",
+            "version": "http://snomed.info/sct/731000124108/version/20220301",
+            "code": "109880006",
+            "display": "Overlapping malignant neoplasm of uterine cervix (disorder)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/denEx-1"
+    }
+  }

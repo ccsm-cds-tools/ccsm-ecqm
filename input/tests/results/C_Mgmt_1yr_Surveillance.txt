@@ -1,0 +1,387 @@
+Executing CQL...
+CQL path: c:\Users\MTILLER\Git\ccsm-ecqm\input\cql
+Data path: c:\Users\MTILLER\Git\ccsm-ecqm\input\tests\measure\C_Mgmt_1yr_Surveillance
+Terminology path: c:\Users\MTILLER\Git\ccsm-ecqm\input\vocabulary\valueset
+Patient=Patient(id=denEx-1)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7f17a8de]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@925a54c]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7f17a8de]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@925a54c]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2020-04-10
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=true
+Most Recent Surveillance Test Date=2020-04-10
+Cotest Numerator Interval=Interval[2021-04-10, 2021-10-10]
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denEx-2)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@58b2a143]
+	"date": 2019-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@41134826]
+	"date": 2019-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@58b2a143]
+	"date": 2019-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@41134826]
+	"date": 2019-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2019-11-21
+Exclusionary hrHPV Test=[Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4ac0ddfe]
+	"date": 2018-11-21
+}]
+Denominator Exclusions=true
+Most Recent Surveillance Test Date=2019-11-21
+Cotest Numerator Interval=Interval[2020-11-21, 2021-05-21]
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-1)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@69f21a41]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4f36ed06]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@69f21a41]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4f36ed06]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2020-04-10
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2020-04-10
+Cotest Numerator Interval=Interval[2021-04-10, 2021-10-10]
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-2)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4afbf665]
+	"date": 2019-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@777150b0]
+	"date": 2019-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4afbf665]
+	"date": 2019-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@777150b0]
+	"date": 2019-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2019-11-21
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2019-11-21
+Cotest Numerator Interval=Interval[2020-11-21, 2021-05-21]
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=denom-3)
+Cotests=[]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[Tuple {
+	"riskTableInput": ASC-US
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4b0ef8e1]
+	"date": 2020-02-01
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2020-02-01
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=null
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=Interval[2020-08-01, 2021-08-01]
+Numerator=null
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-1)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@75cda5a7]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@6edb1a07]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2020-04-10
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-2)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV16+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@44c91baf]
+	"date": 2019-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@370bbb07]
+	"date": 2019-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2019-11-21
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-3)
+Cotests=[]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=null
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=null
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-4)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV16+
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4760b84a]
+	"date": 2020-11-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@2982393a]
+	"date": 2020-11-10
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2020-11-10
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-5)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-negative
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@7165aa4e]
+	"date": 2020-11-21
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": LSIL
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@446b2f79]
+	"date": 2020-11-21
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2020-11-21
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=nopop-6)
+Cotests=[]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=false
+Denominator=false
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=null
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2020-11-10
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=null
+Numerator=false
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-1)
+Cotests=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5ebeb311]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4cac375]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cotest=[Tuple {
+	"HrHPVCotest": Tuple {
+	"riskTableInput": HPV-positive
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5ebeb311]
+	"date": 2020-04-10
+}
+	"CytologyCotest": Tuple {
+	"riskTableInput": NILM
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@4cac375]
+	"date": 2020-04-10
+}
+}]
+Abnormal Cervical Cancer Screening Cytology Alone=[]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2020-04-10
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2021-07-01T19:43:30.000
+Cotest Numerator Interval=Interval[2021-04-10, 2021-10-10]
+Cytology Alone Numerator Interval=null
+Numerator=true
+SDE HPV Vaccination Status=false
+
+Patient=Patient(id=numer-2)
+Cotests=[]
+Abnormal Cervical Cancer Screening Cotest=[]
+Abnormal Cervical Cancer Screening Cytology Alone=[Tuple {
+	"riskTableInput": ASC-US
+	"allConclusions": [org.hl7.fhir.r4.model.CodeableConcept@5dcf5334]
+	"date": 2020-01-01T19:43:30.000
+}]
+Initial Population=true
+Denominator=true
+Absence of Cervix=false
+First Abnormal Cervical Cancer Screening Result Date=2020-01-01T19:43:30.000
+Exclusionary hrHPV Test=[]
+Denominator Exclusions=false
+Most Recent Surveillance Test Date=2021-03-01T19:43:30.000
+Cotest Numerator Interval=null
+Cytology Alone Numerator Interval=Interval[2020-07-01T19:43:30.000, 2021-07-01T19:43:30.000]
+Numerator=true
+SDE HPV Vaccination Status=false
+
+
+Evaluation logs:
+19:47:53.535 [pool-2-thread-1] INFO  ca.uhn.fhir.context.FhirContext - Creating new FHIR context for FHIR version [R4]
+19:47:54.878 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-resources.xml
+19:47:55.226 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-types.xml
+19:47:55.324 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/profile/profiles-others.xml
+19:47:55.486 [pool-2-thread-1] INFO  c.u.f.c.support.DefaultProfileValidationSupport - Loading structure definitions from classpath: /org/hl7/fhir/r4/model/extension/extension-definitions.xml
+elapsed: 7.503 seconds
+

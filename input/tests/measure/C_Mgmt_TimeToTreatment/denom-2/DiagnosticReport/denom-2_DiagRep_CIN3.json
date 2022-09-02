@@ -1,0 +1,42 @@
+{
+  "resourceType" : "DiagnosticReport",
+  "meta" : {
+    "profile" : [
+      "http://hl7.org/fhir/us/qicore/StructureDefinition/qicore-diagnosticreport-note"
+    ]
+  },
+  "status" : "final",
+  "category" : [
+    {
+      "coding" : [
+        {
+          "system" : "http://loinc.org",
+          "code" : "LP29684-5",
+          "display" : "Radiology"
+        }
+      ]
+    }
+  ],
+  "code" : {
+    "coding" : [
+      {
+        "system" : "http://loinc.org",
+        "code" : "65753-6",
+        "display" : "Cervix Pathology biopsy report"
+      }
+    ]
+  },
+  "subject" : {
+    "reference": "Patient/denom-2"
+  },
+  "effectiveDateTime" : "2021-01-01T19:43:30.000Z",
+  "conclusionCode" : [{
+    "coding" : [
+      {
+        "system" : "http://snomed.info/sct",
+        "code" : "20365006",
+        "display" : "Squamous intraepithelial neoplasia, grade III (morphologic abnormality)"
+      }
+    ]
+  }]
+}

@@ -2,19 +2,19 @@ library A_Screening65yo version '0.0.1'
 
 using FHIR version '4.0.1'
 
-include FHIRHelpers version '4.0.1' called FHIRHelpers
-include TopLevelScreeningLibrary version '1.0.0' called TLSL
-include HospiceFHIR4_2022 version '4.0.000' called Hospice
-include PalliativeCareExclusionFHIR4_2022 version '2.0.000' called PalliativeCare
+include FHIRHelpers version '4.1.000' called FHIRHelpers
+include TopLevelScreeningLibrary version '1.0.000' called TLSL
+include HospiceFHIR4 version '4.0.000' called Hospice
+include PalliativeCareExclusionFHIR4 version '2.0.000' called PalliativeCare
 include ManagementLibrary version '1.0.0' called ManagementLibrary
 include CDSConnectCommonsforFHIRv401 version '1.0.0' called C3F
-include AdultOutpatientEncountersFHIR4_2022 version '3.0.000' called AdultOutpatient
+include AdultOutpatientEncountersFHIR4 version '3.0.000' called AdultOutpatient
 include DisplayCervicalCancerMedicalHistory version '1.0.0' called Dash
 include CCSMCommonFunctions version '1.0.0' called Common
 
 valueset "Removal of Cervix Procedures CPT": 'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.198.11.1026'
 
-parameter "Measurement Period" Interval<DateTime> default Interval[@2020-01-01T00:00:00.0, @2021-01-01T00:00:00.0)
+parameter "Measurement Period" Interval<DateTime> default Interval[@2021-01-01T00:00:00.0, @2022-01-01T00:00:00.0)
 
 context Patient
 
@@ -36,8 +36,16 @@ define "Denominator Exclusions":
       or exists Dash."HighGradeOrCancerHistologyResults")
     )
 
+define "Three Negative Cytology 3 Years Apart":
+  from "All Negative Cytology Alone After 55" FirstNeg,
+    "All Negative Cytology Alone After 55" SecondNeg,
+    "All Negative Cytology Alone After 55" ThirdNeg
+  where (FirstNeg != SecondNeg and FirstNeg != ThirdNeg and SecondNeg != ThirdNeg)
+    and SecondNeg.date in Interval[FirstNeg.date + 3 years, FirstNeg.date + 3 years + 6 months]
+    and ThirdNeg.date in Interval[SecondNeg.date + 3 years, SecondNeg.date + 3 years + 6 months]
+
 define "Numerator":
-  (Count("Negative Cytology Every 3 Years") >= 2 and "Last Negative Cytology in Latter Half of 10-Year Interval")
+  (exists "Three Negative Cytology 3 Years Apart")
   or
   (Count("Negative Surveillance in 10-Year Interval") >= 2)
 
@@ -52,38 +60,16 @@ define "All Negative Surveillance After 55":
     where SurveillanceTest.date in Interval[Patient.birthDate + 55 years, end of "Measurement Period")
       sort by date
 
-define "Last Negative Cytology in Latter Half of 10-Year Interval":
-  (Last ("Negative Cytology in 10-Year Interval")).date in Interval[start of "Cytology Screening 10-Year Interval" + 5 years, end of "Cytology Screening 10-Year Interval"]
-
-define "Negative Cytology in 10-Year Interval":
-  "All Negative Cytology Alone After 55" CytologyAlone
-    where CytologyAlone.date in "Cytology Screening 10-Year Interval"
-
 define "Negative Surveillance in 10-Year Interval":
-  "All Negative Surveillance After 55" SurveillanceTes
-    where SurveillanceTes.date in "Surveillance Screening 10-Year Interval"
-
-define "Negative Cytology Every 3 Years":
-  from "Negative Cytology in 10-Year Interval" CytologyAlone, "Cytology Testing Intervals" TestingIntervals
-  where CytologyAlone.date in TestingIntervals
-  return TestingIntervals
-
-define "Cytology Testing Intervals":
-  "Negative Cytology in 10-Year Interval" input
-  return Interval[input.date + 3 years, input.date + 3 years + 6 months]
+  "All Negative Surveillance After 55" SurveillanceTest
+    where SurveillanceTest.date in day of "Surveillance Screening 10-Year Interval"
 
 define "Cotests":
   from SortedHpvReports HrHPVCotest, SortedCytologyReports CytologyCotest
   where HrHPVCotest.date in Interval[CytologyCotest.date - 1 day, CytologyCotest.date + 1 day]
 
-define "First Cytology Date After 55":
-  First("All Negative Cytology Alone After 55").date
-
 define "First Surveillance Date After 55":
   First("All Negative Surveillance After 55").date
-
-define "Cytology Screening 10-Year Interval":
-  Interval["First Cytology Date After 55", "First Cytology Date After 55" + 10 years]
 
 define "Surveillance Screening 10-Year Interval":
   Interval["First Surveillance Date After 55", "First Surveillance Date After 55" + 10 years]
@@ -97,15 +83,17 @@ define "Absence of Cervix":
     [Procedure: "Removal of Cervix Procedures CPT"]
   )
 
-//The CQL below is required for the extended lookback period of this measure.
-//As part of refactoring the CQL libraries for better use in both eCQMs and CDS,
-//the lookback period will not have to be customized as below.
+//The CQL below is required for the extended lookback period of this measure. They
+//are a nearly direct copy of several CDS Library definitions, modified with a
+//longer lookback period. 
+//As part of future plans to refactor the CQL libraries for better use in both
+// eCQMs and CDS, the lookback period will eventually not have to be customized as below.
 
 define HpvReports:
   Common.CompletedDiagnosticReport(
     Common.LookBack(
       [DiagnosticReport: Dash."HPV Test"],
-      22 years
+      24 years
     )
   )
 
@@ -113,7 +101,7 @@ define CervicalCytologyReports:
   Common.CompletedDiagnosticReport(
     Common.LookBack(
       [DiagnosticReport: Dash."Pap Test"],
-      22 years
+      24 years
     )
   )
 

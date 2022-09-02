@@ -1,0 +1,17 @@
+{
+    "resourceType": "Procedure",
+    "status": "completed",
+    "code": {
+      "coding": [
+        {
+          "system": "http://snomed.info/sct",
+          "code": "120038005",
+          "display": "Cervix excision (procedure)"
+        }
+      ]
+    },
+    "subject": {
+      "reference": "Patient/numer-2"
+    },
+    "performedDateTime": "2021-09-12"
+  }
